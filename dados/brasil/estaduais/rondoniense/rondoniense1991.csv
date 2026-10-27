@@ -1,0 +1,75 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,18/08/91,Flamengo-RO,1-1,Rio Branco-RO
+1T,18/08/91,Pinheiros-RO,0-1,Vilhenense
+1T,18/08/91,União Cacoalense,0-2,Colorado-RO
+1T,18/08/91,Operário-RO,1-1,Ji-Paraná
+1T,25/08/91,Rio Branco-RO,3-0,União Cacoalense
+1T,25/08/91,Operário-RO,1-1,Flamengo-RO
+1T,25/08/91,Ferroviário-RO,5-0,Colorado-RO
+1T,28/08/91,Vilhenense,0-0,Flamengo-RO
+1T,28/08/91,Colorado-RO,1-1,Pinheiros-RO
+1T,01/09/91,Ji-Paraná,0-0,Flamengo-RO
+1T,01/09/91,Operário-RO,1-1,Ferroviário-RO
+1T,01/09/91,Vilhenense,1-1,Rio Branco-RO
+1T,01/09/91,União Cacoalense,1-1,Pinheiros-RO
+1T,04/09/91,Vilhenense,0-0,Ferroviário-RO
+1T,04/09/91,Colorado-RO,1-1,Operário-RO
+1T,04/09/91,Flamengo-RO,3-0,União Cacoalense
+1T,08/09/91,Flamengo-RO,1-1,Colorado-RO
+1T,08/09/91,Operário-RO,1-2,Rio Branco-RO
+1T,08/09/91,Pinheiros-RO,0-0,Ji-Paraná
+1T,08/09/91,União Cacoalense,1-1,Vilhenense
+1T,11/09/91,Ferroviário-RO,1-0,Ji-Paraná
+1T,15/09/91,Pinheiros-RO,0-1,Flamengo-RO
+1T,15/09/91,Rio Branco-RO,4-0,Ji-Paraná
+1T,15/09/91,Colorado-RO,1-0,Vilhenense
+1T,15/09/91,União Cacoalense,1-2,Operário-RO
+1T,18/09/91,Ferroviário-RO,2-1,Pinheiros-RO
+1T,18/09/91,Colorado-RO,1-3,Ji-Paraná
+1T,22/09/91,Pinheiros-RO,3-2,Operário-RO
+1T,22/09/91,Ji-Paraná,2-0,União Cacoalense
+1T,22/09/91,Rio Branco-RO,1-1,Ferroviário-RO
+1T,25/09/91,Ferroviário-RO,7-1,União Cacoalense
+1T,25/09/91,Colorado-RO,1-1,Rio Branco-RO
+1T,29/09/91,Ji-Paraná,0-0,Vilhenense
+1T,29/09/91,Rio Branco-RO,3-0,Pinheiros-RO
+1T,29/09/91,Ferroviário-RO,0-2,Flamengo-RO
+2T,03/10/91,Flamengo-RO,1-0,Pinheiros-RO
+1T,11/10/91,Vilhenense,0-2,Operário-RO
+2T,13/10/91,União Cacoalense,0-0,Rio Branco-RO
+2T,13/10/91,Operário-RO,2-1,Colorado-RO
+2T,13/10/91,Ji-Paraná,1-0,Ferroviário-RO
+2T,20/10/91,Ferroviário-RO,4-0,Operário-RO
+2T,20/10/91,Rio Branco-RO,0-0,Flamengo-RO
+2T,20/10/91,Pinheiros-RO,4-0,Colorado-RO
+2T,20/10/91,Vilhenense,1-2,União Cacoalense
+2T,23/10/91,Flamengo-RO,1-2,Operário-RO
+2T,23/10/91,Vilhenense,1-1,Ji-Paraná
+2T,27/10/91,Rio Branco-RO,1-1,Operário-RO
+2T,27/10/91,Pinheiros-RO,0-0,União Cacoalense
+2T,27/10/91,Ji-Paraná,1-0,Colorado-RO
+2T,30/10/91,Colorado-RO,0-3,Ferroviário-RO
+2T,03/11/91,Flamengo-RO,0-0,Vilhenense
+2T,03/11/91,Ji-Paraná,0-0,Rio Branco-RO
+2T,03/11/91,Operário-RO,1-0,Pinheiros-RO
+2T,06/11/91,Colorado-RO,2-1,União Cacoalense
+2T,06/11/91,Ferroviário-RO,0-0,Vilhenense
+2T,10/11/91,União Cacoalense,0-1,Flamengo-RO
+2T,10/11/91,Ji-Paraná,2-0,Operário-RO
+2T,10/11/91,Rio Branco-RO,2-1,Vilhenense
+2T,10/11/91,Pinheiros-RO,0-0,Ferroviário-RO
+2T,13/11/91,Flamengo-RO,3-0,Colorado-RO
+2T,17/11/91,Ji-Paraná,2-0,Flamengo-RO
+2T,17/11/91,Pinheiros-RO,2-1,Rio Branco-RO
+2T,17/11/91,União Cacoalense,2-4,Ferroviário-RO
+2T,20/11/91,Vilhenense,1-1,Pinheiros-RO
+2T,24/11/91,Operário-RO,0-0,Vilhenense
+2T,24/11/91,Ferroviário-RO,1-0,Flamengo-RO
+2T,24/11/91,União Cacoalense,0-1,Ji-Paraná
+2T,24/11/91,Rio Branco-RO,2-0,Colorado-RO
+2T,01/12/91,Operário-RO,0-0,União Cacoalense
+2T,01/12/91,Ferroviário-RO,1-1,Rio Branco-RO
+2T,01/12/91,Ji-Paraná,0-0,Pinheiros-RO
+2T,01/12/91,Vilhenense,3-0,Colorado-RO
+F,08/12/91,Ji-Paraná,1-0,Ferroviário-RO
+F,15/12/91,Ferroviário-RO,2-2,Ji-Paraná

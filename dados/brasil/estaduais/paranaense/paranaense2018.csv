@@ -1,0 +1,75 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,17/01/18,União Beltrão,2-1,Paraná
+B,20/01/18,Atlético Paranaense,2-1,Maringá
+B,21/01/18,Foz do Iguaçu,2-2,Londrina
+B,21/01/18,Coritiba,1-1,Prudentópolis
+B,21/01/18,Cianorte,3-3,Rio Branco-PR
+B,21/01/18,Toledo,1-0,FC Cascavel
+B,24/01/18,FC Cascavel,2-0,Prudentópolis
+B,24/01/18,Cianorte,2-0,União Beltrão
+B,24/01/18,Paraná,0-3,Atlético Paranaense
+B,24/01/18,Foz do Iguaçu,1-1,Toledo
+B,24/01/18,Londrina,2-0,Maringá
+B,25/01/18,Coritiba,1-1,Rio Branco-PR
+B,27/01/18,Atlético Paranaense,0-0,Cianorte
+B,28/01/18,Rio Branco-PR,2-2,FC Cascavel
+B,28/01/18,Maringá,3-1,Toledo
+B,28/01/18,Paraná,1-1,Londrina
+B,28/01/18,União Beltrão,0-1,Coritiba
+B,28/01/18,Prudentópolis,0-1,Foz do Iguaçu
+B,04/02/18,Rio Branco-PR,0-1,Foz do Iguaçu
+B,04/02/18,Toledo,0-0,Paraná
+B,04/02/18,Coritiba,0-1,Atlético Paranaense
+B,04/02/18,Londrina,1-1,Cianorte
+B,04/02/18,União Beltrão,0-2,FC Cascavel
+B,04/02/18,Prudentópolis,0-0,Maringá
+B,10/02/18,Londrina,0-3,Coritiba
+B,10/02/18,FC Cascavel,0-1,Atlético Paranaense
+B,10/02/18,Paraná,3-0,Prudentópolis
+B,10/02/18,Cianorte,1-0,Toledo
+B,10/02/18,Foz do Iguaçu,1-0,União Beltrão
+B,10/02/18,Maringá,1-1,Rio Branco-PR
+B,14/02/18,Toledo,0-2,Coritiba
+B,14/02/18,Prudentópolis,1-1,Cianorte
+B,14/02/18,FC Cascavel,2-1,Londrina
+B,14/02/18,Atlético Paranaense,0-0,Foz do Iguaçu
+B,14/02/18,Maringá,1-0,União Beltrão
+B,14/02/18,Rio Branco-PR,2-0,Paraná
+SF,18/02/18,Foz do Iguaçu,1-1(2-4 Pen.),Coritiba
+SF,18/02/18,Atlético Paranaense,0-0(5-6 Pen.),Rio Branco-PR
+F,25/02/18,Coritiba,3-0,Rio Branco-PR
+B,03/03/18,Atlético Paranaense,1-0,União Beltrão
+A,04/03/18,Cianorte,2-2,Paraná
+A,04/03/18,Foz do Iguaçu,2-0,FC Cascavel
+A,04/03/18,Coritiba,0-3,Maringá
+B,04/03/18,Londrina,1-1,Prudentópolis
+B,04/03/18,Rio Branco-PR,2-4,Toledo
+B,07/03/18,União Beltrão,4-0,Rio Branco-PR
+A,07/03/18,Maringá,2-0,Foz do Iguaçu
+A,07/03/18,FC Cascavel,0-2,Cianorte
+B,07/03/18,Prudentópolis,1-2,Atlético Paranaense
+B,07/03/18,Toledo,1-0,Londrina
+A,07/03/18,Paraná,2-0,Coritiba
+B,10/03/18,Atlético Paranaense,7-1,Rio Branco-PR
+A,10/03/18,Paraná,2-1,FC Cascavel
+A,11/03/18,Cianorte,2-0,Maringá
+B,11/03/18,Londrina,2-0,União Beltrão
+B,11/03/18,Prudentópolis,0-0,Toledo
+A,11/03/18,Coritiba,1-3,Foz do Iguaçu
+A,17/03/18,Coritiba,1-0,Cianorte
+A,18/03/18,Foz do Iguaçu,0-2,Paraná
+A,18/03/18,Maringá,3-1,FC Cascavel
+B,18/03/18,Rio Branco-PR,3-1,Prudentópolis
+B,18/03/18,União Beltrão,2-0,Toledo
+B,18/03/18,Atlético Paranaense,0-0,Londrina
+A,21/03/18,Paraná,1-0,Maringá
+A,21/03/18,FC Cascavel,2-1,Coritiba
+A,21/03/18,Cianorte,1-4,Foz do Iguaçu
+B,21/03/18,Prudentópolis,3-1,União Beltrão
+B,21/03/18,Toledo,1-1,Atlético Paranaense
+B,21/03/18,Londrina,4-1,Rio Branco-PR
+SF,25/03/18,Paraná,1-1(2-4 Pen.),Londrina
+SF,25/03/18,Atlético Paranaense,5-0,Maringá
+F,28/03/18,Atlético Paranaense,1-0,Londrina
+F,01/04/18,Coritiba,1-0,Atlético Paranaense
+F,08/04/18,Atlético Paranaense,2-0,Coritiba

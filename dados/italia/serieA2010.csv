@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,28/08/10,Udinese,0-1,Genoa
+1,28/08/10,Roma,0-0,AC Cesena
+1,29/08/10,AS Bari,1-0,Juventus
+1,29/08/10,Chievo Verona,2-1,Catania
+1,29/08/10,AC Milan,4-0,Lecce
+1,29/08/10,Parma,2-0,Brescia
+1,29/08/10,Sampdoria,2-0,Lazio
+1,29/08/10,Palermo,0-0,Cagliari
+1,29/08/10,Fiorentina,1-1,Napoli
+1,30/08/10,Bologna,0-0,Internazionale
+2,11/09/10,Internazionale,2-1,Udinese
+2,11/09/10,Cagliari,5-1,Roma
+2,11/09/10,AC Cesena,2-0,AC Milan
+2,12/09/10,Brescia,3-2,Palermo
+2,12/09/10,Catania,2-1,Parma
+2,12/09/10,Genoa,1-3,Chievo Verona
+2,12/09/10,Juventus,3-3,Sampdoria
+2,12/09/10,Lazio,3-1,Bologna
+2,12/09/10,Lecce,1-0,Fiorentina
+2,12/09/10,Napoli,2-2,AS Bari
+3,18/09/10,Fiorentina,1-2,Lazio
+3,18/09/10,AC Milan,1-1,Catania
+3,19/09/10,AS Bari,0-0,Cagliari
+3,19/09/10,AC Cesena,1-0,Lecce
+3,19/09/10,Chievo Verona,0-1,Brescia
+3,19/09/10,Palermo,1-2,Internazionale
+3,19/09/10,Parma,1-1,Genoa
+3,19/09/10,Roma,2-2,Bologna
+3,19/09/10,Udinese,0-4,Juventus
+3,19/09/10,Sampdoria,1-2,Napoli
+4,22/09/10,Bologna,2-1,Udinese
+4,22/09/10,Brescia,2-1,Roma
+4,22/09/10,Cagliari,0-0,Sampdoria
+4,22/09/10,Catania,2-0,AC Cesena
+4,22/09/10,Genoa,1-1,Fiorentina
+4,22/09/10,Internazionale,4-0,AS Bari
+4,22/09/10,Lazio,1-1,AC Milan
+4,22/09/10,Lecce,1-1,Parma
+4,22/09/10,Napoli,1-3,Chievo Verona
+4,23/09/10,Juventus,1-3,Palermo
+5,25/09/10,AC Milan,1-0,Genoa
+5,25/09/10,Roma,1-0,Internazionale
+5,26/09/10,AC Cesena,1-4,Napoli
+5,26/09/10,AS Bari,2-1,Brescia
+5,26/09/10,Catania,1-1,Bologna
+5,26/09/10,Chievo Verona,0-1,Lazio
+5,26/09/10,Fiorentina,2-0,Parma
+5,26/09/10,Palermo,2-2,Lecce
+5,26/09/10,Sampdoria,0-0,Udinese
+5,26/09/10,Juventus,4-2,Cagliari
+6,02/10/10,Udinese,1-0,AC Cesena
+6,02/10/10,Parma,0-1,AC Milan
+6,03/10/10,Lecce,1-0,Catania
+6,03/10/10,Bologna,1-1,Sampdoria
+6,03/10/10,Chievo Verona,0-0,Cagliari
+6,03/10/10,Fiorentina,1-2,Palermo
+6,03/10/10,Genoa,2-1,AS Bari
+6,03/10/10,Lazio,1-0,Brescia
+6,03/10/10,Napoli,2-0,Roma
+6,03/10/10,Internazionale,0-0,Juventus
+7,16/10/10,AC Milan,3-1,Chievo Verona
+7,16/10/10,Roma,2-1,Genoa
+7,17/10/10,Cagliari,0-1,Internazionale
+7,17/10/10,Brescia,0-1,Udinese
+7,17/10/10,Catania,1-1,Napoli
+7,17/10/10,AC Cesena,1-1,Parma
+7,17/10/10,Juventus,4-0,Lecce
+7,17/10/10,Palermo,4-1,Bologna
+7,17/10/10,Sampdoria,2-1,Fiorentina
+7,17/10/10,AS Bari,0-2,Lazio
+8,23/10/10,Fiorentina,2-1,AS Bari
+8,24/10/10,Parma,0-0,Roma
+8,24/10/10,Bologna,0-0,Juventus
+8,24/10/10,Chievo Verona,2-1,AC Cesena
+8,24/10/10,Genoa,1-0,Catania
+8,24/10/10,Lazio,2-1,Cagliari
+8,24/10/10,Lecce,2-1,Brescia
+8,24/10/10,Udinese,2-1,Palermo
+8,24/10/10,Internazionale,1-1,Sampdoria
+8,25/10/10,Napoli,1-2,AC Milan
+9,29/10/10,Genoa,0-1,Internazionale
+9,30/10/10,Roma,2-0,Lecce
+9,30/10/10,AC Milan,1-2,Juventus
+9,31/10/10,Palermo,0-1,Lazio
+9,31/10/10,AS Bari,0-2,Udinese
+9,31/10/10,Brescia,0-1,Napoli
+9,31/10/10,Cagliari,2-0,Bologna
+9,31/10/10,AC Cesena,0-1,Sampdoria
+9,31/10/10,Parma,0-0,Chievo Verona
+9,31/10/10,Catania,0-0,Fiorentina
+10,06/11/10,Bologna,2-0,Lecce
+10,06/11/10,Internazionale,1-1,Brescia
+10,07/11/10,Fiorentina,1-0,Chievo Verona
+10,07/11/10,AS Bari,2-3,AC Milan
+10,07/11/10,Juventus,3-1,AC Cesena
+10,07/11/10,Lazio,0-2,Roma
+10,07/11/10,Napoli,2-0,Parma
+10,07/11/10,Sampdoria,0-0,Catania
+10,07/11/10,Udinese,1-1,Cagliari
+10,07/11/10,Palermo,1-0,Genoa
+11,10/11/10,Brescia,1-1,Juventus
+11,10/11/10,Cagliari,0-1,Napoli
+11,10/11/10,Catania,1-0,Udinese
+11,10/11/10,AC Cesena,1-0,Lazio
+11,10/11/10,Chievo Verona,0-0,AS Bari
+11,10/11/10,Genoa,1-0,Bologna
+11,10/11/10,Lecce,1-1,Internazionale
+11,10/11/10,AC Milan,3-1,Palermo
+11,10/11/10,Roma,3-2,Fiorentina
+11,11/11/10,Parma,1-0,Sampdoria
+12,13/11/10,Fiorentina,1-0,AC Cesena
+12,13/11/10,Juventus,1-1,Roma
+12,14/11/10,Lazio,2-0,Napoli
+12,14/11/10,AS Bari,0-1,Parma
+12,14/11/10,Bologna,1-0,Brescia
+12,14/11/10,Cagliari,0-1,Genoa
+12,14/11/10,Palermo,3-1,Catania
+12,14/11/10,Sampdoria,0-0,Chievo Verona
+12,14/11/10,Udinese,4-0,Lecce
+12,14/11/10,Internazionale,0-1,AC Milan
+13,20/11/10,Roma,2-0,Udinese
+13,20/11/10,AC Milan,1-0,Fiorentina
+13,21/11/10,Genoa,0-2,Juventus
+13,21/11/10,Brescia,1-2,Cagliari
+13,21/11/10,Catania,1-0,AS Bari
+13,21/11/10,AC Cesena,1-2,Palermo
+13,21/11/10,Chievo Verona,2-1,Internazionale
+13,21/11/10,Lecce,2-3,Sampdoria
+13,21/11/10,Parma,1-1,Lazio
+13,21/11/10,Napoli,4-1,Bologna
+14,27/11/10,Sampdoria,1-1,AC Milan
+14,27/11/10,Juventus,1-1,Fiorentina
+14,28/11/10,Internazionale,5-2,Parma
+14,28/11/10,AS Bari,1-1,AC Cesena
+14,28/11/10,Brescia,0-0,Genoa
+14,28/11/10,Cagliari,3-2,Lecce
+14,28/11/10,Lazio,1-1,Catania
+14,28/11/10,Udinese,3-1,Napoli
+14,28/11/10,Palermo,3-1,Roma
+15,03/12/10,Lazio,3-1,Internazionale
+15,04/12/10,Chievo Verona,2-2,Roma
+15,04/12/10,AC Milan,3-0,Brescia
+15,05/12/10,AC Cesena,0-2,Bologna
+15,05/12/10,Fiorentina,1-0,Cagliari
+15,05/12/10,Lecce,1-3,Genoa
+15,05/12/10,Parma,2-1,Udinese
+15,05/12/10,Sampdoria,3-0,AS Bari
+15,05/12/10,Catania,1-3,Juventus
+15,06/12/10,Napoli,1-0,Palermo
+14,08/12/10,Bologna,2-1,Chievo Verona
+16,11/12/10,Palermo,3-1,Parma
+16,11/12/10,Udinese,2-1,Fiorentina
+16,11/12/10,Genoa,0-1,Napoli
+16,12/12/10,Bologna,0-3,AC Milan
+16,12/12/10,Brescia,1-0,Sampdoria
+16,12/12/10,Cagliari,3-0,Catania
+16,12/12/10,Lecce,3-2,Chievo Verona
+16,12/12/10,Roma,1-0,AS Bari
+16,12/12/10,Juventus,2-1,Lazio
+17,18/12/10,AC Cesena,1-0,Cagliari
+17,18/12/10,AC Milan,0-1,Roma
+17,19/12/10,Lazio,3-2,Udinese
+17,19/12/10,AS Bari,1-1,Palermo
+17,19/12/10,Catania,1-0,Brescia
+17,19/12/10,Chievo Verona,1-1,Juventus
+17,19/12/10,Napoli,1-0,Lecce
+17,19/12/10,Parma,0-0,Bologna
+18,06/01/11,Juventus,1-4,Parma
+18,06/01/11,Bologna,1-1,Fiorentina
+18,06/01/11,Brescia,1-2,AC Cesena
+18,06/01/11,Cagliari,0-1,AC Milan
+18,06/01/11,Genoa,0-0,Lazio
+18,06/01/11,Lecce,0-1,AS Bari
+18,06/01/11,Palermo,3-0,Sampdoria
+18,06/01/11,Roma,4-2,Catania
+18,06/01/11,Udinese,2-0,Chievo Verona
+18,06/01/11,Internazionale,3-1,Napoli
+19,09/01/11,Sampdoria,2-1,Roma
+19,09/01/11,AS Bari,0-2,Bologna
+19,09/01/11,Catania,1-2,Internazionale
+19,09/01/11,AC Cesena,0-0,Genoa
+19,09/01/11,Chievo Verona,0-0,Palermo
+19,09/01/11,Fiorentina,3-2,Brescia
+19,09/01/11,Lazio,1-2,Lecce
+19,09/01/11,AC Milan,4-4,Udinese
+19,09/01/11,Parma,1-2,Cagliari
+19,09/01/11,Napoli,3-0,Juventus
+20,15/01/11,Napoli,0-0,Fiorentina
+20,15/01/11,Internazionale,4-1,Bologna
+20,16/01/11,Cagliari,3-1,Palermo
+20,16/01/11,Juventus,2-1,AS Bari
+20,16/01/11,Catania,1-1,Chievo Verona
+20,16/01/11,Brescia,2-0,Parma
+20,16/01/11,AC Cesena,0-1,Roma
+20,16/01/11,Lazio,1-0,Sampdoria
+20,16/01/11,Genoa,2-4,Udinese
+20,16/01/11,Lecce,1-1,AC Milan
+16,19/01/11,Internazionale,3-2,AC Cesena
+21,22/01/11,Palermo,1-0,Brescia
+21,22/01/11,Parma,2-0,Catania
+21,22/01/11,Roma,3-0,Cagliari
+21,23/01/11,Udinese,3-1,Internazionale
+21,23/01/11,Chievo Verona,0-0,Genoa
+21,23/01/11,Sampdoria,0-0,Juventus
+21,23/01/11,Bologna,3-1,Lazio
+21,23/01/11,Fiorentina,1-1,Lecce
+21,23/01/11,AS Bari,0-2,Napoli
+21,23/01/11,AC Milan,2-0,AC Cesena
+22,29/01/11,Lazio,2-0,Fiorentina
+22,29/01/11,Catania,0-2,AC Milan
+22,30/01/11,Brescia,0-3,Chievo Verona
+22,30/01/11,Cagliari,2-1,AS Bari
+22,30/01/11,Lecce,1-1,AC Cesena
+22,30/01/11,Internazionale,3-2,Palermo
+22,30/01/11,Genoa,3-1,Parma
+22,30/01/11,Napoli,4-0,Sampdoria
+22,30/01/11,Juventus,1-2,Udinese
+23,01/02/11,AC Milan,0-0,Lazio
+23,02/02/11,Udinese,1-1,Bologna
+23,02/02/11,Roma,1-1,Brescia
+23,02/02/11,Sampdoria,0-1,Cagliari
+23,02/02/11,AC Cesena,1-1,Catania
+23,02/02/11,Fiorentina,1-0,Genoa
+23,02/02/11,Palermo,2-1,Juventus
+23,02/02/11,Parma,0-1,Lecce
+23,02/02/11,Chievo Verona,2-0,Napoli
+23,03/02/11,AS Bari,0-3,Internazionale
+24,05/02/11,Udinese,2-0,Sampdoria
+24,05/02/11,Cagliari,1-3,Juventus
+24,06/02/11,Bologna,1-0,Catania
+24,06/02/11,Brescia,2-0,AS Bari
+24,06/02/11,Napoli,2-0,AC Cesena
+24,06/02/11,Lazio,1-1,Chievo Verona
+24,06/02/11,Parma,1-1,Fiorentina
+24,06/02/11,Genoa,1-1,AC Milan
+24,06/02/11,Lecce,2-4,Palermo
+24,06/02/11,Internazionale,5-3,Roma
+25,12/02/11,AC Milan,4-0,Parma
+25,12/02/11,Roma,0-2,Napoli
+25,13/02/11,Palermo,2-4,Fiorentina
+25,13/02/11,Sampdoria,3-1,Bologna
+25,13/02/11,Cagliari,4-1,Chievo Verona
+25,13/02/11,AS Bari,0-0,Genoa
+25,13/02/11,Brescia,0-2,Lazio
+25,13/02/11,Catania,3-2,Lecce
+25,13/02/11,AC Cesena,0-3,Udinese
+25,13/02/11,Juventus,1-0,Internazionale
+17,16/02/11,Fiorentina,1-2,Internazionale
+17,16/02/11,Sampdoria,0-1,Genoa
+26,19/02/11,Bologna,1-0,Palermo
+26,19/02/11,Internazionale,1-0,Cagliari
+26,20/02/11,Lecce,2-0,Juventus
+26,20/02/11,Lazio,1-0,AS Bari
+26,20/02/11,Udinese,0-0,Brescia
+26,20/02/11,Parma,2-2,AC Cesena
+26,20/02/11,Chievo Verona,1-2,AC Milan
+26,20/02/11,Genoa,4-3,Roma
+26,20/02/11,Fiorentina,0-0,Sampdoria
+26,20/02/11,Napoli,1-0,Catania
+22,23/02/11,Bologna,0-1,Roma
+27,26/02/11,Juventus,0-2,Bologna
+27,27/02/11,Catania,2-1,Genoa
+27,27/02/11,AC Cesena,1-0,Chievo Verona
+27,27/02/11,AS Bari,1-1,Fiorentina
+27,27/02/11,Cagliari,1-0,Lazio
+27,27/02/11,Brescia,2-2,Lecce
+27,27/02/11,Roma,2-2,Parma
+27,27/02/11,Palermo,0-7,Udinese
+27,27/02/11,Sampdoria,0-2,Internazionale
+27,28/02/11,AC Milan,3-0,Napoli
+28,04/03/11,Lecce,1-2,Roma
+28,05/03/11,Juventus,0-1,AC Milan
+28,06/03/11,Sampdoria,2-3,AC Cesena
+28,06/03/11,Udinese,1-0,AS Bari
+28,06/03/11,Napoli,0-0,Brescia
+28,06/03/11,Bologna,2-2,Cagliari
+28,06/03/11,Fiorentina,3-0,Catania
+28,06/03/11,Internazionale,5-2,Genoa
+28,06/03/11,Chievo Verona,0-0,Parma
+28,06/03/11,Lazio,2-0,Palermo
+29,11/03/11,Brescia,1-1,Internazionale
+29,12/03/11,AC Cesena,2-2,Juventus
+29,13/03/11,AC Milan,1-1,AS Bari
+29,13/03/11,Lecce,0-1,Bologna
+29,13/03/11,Chievo Verona,0-1,Fiorentina
+29,13/03/11,Roma,2-0,Lazio
+29,13/03/11,Genoa,1-0,Palermo
+29,13/03/11,Catania,1-0,Sampdoria
+29,13/03/11,Cagliari,0-4,Udinese
+29,13/03/11,Parma,1-3,Napoli
+30,19/03/11,Lazio,1-0,AC Cesena
+30,19/03/11,Palermo,1-0,AC Milan
+30,20/03/11,Fiorentina,2-2,Roma
+30,20/03/11,Juventus,2-1,Brescia
+30,20/03/11,Udinese,2-0,Catania
+30,20/03/11,AS Bari,1-2,Chievo Verona
+30,20/03/11,Bologna,1-1,Genoa
+30,20/03/11,Internazionale,1-0,Lecce
+30,20/03/11,Sampdoria,0-1,Parma
+30,20/03/11,Napoli,2-1,Cagliari
+31,02/04/11,Brescia,3-1,Bologna
+31,02/04/11,AC Milan,3-0,Internazionale
+31,03/04/11,Napoli,4-3,Lazio
+31,03/04/11,Parma,1-2,AS Bari
+31,03/04/11,Genoa,0-1,Cagliari
+31,03/04/11,AC Cesena,2-2,Fiorentina
+31,03/04/11,Catania,4-0,Palermo
+31,03/04/11,Chievo Verona,0-0,Sampdoria
+31,03/04/11,Lecce,2-0,Udinese
+31,03/04/11,Roma,0-2,Juventus
+32,09/04/11,Internazionale,2-0,Chievo Verona
+32,09/04/11,Udinese,1-2,Roma
+32,10/04/11,Juventus,3-2,Genoa
+32,10/04/11,Cagliari,1-1,Brescia
+32,10/04/11,AS Bari,1-1,Catania
+32,10/04/11,Palermo,2-2,AC Cesena
+32,10/04/11,Sampdoria,1-2,Lecce
+32,10/04/11,Bologna,0-2,Napoli
+32,10/04/11,Lazio,2-0,Parma
+32,10/04/11,Fiorentina,1-2,AC Milan
+33,16/04/11,Roma,2-3,Palermo
+33,16/04/11,Parma,2-0,Internazionale
+33,16/04/11,AC Milan,3-0,Sampdoria
+33,17/04/11,AC Cesena,1-0,AS Bari
+33,17/04/11,Chievo Verona,2-0,Bologna
+33,17/04/11,Genoa,3-0,Brescia
+33,17/04/11,Lecce,3-3,Cagliari
+33,17/04/11,Fiorentina,0-0,Juventus
+33,17/04/11,Catania,1-4,Lazio
+33,17/04/11,Napoli,1-2,Udinese
+34,23/04/11,Roma,1-0,Chievo Verona
+34,23/04/11,Bologna,0-2,AC Cesena
+34,23/04/11,Cagliari,1-2,Fiorentina
+34,23/04/11,Internazionale,2-1,Lazio
+34,23/04/11,Genoa,4-2,Lecce
+34,23/04/11,Palermo,2-1,Napoli
+34,23/04/11,Udinese,0-2,Parma
+34,23/04/11,AS Bari,0-1,Sampdoria
+34,23/04/11,Brescia,0-1,AC Milan
+34,23/04/11,Juventus,2-2,Catania
+35,30/04/11,AC Cesena,1-2,Internazionale
+35,30/04/11,Napoli,1-0,Genoa
+35,01/05/11,AC Milan,1-0,Bologna
+35,01/05/11,Sampdoria,3-3,Brescia
+35,01/05/11,Catania,2-0,Cagliari
+35,01/05/11,Chievo Verona,1-0,Lecce
+35,01/05/11,Parma,3-1,Palermo
+35,01/05/11,Fiorentina,5-2,Udinese
+35,01/05/11,AS Bari,2-3,Roma
+35,02/05/11,Lazio,0-1,Juventus
+36,07/05/11,Palermo,2-1,AS Bari
+36,07/05/11,Roma,0-0,AC Milan
+36,08/05/11,Brescia,1-2,Catania
+36,08/05/11,Cagliari,0-2,AC Cesena
+36,08/05/11,Internazionale,3-1,Fiorentina
+36,08/05/11,Udinese,2-1,Lazio
+36,08/05/11,Lecce,2-1,Napoli
+36,08/05/11,Bologna,0-0,Parma
+36,08/05/11,Genoa,2-1,Sampdoria
+36,09/05/11,Juventus,2-2,Chievo Verona
+37,14/05/11,Lazio,4-2,Genoa
+37,14/05/11,AC Milan,4-1,Cagliari
+37,15/05/11,Fiorentina,1-1,Bologna
+37,15/05/11,AC Cesena,1-0,Brescia
+37,15/05/11,Parma,1-0,Juventus
+37,15/05/11,AS Bari,0-2,Lecce
+37,15/05/11,Sampdoria,1-2,Palermo
+37,15/05/11,Catania,2-1,Roma
+37,15/05/11,Chievo Verona,0-2,Udinese
+37,15/05/11,Napoli,1-1,Internazionale
+38,22/05/11,Bologna,0-4,AS Bari
+38,22/05/11,Internazionale,3-1,Catania
+38,22/05/11,Genoa,3-2,AC Cesena
+38,22/05/11,Palermo,1-3,Chievo Verona
+38,22/05/11,Brescia,2-2,Fiorentina
+38,22/05/11,Cagliari,1-1,Parma
+38,22/05/11,Lecce,2-4,Lazio
+38,22/05/11,Udinese,0-0,AC Milan
+38,22/05/11,Juventus,2-2,Napoli
+38,22/05/11,Roma,3-1,Sampdoria

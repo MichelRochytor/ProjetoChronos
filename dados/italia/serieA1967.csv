@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,24/09/67,Brescia,2-1,Cagliari
+1,24/09/67,Fiorentina,3-1,Varese
+1,24/09/67,Internazionale,1-1,Roma
+1,24/09/67,Juventus,3-1,AC Mantova
+1,24/09/67,Lanerossi Vicenza,1-0,Torino
+1,24/09/67,Napoli,1-0,Atalanta
+1,24/09/67,Sampdoria,1-2,Bologna
+1,24/09/67,SPAL,1-4,AC Milan
+2,01/10/67,Atalanta,0-0,Juventus
+2,01/10/67,Bologna,2-1,Cagliari
+2,01/10/67,Lanerossi Vicenza,1-0,SPAL
+2,01/10/67,AC Mantova,0-0,Internazionale
+2,01/10/67,AC Milan,0-0,Fiorentina
+2,01/10/67,Roma,2-1,Napoli
+2,01/10/67,Torino,2-0,Brescia
+2,01/10/67,Varese,1-0,Sampdoria
+3,08/10/67,Brescia,0-0,Bologna
+3,08/10/67,Cagliari,2-1,Atalanta
+3,08/10/67,Fiorentina,1-1,Torino
+3,08/10/67,Internazionale,1-0,Lanerossi Vicenza
+3,08/10/67,Juventus,3-0,Varese
+3,08/10/67,Napoli,1-1,AC Milan
+3,08/10/67,Sampdoria,3-0,AC Mantova
+3,08/10/67,SPAL,0-1,Roma
+4,15/10/67,Atalanta,3-1,Internazionale
+4,15/10/67,Bologna,0-0,Juventus
+4,15/10/67,Brescia,0-1,SPAL
+4,15/10/67,Cagliari,1-1,Napoli
+4,15/10/67,AC Milan,3-1,AC Mantova
+4,15/10/67,Roma,2-1,Fiorentina
+4,15/10/67,Torino,4-2,Sampdoria
+4,15/10/67,Varese,2-0,Lanerossi Vicenza
+5,22/10/67,Atalanta,4-0,Varese
+5,22/10/67,Fiorentina,1-0,Cagliari
+5,22/10/67,Internazionale,1-1,AC Milan
+5,22/10/67,Juventus,0-4,Torino
+5,22/10/67,Lanerossi Vicenza,1-1,Bologna
+5,22/10/67,AC Mantova,1-0,Brescia
+5,22/10/67,Sampdoria,1-1,Roma
+5,22/10/67,SPAL,1-2,Napoli
+6,29/10/67,Bologna,0-1,Fiorentina
+6,29/10/67,Brescia,1-2,Sampdoria
+6,29/10/67,AC Mantova,0-1,Cagliari
+6,29/10/67,AC Milan,0-0,Juventus
+6,29/10/67,Napoli,1-1,Lanerossi Vicenza
+6,29/10/67,Roma,1-1,Atalanta
+6,29/10/67,Torino,1-0,SPAL
+6,29/10/67,Varese,1-0,Internazionale
+7,05/11/67,Atalanta,1-1,Torino
+7,05/11/67,Cagliari,2-2,AC Milan
+7,05/11/67,Fiorentina,0-1,Brescia
+7,05/11/67,Internazionale,1-0,Bologna
+7,05/11/67,Juventus,0-1,Roma
+7,05/11/67,Lanerossi Vicenza,2-0,AC Mantova
+7,05/11/67,Sampdoria,1-1,Napoli
+7,05/11/67,SPAL,1-3,Varese
+8,12/11/67,Bologna,2-3,SPAL
+8,12/11/67,Brescia,2-0,Internazionale
+8,12/11/67,Cagliari,2-0,Juventus
+8,12/11/67,AC Mantova,1-0,Atalanta
+8,12/11/67,AC Milan,2-0,Sampdoria
+8,12/11/67,Napoli,1-0,Fiorentina
+8,12/11/67,Roma,0-0,Lanerossi Vicenza
+8,12/11/67,Torino,0-0,Varese
+9,26/11/67,Atalanta,1-3,Brescia
+9,26/11/67,Bologna,1-2,Napoli
+9,26/11/67,Internazionale,2-0,SPAL
+9,26/11/67,Juventus,2-2,Fiorentina
+9,26/11/67,Lanerossi Vicenza,2-2,AC Milan
+9,26/11/67,AC Mantova,0-0,Torino
+9,26/11/67,Sampdoria,1-1,Cagliari
+9,26/11/67,Varese,2-0,Roma
+10,03/12/67,Fiorentina,1-1,Internazionale
+10,03/12/67,Lanerossi Vicenza,0-2,Juventus
+10,03/12/67,AC Milan,0-0,Atalanta
+10,03/12/67,Napoli,0-0,AC Mantova
+10,03/12/67,Roma,2-3,Cagliari
+10,03/12/67,SPAL,1-0,Sampdoria
+10,03/12/67,Torino,0-1,Bologna
+10,03/12/67,Varese,0-0,Brescia
+11,09/12/67,Atalanta,1-0,Lanerossi Vicenza
+11,09/12/67,Bologna,1-0,Varese
+11,09/12/67,Brescia,1-2,AC Milan
+11,09/12/67,Cagliari,2-0,SPAL
+11,09/12/67,Internazionale,1-0,Torino
+11,09/12/67,Juventus,1-1,Napoli
+11,09/12/67,AC Mantova,0-0,Roma
+11,09/12/67,Sampdoria,1-1,Fiorentina
+12,17/12/67,Brescia,0-1,Juventus
+12,17/12/67,Cagliari,1-1,Lanerossi Vicenza
+12,17/12/67,Fiorentina,1-0,Atalanta
+12,17/12/67,Internazionale,2-0,Sampdoria
+12,17/12/67,Roma,0-0,Bologna
+12,17/12/67,SPAL,1-0,AC Mantova
+12,17/12/67,Torino,2-3,AC Milan
+12,17/12/67,Varese,1-0,Napoli
+13,31/12/67,Atalanta,1-0,SPAL
+13,31/12/67,Fiorentina,2-0,AC Mantova
+13,31/12/67,Juventus,3-2,Internazionale
+13,31/12/67,Lanerossi Vicenza,0-0,Sampdoria
+13,31/12/67,AC Milan,4-2,Bologna
+13,31/12/67,Napoli,2-2,Torino
+13,31/12/67,Roma,2-0,Brescia
+13,31/12/67,Varese,2-1,Cagliari
+14,07/01/68,Bologna,5-0,Atalanta
+14,07/01/68,Lanerossi Vicenza,0-1,Brescia
+14,07/01/68,AC Mantova,0-0,Varese
+14,07/01/68,AC Milan,3-0,Roma
+14,07/01/68,Napoli,2-1,Internazionale
+14,07/01/68,Sampdoria,1-1,Juventus
+14,07/01/68,SPAL,1-0,Fiorentina
+14,07/01/68,Torino,2-1,Cagliari
+15,14/01/68,Atalanta,1-0,Sampdoria
+15,14/01/68,Brescia,0-0,Napoli
+15,14/01/68,Fiorentina,3-1,Lanerossi Vicenza
+15,14/01/68,Internazionale,0-2,Cagliari
+15,14/01/68,Juventus,2-0,SPAL
+15,14/01/68,AC Mantova,0-0,Bologna
+15,14/01/68,Roma,0-2,Torino
+15,14/01/68,Varese,2-1,AC Milan
+16,21/01/68,Atalanta,1-0,Napoli
+16,21/01/68,Bologna,0-0,Sampdoria
+16,21/01/68,Cagliari,3-0,Brescia
+16,21/01/68,AC Mantova,0-0,Juventus
+16,21/01/68,AC Milan,3-2,SPAL
+16,21/01/68,Roma,2-6,Internazionale
+16,21/01/68,Torino,1-0,Lanerossi Vicenza
+16,21/01/68,Varese,0-0,Fiorentina
+17,28/01/68,Brescia,0-5,Torino
+17,28/01/68,Cagliari,1-1,Bologna
+17,28/01/68,Fiorentina,0-2,AC Milan
+17,28/01/68,Internazionale,3-0,AC Mantova
+17,28/01/68,Juventus,2-1,Atalanta
+17,28/01/68,Napoli,2-0,Roma
+17,28/01/68,Sampdoria,1-1,Varese
+17,28/01/68,SPAL,3-0,Lanerossi Vicenza
+18,04/02/68,Atalanta,2-1,Cagliari
+18,04/02/68,Bologna,0-3,Brescia
+18,04/02/68,Lanerossi Vicenza,2-1,Internazionale
+18,04/02/68,AC Mantova,0-1,Sampdoria
+18,04/02/68,AC Milan,2-1,Napoli
+18,04/02/68,Roma,1-1,SPAL
+18,04/02/68,Torino,0-2,Fiorentina
+18,04/02/68,Varese,5-0,Juventus
+19,11/02/68,Fiorentina,0-0,Roma
+19,11/02/68,Internazionale,3-0,Atalanta
+19,11/02/68,Juventus,0-0,Bologna
+19,11/02/68,Lanerossi Vicenza,1-0,Varese
+19,11/02/68,AC Mantova,0-1,AC Milan
+19,11/02/68,Napoli,1-0,Cagliari
+19,11/02/68,Sampdoria,1-1,Torino
+19,11/02/68,SPAL,3-1,Brescia
+20,18/02/68,Bologna,2-0,Lanerossi Vicenza
+20,18/02/68,Brescia,0-1,AC Mantova
+20,18/02/68,Cagliari,3-1,Fiorentina
+20,18/02/68,AC Milan,1-1,Internazionale
+20,18/02/68,Napoli,1-0,SPAL
+20,18/02/68,Roma,1-1,Sampdoria
+20,18/02/68,Torino,2-1,Juventus
+20,18/02/68,Varese,2-0,Atalanta
+21,25/02/68,Atalanta,2-1,Roma
+21,25/02/68,Cagliari,2-2,AC Mantova
+21,25/02/68,Fiorentina,1-0,Bologna
+21,25/02/68,Internazionale,1-0,Varese
+21,25/02/68,Juventus,1-2,AC Milan
+21,25/02/68,Lanerossi Vicenza,0-1,Napoli
+21,25/02/68,Sampdoria,1-0,Brescia
+21,25/02/68,SPAL,0-0,Torino
+23,10/03/68,Atalanta,2-0,AC Mantova
+23,10/03/68,Fiorentina,3-0,Napoli
+23,10/03/68,Internazionale,3-0,Brescia
+23,10/03/68,Juventus,2-0,Cagliari
+23,10/03/68,Lanerossi Vicenza,0-0,Roma
+23,10/03/68,Sampdoria,0-3,AC Milan
+23,10/03/68,SPAL,1-3,Bologna
+23,10/03/68,Varese,0-0,Torino
+24,17/03/68,Brescia,2-1,Atalanta
+24,17/03/68,Cagliari,3-3,Sampdoria
+24,17/03/68,Fiorentina,2-0,Juventus
+24,17/03/68,AC Milan,2-0,Lanerossi Vicenza
+24,17/03/68,Napoli,0-0,Bologna
+24,17/03/68,Roma,1-0,Varese
+24,17/03/68,SPAL,1-2,Internazionale
+24,17/03/68,Torino,4-1,AC Mantova
+25,24/03/68,Atalanta,0-3,AC Milan
+25,24/03/68,Bologna,2-0,Torino
+25,24/03/68,Brescia,0-1,Varese
+25,24/03/68,Cagliari,1-2,Roma
+25,24/03/68,Internazionale,3-1,Fiorentina
+25,24/03/68,Juventus,1-0,Lanerossi Vicenza
+25,24/03/68,AC Mantova,0-1,Napoli
+25,24/03/68,Sampdoria,1-0,SPAL
+26,31/03/68,Fiorentina,0-0,Sampdoria
+26,31/03/68,Lanerossi Vicenza,4-1,Atalanta
+26,31/03/68,AC Milan,1-0,Brescia
+26,31/03/68,Napoli,1-2,Juventus
+26,31/03/68,Roma,2-2,AC Mantova
+26,31/03/68,SPAL,1-0,Cagliari
+26,31/03/68,Torino,2-3,Internazionale
+26,31/03/68,Varese,0-0,Bologna
+22,03/04/68,Bologna,2-1,Internazionale
+22,03/04/68,Brescia,1-1,Fiorentina
+22,03/04/68,AC Mantova,1-1,Lanerossi Vicenza
+22,03/04/68,AC Milan,0-1,Cagliari
+22,03/04/68,Napoli,1-1,Sampdoria
+22,03/04/68,Roma,0-0,Juventus
+22,03/04/68,Torino,4-1,Atalanta
+22,03/04/68,Varese,2-0,SPAL
+27,14/04/68,Atalanta,0-3,Fiorentina
+27,14/04/68,Bologna,1-0,Roma
+27,14/04/68,Juventus,2-1,Brescia
+27,14/04/68,Lanerossi Vicenza,3-1,Cagliari
+27,14/04/68,AC Mantova,0-1,SPAL
+27,14/04/68,AC Milan,2-1,Torino
+27,14/04/68,Napoli,5-0,Varese
+27,14/04/68,Sampdoria,2-2,Internazionale
+28,28/04/68,Bologna,1-1,AC Milan
+28,28/04/68,Brescia,1-0,Roma
+28,28/04/68,Cagliari,2-1,Varese
+28,28/04/68,Internazionale,0-0,Juventus
+28,28/04/68,AC Mantova,1-2,Fiorentina
+28,28/04/68,Sampdoria,1-0,Lanerossi Vicenza
+28,28/04/68,SPAL,1-0,Atalanta
+28,28/04/68,Torino,1-2,Napoli
+29,05/05/68,Atalanta,1-0,Bologna
+29,05/05/68,Brescia,0-0,Lanerossi Vicenza
+29,05/05/68,Cagliari,2-0,Torino
+29,05/05/68,Fiorentina,2-0,SPAL
+29,05/05/68,Internazionale,1-2,Napoli
+29,05/05/68,Juventus,3-1,Sampdoria
+29,05/05/68,Roma,1-1,AC Milan
+29,05/05/68,Varese,1-1,AC Mantova
+30,12/05/68,Bologna,1-0,AC Mantova
+30,12/05/68,Cagliari,3-2,Internazionale
+30,12/05/68,Lanerossi Vicenza,1-0,Fiorentina
+30,12/05/68,AC Milan,1-0,Varese
+30,12/05/68,Napoli,0-0,Brescia
+30,12/05/68,Sampdoria,0-0,Atalanta
+30,12/05/68,SPAL,0-1,Juventus
+30,12/05/68,Torino,2-1,Roma

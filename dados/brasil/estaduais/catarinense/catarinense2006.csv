@@ -1,0 +1,91 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,11/01/06,Figueirense,1-1,Hermann Aichinger
+A,11/01/06,Juventus Jaraguá,1-0,Avaí
+A,11/01/06,Chapecoense,2-0,Guarani-SC
+B,11/01/06,Marcílio Dias,1-0,Criciúma
+B,11/01/06,Joinville,2-1,Metropolitano
+B,11/01/06,Caxias-SC,1-5,Brusque
+A,14/01/06,Avaí,2-0,Chapecoense
+A,15/01/06,Guarani-SC,0-2,Figueirense
+A,15/01/06,Hermann Aichinger,1-2,Juventus Jaraguá
+B,15/01/06,Brusque,3-1,Marcílio Dias
+B,15/01/06,Metropolitano,3-1,Caxias-SC
+B,15/01/06,Criciúma,3-4,Joinville
+A,18/01/06,Figueirense,2-1,Juventus Jaraguá
+A,18/01/06,Chapecoense,0-0,Hermann Aichinger
+A,18/01/06,Guarani-SC,2-1,Avaí
+B,18/01/06,Marcílio Dias,3-0,Joinville
+B,18/01/06,Caxias-SC,1-2,Criciúma
+B,18/01/06,Brusque,2-1,Metropolitano
+B,21/01/06,Metropolitano,0-0,Marcílio Dias
+A,22/01/06,Avaí,1-2,Figueirense
+A,22/01/06,Hermann Aichinger,3-2,Guarani-SC
+A,22/01/06,Juventus Jaraguá,4-1,Chapecoense
+B,22/01/06,Criciúma,1-2,Brusque
+B,22/01/06,Joinville,4-0,Caxias-SC
+B,25/01/06,Brusque,4-3,Joinville
+A,26/01/06,Chapecoense,1-1,Figueirense
+A,26/01/06,Guarani-SC,2-1,Juventus Jaraguá
+A,26/01/06,Hermann Aichinger,2-2,Avaí
+B,26/01/06,Caxias-SC,0-3,Marcílio Dias
+B,26/01/06,Criciúma,1-3,Metropolitano
+B,28/01/06,Joinville,1-2,Brusque
+A,29/01/06,Figueirense,2-0,Chapecoense
+A,29/01/06,Juventus Jaraguá,3-0,Guarani-SC
+A,29/01/06,Avaí,3-0,Hermann Aichinger
+B,29/01/06,Marcílio Dias,2-1,Caxias-SC
+B,29/01/06,Metropolitano,2-1,Criciúma
+A,01/02/06,Figueirense,2-1,Avaí
+A,01/02/06,Guarani-SC,1-1,Hermann Aichinger
+A,01/02/06,Chapecoense,3-4,Juventus Jaraguá
+B,01/02/06,Marcílio Dias,1-2,Metropolitano
+B,01/02/06,Brusque,1-1,Criciúma
+B,01/02/06,Caxias-SC,1-1,Joinville
+A,04/02/06,Juventus Jaraguá,2-2,Figueirense
+A,05/02/06,Hermann Aichinger,1-1,Chapecoense
+A,05/02/06,Avaí,6-0,Guarani-SC
+B,05/02/06,Joinville,2-0,Marcílio Dias
+B,05/02/06,Criciúma,7-0,Caxias-SC
+B,05/02/06,Metropolitano,2-2,Brusque
+A,08/02/06,Figueirense,4-0,Guarani-SC
+A,08/02/06,Chapecoense,2-4,Avaí
+A,08/02/06,Juventus Jaraguá,4-1,Hermann Aichinger
+B,08/02/06,Marcílio Dias,2-1,Brusque
+B,08/02/06,Caxias-SC,2-2,Metropolitano
+B,08/02/06,Joinville,1-2,Criciúma
+A,11/02/06,Hermann Aichinger,2-1,Figueirense
+A,11/02/06,Avaí,2-0,Juventus Jaraguá
+A,11/02/06,Guarani-SC,2-1,Chapecoense
+B,12/02/06,Criciúma,1-0,Marcílio Dias
+B,12/02/06,Metropolitano,1-1,Joinville
+B,12/02/06,Brusque,5-2,Caxias-SC
+D,18/02/06,Metropolitano,4-2,Brusque
+C,19/02/06,Avaí,3-2,Figueirense
+C,19/02/06,Joinville,3-3,Marcílio Dias
+D,19/02/06,Hermann Aichinger,3-0,Juventus Jaraguá
+C,25/02/06,Figueirense,0-3,Joinville
+C,25/02/06,Marcílio Dias,0-0,Avaí
+D,25/02/06,Brusque,1-1,Hermann Aichinger
+D,25/02/06,Juventus Jaraguá,1-0,Metropolitano
+C,01/03/06,Marcílio Dias,2-2,Figueirense
+C,01/03/06,Avaí,0-0,Joinville
+D,01/03/06,Juventus Jaraguá,1-3,Brusque
+D,01/03/06,Metropolitano,2-1,Hermann Aichinger
+C,04/03/06,Figueirense,5-1,Marcílio Dias
+C,05/03/06,Joinville,2-0,Avaí
+D,05/03/06,Brusque,0-1,Juventus Jaraguá
+D,05/03/06,Hermann Aichinger,1-0,Metropolitano
+D,11/03/06,Metropolitano,1-2,Juventus Jaraguá
+C,12/03/06,Joinville,0-2,Figueirense
+C,12/03/06,Avaí,1-2,Marcílio Dias
+D,12/03/06,Hermann Aichinger,3-2,Brusque
+D,18/03/06,Brusque,2-2,Metropolitano
+D,18/03/06,Juventus Jaraguá,1-1,Hermann Aichinger
+C,19/03/06,Figueirense,4-1,Avaí
+C,19/03/06,Marcílio Dias,1-2,Joinville
+SF,25/03/06,Figueirense,3-1,Hermann Aichinger
+SF,25/03/06,Juventus Jaraguá,0-1,Joinville
+SF,29/03/06,Hermann Aichinger,0-2,Figueirense
+SF,29/03/06,Joinville,3-0,Juventus Jaraguá
+F,02/04/06,Joinville,2-1,Figueirense
+F,09/04/06,Figueirense,3-0,Joinville

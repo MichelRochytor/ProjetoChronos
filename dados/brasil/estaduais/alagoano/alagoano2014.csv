@@ -1,0 +1,91 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,11/01/14,Murici,2-3,ASA
+1,11/01/14,CSE,0-2,Penedense
+1,12/01/14,Santa Rita,2-0,CEO
+1,12/01/14,Comercial-AL,0-2,Coruripe
+2,14/01/14,ASA,3-2,CSE
+2,15/01/14,Penedense,1-0,Comercial-AL
+2,15/01/14,Murici,2-2,Santa Rita
+2,15/01/14,Coruripe,4-0,CEO
+3,18/01/14,Comercial-AL,1-2,ASA
+3,19/01/14,Santa Rita,0-0,Coruripe
+3,19/01/14,CSE,1-2,Murici
+3,19/01/14,CEO,2-0,Penedense
+4,22/01/14,Penedense,3-3,Coruripe
+4,22/01/14,Murici,0-1,Comercial-AL
+4,22/01/14,ASA,0-0,CEO
+4,23/01/14,CSE,1-1,Santa Rita
+5,25/01/14,Coruripe,1-2,ASA
+5,26/01/14,Santa Rita,1-0,Penedense
+5,26/01/14,Comercial-AL,2-3,CSE
+5,26/01/14,CEO,0-1,Murici
+6,29/01/14,Comercial-AL,1-3,Santa Rita
+6,29/01/14,CSE,2-2,CEO
+6,29/01/14,Murici,1-1,Coruripe
+6,29/01/14,ASA,3-0,Penedense
+7,01/02/14,Santa Rita,2-1,ASA
+7,02/02/14,CEO,0-0,Comercial-AL
+7,02/02/14,Penedense,0-0,Murici
+7,02/02/14,Coruripe,1-4,CSE
+SF,05/02/14,Murici,3-1,ASA
+SF,06/02/14,Coruripe,2-1,Santa Rita
+SF,08/02/14,ASA,1-0,Murici
+SF,09/02/14,Santa Rita,3-1,Coruripe
+F,12/02/14,Murici,1-0,Santa Rita
+F,15/02/14,Santa Rita,0-1,Murici
+B,19/02/14,CEO,1-1,Comercial-AL
+B,19/02/14,Penedense,0-1,CSE
+B,19/02/14,Murici,0-2,Santa Rita
+B,19/02/14,CSA,1-1,CRB
+B,19/02/14,Coruripe,0-2,ASA
+B,22/02/14,ASA,3-2,CSA
+B,23/02/14,Comercial-AL,1-3,Coruripe
+B,23/02/14,Santa Rita,1-1,CEO
+B,23/02/14,CRB,3-0,Penedense
+B,23/02/14,CSE,1-0,Murici
+A,08/03/14,Coruripe,1-1,CRB
+A,08/03/14,CSA,7-1,CSE
+A,08/03/14,Murici,1-1,Comercial-AL
+A,09/03/14,Penedense,1-1,Santa Rita
+A,09/03/14,CEO,0-0,ASA
+A,15/03/14,Comercial-AL,0-2,CSA
+A,16/03/14,Santa Rita,0-0,Coruripe
+A,16/03/14,ASA,4-3,Penedense
+A,16/03/14,CSE,4-0,CEO
+A,17/03/14,CRB,2-0,Murici
+A,19/03/14,Penedense,1-1,Comercial-AL
+A,19/03/14,CSA,2-2,Santa Rita
+A,19/03/14,Coruripe,0-1,CSE
+A,20/03/14,CEO,0-3,CRB
+A,20/03/14,Murici,2-1,ASA
+A,22/03/14,Santa Rita,0-0,CSA
+A,23/03/14,Comercial-AL,2-1,Penedense
+A,23/03/14,ASA,0-1,Murici
+A,23/03/14,CSE,1-3,Coruripe
+A,23/03/14,CRB,1-0,CEO
+A,26/03/14,CSA,3-0,Comercial-AL
+A,26/03/14,Murici,0-1,CRB
+A,26/03/14,Coruripe,4-1,Santa Rita
+A,26/03/14,Penedense,2-1,ASA
+A,26/03/14,CEO,1-0,CSE
+A,29/03/14,CSE,2-0,CSA
+A,30/03/14,Comercial-AL,2-2,Murici
+A,30/03/14,Santa Rita,1-2,Penedense
+A,30/03/14,CRB,0-1,Coruripe
+A,30/03/14,ASA,3-2,CEO
+A,05/04/14,Penedense,2-2,CRB
+A,06/04/14,CEO,1-2,Santa Rita
+A,06/04/14,CSA,0-3,ASA
+A,06/04/14,Coruripe,2-1,Comercial-AL
+A,06/04/14,Murici,2-0,CSE
+A,13/04/14,Comercial-AL,0-3,CEO
+A,13/04/14,CSE,4-1,Penedense
+A,13/04/14,Santa Rita,1-4,Murici
+A,13/04/14,CRB,1-0,CSA
+A,13/04/14,ASA,2-1,Coruripe
+SF,16/04/14,ASA,0-2,CRB
+SF,16/04/14,Murici,0-0,Coruripe
+SF,19/04/14,Coruripe,1-0,Murici
+SF,20/04/14,CRB,0-2,ASA
+F,26/04/14,Coruripe,2-1,CRB
+F,30/04/14,CRB,0-0,Coruripe

@@ -1,0 +1,91 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,0000-00-00,Hermann Aichinger,3-1,União Timbó
+A,0000-00-00,Hermann Aichinger,2-1,Guarani-SC
+A,0000-00-00,União Timbó,1-2,Chapecoense
+A,0000-00-00,Guarani-SC,3-0,União Timbó
+A,0000-00-00,Hermann Aichinger,1-1,Figueirense
+B,0000-00-00,Lages,0-0,Criciúma
+A,23/01/05,Avaí,1-2,Hermann Aichinger
+A,23/01/05,União Timbó,1-7,Figueirense
+A,23/01/05,Chapecoense,1-1,Guarani-SC
+B,23/01/05,Joinville,1-1,Metropolitano
+A,26/01/05,Guarani-SC,0-1,Avaí
+A,26/01/05,Figueirense,5-1,Chapecoense
+B,26/01/05,Marcílio Dias,0-0,Criciúma
+B,26/01/05,Lages,3-1,Tubarão FC
+A,29/01/05,Chapecoense,0-1,Hermann Aichinger
+A,30/01/05,Avaí,7-1,União Timbó
+A,30/01/05,Guarani-SC,0-4,Figueirense
+A,30/01/05,Figueirense,1-1,Avaí
+B,30/01/05,Tubarão FC,2-3,Marcílio Dias
+B,30/01/05,Metropolitano,1-1,Lages
+B,30/01/05,Criciúma,2-3,Joinville
+B,02/02/05,Marcílio Dias,2-2,Joinville
+B,02/02/05,Tubarão FC,0-0,Metropolitano
+A,05/02/05,Chapecoense,0-1,Avaí
+B,05/02/05,Metropolitano,0-2,Marcílio Dias
+B,05/02/05,Criciúma,5-3,Tubarão FC
+B,05/02/05,Joinville,3-1,Lages
+A,09/02/05,União Timbó,2-3,Guarani-SC
+A,09/02/05,Figueirense,1-2,Hermann Aichinger
+B,09/02/05,Lages,2-0,Marcílio Dias
+B,09/02/05,Tubarão FC,1-2,Joinville
+B,09/02/05,Criciúma,0-1,Metropolitano
+B,12/02/05,Joinville,1-0,Tubarão FC
+A,13/02/05,Avaí,1-0,Figueirense
+A,13/02/05,Guarani-SC,2-0,Hermann Aichinger
+A,13/02/05,Chapecoense,4-0,União Timbó
+B,13/02/05,Marcílio Dias,1-1,Lages
+B,13/02/05,Metropolitano,1-1,Criciúma
+A,16/02/05,Avaí,2-0,Chapecoense
+B,16/02/05,Marcílio Dias,2-1,Metropolitano
+B,16/02/05,Tubarão FC,2-2,Criciúma
+B,16/02/05,Lages,0-0,Joinville
+A,19/02/05,Hermann Aichinger,2-0,Chapecoense
+B,19/02/05,Joinville,4-1,Marcílio Dias
+A,20/02/05,União Timbó,2-3,Avaí
+A,20/02/05,Figueirense,6-1,Guarani-SC
+B,20/02/05,Criciúma,2-0,Lages
+B,20/02/05,Metropolitano,3-1,Tubarão FC
+A,23/02/05,Avaí,1-0,Guarani-SC
+A,23/02/05,Chapecoense,2-2,Figueirense
+A,23/02/05,União Timbó,3-4,Hermann Aichinger
+B,23/02/05,Marcílio Dias,4-2,Tubarão FC
+B,23/02/05,Lages,1-2,Metropolitano
+B,23/02/05,Joinville,2-0,Criciúma
+A,27/02/05,Hermann Aichinger,4-0,Avaí
+A,27/02/05,Figueirense,1-0,União Timbó
+A,27/02/05,Guarani-SC,5-1,Chapecoense
+B,27/02/05,Criciúma,3-0,Marcílio Dias
+B,27/02/05,Metropolitano,1-0,Joinville
+B,27/02/05,Tubarão FC,4-1,Lages
+D,05/03/05,Guarani-SC,3-2,Avaí
+C,06/03/05,Figueirense,2-2,Hermann Aichinger
+C,06/03/05,Criciúma,2-1,Metropolitano
+D,06/03/05,Marcílio Dias,3-3,Joinville
+C,13/03/05,Hermann Aichinger,3-2,Criciúma
+C,13/03/05,Metropolitano,0-0,Figueirense
+D,13/03/05,Joinville,3-0,Guarani-SC
+D,14/03/05,Avaí,2-1,Marcílio Dias
+D,19/03/05,Avaí,0-0,Joinville
+C,20/03/05,Metropolitano,3-1,Hermann Aichinger
+C,20/03/05,Figueirense,0-1,Criciúma
+D,20/03/05,Marcílio Dias,1-0,Guarani-SC
+C,23/03/05,Hermann Aichinger,2-0,Metropolitano
+C,23/03/05,Criciúma,0-0,Figueirense
+D,23/03/05,Joinville,2-1,Avaí
+D,23/03/05,Guarani-SC,3-1,Marcílio Dias
+C,26/03/05,Criciúma,4-1,Hermann Aichinger
+C,26/03/05,Figueirense,1-0,Metropolitano
+D,26/03/05,Guarani-SC,1-0,Joinville
+D,26/03/05,Marcílio Dias,0-1,Avaí
+C,29/03/05,Hermann Aichinger,2-0,Figueirense
+C,29/03/05,Metropolitano,3-3,Criciúma
+D,29/03/05,Joinville,2-1,Marcílio Dias
+D,29/03/05,Avaí,1-0,Guarani-SC
+SF,31/03/05,Avaí,3-2,Criciúma
+SF,31/03/05,Hermann Aichinger,1-0,Joinville
+SF,02/04/05,Joinville,2-2,Hermann Aichinger
+SF,03/04/05,Criciúma,3-1,Avaí
+F,10/04/05,Criciúma,1-1,Hermann Aichinger
+F,17/04/05,Hermann Aichinger,0-1,Criciúma

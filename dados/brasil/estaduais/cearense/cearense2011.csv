@@ -1,0 +1,141 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,12/01/11,Tiradentes-CE,1-2,Fortaleza
+1F,12/01/11,Crato,1-1,Ferroviário
+1F,13/01/11,Guarany de Sobral,1-1,Quixadá
+1F,13/01/11,Ceará,1-0,Limoeiro
+1F,13/01/11,Horizonte,4-2,Guarani de Juazeiro
+1F,13/01/11,Icasa,0-1,Itapipoca
+1F,15/01/11,Tiradentes-CE,3-2,Crato
+1F,16/01/11,Ferroviário,1-2,Fortaleza
+1F,16/01/11,Guarani de Juazeiro,2-0,Limoeiro
+1F,16/01/11,Itapipoca,1-1,Quixadá
+1F,16/01/11,Guarany de Sobral,0-1,Icasa
+1F,16/01/11,Horizonte,1-2,Ceará
+1F,19/01/11,Ceará,1-1,Guarani de Juazeiro
+1F,19/01/11,Quixadá,1-2,Ferroviário
+1F,19/01/11,Icasa,0-1,Tiradentes-CE
+1F,19/01/11,Limoeiro,1-0,Horizonte
+1F,20/01/11,Fortaleza,3-2,Itapipoca
+1F,20/01/11,Crato,1-1,Guarany de Sobral
+1F,22/01/11,Ferroviário,1-4,Tiradentes-CE
+1F,23/01/11,Ceará,1-0,Quixadá
+1F,23/01/11,Guarani de Juazeiro,2-1,Icasa
+1F,23/01/11,Guarany de Sobral,4-0,Itapipoca
+1F,23/01/11,Horizonte,3-2,Crato
+1F,23/01/11,Limoeiro,2-2,Fortaleza
+1F,26/01/11,Quixadá,2-2,Horizonte
+1F,26/01/11,Itapipoca,3-2,Ferroviário
+1F,26/01/11,Icasa,1-0,Limoeiro
+1F,26/01/11,Fortaleza,2-2,Guarani de Juazeiro
+1F,27/01/11,Crato,0-1,Ceará
+1F,27/01/11,Tiradentes-CE,0-1,Guarany de Sobral
+1F,29/01/11,Limoeiro,3-1,Itapipoca
+1F,30/01/11,Guarani de Juazeiro,0-1,Crato
+1F,30/01/11,Fortaleza,1-2,Ceará
+1F,30/01/11,Horizonte,1-3,Guarany de Sobral
+1F,30/01/11,Quixadá,1-5,Tiradentes-CE
+1F,02/02/11,Itapipoca,1-0,Tiradentes-CE
+1F,02/02/11,Icasa,0-2,Ceará
+1F,02/02/11,Guarany de Sobral,2-1,Ferroviário
+1F,02/02/11,Horizonte,0-0,Fortaleza
+1F,02/02/11,Limoeiro,1-3,Crato
+1F,03/02/11,Guarani de Juazeiro,6-1,Quixadá
+1F,05/02/11,Itapipoca,2-1,Crato
+1F,05/02/11,Fortaleza,2-1,Guarany de Sobral
+1F,06/02/11,Ceará,3-1,Ferroviário
+1F,06/02/11,Quixadá,2-1,Limoeiro
+1F,06/02/11,Icasa,2-0,Horizonte
+1F,06/02/11,Tiradentes-CE,1-2,Guarani de Juazeiro
+1F,09/02/11,Crato,0-0,Icasa
+1F,09/02/11,Itapipoca,1-5,Ceará
+1F,09/02/11,Horizonte,2-1,Tiradentes-CE
+1F,09/02/11,Fortaleza,1-0,Quixadá
+1F,10/02/11,Limoeiro,4-0,Ferroviário
+1F,10/02/11,Guarani de Juazeiro,3-3,Guarany de Sobral
+1F,12/02/11,Itapipoca,0-2,Horizonte
+1F,12/02/11,Icasa,3-0,Quixadá
+1F,13/02/11,Ferroviário,0-1,Guarani de Juazeiro
+1F,13/02/11,Crato,0-5,Fortaleza
+1F,13/02/11,Ceará,2-0,Tiradentes-CE
+1F,17/02/11,Ferroviário,1-0,Icasa
+1F,17/02/11,Guarany de Sobral,1-1,Limoeiro
+1F,20/02/11,Guarany de Sobral,2-2,Ceará
+1F,20/02/11,Ferroviário,2-5,Horizonte
+1F,20/02/11,Tiradentes-CE,5-1,Limoeiro
+1F,20/02/11,Guarani de Juazeiro,2-1,Itapipoca
+1F,20/02/11,Quixadá,3-2,Crato
+1F,20/02/11,Fortaleza,5-1,Icasa
+SF,26/02/11,Fortaleza,2-0,Guarani de Juazeiro
+SF,27/02/11,Ceará,4-0,Horizonte
+F,02/03/11,Ceará,1-0,Fortaleza
+2F,08/03/11,Limoeiro,1-4,Ceará
+2F,09/03/11,Guarani de Juazeiro,1-1,Horizonte
+2F,09/03/11,Fortaleza,3-1,Tiradentes-CE
+2F,10/03/11,Quixadá,1-2,Guarany de Sobral
+2F,10/03/11,Itapipoca,2-1,Icasa
+2F,10/03/11,Ferroviário,2-1,Crato
+2F,12/03/11,Limoeiro,0-1,Guarani de Juazeiro
+2F,12/03/11,Ceará,4-2,Horizonte
+2F,13/03/11,Icasa,2-1,Guarany de Sobral
+2F,13/03/11,Ferroviário,2-1,Quixadá
+2F,13/03/11,Itapipoca,0-4,Fortaleza
+2F,17/03/11,Crato,2-3,Tiradentes-CE
+2F,20/03/11,Fortaleza,0-1,Ferroviário
+2F,20/03/11,Quixadá,3-2,Itapipoca
+2F,20/03/11,Horizonte,1-0,Limoeiro
+2F,20/03/11,Guarani de Juazeiro,1-0,Ceará
+2F,20/03/11,Tiradentes-CE,2-2,Icasa
+2F,20/03/11,Guarany de Sobral,3-1,Crato
+2F,22/03/11,Quixadá,1-2,Ceará
+2F,23/03/11,Tiradentes-CE,2-0,Ferroviário
+2F,23/03/11,Itapipoca,5-2,Guarany de Sobral
+2F,24/03/11,Icasa,0-4,Guarani de Juazeiro
+2F,24/03/11,Fortaleza,4-0,Limoeiro
+2F,24/03/11,Crato,4-3,Horizonte
+2F,26/03/11,Tiradentes-CE,2-0,Quixadá
+2F,27/03/11,Ceará,0-1,Fortaleza
+2F,27/03/11,Icasa,1-1,Ferroviário
+2F,27/03/11,Itapipoca,0-0,Limoeiro
+2F,31/03/11,Guarany de Sobral,1-2,Horizonte
+2F,02/04/11,Ferroviário,0-1,Itapipoca
+2F,02/04/11,Ceará,4-0,Crato
+2F,03/04/11,Horizonte,4-0,Quixadá
+2F,03/04/11,Guarani de Juazeiro,3-1,Fortaleza
+2F,03/04/11,Limoeiro,1-4,Icasa
+2F,03/04/11,Guarany de Sobral,1-0,Tiradentes-CE
+2F,06/04/11,Ceará,4-2,Icasa
+2F,07/04/11,Ferroviário,1-2,Guarany de Sobral
+2F,09/04/11,Quixadá,3-3,Guarani de Juazeiro
+2F,09/04/11,Horizonte,2-2,Icasa
+2F,09/04/11,Guarani de Juazeiro,0-5,Tiradentes-CE
+2F,10/04/11,Crato,4-2,Limoeiro
+2F,10/04/11,Tiradentes-CE,0-1,Itapipoca
+2F,10/04/11,Fortaleza,0-3,Horizonte
+2F,10/04/11,Guarany de Sobral,3-1,Fortaleza
+2F,10/04/11,Ferroviário,0-5,Ceará
+2F,10/04/11,Crato,0-2,Itapipoca
+2F,10/04/11,Limoeiro,1-2,Quixadá
+2F,13/04/11,Tiradentes-CE,0-1,Ceará
+2F,13/04/11,Horizonte,2-1,Itapipoca
+2F,14/04/11,Crato,1-3,Guarani de Juazeiro
+2F,16/04/11,Ferroviário,1-0,Limoeiro
+2F,16/04/11,Tiradentes-CE,6-5,Horizonte
+2F,17/04/11,Icasa,4-3,Crato
+2F,17/04/11,Guarany de Sobral,2-2,Guarani de Juazeiro
+2F,17/04/11,Quixadá,2-3,Fortaleza
+2F,17/04/11,Ceará,1-0,Itapipoca
+2F,20/04/11,Guarani de Juazeiro,3-0,Ferroviário
+2F,24/04/11,Icasa,3-2,Fortaleza
+2F,24/04/11,Horizonte,3-1,Ferroviário
+2F,24/04/11,Ceará,2-3,Guarany de Sobral
+2F,27/04/11,Quixadá,1-0,Icasa
+2F,28/04/11,Fortaleza,0-1,Crato
+2F,28/04/11,Limoeiro,0-0,Guarany de Sobral
+SF,30/04/11,Guarani de Juazeiro,4-0,Horizonte
+2F,01/05/11,Crato,3-1,Quixadá
+2F,01/05/11,Itapipoca,2-0,Guarani de Juazeiro
+2F,01/05/11,Limoeiro,3-3,Tiradentes-CE
+SF,01/05/11,Ceará,1-0,Guarany de Sobral
+F,08/05/11,Ceará,5-0,Guarani de Juazeiro
+F,10/05/11,Horizonte,2-2,Guarani de Juazeiro
+F,14/05/11,Guarani de Juazeiro,4-0,Horizonte

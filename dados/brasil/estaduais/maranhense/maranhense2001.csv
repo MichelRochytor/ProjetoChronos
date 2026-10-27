@@ -1,0 +1,143 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,20/01/01,Tocantins-MA,0-2,Sampaio Corrêa
+B,21/01/01,Viana,4-1,Expressinho
+B,21/01/01,Moto Club,0-0,Santa Inês
+B,21/01/01,Imperatriz,1-0,Bacabal
+B,21/01/01,São Bento-MA,0-0,Lago Verde
+B,21/01/01,Caxiense,1-3,Maranhão
+B,23/01/01,Moto Club,1-0,Lago Verde
+B,24/01/01,Caxiense,6-0,Expressinho
+B,24/01/01,Bacabal,1-1,Santa Inês
+B,24/01/01,São Bento-MA,0-1,Imperatriz
+B,25/01/01,Maranhão,2-0,Lago Verde
+B,27/01/01,Imperatriz,3-4,Moto Club
+B,28/01/01,Lago Verde,4-0,Tocantins-MA
+B,28/01/01,Sampaio Corrêa,5-1,Expressinho
+B,28/01/01,São Bento-MA,1-0,Caxiense
+B,28/01/01,Viana,0-0,Maranhão
+B,31/01/01,Imperatriz,1-0,Expressinho
+B,31/01/01,Bacabal,0-2,Caxiense
+B,31/01/01,Viana,2-0,Tocantins-MA
+B,01/02/01,Sampaio Corrêa,4-0,São Bento-MA
+B,03/02/01,Imperatriz,2-1,Tocantins-MA
+B,04/02/01,Lago Verde,5-1,Expressinho
+B,04/02/01,Moto Club,1-0,Sampaio Corrêa
+B,04/02/01,Viana,1-0,Bacabal
+B,04/02/01,Santa Inês,0-0,São Bento-MA
+B,06/02/01,Sampaio Corrêa,9-1,Bacabal
+B,07/02/01,São Bento-MA,3-1,Viana
+B,10/02/01,Viana,1-2,Moto Club
+B,10/02/01,Santa Inês,2-1,Tocantins-MA
+B,11/02/01,Sampaio Corrêa,2-1,Maranhão
+B,11/02/01,Caxiense,2-0,Tocantins-MA
+B,11/02/01,Bacabal,0-2,Lago Verde
+A,11/02/01,Santa Inês,4-0,Expressinho
+B,13/02/01,Maranhão,4-1,Santa Inês
+B,15/02/01,Imperatriz,2-2,Maranhão
+B,15/02/01,Moto Club,1-1,Caxiense
+B,17/02/01,São Bento-MA,1-5,Sampaio Corrêa
+B,18/02/01,Moto Club,4-1,Lago Verde
+B,18/02/01,Caxiense,1-3,Bacabal
+B,18/02/01,Tocantins-MA,1-2,Viana
+B,21/02/01,Sampaio Corrêa,6-1,Tocantins-MA
+B,21/02/01,Imperatriz,1-1,São Bento-MA
+B,21/02/01,Santa Inês,4-2,Bacabal
+B,22/02/01,Expressinho,0-3,Caxiense
+B,03/03/01,Bacabal,1-1,Sampaio Corrêa
+B,03/03/01,Maranhão,2-1,Imperatriz
+B,03/03/01,Expressinho,0-0,Santa Inês
+B,04/03/01,Moto Club,3-1,Viana
+B,04/03/01,Tocantins-MA,0-2,Caxiense
+B,05/03/01,Maranhão,5-1,Lago Verde
+B,05/03/01,Expressinho,2-1,Imperatriz
+B,07/03/01,Expressinho,0-0,Viana
+B,07/03/01,Maranhão,2-3,Caxiense
+B,07/03/01,Santa Inês,3-0,Moto Club
+A,07/03/01,Bacabal,1-1,Imperatriz
+B,08/03/01,Lago Verde,2-2,São Bento-MA
+B,10/03/01,Santa Inês,2-2,Maranhão
+B,10/03/01,Expressinho,1-2,Lago Verde
+B,11/03/01,Imperatriz,2-2,Tocantins-MA
+B,11/03/01,Bacabal,0-2,Viana
+B,12/03/01,Moto Club,0-4,Sampaio Corrêa
+B,14/03/01,São Bento-MA,0-1,Santa Inês
+B,17/03/01,Caxiense,0-1,Moto Club
+B,17/03/01,Lago Verde,0-1,Bacabal
+B,18/03/01,Maranhão,2-2,Sampaio Corrêa
+B,18/03/01,Tocantins-MA,0-5,Santa Inês
+B,18/03/01,Viana,2-1,São Bento-MA
+B,20/03/01,Sampaio Corrêa,2-0,Expressinho
+B,20/03/01,Caxiense,3-1,São Bento-MA
+B,21/03/01,Tocantins-MA,0-3,Lago Verde
+B,22/03/01,Maranhão,3-2,Viana
+B,24/03/01,Moto Club,1-0,Imperatriz
+SF,27/03/01,Moto Club,3-2,Santa Inês
+SF,28/03/01,Sampaio Corrêa,2-1,Maranhão
+SF,31/03/01,Sampaio Corrêa,2-0,São Bento-MA
+F,01/04/01,Moto Club,0-0,Sampaio Corrêa
+F,04/04/01,Sampaio Corrêa,1-2,Moto Club
+C,07/04/01,Maranhão,2-1,São Bento-MA
+D,07/04/01,Santa Inês,0-2,Sampaio Corrêa
+C,08/04/01,Moto Club,3-1,Bacabal
+D,08/04/01,Caxiense,2-0,Lago Verde
+C,11/04/01,Maranhão,5-0,Expressinho
+C,11/04/01,Bacabal,4-1,Tocantins-MA
+D,11/04/01,Santa Inês,1-1,Caxiense
+D,11/04/01,Viana,0-1,Imperatriz
+D,12/04/01,Sampaio Corrêa,2-0,Lago Verde
+C,14/04/01,Bacabal,0-2,Maranhão
+C,15/04/01,Moto Club,2-1,São Bento-MA
+D,15/04/01,Imperatriz,1-1,Caxiense
+D,17/04/01,Lago Verde,3-1,Santa Inês
+C,18/04/01,Moto Club,3-0,Expressinho
+C,18/04/01,Tocantins-MA,0-4,Maranhão
+D,18/04/01,Caxiense,1-1,Viana
+C,21/04/01,Tocantins-MA,1-0,Moto Club
+C,22/04/01,Expressinho,1-7,São Bento-MA
+D,22/04/01,Viana,1-1,Lago Verde
+D,22/04/01,Imperatriz,1-1,Sampaio Corrêa
+C,25/04/01,São Bento-MA,5-0,Tocantins-MA
+C,26/04/01,Bacabal,5-0,Expressinho
+D,26/04/01,Sampaio Corrêa,0-2,Viana
+D,26/04/01,Santa Inês,0-2,Imperatriz
+D,28/04/01,Viana,1-1,Santa Inês
+C,29/04/01,Moto Club,1-1,Maranhão
+C,29/04/01,São Bento-MA,3-0,Bacabal
+D,29/04/01,Imperatriz,0-1,Lago Verde
+D,29/04/01,Caxiense,2-4,Sampaio Corrêa
+C,02/05/01,Bacabal,1-2,Maranhão
+C,02/05/01,São Bento-MA,0-0,Moto Club
+D,02/05/01,Lago Verde,0-1,Caxiense
+C,05/05/01,Bacabal,1-1,Moto Club
+C,06/05/01,São Bento-MA,2-1,Expressinho
+D,06/05/01,Sampaio Corrêa,2-0,Lago Verde
+D,06/05/01,Caxiense,1-0,Imperatriz
+D,06/05/01,Santa Inês,0-2,Viana
+C,09/05/01,Maranhão,6-0,Expressinho
+D,09/05/01,Imperatriz,0-3,Viana
+D,09/05/01,Caxiense,2-0,Santa Inês
+C,10/05/01,Tocantins-MA,0-3,Bacabal
+C,12/05/01,São Bento-MA,1-1,Maranhão
+D,12/05/01,Lago Verde,3-5,Viana
+C,13/05/01,Moto Club,0-0,Expressinho
+D,13/05/01,Sampaio Corrêa,1-0,Santa Inês
+D,16/05/01,Santa Inês,0-0,Lago Verde
+D,16/05/01,Viana,1-1,Caxiense
+C,17/05/01,Maranhão,11-2,Tocantins-MA
+C,19/05/01,Expressinho,3-1,Tocantins-MA
+D,19/05/01,Viana,0-0,Sampaio Corrêa
+D,19/05/01,Imperatriz,1-3,Santa Inês
+C,21/05/01,Maranhão,2-2,Moto Club
+C,21/05/01,Tocantins-MA,0-4,São Bento-MA
+D,22/05/01,Sampaio Corrêa,3-1,Caxiense
+D,22/05/01,Lago Verde,1-0,Imperatriz
+C,24/05/01,Moto Club,8-0,Tocantins-MA
+C,24/05/01,Bacabal,0-2,São Bento-MA
+D,24/05/01,Sampaio Corrêa,1-0,Imperatriz
+C,27/05/01,Tocantins-MA,3-0,Expressinho
+C,29/05/01,Expressinho,0-3,Bacabal
+SF,30/05/01,Maranhão,1-3,Viana
+F,06/06/01,Viana,1-1,Sampaio Corrêa
+F,10/06/01,Sampaio Corrêa,1-0,Viana
+F,14/06/01,Moto Club,2-4,Sampaio Corrêa
+F,17/06/01,Sampaio Corrêa,0-3,Moto Club

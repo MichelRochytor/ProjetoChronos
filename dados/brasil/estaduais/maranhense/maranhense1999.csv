@@ -1,0 +1,144 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,07/02/99,Lago Verde,0-1,Pindaré
+C,07/02/99,Maranhão,4-1,Caxiense
+D,07/02/99,Açailândia,2-1,Viana
+B,10/02/99,Moto Club,3-0,Lago Verde
+C,10/02/99,Caxiense,1-2,Bacabal
+D,10/02/99,Açailândia,1-2,Ferroviário-MA
+A,11/02/99,Sampaio Corrêa,2-1,Imperatriz
+A,13/02/99,Americano-MA,1-1,Imperatriz
+A,17/02/99,Americano-MA,1-4,Sampaio Corrêa
+B,17/02/99,Pindaré,1-0,Moto Club
+C,17/02/99,Bacabal,2-2,Maranhão
+D,17/02/99,Viana,2-2,Ferroviário-MA
+A,21/02/99,Imperatriz,0-2,Sampaio Corrêa
+B,21/02/99,Moto Club,4-3,Pindaré
+C,21/02/99,Bacabal,4-0,Caxiense
+D,21/02/99,Ferroviário-MA,3-5,Viana
+A,23/02/99,Imperatriz,0-1,Americano-MA
+B,24/02/99,Pindaré,2-1,Lago Verde
+C,24/02/99,Caxiense,0-1,Maranhão
+D,25/02/99,Ferroviário-MA,5-0,Açailândia
+A,28/02/99,Sampaio Corrêa,2-1,Americano-MA
+B,28/02/99,Moto Club,2-1,Lago Verde
+C,28/02/99,Maranhão,0-2,Bacabal
+D,28/02/99,Viana,4-1,Açailândia
+F,07/03/99,Lago Verde,0-3,Americano-MA
+G,07/03/99,Pindaré,2-0,Açailândia
+G,07/03/99,Imperatriz,2-0,Ferroviário-MA
+F,10/03/99,Bacabal,0-0,Caxiense
+E,14/03/99,Moto Club,1-1,Maranhão
+F,14/03/99,Caxiense,3-1,Lago Verde
+F,14/03/99,Americano-MA,1-1,Bacabal
+G,14/03/99,Açailândia,3-2,Imperatriz
+G,14/03/99,Pindaré,3-1,Ferroviário-MA
+E,17/03/99,Viana,1-2,Sampaio Corrêa
+E,20/03/99,Moto Club,4-0,Viana
+F,20/03/99,Lago Verde,1-3,Bacabal
+F,21/03/99,Americano-MA,4-2,Caxiense
+G,21/03/99,Imperatriz,0-0,Pindaré
+E,24/03/99,Maranhão,1-0,Sampaio Corrêa
+G,24/03/99,Ferroviário-MA,3-0,Açailândia
+F,28/03/99,Americano-MA,0-1,Lago Verde
+F,28/03/99,Caxiense,0-3,Bacabal
+G,28/03/99,Açailândia,0-0,Pindaré
+E,29/03/99,Maranhão,1-0,Viana
+G,01/04/99,Ferroviário-MA,1-1,Imperatriz
+F,04/04/99,Bacabal,2-0,Americano-MA
+G,04/04/99,Imperatriz,2-0,Açailândia
+E,08/04/99,Sampaio Corrêa,4-2,Moto Club
+E,11/04/99,Maranhão,1-3,Moto Club
+F,11/04/99,Bacabal,1-2,Lago Verde
+F,11/04/99,Caxiense,0-2,Americano-MA
+E,12/04/99,Sampaio Corrêa,3-1,Viana
+E,15/04/99,Sampaio Corrêa,4-1,Maranhão
+E,17/04/99,Viana,1-1,Moto Club
+G,18/04/99,Ferroviário-MA,4-1,Pindaré
+G,18/04/99,Açailândia,1-5,Ferroviário-MA
+E,21/04/99,Viana,1-2,Maranhão
+E,21/04/99,Moto Club,1-0,Sampaio Corrêa
+F,21/04/99,Lago Verde,1-1,Caxiense
+G,21/04/99,Pindaré,3-0,Imperatriz
+,24/04/99,Ferroviário-MA,0-2,Pindaré
+,25/04/99,Lago Verde,1-1,Americano-MA
+F,25/04/99,Maranhão,2-1,Moto Club
+,28/04/99,Americano-MA,2-3,Lago Verde
+,28/04/99,Pindaré,0-0,Ferroviário-MA
+F,29/04/99,Moto Club,1-1,Maranhão
+,02/05/99,Americano-MA,0-0,Lago Verde
+,02/05/99,Pindaré,1-0,Ferroviário-MA
+F,02/05/99,Moto Club,1-1,Maranhão
+A,06/05/99,Americano-MA,0-1,Viana
+B,08/05/99,Caxiense,3-0,Bacabal
+A,09/05/99,Sampaio Corrêa,1-0,Pindaré
+B,09/05/99,Lago Verde,2-2,Ferroviário-MA
+B,09/05/99,Imperatriz,3-0,Açailândia
+A,09/05/99,Viana,0-3,Maranhão
+A,10/05/99,Maranhão,1-2,Americano-MA
+A,10/05/99,Moto Club,1-0,Viana
+A,13/05/99,Sampaio Corrêa,2-1,Viana
+A,13/05/99,Pindaré,1-1,Maranhão
+A,13/05/99,Americano-MA,2-1,Moto Club
+B,13/05/99,Ferroviário-MA,1-5,Caxiense
+B,13/05/99,Imperatriz,3-1,Lago Verde
+B,13/05/99,Bacabal,1-0,Açailândia
+A,16/05/99,Sampaio Corrêa,1-0,Maranhão
+B,16/05/99,Lago Verde,1-2,Bacabal
+B,16/05/99,Açailândia,1-3,Caxiense
+B,16/05/99,Imperatriz,0-1,Ferroviário-MA
+A,17/05/99,Viana,0-0,Americano-MA
+A,17/05/99,Moto Club,3-1,Pindaré
+A,19/05/99,Viana,2-0,Pindaré
+A,19/05/99,Americano-MA,0-2,Sampaio Corrêa
+B,19/05/99,Bacabal,3-2,Imperatriz
+B,19/05/99,Caxiense,0-0,Lago Verde
+A,20/05/99,Moto Club,1-1,Maranhão
+B,20/05/99,Ferroviário-MA,1-1,Açailândia
+A,23/05/99,Maranhão,1-0,Viana
+A,23/05/99,Sampaio Corrêa,2-2,Moto Club
+A,23/05/99,Pindaré,2-2,Americano-MA
+B,23/05/99,Açailândia,2-1,Lago Verde
+B,23/05/99,Bacabal,5-1,Ferroviário-MA
+B,23/05/99,Imperatriz,1-0,Caxiense
+A,27/05/99,Viana,1-0,Sampaio Corrêa
+A,27/05/99,Maranhão,0-2,Pindaré
+A,27/05/99,Moto Club,3-1,Americano-MA
+B,27/05/99,Bacabal,3-2,Caxiense
+B,27/05/99,Ferroviário-MA,0-0,Lago Verde
+B,27/05/99,Açailândia,3-2,Imperatriz
+A,30/05/99,Pindaré,2-3,Viana
+A,30/05/99,Maranhão,1-1,Moto Club
+B,30/05/99,Caxiense,2-1,Ferroviário-MA
+B,30/05/99,Lago Verde,1-0,Imperatriz
+B,30/05/99,Açailândia,1-2,Bacabal
+A,31/05/99,Sampaio Corrêa,3-0,Americano-MA
+A,03/06/99,Pindaré,0-4,Sampaio Corrêa
+A,03/06/99,Americano-MA,0-1,Maranhão
+A,03/06/99,Viana,0-0,Moto Club
+B,03/06/99,Bacabal,3-1,Lago Verde
+B,03/06/99,Caxiense,1-0,Açailândia
+B,03/06/99,Ferroviário-MA,3-0,Imperatriz
+A,06/06/99,Maranhão,3-2,Sampaio Corrêa
+A,06/06/99,Pindaré,2-3,Moto Club
+B,06/06/99,Imperatriz,0-0,Bacabal
+B,06/06/99,Lago Verde,1-1,Caxiense
+B,06/06/99,Açailândia,1-1,Ferroviário-MA
+B,08/06/99,Lago Verde,2-1,Açailândia
+A,09/06/99,Moto Club,2-2,Sampaio Corrêa
+A,09/06/99,Americano-MA,1-0,Pindaré
+B,09/06/99,Ferroviário-MA,0-3,Bacabal
+B,09/06/99,Caxiense,4-1,Imperatriz
+2T,27/06/99,Bacabal,1-1,Sampaio Corrêa
+2T,27/06/99,Moto Club,2-2,Maranhão
+2T,01/07/99,Bacabal,1-2,Moto Club
+2T,01/07/99,Maranhão,1-3,Sampaio Corrêa
+2T,04/07/99,Bacabal,1-1,Maranhão
+2T,04/07/99,Sampaio Corrêa,1-1,Moto Club
+2T,07/07/99,Sampaio Corrêa,1-0,Bacabal
+2T,08/07/99,Maranhão,2-1,Moto Club
+2T,10/07/99,Sampaio Corrêa,1-1,Maranhão
+2T,12/07/99,Moto Club,2-0,Bacabal
+2T,15/07/99,Maranhão,3-0,Bacabal
+2T,15/07/99,Sampaio Corrêa,1-1,Moto Club
+F,19/07/99,Sampaio Corrêa,1-2,Maranhão
+F,22/07/99,Maranhão,2-0,Sampaio Corrêa

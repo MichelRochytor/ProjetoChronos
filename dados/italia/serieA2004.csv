@@ -1,0 +1,383 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,11/09/04,Chievo Verona,2-2,Internazionale
+1,11/09/04,AC Milan,2-2,Livorno 1915
+1,12/09/04,Atalanta,2-2,Lecce
+1,12/09/04,Brescia,0-3,Juventus
+1,12/09/04,Cagliari,1-0,Bologna
+1,12/09/04,Palermo,1-0,AC Siena
+1,12/09/04,Parma,0-0,F.C. Messina Peloro
+1,12/09/04,Reggina,0-0,Udinese
+1,12/09/04,Roma,1-0,Fiorentina
+1,12/09/04,Sampdoria,0-1,Lazio
+2,18/09/04,Lecce,4-1,Brescia
+2,18/09/04,Internazionale,1-1,Palermo
+2,19/09/04,Bologna,0-2,AC Milan
+2,19/09/04,Fiorentina,2-1,Cagliari
+2,19/09/04,Juventus,2-0,Atalanta
+2,19/09/04,Lazio,1-1,Reggina
+2,19/09/04,Livorno 1915,1-2,Chievo Verona
+2,19/09/04,F.C. Messina Peloro,4-3,Roma
+2,19/09/04,AC Siena,2-1,Sampdoria
+2,19/09/04,Udinese,4-0,Parma
+3,22/09/04,Atalanta,2-3,Internazionale
+3,22/09/04,Brescia,0-2,Lazio
+3,22/09/04,Cagliari,2-0,AC Siena
+3,22/09/04,Chievo Verona,0-0,Udinese
+3,22/09/04,AC Milan,1-2,F.C. Messina Peloro
+3,22/09/04,Palermo,0-0,Fiorentina
+3,22/09/04,Parma,1-2,Bologna
+3,22/09/04,Reggina,2-1,Livorno 1915
+3,22/09/04,Roma,2-2,Lecce
+3,22/09/04,Sampdoria,0-3,Juventus
+4,25/09/04,Bologna,3-1,Roma
+4,25/09/04,Juventus,1-1,Palermo
+4,26/09/04,Fiorentina,0-2,Sampdoria
+4,26/09/04,Internazionale,2-2,Parma
+4,26/09/04,Lecce,3-1,Cagliari
+4,26/09/04,Livorno 1915,1-1,Atalanta
+4,26/09/04,F.C. Messina Peloro,0-0,Chievo Verona
+4,26/09/04,AC Siena,0-0,Reggina
+4,26/09/04,Udinese,1-2,Brescia
+4,26/09/04,Lazio,1-2,AC Milan
+5,02/10/04,Cagliari,2-1,Brescia
+5,02/10/04,Chievo Verona,2-1,Lecce
+5,03/10/04,Atalanta,1-1,Lazio
+5,03/10/04,F.C. Messina Peloro,4-1,AC Siena
+5,03/10/04,AC Milan,3-1,Reggina
+5,03/10/04,Palermo,1-0,Bologna
+5,03/10/04,Parma,0-0,Fiorentina
+5,03/10/04,Sampdoria,2-0,Livorno 1915
+5,03/10/04,Udinese,0-1,Juventus
+5,03/10/04,Roma,3-3,Internazionale
+6,16/10/04,Livorno 1915,0-2,Roma
+6,16/10/04,Juventus,2-1,F.C. Messina Peloro
+6,17/10/04,Bologna,2-1,Atalanta
+6,17/10/04,Brescia,3-1,Parma
+6,17/10/04,Cagliari,0-1,AC Milan
+6,17/10/04,Fiorentina,0-0,AC Siena
+6,17/10/04,Internazionale,3-1,Udinese
+6,17/10/04,Lazio,0-1,Chievo Verona
+6,17/10/04,Lecce,2-0,Palermo
+6,17/10/04,Reggina,0-1,Sampdoria
+7,23/10/04,Atalanta,2-2,Cagliari
+7,23/10/04,AC Siena,0-3,Juventus
+7,24/10/04,Chievo Verona,0-0,Reggina
+7,24/10/04,Livorno 1915,1-0,Bologna
+7,24/10/04,F.C. Messina Peloro,1-4,Lecce
+7,24/10/04,Parma,3-1,Lazio
+7,24/10/04,Roma,1-1,Palermo
+7,24/10/04,Sampdoria,0-1,Brescia
+7,24/10/04,Udinese,2-2,Fiorentina
+7,24/10/04,AC Milan,0-0,Internazionale
+8,27/10/04,Bologna,0-1,Udinese
+8,27/10/04,Brescia,0-1,AC Siena
+8,27/10/04,Cagliari,2-1,Parma
+8,27/10/04,Chievo Verona,0-2,Sampdoria
+8,27/10/04,Lazio,2-0,F.C. Messina Peloro
+8,27/10/04,Lecce,2-2,Internazionale
+8,27/10/04,AC Milan,3-0,Atalanta
+8,27/10/04,Palermo,1-2,Livorno 1915
+8,27/10/04,Reggina,1-2,Fiorentina
+8,28/10/04,Juventus,2-0,Roma
+9,30/10/04,Sampdoria,0-1,AC Milan
+9,30/10/04,Internazionale,1-1,Lazio
+9,31/10/04,Fiorentina,4-0,Lecce
+9,31/10/04,Juventus,3-0,Chievo Verona
+9,31/10/04,Livorno 1915,2-1,Brescia
+9,31/10/04,F.C. Messina Peloro,2-1,Reggina
+9,31/10/04,Parma,2-2,Atalanta
+9,31/10/04,Roma,5-1,Cagliari
+9,31/10/04,AC Siena,1-1,Bologna
+9,31/10/04,Udinese,1-0,Palermo
+10,06/11/04,Brescia,1-0,Chievo Verona
+10,06/11/04,Reggina,2-1,Juventus
+10,07/11/04,Atalanta,0-0,Sampdoria
+10,07/11/04,Bologna,2-2,F.C. Messina Peloro
+10,07/11/04,Cagliari,0-0,Livorno 1915
+10,07/11/04,Fiorentina,1-1,Internazionale
+10,07/11/04,Lazio,1-1,AC Siena
+10,07/11/04,Lecce,3-4,Udinese
+10,07/11/04,Palermo,1-1,Parma
+10,07/11/04,AC Milan,1-1,Roma
+11,10/11/04,Brescia,0-0,AC Milan
+11,10/11/04,Chievo Verona,1-0,Atalanta
+11,10/11/04,Internazionale,2-2,Bologna
+11,10/11/04,Juventus,1-0,Fiorentina
+11,10/11/04,Livorno 1915,1-0,Lazio
+11,10/11/04,Parma,1-0,Reggina
+11,10/11/04,Roma,0-3,Udinese
+11,10/11/04,Sampdoria,0-0,Cagliari
+11,10/11/04,AC Siena,1-1,Lecce
+11,11/11/04,F.C. Messina Peloro,0-0,Palermo
+12,14/11/04,Atalanta,0-0,Brescia
+12,14/11/04,Cagliari,3-3,Internazionale
+12,14/11/04,Fiorentina,1-1,Livorno 1915
+12,14/11/04,Lazio,2-1,Bologna
+12,14/11/04,Lecce,0-1,Juventus
+12,14/11/04,AC Milan,2-1,AC Siena
+12,14/11/04,Palermo,2-0,Sampdoria
+12,14/11/04,Parma,2-2,Chievo Verona
+12,14/11/04,Reggina,1-0,Roma
+12,14/11/04,Udinese,1-1,F.C. Messina Peloro
+13,27/11/04,Livorno 1915,1-2,Udinese
+13,27/11/04,AC Siena,0-4,Roma
+13,28/11/04,Atalanta,0-1,Reggina
+13,28/11/04,Bologna,0-0,Lecce
+13,28/11/04,Brescia,0-2,Palermo
+13,28/11/04,Chievo Verona,0-1,AC Milan
+13,28/11/04,Lazio,2-3,Cagliari
+13,28/11/04,F.C. Messina Peloro,1-1,Fiorentina
+13,28/11/04,Sampdoria,1-0,Parma
+13,28/11/04,Internazionale,2-2,Juventus
+14,04/12/04,Parma,1-2,AC Milan
+14,04/12/04,Internazionale,5-0,F.C. Messina Peloro
+14,05/12/04,Cagliari,4-2,Chievo Verona
+14,05/12/04,Fiorentina,1-0,Bologna
+14,05/12/04,Juventus,2-1,Lazio
+14,05/12/04,Lecce,3-2,Livorno 1915
+14,05/12/04,Palermo,1-0,Atalanta
+14,05/12/04,Reggina,1-3,Brescia
+14,05/12/04,Udinese,1-0,AC Siena
+14,05/12/04,Roma,1-1,Sampdoria
+15,11/12/04,Atalanta,0-1,Udinese
+15,11/12/04,Lazio,3-3,Lecce
+15,12/12/04,Brescia,0-1,Roma
+15,12/12/04,Chievo Verona,2-1,Palermo
+15,12/12/04,Livorno 1915,2-0,Parma
+15,12/12/04,AC Milan,6-0,Fiorentina
+15,12/12/04,Reggina,3-2,Cagliari
+15,12/12/04,Sampdoria,1-0,F.C. Messina Peloro
+15,12/12/04,AC Siena,2-2,Internazionale
+15,12/12/04,Bologna,0-1,Juventus
+16,18/12/04,Juventus,0-0,AC Milan
+16,19/12/04,Bologna,2-0,Reggina
+16,19/12/04,Fiorentina,2-0,Chievo Verona
+16,19/12/04,Internazionale,1-0,Brescia
+16,19/12/04,Lecce,1-4,Sampdoria
+16,19/12/04,Roma,5-1,Parma
+16,19/12/04,AC Siena,1-1,Livorno 1915
+16,19/12/04,Udinese,3-0,Lazio
+16,19/12/04,Palermo,3-0,Cagliari
+17,06/01/05,Atalanta,1-0,Fiorentina
+17,06/01/05,Brescia,1-1,Bologna
+17,06/01/05,Cagliari,2-1,F.C. Messina Peloro
+17,06/01/05,Chievo Verona,1-3,AC Siena
+17,06/01/05,Livorno 1915,0-2,Internazionale
+17,06/01/05,AC Milan,5-2,Lecce
+17,06/01/05,Parma,1-1,Juventus
+17,06/01/05,Reggina,1-0,Palermo
+17,06/01/05,Sampdoria,2-0,Udinese
+17,06/01/05,Lazio,3-1,Roma
+18,09/01/05,Bologna,3-1,Chievo Verona
+18,09/01/05,Fiorentina,2-3,Lazio
+18,09/01/05,Internazionale,3-2,Sampdoria
+18,09/01/05,Juventus,4-2,Livorno 1915
+18,09/01/05,Lecce,1-1,Reggina
+18,09/01/05,F.C. Messina Peloro,2-0,Brescia
+18,09/01/05,Roma,2-1,Atalanta
+18,09/01/05,AC Siena,0-1,Parma
+18,09/01/05,Udinese,2-0,Cagliari
+18,09/01/05,Palermo,0-0,AC Milan
+19,15/01/05,Brescia,1-1,Fiorentina
+19,15/01/05,Reggina,0-0,Internazionale
+19,16/01/05,Atalanta,1-1,AC Siena
+19,16/01/05,Chievo Verona,2-2,Roma
+19,16/01/05,Lazio,1-3,Palermo
+19,16/01/05,Livorno 1915,3-1,F.C. Messina Peloro
+19,16/01/05,AC Milan,3-1,Udinese
+19,16/01/05,Parma,2-1,Lecce
+19,16/01/05,Sampdoria,0-0,Bologna
+19,16/01/05,Cagliari,1-1,Juventus
+16,19/01/05,F.C. Messina Peloro,1-0,Atalanta
+20,22/01/05,Bologna,1-0,Cagliari
+20,22/01/05,Internazionale,1-1,Chievo Verona
+20,23/01/05,Lecce,1-0,Atalanta
+20,23/01/05,Juventus,2-0,Brescia
+20,23/01/05,Livorno 1915,1-0,AC Milan
+20,23/01/05,AC Siena,0-0,Palermo
+20,23/01/05,F.C. Messina Peloro,1-0,Parma
+20,23/01/05,Udinese,0-2,Reggina
+20,23/01/05,Lazio,1-2,Sampdoria
+20,23/01/05,Fiorentina,1-2,Roma
+21,29/01/05,Chievo Verona,1-0,Livorno 1915
+21,29/01/05,Parma,1-0,Udinese
+21,30/01/05,AC Milan,0-1,Bologna
+21,30/01/05,Cagliari,1-0,Fiorentina
+21,30/01/05,Atalanta,1-2,Juventus
+21,30/01/05,Reggina,2-1,Lazio
+21,30/01/05,Brescia,0-1,Lecce
+21,30/01/05,Roma,3-2,F.C. Messina Peloro
+21,30/01/05,Sampdoria,1-1,AC Siena
+21,30/01/05,Palermo,0-2,Internazionale
+22,02/02/05,Internazionale,1-0,Atalanta
+22,02/02/05,Lazio,0-0,Brescia
+22,02/02/05,AC Siena,2-2,Cagliari
+22,02/02/05,Udinese,3-0,Chievo Verona
+22,02/02/05,F.C. Messina Peloro,1-4,AC Milan
+22,02/02/05,Fiorentina,1-2,Palermo
+22,02/02/05,Livorno 1915,1-1,Reggina
+22,02/02/05,Lecce,1-1,Roma
+22,02/02/05,Juventus,0-1,Sampdoria
+22,03/02/05,Bologna,3-1,Parma
+23,05/02/05,Sampdoria,3-0,Fiorentina
+23,05/02/05,Palermo,1-0,Juventus
+23,06/02/05,Roma,1-1,Bologna
+23,06/02/05,Parma,2-2,Internazionale
+23,06/02/05,Cagliari,3-1,Lecce
+23,06/02/05,Atalanta,1-0,Livorno 1915
+23,06/02/05,Chievo Verona,1-0,F.C. Messina Peloro
+23,06/02/05,Reggina,3-3,AC Siena
+23,06/02/05,Brescia,0-1,Udinese
+23,06/02/05,AC Milan,2-1,Lazio
+24,12/02/05,Lazio,2-1,Atalanta
+24,12/02/05,Internazionale,2-0,Roma
+24,13/02/05,Brescia,2-0,Cagliari
+24,13/02/05,Lecce,3-0,Chievo Verona
+24,13/02/05,AC Siena,2-2,F.C. Messina Peloro
+24,13/02/05,Bologna,1-1,Palermo
+24,13/02/05,Fiorentina,2-1,Parma
+24,13/02/05,Livorno 1915,1-0,Sampdoria
+24,13/02/05,Juventus,2-1,Udinese
+24,13/02/05,Reggina,0-1,AC Milan
+25,19/02/05,F.C. Messina Peloro,0-0,Juventus
+25,19/02/05,AC Milan,1-0,Cagliari
+25,19/02/05,Udinese,1-1,Internazionale
+25,20/02/05,Atalanta,2-0,Bologna
+25,20/02/05,Parma,2-1,Brescia
+25,20/02/05,AC Siena,1-0,Fiorentina
+25,20/02/05,Chievo Verona,0-1,Lazio
+25,20/02/05,Palermo,3-2,Lecce
+25,20/02/05,Roma,3-0,Livorno 1915
+25,20/02/05,Sampdoria,3-2,Reggina
+26,26/02/05,Brescia,0-1,Sampdoria
+26,26/02/05,Fiorentina,2-2,Udinese
+26,27/02/05,Cagliari,3-3,Atalanta
+26,27/02/05,Reggina,1-0,Chievo Verona
+26,27/02/05,Bologna,0-0,Livorno 1915
+26,27/02/05,Lecce,1-0,F.C. Messina Peloro
+26,27/02/05,Lazio,2-0,Parma
+26,27/02/05,Palermo,2-0,Roma
+26,27/02/05,Juventus,3-0,AC Siena
+26,27/02/05,Internazionale,0-1,AC Milan
+27,05/03/05,Atalanta,1-2,AC Milan
+27,05/03/05,Roma,1-2,Juventus
+27,06/03/05,Udinese,0-1,Bologna
+27,06/03/05,AC Siena,2-3,Brescia
+27,06/03/05,Parma,3-2,Cagliari
+27,06/03/05,Sampdoria,1-0,Chievo Verona
+27,06/03/05,F.C. Messina Peloro,1-0,Lazio
+27,06/03/05,Internazionale,2-1,Lecce
+27,06/03/05,Fiorentina,2-1,Reggina
+27,06/03/05,Livorno 1915,2-2,Palermo
+28,12/03/05,Lecce,2-2,Fiorentina
+28,12/03/05,Lazio,1-1,Internazionale
+28,13/03/05,Brescia,2-3,Livorno 1915
+28,13/03/05,Reggina,0-2,F.C. Messina Peloro
+28,13/03/05,Atalanta,1-0,Parma
+28,13/03/05,Cagliari,3-0,Roma
+28,13/03/05,AC Milan,1-0,Sampdoria
+28,13/03/05,Bologna,1-1,AC Siena
+28,13/03/05,Palermo,1-5,Udinese
+28,13/03/05,Chievo Verona,0-1,Juventus
+29,19/03/05,AC Siena,1-0,Lazio
+29,19/03/05,Juventus,1-0,Reggina
+29,20/03/05,Sampdoria,1-2,Atalanta
+29,20/03/05,F.C. Messina Peloro,0-0,Bologna
+29,20/03/05,Chievo Verona,3-1,Brescia
+29,20/03/05,Livorno 1915,3-3,Cagliari
+29,20/03/05,Internazionale,3-2,Fiorentina
+29,20/03/05,Udinese,2-1,Lecce
+29,20/03/05,Parma,3-3,Palermo
+29,20/03/05,Roma,0-2,AC Milan
+30,09/04/05,AC Milan,1-1,Brescia
+30,09/04/05,Bologna,0-1,Internazionale
+30,09/04/05,Fiorentina,3-3,Juventus
+30,10/04/05,Atalanta,3-0,Chievo Verona
+30,10/04/05,Lazio,3-1,Livorno 1915
+30,10/04/05,Palermo,2-1,F.C. Messina Peloro
+30,10/04/05,Reggina,1-3,Parma
+30,10/04/05,Udinese,3-3,Roma
+30,10/04/05,Cagliari,0-0,Sampdoria
+30,10/04/05,Lecce,2-2,AC Siena
+31,16/04/05,F.C. Messina Peloro,1-0,Udinese
+31,16/04/05,Sampdoria,1-0,Palermo
+31,16/04/05,Roma,1-2,Reggina
+31,17/04/05,Brescia,1-0,Atalanta
+31,17/04/05,Internazionale,2-0,Cagliari
+31,17/04/05,Livorno 1915,2-0,Fiorentina
+31,17/04/05,Bologna,1-2,Lazio
+31,17/04/05,Juventus,5-2,Lecce
+31,17/04/05,AC Siena,2-1,AC Milan
+31,17/04/05,Chievo Verona,2-0,Parma
+32,20/04/05,Reggina,0-0,Atalanta
+32,20/04/05,Lecce,1-1,Bologna
+32,20/04/05,Palermo,3-3,Brescia
+32,20/04/05,AC Milan,1-0,Chievo Verona
+32,20/04/05,Juventus,0-1,Internazionale
+32,20/04/05,Cagliari,1-1,Lazio
+32,20/04/05,Udinese,1-1,Livorno 1915
+32,20/04/05,Fiorentina,1-1,F.C. Messina Peloro
+32,20/04/05,Parma,1-1,Sampdoria
+32,20/04/05,Roma,0-2,AC Siena
+33,23/04/05,AC Siena,2-3,Udinese
+33,23/04/05,AC Milan,3-0,Parma
+33,24/04/05,Chievo Verona,1-1,Cagliari
+33,24/04/05,Bologna,0-0,Fiorentina
+33,24/04/05,F.C. Messina Peloro,2-1,Internazionale
+33,24/04/05,Livorno 1915,1-0,Lecce
+33,24/04/05,Atalanta,1-0,Palermo
+33,24/04/05,Brescia,2-0,Reggina
+33,24/04/05,Sampdoria,2-1,Roma
+33,24/04/05,Lazio,0-1,Juventus
+34,30/04/05,Cagliari,1-1,Reggina
+34,30/04/05,Fiorentina,1-2,AC Milan
+34,01/05/05,Udinese,2-1,Atalanta
+34,01/05/05,Juventus,2-1,Bologna
+34,01/05/05,Roma,2-2,Brescia
+34,01/05/05,Lecce,5-3,Lazio
+34,01/05/05,Parma,6-4,Livorno 1915
+34,01/05/05,F.C. Messina Peloro,2-2,Sampdoria
+34,01/05/05,Internazionale,2-0,AC Siena
+34,01/05/05,Palermo,2-2,Chievo Verona
+35,08/05/05,Reggina,1-1,Bologna
+35,08/05/05,Chievo Verona,1-2,Fiorentina
+35,08/05/05,Brescia,0-3,Internazionale
+35,08/05/05,AC Milan,0-1,Juventus
+35,08/05/05,Sampdoria,3-0,Lecce
+35,08/05/05,Atalanta,2-1,F.C. Messina Peloro
+35,08/05/05,Cagliari,0-0,Palermo
+35,08/05/05,Parma,2-1,Roma
+35,08/05/05,Livorno 1915,3-6,AC Siena
+35,08/05/05,Lazio,0-1,Udinese
+36,15/05/05,Fiorentina,0-0,Atalanta
+36,15/05/05,Bologna,1-2,Brescia
+36,15/05/05,F.C. Messina Peloro,2-1,Cagliari
+36,15/05/05,AC Siena,0-1,Chievo Verona
+36,15/05/05,Roma,0-0,Lazio
+36,15/05/05,Internazionale,1-0,Livorno 1915
+36,15/05/05,Lecce,2-2,AC Milan
+36,15/05/05,Juventus,2-0,Parma
+36,15/05/05,Palermo,1-1,Reggina
+36,15/05/05,Udinese,1-1,Sampdoria
+37,20/05/05,AC Milan,3-3,Palermo
+37,22/05/05,Chievo Verona,1-0,Bologna
+37,22/05/05,Lazio,1-1,Fiorentina
+37,22/05/05,Sampdoria,0-1,Internazionale
+37,22/05/05,Livorno 1915,2-2,Juventus
+37,22/05/05,Reggina,2-2,Lecce
+37,22/05/05,Brescia,2-1,F.C. Messina Peloro
+37,22/05/05,Atalanta,0-1,Roma
+37,22/05/05,Parma,0-0,AC Siena
+37,22/05/05,Cagliari,1-1,Udinese
+38,29/05/05,AC Siena,2-1,Atalanta
+38,29/05/05,Fiorentina,3-0,Brescia
+38,29/05/05,Juventus,4-2,Cagliari
+38,29/05/05,Roma,0-0,Chievo Verona
+38,29/05/05,Palermo,3-3,Lazio
+38,29/05/05,F.C. Messina Peloro,1-1,Livorno 1915
+38,29/05/05,Udinese,1-1,AC Milan
+38,29/05/05,Lecce,3-3,Parma
+38,29/05/05,Internazionale,0-0,Reggina
+38,29/05/05,Bologna,0-0,Sampdoria
+POff,14/06/05,Parma,0-1,Bologna
+POff,18/06/05,Bologna,0-2,Parma

@@ -1,0 +1,100 @@
+time,região,serie
+1-0,OUTRO,B
+1-1,OUTRO,B
+1-2,OUTRO,B
+2-0,OUTRO,B
+2-1,OUTRO,B
+ASA,AL,B
+America-RJ,RJ,D
+Americana,SP,B
+América Mineiro,MG,B
+América-AM,AM,D
+América-MG,MG,B
+América-RN,RN,B
+Araguaína,TO,C
+Athletico-PR,PR,A
+Atlético-GO,GO,A
+Atlético-MG,MG,A
+Avai,OUTRO,A
+Bahia,BA,B
+Botafogo,RJ,A
+Botafogo-DF,DF,D
+Botafogo-SP,SP,D
+Bragantino,SP,B
+Brasiliense,DF,B
+Brasília,DF,D
+CENE,MT,D
+CRB,AL,C
+CSA,AL,D
+Camaçari,BA,D
+Cametá,PA,D
+Campinense,PB,C
+Caxias,RS,C
+Ceará,CE,A
+Ceilândia,DF,D
+Central,PE,D
+Chapecoense,SC,C
+Confiança,SE,D
+Corinthians,SP,A
+Coritiba,PR,B
+Cristal,RS,D
+Cruzeiro,MG,A
+Duque de Caxias,RJ,B
+EC Vitória,OUTRO,A
+Figueirense,SC,B
+Flamengo,RJ,A
+Flamengo-PI,PI,D
+Fluminense,RJ,A
+Fluminense de Feira,BA,D
+Fortaleza,CE,C
+GE Brasil,RS,C
+Goiás,GO,A
+Gremio Prudente,OUTRO,A
+Grêmio,RS,A
+Guarani,SP,A
+Guarany de Sobral,CE,C
+Icasa,CE,B
+Internacional,RS,A
+Ipatinga,MG,B
+Iraty,PR,D
+JV Lideral,MS,D
+Joinville,SC,C
+Luverdense,MT,C
+Macaé,RJ,C
+Madureira,RJ,C
+Marcílio Dias,SC,D
+Marília,SP,C
+Metropolitano,SC,D
+Mixto,MT,D
+Náuas,AM,D
+Náutico,PE,B
+Oeste,SP,D
+Operário Ferroviário,PR,D
+Palmeiras,SP,A
+Paraná,PR,B
+Paysandu,PA,C
+Pelotas,RS,D
+Ponte Preta,SP,B
+Portuguesa,SP,B
+Potiguar,RN,D
+Remo,PA,D
+Rio Branco-AC,AC,C
+Rio Branco-ES,ES,D
+River Plate-SE,SE,D
+Sampaio Corrêa,MA,D
+Santa Cruz,PE,D
+Santo André,SP,B
+Santos,SP,A
+Sport,PE,B
+São Caetano,SP,B
+São José-RS,RS,D
+São Paulo,SP,A
+Treze,PB,D
+Tupi,MG,D
+Uberaba,MG,D
+Vasco,RJ,A
+Vila Aurora,MT,D
+Vila Nova,GO,B
+Vilhena,RO,D
+,OUTRO,B
+Águia,PA,C

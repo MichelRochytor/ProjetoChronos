@@ -1,0 +1,222 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,18/09/07,Litex Lovech,0-1,Hamburger SV
+1,19/09/07,Lens,1-1,FC Kobenhavn
+1,20/09/07,Spartak Moskva,5-0,BK Hacken
+1,20/09/07,Larissa,2-0,Blackburn Rovers
+1,20/09/07,Bayer Leverkusen,3-1,UD Leiria
+1,20/09/07,Dyskobolia,0-1,Crvena Zvezda
+1,20/09/07,AEK,3-0,Red Bull Salzburg
+1,20/09/07,Zenit,3-0,Standard Liège
+1,20/09/07,Tampere United,2-3,Bordeaux
+1,20/09/07,Mladá Boleslav,0-1,Palermo
+1,20/09/07,Sochaux,0-2,Panionios
+1,20/09/07,Dinamo Zagreb,0-1,Ajax
+1,20/09/07,Hammarby,2-1,SC Braga
+1,20/09/07,Brann,0-1,Club Brugge
+1,20/09/07,Bayern München,1-0,Belenenses
+1,20/09/07,Lokomotiv Sofia,1-3,Rennes
+1,20/09/07,Dinamo Bucuresti,1-2,Elfsborg
+1,20/09/07,Midtjylland,1-3,Lokomotiv
+1,20/09/07,Rabotnicki,1-1,Bolton
+1,20/09/07,FK Sarajevo,1-2,FC Basel
+1,20/09/07,FC Sion,3-2,Galatasaray
+1,20/09/07,Petrzalka 1898,1-2,Panathinaikos
+1,20/09/07,Sparta Praha,0-0,Odense BK
+1,20/09/07,FC Groningen,1-1,Fiorentina
+1,20/09/07,Toulouse,0-0,CSKA Sofia
+1,20/09/07,Aris,1-0,Real Zaragoza
+1,20/09/07,FC Nürnberg,0-0,Rapid București
+1,20/09/07,Atlético de Madrid,4-0,Kayseri Erciyesspor
+1,20/09/07,Anderlecht,1-1,Rapid Wien
+1,20/09/07,Sampdoria,2-2,Aalborg BK
+1,20/09/07,Heerenveen,5-3,Helsingborgs IF
+1,20/09/07,Austria Wien,2-0,Valerenga
+1,20/09/07,Hapoel Tel Aviv,0-0,AIK
+1,20/09/07,Everton,1-1,Metalist
+1,20/09/07,Empoli,2-1,FC Zurich
+1,20/09/07,Tottenham,6-1,Anorthosis
+1,20/09/07,Getafe CF,1-0,FC Twente
+1,20/09/07,Aberdeen,0-0,Dnipro
+1,20/09/07,Villarreal CF,4-1,BATE Borisov
+1,20/09/07,Paços de Ferreira,0-1,AZ Alkmaar
+1,02/10/07,Panathinaikos,3-0,Petrzalka 1898
+1,04/10/07,Rapid București,2-2,FC Nürnberg
+1,04/10/07,Anorthosis,1-1,Tottenham
+1,04/10/07,Lokomotiv,2-0,Midtjylland
+1,04/10/07,Kayseri Erciyesspor,0-5,Atlético de Madrid
+1,04/10/07,Helsingborgs IF,5-1,Heerenveen
+1,04/10/07,Hamburger SV,3-1,Litex Lovech
+1,04/10/07,FC Zurich,3-0,Empoli
+1,04/10/07,Odense BK,0-0(3-4 Pen.),Sparta Praha
+1,04/10/07,Aalborg BK,0-0,Sampdoria
+1,04/10/07,BK Hacken,1-3,Spartak Moskva
+1,04/10/07,Dnipro,1-1,Aberdeen
+1,04/10/07,CSKA Sofia,1-1,Toulouse
+1,04/10/07,Valerenga,2-2,Austria Wien
+1,04/10/07,Elfsborg,0-1,Dinamo Bucuresti
+1,04/10/07,Ajax,2-3(Pro.),Dinamo Zagreb
+1,04/10/07,FC Basel,6-0,FK Sarajevo
+1,04/10/07,BATE Borisov,0-2,Villarreal CF
+1,04/10/07,Standard Liège,1-1,Zenit
+1,04/10/07,Panionios,0-1,Sochaux
+1,04/10/07,FC Kobenhavn,2-1(Pro.),Lens
+1,04/10/07,Red Bull Salzburg,1-0,AEK
+1,04/10/07,Galatasaray,5-1,FC Sion
+1,04/10/07,Club Brugge,1-2,Brann
+1,04/10/07,Belenenses,0-2,Bayern München
+1,04/10/07,AIK,0-1,Hapoel Tel Aviv
+1,04/10/07,Metalist,2-3,Everton
+1,04/10/07,Rapid Wien,0-1,Anderlecht
+1,04/10/07,Palermo,0-1(2-4 Pen.),Mladá Boleslav
+1,04/10/07,Rennes,1-2,Lokomotiv Sofia
+1,04/10/07,FC Twente,3-2(Pro.),Getafe CF
+1,04/10/07,Crvena Zvezda,1-0,Dyskobolia
+1,04/10/07,Fiorentina,1-1(4-3 Pen.),FC Groningen
+1,04/10/07,Bolton,1-0,Rabotnicki
+1,04/10/07,Bordeaux,1-1,Tampere United
+1,04/10/07,SC Braga,4-0,Hammarby
+1,04/10/07,Blackburn Rovers,2-1,Larissa
+1,04/10/07,Real Zaragoza,2-1,Aris
+1,04/10/07,AZ Alkmaar,0-0,Paços de Ferreira
+1,04/10/07,UD Leiria,3-2,Bayer Leverkusen
+A,25/10/07,Zenit,1-1,AZ Alkmaar
+B,25/10/07,Panathinaikos,3-0,Aberdeen
+H,25/10/07,Helsingborgs IF,1-1,Panionios
+B,25/10/07,Lokomotiv,3-3,Atlético de Madrid
+E,25/10/07,Sparta Praha,1-2,FC Zurich
+D,25/10/07,Brann,0-1,Hamburger SV
+E,25/10/07,Bayer Leverkusen,1-0,Toulouse
+H,25/10/07,Bordeaux,2-1,Galatasaray
+C,25/10/07,Elfsborg,1-1,AEK
+C,25/10/07,Villarreal CF,1-1,Fiorentina
+D,25/10/07,FC Basel,1-0,Rennes
+G,25/10/07,Anderlecht,2-0,Hapoel Tel Aviv
+F,25/10/07,Bolton,1-1,SC Braga
+A,25/10/07,Everton,3-1,Larissa
+G,25/10/07,Tottenham,1-2,Getafe CF
+F,25/10/07,Crvena Zvezda,2-3,Bayern München
+A,08/11/07,Larissa,2-3,Zenit
+E,08/11/07,Spartak Moskva,2-1,Bayer Leverkusen
+G,08/11/07,Hapoel Tel Aviv,0-2,Tottenham
+D,08/11/07,Rennes,1-1,Brann
+F,08/11/07,Bayern München,2-2,Bolton
+H,08/11/07,Galatasaray,2-3,Helsingborgs IF
+G,08/11/07,Aalborg BK,1-1,Anderlecht
+B,08/11/07,FC Kobenhavn,0-1,Panathinaikos
+D,08/11/07,Dinamo Zagreb,0-0,FC Basel
+H,08/11/07,Austria Wien,1-2,Bordeaux
+C,08/11/07,Mladá Boleslav,1-2,Villarreal CF
+E,08/11/07,Toulouse,2-3,Sparta Praha
+C,08/11/07,Fiorentina,6-1,Elfsborg
+F,08/11/07,Aris,3-0,Crvena Zvezda
+B,08/11/07,Aberdeen,1-1,Lokomotiv
+A,08/11/07,FC Nürnberg,0-2,Everton
+A,29/11/07,Zenit,2-2,FC Nürnberg
+C,29/11/07,Elfsborg,1-3,Mladá Boleslav
+B,29/11/07,Lokomotiv,0-1,FC Kobenhavn
+E,29/11/07,Sparta Praha,0-0,Spartak Moskva
+D,29/11/07,Hamburger SV,3-0,Rennes
+C,29/11/07,AEK,1-1,Fiorentina
+H,29/11/07,Panionios,0-3,Galatasaray
+D,29/11/07,Brann,2-1,Dinamo Zagreb
+E,29/11/07,FC Zurich,2-0,Toulouse
+H,29/11/07,Helsingborgs IF,3-0,Austria Wien
+A,29/11/07,AZ Alkmaar,1-0,Larissa
+B,29/11/07,Atlético de Madrid,2-0,Aberdeen
+G,29/11/07,Getafe CF,1-2,Hapoel Tel Aviv
+G,29/11/07,Tottenham,3-2,Aalborg BK
+F,29/11/07,SC Braga,1-1,Bayern München
+F,29/11/07,Bolton,1-1,Aris
+A,05/12/07,FC Nürnberg,2-1,AZ Alkmaar
+A,05/12/07,Everton,1-0,Zenit
+B,05/12/07,FC Kobenhavn,0-2,Atlético de Madrid
+B,05/12/07,Panathinaikos,2-0,Lokomotiv
+C,05/12/07,Mladá Boleslav,0-1,AEK
+C,05/12/07,Villarreal CF,2-0,Elfsborg
+D,05/12/07,Dinamo Zagreb,0-2,Hamburger SV
+D,05/12/07,FC Basel,1-0,Brann
+E,06/12/07,Spartak Moskva,1-0,FC Zurich
+E,06/12/07,Bayer Leverkusen,1-0,Sparta Praha
+F,06/12/07,Aris,1-1,SC Braga
+F,06/12/07,Crvena Zvezda,0-1,Bolton
+G,06/12/07,Aalborg BK,1-2,Getafe CF
+G,06/12/07,Anderlecht,1-1,Tottenham
+H,06/12/07,Austria Wien,0-1,Panionios
+H,06/12/07,Bordeaux,2-1,Helsingborgs IF
+F,19/12/07,SC Braga,2-0,Crvena Zvezda
+E,19/12/07,FC Zurich,0-5,Bayer Leverkusen
+E,19/12/07,Toulouse,2-1,Spartak Moskva
+F,19/12/07,Bayern München,6-0,Aris
+G,19/12/07,Getafe CF,2-1,Anderlecht
+G,19/12/07,Hapoel Tel Aviv,1-3,Aalborg BK
+H,19/12/07,Panionios,2-3,Bordeaux
+H,19/12/07,Galatasaray,0-0,Austria Wien
+A,20/12/07,AZ Alkmaar,2-3,Everton
+A,20/12/07,Larissa,1-3,FC Nürnberg
+B,20/12/07,Atlético de Madrid,2-1,Panathinaikos
+B,20/12/07,Aberdeen,4-0,FC Kobenhavn
+C,20/12/07,AEK,1-2,Villarreal CF
+C,20/12/07,Fiorentina,2-1,Mladá Boleslav
+D,20/12/07,Hamburger SV,1-1,FC Basel
+D,20/12/07,Rennes,1-1,Dinamo Zagreb
+1/16,13/02/08,Zenit,1-0,Villarreal CF
+1/16,13/02/08,Galatasaray,0-0,Bayer Leverkusen
+1/16,13/02/08,AEK,1-1,Getafe CF
+1/16,13/02/08,Brann,0-2,Everton
+1/16,13/02/08,Werder Bremen,3-0,SC Braga
+1/16,13/02/08,Anderlecht,2-1,Bordeaux
+1/16,13/02/08,PSV,2-0,Helsingborgs IF
+1/16,13/02/08,Marseille,3-0,Spartak Moskva
+1/16,13/02/08,Rangers,0-0,Panathinaikos
+1/16,13/02/08,Sporting,2-0,FC Basel
+1/16,14/02/08,Aberdeen,2-2,Bayern München
+1/16,14/02/08,FC Zurich,1-3,Hamburger SV
+1/16,14/02/08,Rosenborg,0-1,Fiorentina
+1/16,14/02/08,Bolton,1-0,Atlético de Madrid
+1/16,14/02/08,Slavia Praha,1-2,Tottenham
+1/16,14/02/08,Benfica,1-0,FC Nürnberg
+1/16,21/02/08,Bayer Leverkusen,5-1,Galatasaray
+1/16,21/02/08,Hamburger SV,0-0,FC Zurich
+1/16,21/02/08,Spartak Moskva,2-0,Marseille
+1/16,21/02/08,Panathinaikos,1-1,Rangers
+1/16,21/02/08,Bayern München,5-1,Aberdeen
+1/16,21/02/08,Getafe CF,3-0,AEK
+1/16,21/02/08,Atlético de Madrid,0-0,Bolton
+1/16,21/02/08,Villarreal CF,2-1,Zenit
+1/16,21/02/08,Bordeaux,1-1,Anderlecht
+1/16,21/02/08,Helsingborgs IF,1-2,PSV
+1/16,21/02/08,Tottenham,1-1,Slavia Praha
+1/16,21/02/08,Fiorentina,2-1,Rosenborg
+1/16,21/02/08,Everton,6-1,Brann
+1/16,21/02/08,FC Basel,0-3,Sporting
+1/16,21/02/08,FC Nürnberg,2-2,Benfica
+1/16,21/02/08,SC Braga,0-1,Werder Bremen
+1/8,06/03/08,Anderlecht,0-5,Bayern München
+1/8,06/03/08,Fiorentina,2-0,Everton
+1/8,06/03/08,Marseille,3-1,Zenit
+1/8,06/03/08,Rangers,2-0,Werder Bremen
+1/8,06/03/08,Bolton,1-1,Sporting
+1/8,06/03/08,Bayer Leverkusen,1-0,Hamburger SV
+1/8,06/03/08,Tottenham,0-1,PSV
+1/8,06/03/08,Benfica,1-2,Getafe CF
+1/8,12/03/08,Zenit,2-0,Marseille
+1/8,12/03/08,Hamburger SV,3-2,Bayer Leverkusen
+1/8,12/03/08,Bayern München,1-2,Anderlecht
+1/8,12/03/08,Everton,2-0(2-4 Pen.),Fiorentina
+1/8,12/03/08,PSV,0-1(6-5 Pen.),Tottenham
+1/8,12/03/08,Getafe CF,1-0,Benfica
+1/8,13/03/08,Werder Bremen,1-0,Rangers
+1/8,13/03/08,Sporting,1-0,Bolton
+QF,03/04/08,Bayer Leverkusen,1-4,Zenit
+QF,03/04/08,Rangers,0-0,Sporting
+QF,03/04/08,Bayern München,1-1,Getafe CF
+QF,03/04/08,Fiorentina,1-1,PSV
+QF,10/04/08,Zenit,0-1,Bayer Leverkusen
+QF,10/04/08,Sporting,0-2,Rangers
+QF,10/04/08,Getafe CF,3-3(Pro.),Bayern München
+QF,10/04/08,PSV,0-2,Fiorentina
+SF,24/04/08,Bayern München,1-1,Zenit
+SF,24/04/08,Rangers,0-0,Fiorentina
+SF,01/05/08,Zenit,4-0,Bayern München
+SF,01/05/08,Fiorentina,0-0(2-4 Pen.),Rangers
+F,14/05/08,Zenit,2-0,Rangers

@@ -1,0 +1,106 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,10/01/09,Ferroviário,0-3,Horizonte
+1F,11/01/09,Ceará,2-1,Quixadá
+1F,11/01/09,Fortaleza,4-1,Itapipoca
+1F,11/01/09,Guarany de Sobral,1-3,Maranguape
+1F,11/01/09,Icasa,1-2,Boa Viagem
+1F,14/01/09,Fortaleza,1-1,Guarany de Sobral
+1F,14/01/09,Horizonte,1-0,Icasa
+1F,14/01/09,Itapipoca,1-1,Maranguape
+1F,15/01/09,Ceará,3-1,Boa Viagem
+1F,15/01/09,Quixadá,2-3,Ferroviário
+1F,17/01/09,Boa Viagem,1-2,Fortaleza
+1F,18/01/09,Ferroviário,1-1,Ceará
+1F,18/01/09,Itapipoca,3-2,Quixadá
+1F,18/01/09,Guarany de Sobral,2-0,Horizonte
+1F,18/01/09,Maranguape,3-2,Icasa
+1F,21/01/09,Boa Viagem,1-2,Ferroviário
+1F,21/01/09,Quixadá,1-4,Horizonte
+1F,22/01/09,Icasa,0-2,Fortaleza
+1F,22/01/09,Itapipoca,0-0,Guarany de Sobral
+1F,22/01/09,Ceará,2-2,Maranguape
+1F,24/01/09,Horizonte,1-1,Boa Viagem
+1F,25/01/09,Guarany de Sobral,2-2,Ceará
+1F,25/01/09,Fortaleza,0-2,Ferroviário
+1F,25/01/09,Maranguape,4-1,Quixadá
+1F,25/01/09,Icasa,4-0,Itapipoca
+1F,28/01/09,Ferroviário,1-1,Itapipoca
+1F,28/01/09,Boa Viagem,1-2,Quixadá
+1F,28/01/09,Guarany de Sobral,1-1,Icasa
+1F,28/01/09,Horizonte,1-3,Ceará
+1F,29/01/09,Maranguape,2-2,Fortaleza
+1F,31/01/09,Horizonte,2-2,Itapipoca
+1F,01/02/09,Icasa,3-4,Ferroviário
+1F,01/02/09,Fortaleza,1-2,Ceará
+1F,01/02/09,Boa Viagem,1-2,Maranguape
+1F,01/02/09,Quixadá,0-1,Guarany de Sobral
+1F,04/02/09,Ferroviário,1-0,Guarany de Sobral
+1F,04/02/09,Itapipoca,1-2,Boa Viagem
+1F,04/02/09,Quixadá,0-4,Fortaleza
+1F,05/02/09,Ceará,1-0,Icasa
+1F,05/02/09,Maranguape,1-3,Horizonte
+1F,08/02/09,Fortaleza,2-2,Horizonte
+1F,08/02/09,Icasa,1-1,Quixadá
+1F,08/02/09,Itapipoca,2-1,Ceará
+1F,08/02/09,Maranguape,3-3,Ferroviário
+1F,08/02/09,Guarany de Sobral,0-0,Boa Viagem
+SF,11/02/09,Maranguape,0-0,Ferroviário
+SF,12/02/09,Fortaleza,1-1,Ceará
+SF,14/02/09,Ferroviário,2-1,Maranguape
+SF,15/02/09,Ceará,1-0,Fortaleza
+F,19/02/09,Ferroviário,0-1,Ceará
+SF,21/02/09,Ceará,1-0,Ferroviário
+2F,25/02/09,Boa Viagem,2-1,Icasa
+2F,25/02/09,Horizonte,0-1,Guarany de Sobral
+2F,26/02/09,Quixadá,0-3,Maranguape
+2F,28/02/09,Fortaleza,2-0,Boa Viagem
+2F,28/02/09,Maranguape,2-2,Guarany de Sobral
+F,01/03/09,Ceará,1-0,Ferroviário
+2F,01/03/09,Icasa,3-0,Horizonte
+2F,04/03/09,Boa Viagem,2-1,Itapipoca
+2F,04/03/09,Guarany de Sobral,2-1,Quixadá
+2F,05/03/09,Horizonte,2-3,Ferroviário
+2F,07/03/09,Maranguape,4-0,Itapipoca
+2F,08/03/09,Quixadá,1-0,Ceará
+2F,08/03/09,Icasa,2-1,Guarany de Sobral
+2F,11/03/09,Fortaleza,4-2,Icasa
+2F,11/03/09,Ferroviário,2-0,Quixadá
+2F,11/03/09,Guarany de Sobral,3-0,Itapipoca
+2F,11/03/09,Boa Viagem,1-2,Ceará
+2F,12/03/09,Horizonte,0-0,Maranguape
+2F,14/03/09,Itapipoca,2-1,Icasa
+2F,15/03/09,Guarany de Sobral,1-0,Fortaleza
+2F,15/03/09,Ceará,1-4,Ferroviário
+2F,18/03/09,Fortaleza,2-0,Quixadá
+2F,18/03/09,Itapipoca,0-0,Ferroviário
+2F,19/03/09,Boa Viagem,3-2,Horizonte
+2F,21/03/09,Quixadá,1-0,Itapipoca
+2F,22/03/09,Guarany de Sobral,2-1,Ferroviário
+2F,22/03/09,Ceará,2-1,Fortaleza
+2F,22/03/09,Icasa,1-1,Maranguape
+2F,25/03/09,Ferroviário,1-3,Fortaleza
+2F,25/03/09,Maranguape,1-1,Ceará
+2F,26/03/09,Quixadá,2-0,Boa Viagem
+2F,28/03/09,Itapipoca,2-4,Fortaleza
+2F,28/03/09,Ceará,4-3,Guarany de Sobral
+2F,28/03/09,Horizonte,1-1,Quixadá
+2F,28/03/09,Maranguape,2-2,Boa Viagem
+2F,28/03/09,Ferroviário,2-0,Icasa
+2F,30/03/09,Ceará,2-1,Horizonte
+2F,31/03/09,Fortaleza,3-2,Maranguape
+2F,31/03/09,Ferroviário,2-2,Boa Viagem
+2F,02/04/09,Itapipoca,2-2,Horizonte
+2F,02/04/09,Icasa,3-2,Ceará
+2F,05/04/09,Ceará,1-2,Itapipoca
+2F,05/04/09,Ferroviário,1-1,Maranguape
+2F,05/04/09,Horizonte,1-1,Fortaleza
+2F,05/04/09,Boa Viagem,4-2,Guarany de Sobral
+2F,05/04/09,Quixadá,3-2,Icasa
+SF,08/04/09,Boa Viagem,0-3,Fortaleza
+SF,09/04/09,Ferroviário,0-0,Guarany de Sobral
+SF,12/04/09,Guarany de Sobral,1-0,Ferroviário
+SF,12/04/09,Fortaleza,3-2,Boa Viagem
+F,17/04/09,Guarany de Sobral,1-4,Fortaleza
+F,19/04/09,Fortaleza,2-2,Guarany de Sobral
+F,26/04/09,Ceará,1-2,Fortaleza
+F,03/05/09,Fortaleza,1-1,Ceará

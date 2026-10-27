@@ -1,0 +1,222 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,16/09/08,Hertha BSC,2-0,St. Patrick
+1,16/09/08,APOEL,1-4,Schalke 04
+1,16/09/08,Nordsjaelland,0-2,Olympiacos
+1,18/09/08,FK Moskva,1-2,FC Kobenhavn
+1,18/09/08,Litex Lovech,1-3,Aston Villa
+1,18/09/08,Cherno More,1-2,Stuttgart
+1,18/09/08,Slaven,1-2,CSKA Moskva
+1,18/09/08,Hapoel Tel Aviv,1-2,Saint-Étienne
+1,18/09/08,Baník Ostrava,0-1,Spartak Moskva
+1,18/09/08,Portsmouth,2-0,Vitória SC
+1,18/09/08,Wolfsburg,1-0,Rapid București
+1,18/09/08,Omonia,1-2,Manchester City
+1,18/09/08,Nancy,1-0,Motherwell
+1,18/09/08,Brann,2-0,Deportivo
+1,18/09/08,Feyenoord,0-1,Kalmar FF
+1,18/09/08,Hamburger SV,0-0,Unirea Urziceni
+1,18/09/08,Slavia Praha,0-0,FC Vaslui
+1,18/09/08,Besiktas,1-0,Metalist
+1,18/09/08,Austria Wien,2-1,Lech Poznan
+1,18/09/08,MSK Zilina,1-1,Levski Sofia
+1,18/09/08,Poli Timisoara,1-2,Partizan
+1,18/09/08,NEC,1-0,Dinamo Bucuresti
+1,18/09/08,Kayserispor,1-2,PSG
+1,18/09/08,Young Boys,2-2,Club Brugge
+1,18/09/08,Bellinzona,3-4,Galatasaray
+1,18/09/08,Racing Santander,1-0,FC Honka
+1,18/09/08,AC Milan,3-1,FC Zurich
+1,18/09/08,Sevilla FC,2-0,Red Bull Salzburg
+1,18/09/08,Sampdoria,5-0,Kaunas
+1,18/09/08,Dinamo Zagreb,0-0,Sparta Praha
+1,18/09/08,Brondby IF,1-2,Rosenborg
+1,18/09/08,Borussia Dortmund,0-2,Udinese
+1,18/09/08,Rennes,2-1,FC Twente
+1,18/09/08,Napoli,3-2,Benfica
+1,18/09/08,FK Borac Cacak,1-4,Ajax
+1,18/09/08,Everton,2-2,Standard Liège
+1,18/09/08,Tottenham,2-1,Wisla Kraków
+1,18/09/08,SC Braga,4-0,MFK Petrzalka
+1,18/09/08,Marítimo,0-1,Valencia CF
+1,18/09/08,Vitória FC,1-1,Heerenveen
+1,30/09/08,St. Patrick,0-0,Hertha BSC
+1,30/09/08,CSKA Moskva,1-0,Slaven
+1,02/10/08,Wisla Kraków,1-1,Tottenham
+1,02/10/08,Rapid București,1-1,Wolfsburg
+1,02/10/08,Spartak Moskva,1-1,Baník Ostrava
+1,02/10/08,Kaunas,1-2,Sampdoria
+1,02/10/08,Unirea Urziceni,0-2,Hamburger SV
+1,02/10/08,Schalke 04,1-1,APOEL
+1,02/10/08,Lech Poznan,4-2(Pro.),Austria Wien
+1,02/10/08,Stuttgart,2-2,Cherno More
+1,02/10/08,FC Honka,0-1,Racing Santander
+1,02/10/08,Levski Sofia,0-1,MSK Zilina
+1,02/10/08,Kalmar FF,1-2,Feyenoord
+1,02/10/08,Rosenborg,3-2,Brondby IF
+1,02/10/08,Partizan,1-0,Poli Timisoara
+1,02/10/08,Metalist,4-1,Besiktas
+1,02/10/08,Galatasaray,2-1,Bellinzona
+1,02/10/08,Saint-Étienne,2-1,Hapoel Tel Aviv
+1,02/10/08,Dinamo Bucuresti,0-0,NEC
+1,02/10/08,FC Vaslui,1-1,Slavia Praha
+1,02/10/08,Standard Liège,2-1,Everton
+1,02/10/08,Heerenveen,5-2,Vitória FC
+1,02/10/08,FC Twente,1-0,Rennes
+1,02/10/08,FC Zurich,0-1,AC Milan
+1,02/10/08,Sparta Praha,3-3,Dinamo Zagreb
+1,02/10/08,MFK Petrzalka,0-2,SC Braga
+1,02/10/08,Red Bull Salzburg,0-2,Sevilla FC
+1,02/10/08,Ajax,2-0,FK Borac Cacak
+1,02/10/08,Olympiacos,5-0,Nordsjaelland
+1,02/10/08,Manchester City,2-1,Omonia
+1,02/10/08,Club Brugge,2-0,Young Boys
+1,02/10/08,Motherwell,0-2,Nancy
+1,02/10/08,FC Kobenhavn,1-1,FK Moskva
+1,02/10/08,Udinese,0-2(4-3 Pen.),Borussia Dortmund
+1,02/10/08,PSG,0-0,Kayserispor
+1,02/10/08,Aston Villa,1-1,Litex Lovech
+1,02/10/08,Deportivo,2-0(3-2 Pen.),Brann
+1,02/10/08,Benfica,2-0,Napoli
+1,02/10/08,Valencia CF,2-1,Marítimo
+1,02/10/08,Vitória SC,2-2(Pro.),Portsmouth
+H,23/10/08,CSKA Moskva,3-0,Deportivo
+A,23/10/08,Schalke 04,3-1,PSG
+F,23/10/08,MSK Zilina,1-2,Hamburger SV
+D,23/10/08,Udinese,2-0,Tottenham
+A,23/10/08,FC Twente,1-0,Racing Santander
+B,23/10/08,Galatasaray,1-0,Olympiacos
+B,23/10/08,Hertha BSC,1-1,Benfica
+C,23/10/08,Sevilla FC,2-0,Stuttgart
+D,23/10/08,Dinamo Zagreb,3-2,NEC
+E,23/10/08,Heerenveen,1-3,AC Milan
+G,23/10/08,FC Kobenhavn,1-3,Saint-Étienne
+G,23/10/08,Rosenborg,0-0,Club Brugge
+H,23/10/08,Nancy,3-0,Feyenoord
+C,23/10/08,Partizan,1-2,Sampdoria
+E,23/10/08,SC Braga,3-0,Portsmouth
+F,23/10/08,Aston Villa,2-1,Ajax
+B,06/11/08,Metalist,0-0,Hertha BSC
+C,06/11/08,Stuttgart,2-0,Partizan
+D,06/11/08,Spartak Moskva,1-2,Udinese
+H,06/11/08,Lech Poznan,2-2,Nancy
+H,06/11/08,Feyenoord,1-3,CSKA Moskva
+E,06/11/08,Wolfsburg,5-1,Heerenveen
+B,06/11/08,Benfica,0-2,Galatasaray
+F,06/11/08,Ajax,1-0,MSK Zilina
+E,06/11/08,AC Milan,1-0,SC Braga
+A,06/11/08,Racing Santander,1-1,Schalke 04
+C,06/11/08,Standard Liège,1-0,Sevilla FC
+F,06/11/08,Slavia Praha,0-1,Aston Villa
+G,06/11/08,Saint-Étienne,3-0,Rosenborg
+D,06/11/08,Tottenham,4-0,Dinamo Zagreb
+G,06/11/08,Valencia CF,1-1,FC Kobenhavn
+A,06/11/08,Manchester City,3-2,FC Twente
+H,27/11/08,CSKA Moskva,2-1,Lech Poznan
+F,27/11/08,MSK Zilina,0-0,Slavia Praha
+A,27/11/08,Schalke 04,0-2,Manchester City
+B,27/11/08,Galatasaray,0-1,Metalist
+D,27/11/08,NEC,0-1,Tottenham
+B,27/11/08,Olympiacos,5-1,Benfica
+A,27/11/08,PSG,2-2,Racing Santander
+C,27/11/08,Sampdoria,1-1,Stuttgart
+C,27/11/08,Partizan,0-1,Standard Liège
+D,27/11/08,Dinamo Zagreb,0-1,Spartak Moskva
+G,27/11/08,Club Brugge,1-1,Saint-Étienne
+G,27/11/08,Rosenborg,0-4,Valencia CF
+F,27/11/08,Hamburger SV,0-1,Ajax
+H,27/11/08,Deportivo,3-0,Feyenoord
+E,27/11/08,Portsmouth,2-2,AC Milan
+E,27/11/08,SC Braga,2-3,Wolfsburg
+D,03/12/08,Udinese,2-1,Dinamo Zagreb
+D,03/12/08,Spartak Moskva,1-2,NEC
+A,03/12/08,FC Twente,2-1,Schalke 04
+A,03/12/08,Manchester City,0-0,PSG
+B,03/12/08,Hertha BSC,0-1,Galatasaray
+B,03/12/08,Metalist,1-0,Olympiacos
+C,03/12/08,Sevilla FC,3-0,Partizan
+C,03/12/08,Standard Liège,3-0,Sampdoria
+E,04/12/08,Heerenveen,1-2,SC Braga
+E,04/12/08,Wolfsburg,3-2,Portsmouth
+F,04/12/08,Slavia Praha,0-2,Hamburger SV
+F,04/12/08,Aston Villa,1-2,MSK Zilina
+G,04/12/08,Valencia CF,1-1,Club Brugge
+G,04/12/08,FC Kobenhavn,1-1,Rosenborg
+H,04/12/08,Nancy,3-4,CSKA Moskva
+H,04/12/08,Lech Poznan,1-1,Deportivo
+E,17/12/08,AC Milan,2-2,Wolfsburg
+E,17/12/08,Portsmouth,3-0,Heerenveen
+F,17/12/08,Hamburger SV,3-1,Aston Villa
+F,17/12/08,Ajax,2-2,Slavia Praha
+G,17/12/08,Club Brugge,0-1,FC Kobenhavn
+G,17/12/08,Saint-Étienne,2-2,Valencia CF
+H,17/12/08,Deportivo,1-0,Nancy
+H,17/12/08,Feyenoord,0-1,Lech Poznan
+B,18/12/08,Benfica,0-1,Metalist
+A,18/12/08,Racing Santander,3-1,Manchester City
+A,18/12/08,PSG,4-0,FC Twente
+B,18/12/08,Olympiacos,4-0,Hertha BSC
+C,18/12/08,Stuttgart,3-0,Standard Liège
+C,18/12/08,Sampdoria,1-0,Sevilla FC
+D,18/12/08,Tottenham,2-2,Spartak Moskva
+D,18/12/08,NEC,2-0,Udinese
+1/16,18/02/09,Zenit,2-1,Stuttgart
+1/16,18/02/09,Olympiacos,1-3,Saint-Étienne
+1/16,18/02/09,Dynamo Kyiv,1-1,Valencia CF
+1/16,18/02/09,Aston Villa,1-1,CSKA Moskva
+1/16,18/02/09,Werder Bremen,1-1,AC Milan
+1/16,18/02/09,PSG,2-0,Wolfsburg
+1/16,18/02/09,NEC,0-3,Hamburger SV
+1/16,18/02/09,Sampdoria,0-1,Metalist
+1/16,18/02/09,Bordeaux,0-0,Galatasaray
+1/16,18/02/09,Aalborg BK,3-0,Deportivo
+1/16,18/02/09,SC Braga,3-0,Standard Liège
+1/16,19/02/09,Lech Poznan,2-2,Udinese
+1/16,19/02/09,Shakhtar Donetsk,2-0,Tottenham
+1/16,19/02/09,FC Kobenhavn,2-2,Manchester City
+1/16,19/02/09,Fiorentina,0-1,Ajax
+1/16,19/02/09,Marseille,0-1,FC Twente
+1/16,26/02/09,Metalist,2-0,Sampdoria
+1/16,26/02/09,CSKA Moskva,2-0,Aston Villa
+1/16,26/02/09,Hamburger SV,1-0,NEC
+1/16,26/02/09,FC Twente,0-1(6-7 Pen.),Marseille
+1/16,26/02/09,Wolfsburg,1-3,PSG
+1/16,26/02/09,Galatasaray,4-3,Bordeaux
+1/16,26/02/09,Manchester City,2-1,FC Kobenhavn
+1/16,26/02/09,Standard Liège,1-1,SC Braga
+1/16,26/02/09,Udinese,2-1,Lech Poznan
+1/16,26/02/09,Ajax,1-1,Fiorentina
+1/16,26/02/09,AC Milan,2-2,Werder Bremen
+1/16,26/02/09,Stuttgart,1-2,Zenit
+1/16,26/02/09,Tottenham,1-1,Shakhtar Donetsk
+1/16,26/02/09,Saint-Étienne,2-1,Olympiacos
+1/16,26/02/09,Deportivo,1-3,Aalborg BK
+1/16,26/02/09,Valencia CF,2-2,Dynamo Kyiv
+1/8,12/03/09,CSKA Moskva,1-0,Shakhtar Donetsk
+1/8,12/03/09,Dynamo Kyiv,1-0,Metalist
+1/8,12/03/09,Hamburger SV,1-1,Galatasaray
+1/8,12/03/09,PSG,0-0,SC Braga
+1/8,12/03/09,Werder Bremen,1-0,Saint-Étienne
+1/8,12/03/09,Udinese,2-0,Zenit
+1/8,12/03/09,Manchester City,2-0,Aalborg BK
+1/8,12/03/09,Marseille,2-1,Ajax
+1/8,18/03/09,Saint-Étienne,2-2,Werder Bremen
+1/8,18/03/09,Ajax,2-2(Pro.),Marseille
+1/8,19/03/09,Metalist,3-2,Dynamo Kyiv
+1/8,19/03/09,Shakhtar Donetsk,2-0,CSKA Moskva
+1/8,19/03/09,Zenit,1-0,Udinese
+1/8,19/03/09,Galatasaray,2-3,Hamburger SV
+1/8,19/03/09,Aalborg BK,2-0(3-4 Pen.),Manchester City
+1/8,19/03/09,SC Braga,0-1,PSG
+QF,09/04/09,Shakhtar Donetsk,2-0,Marseille
+QF,09/04/09,Hamburger SV,3-1,Manchester City
+QF,09/04/09,PSG,0-0,Dynamo Kyiv
+QF,09/04/09,Werder Bremen,3-1,Udinese
+QF,16/04/09,Dynamo Kyiv,3-0,PSG
+QF,16/04/09,Manchester City,2-1,Hamburger SV
+QF,16/04/09,Marseille,1-2,Shakhtar Donetsk
+QF,16/04/09,Udinese,3-3,Werder Bremen
+SF,30/04/09,Dynamo Kyiv,1-1,Shakhtar Donetsk
+SF,30/04/09,Werder Bremen,0-1,Hamburger SV
+SF,07/05/09,Shakhtar Donetsk,2-1,Dynamo Kyiv
+SF,07/05/09,Hamburger SV,2-3,Werder Bremen
+F,20/05/09,Shakhtar Donetsk,2-1(Pro.),Werder Bremen

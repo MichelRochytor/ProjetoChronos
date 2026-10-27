@@ -1,0 +1,67 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,23/01/02,Tiradentes-SC,0-4,Lages
+A,22/01/03,Joinville,1-0,Tubarão FC
+A,22/01/03,Criciúma,1-0,Avaí
+A,22/01/03,Figueirense,0-2,Hermann Aichinger
+B,22/01/03,Marcílio Dias,2-1,Atlético Alto Vale
+B,22/01/03,Chapecoense,1-3,Caxias-SC
+A,25/01/03,Tubarão FC,4-2,Criciúma
+A,26/01/03,Hermann Aichinger,1-0,Joinville
+A,26/01/03,Avaí,1-1,Figueirense
+B,26/01/03,Lages,1-1,Marcílio Dias
+B,26/01/03,Caxias-SC,1-1,Tiradentes-SC
+B,26/01/03,Atlético Alto Vale,0-2,Chapecoense
+A,29/01/03,Joinville,1-0,Criciúma
+A,29/01/03,Figueirense,1-0,Tubarão FC
+B,29/01/03,Chapecoense,1-1,Tiradentes-SC
+B,29/01/03,Marcílio Dias,1-2,Caxias-SC
+B,29/01/03,Atlético Alto Vale,0-0,Lages
+A,29/01/03,Hermann Aichinger,1-1,Avaí
+A,01/02/03,Avaí,3-1,Joinville
+A,02/02/03,Tubarão FC,3-1,Hermann Aichinger
+A,02/02/03,Criciúma,3-2,Figueirense
+B,02/02/03,Lages,0-1,Chapecoense
+B,02/02/03,Caxias-SC,3-0,Atlético Alto Vale
+B,02/02/03,Tiradentes-SC,3-2,Marcílio Dias
+A,08/02/03,Avaí,3-1,Tubarão FC
+A,09/02/03,Figueirense,4-1,Joinville
+A,09/02/03,Hermann Aichinger,3-2,Criciúma
+B,09/02/03,Marcílio Dias,2-1,Chapecoense
+B,09/02/03,Atlético Alto Vale,2-2,Tiradentes-SC
+B,09/02/03,Lages,0-0,Caxias-SC
+A,12/02/03,Tubarão FC,0-3,Joinville
+A,12/02/03,Avaí,1-4,Criciúma
+A,12/02/03,Hermann Aichinger,0-1,Figueirense
+B,12/02/03,Caxias-SC,3-2,Chapecoense
+B,12/02/03,Lages,2-1,Tiradentes-SC
+B,12/02/03,Atlético Alto Vale,4-4,Marcílio Dias
+A,15/02/03,Joinville,4-1,Hermann Aichinger
+A,16/02/03,Figueirense,1-0,Avaí
+A,16/02/03,Criciúma,3-0,Tubarão FC
+B,16/02/03,Chapecoense,2-0,Atlético Alto Vale
+B,16/02/03,Marcílio Dias,5-2,Lages
+B,16/02/03,Tiradentes-SC,2-2,Caxias-SC
+A,22/02/03,Tubarão FC,0-5,Figueirense
+A,23/02/03,Criciúma,2-1,Joinville
+A,23/02/03,Avaí,2-0,Hermann Aichinger
+B,23/02/03,Tiradentes-SC,2-3,Chapecoense
+B,23/02/03,Caxias-SC,1-0,Marcílio Dias
+B,23/02/03,Lages,2-1,Atlético Alto Vale
+A,26/02/03,Joinville,2-1,Avaí
+A,26/02/03,Hermann Aichinger,2-2,Tubarão FC
+A,26/02/03,Figueirense,1-1,Criciúma
+B,26/02/03,Chapecoense,0-1,Lages
+B,26/02/03,Atlético Alto Vale,1-2,Caxias-SC
+B,26/02/03,Marcílio Dias,6-1,Tiradentes-SC
+A,01/03/03,Joinville,4-2,Figueirense
+A,01/03/03,Criciúma,4-1,Hermann Aichinger
+A,01/03/03,Tubarão FC,4-3,Avaí
+B,01/03/03,Chapecoense,2-1,Marcílio Dias
+B,01/03/03,Tiradentes-SC,3-2,Atlético Alto Vale
+B,01/03/03,Caxias-SC,3-1,Lages
+SF,05/03/03,Figueirense,3-1,Joinville
+SF,05/03/03,Caxias-SC,3-1,Criciúma
+SF,08/03/03,Joinville,2-2,Figueirense
+SF,09/03/03,Criciúma,1-1,Caxias-SC
+F,16/03/03,Caxias-SC,2-1,Figueirense
+F,23/03/03,Figueirense,2-1,Caxias-SC

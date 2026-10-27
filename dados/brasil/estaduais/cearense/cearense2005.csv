@@ -1,0 +1,103 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,09/01/05,Quixadá,2-0,Ceará
+1T,09/01/05,Fortaleza,2-1,Uniclinic
+1T,09/01/05,Limoeiro,0-1,Ferroviário
+1T,09/01/05,Itapipoca,1-2,Tiradentes-CE
+1T,09/01/05,Icasa,1-0,Guarani de Juazeiro
+1T,12/01/05,Fortaleza,1-0,Quixadá
+1T,12/01/05,Ceará,1-4,Itapipoca
+1T,12/01/05,Icasa,2-1,Limoeiro
+1T,13/01/05,Ferroviário,4-2,Uniclinic
+1T,13/01/05,Guarani de Juazeiro,2-0,Tiradentes-CE
+1T,16/01/05,Fortaleza,1-1,Ferroviário
+1T,16/01/05,Ceará,0-4,Uniclinic
+1T,16/01/05,Limoeiro,2-1,Guarani de Juazeiro
+1T,16/01/05,Quixadá,2-1,Tiradentes-CE
+1T,16/01/05,Icasa,1-0,Itapipoca
+1T,19/01/05,Ceará,2-0,Limoeiro
+1T,19/01/05,Tiradentes-CE,1-3,Fortaleza
+1T,19/01/05,Uniclinic,2-0,Itapipoca
+1T,20/01/05,Icasa,1-0,Ferroviário
+1T,20/01/05,Guarani de Juazeiro,1-1,Quixadá
+1T,23/01/05,Ceará,1-1,Fortaleza
+1T,23/01/05,Ferroviário,0-1,Quixadá
+1T,23/01/05,Uniclinic,0-0,Icasa
+1T,23/01/05,Itapipoca,1-1,Guarani de Juazeiro
+1T,23/01/05,Tiradentes-CE,0-0,Limoeiro
+1T,25/01/05,Ceará,2-1,Tiradentes-CE
+1T,25/01/05,Ferroviário,4-2,Guarani de Juazeiro
+1T,26/01/05,Icasa,1-1,Fortaleza
+1T,26/01/05,Itapipoca,4-2,Quixadá
+1T,26/01/05,Limoeiro,0-0,Uniclinic
+1T,27/01/05,Guarani de Juazeiro,2-3,Ceará
+1T,30/01/05,Ferroviário,3-2,Ceará
+1T,30/01/05,Fortaleza,6-0,Guarani de Juazeiro
+1T,30/01/05,Limoeiro,1-1,Itapipoca
+1T,30/01/05,Quixadá,1-2,Icasa
+1T,30/01/05,Tiradentes-CE,2-2,Uniclinic
+1T,02/02/05,Ferroviário,3-1,Itapipoca
+1T,02/02/05,Limoeiro,0-1,Fortaleza
+1T,02/02/05,Uniclinic,1-3,Quixadá
+1T,02/02/05,Tiradentes-CE,0-1,Icasa
+1T,05/02/05,Ceará,2-1,Icasa
+1T,05/02/05,Ferroviário,3-2,Tiradentes-CE
+1T,05/02/05,Guarani de Juazeiro,4-1,Uniclinic
+1T,05/02/05,Quixadá,1-2,Limoeiro
+1T,05/02/05,Itapipoca,2-1,Fortaleza
+SF,10/02/05,Fortaleza,1-1,Ferroviário
+SF,10/02/05,Quixadá,1-1,Icasa
+SF,13/02/05,Ferroviário,2-3,Fortaleza
+SF,13/02/05,Icasa,1-1,Quixadá
+2T,18/02/05,Tiradentes-CE,2-3,Itapipoca
+2T,18/02/05,Ferroviário,3-0,Limoeiro
+2T,19/02/05,Ceará,2-1,Guarani de Juazeiro
+2T,19/02/05,Uniclinic,0-2,Fortaleza
+F,20/02/05,Fortaleza,1-4,Icasa
+2T,22/02/05,Tiradentes-CE,1-2,Guarani de Juazeiro
+2T,23/02/05,Ceará,2-1,Quixadá
+2T,24/02/05,Fortaleza,0-0,Limoeiro
+2T,27/02/05,Uniclinic,1-1,Ferroviário
+2T,27/02/05,Quixadá,0-3,Fortaleza
+2T,27/02/05,Itapipoca,0-1,Ceará
+2T,27/02/05,Limoeiro,4-0,Tiradentes-CE
+2T,27/02/05,Guarani de Juazeiro,1-2,Icasa
+2T,02/03/05,Tiradentes-CE,1-1,Quixadá
+2T,02/03/05,Uniclinic,3-2,Ceará
+2T,02/03/05,Guarani de Juazeiro,3-1,Limoeiro
+2T,03/03/05,Ferroviário,4-0,Icasa
+2T,06/03/05,Ferroviário,1-2,Fortaleza
+2T,06/03/05,Itapipoca,0-3,Icasa
+2T,06/03/05,Limoeiro,3-1,Ceará
+2T,06/03/05,Quixadá,2-0,Guarani de Juazeiro
+2T,08/03/05,Limoeiro,0-3,Icasa
+2T,09/03/05,Quixadá,1-1,Ferroviário
+2T,09/03/05,Fortaleza,1-0,Tiradentes-CE
+2T,09/03/05,Itapipoca,2-0,Uniclinic
+2T,12/03/05,Guarani de Juazeiro,3-1,Ferroviário
+2T,13/03/05,Fortaleza,3-0,Ceará
+2T,13/03/05,Icasa,0-1,Uniclinic
+2T,13/03/05,Quixadá,2-1,Itapipoca
+2T,15/03/05,Guarani de Juazeiro,1-1,Itapipoca
+2T,16/03/05,Uniclinic,3-0,Limoeiro
+2T,16/03/05,Icasa,2-1,Tiradentes-CE
+2T,19/03/05,Icasa,2-1,Quixadá
+2T,20/03/05,Uniclinic,4-0,Tiradentes-CE
+2T,20/03/05,Ceará,3-1,Ferroviário
+2T,20/03/05,Guarani de Juazeiro,3-1,Fortaleza
+2T,20/03/05,Itapipoca,1-3,Limoeiro
+2T,23/03/05,Fortaleza,2-1,Icasa
+2T,23/03/05,Tiradentes-CE,2-4,Ceará
+2T,23/03/05,Itapipoca,2-0,Ferroviário
+2T,23/03/05,Quixadá,1-2,Uniclinic
+2T,26/03/05,Tiradentes-CE,2-3,Ferroviário
+2T,26/03/05,Fortaleza,3-3,Itapipoca
+2T,26/03/05,Icasa,1-0,Ceará
+2T,26/03/05,Uniclinic,2-1,Guarani de Juazeiro
+2T,26/03/05,Limoeiro,2-1,Quixadá
+SF,29/03/05,Ceará,2-2,Fortaleza
+SF,29/03/05,Icasa,2-0,Uniclinic
+SF,31/03/05,Uniclinic,1-0,Icasa
+SF,31/03/05,Fortaleza,2-1,Ceará
+F,03/04/05,Fortaleza,3-1,Uniclinic
+F,10/04/05,Fortaleza,1-3,Icasa
+F,17/04/05,Icasa,0-2,Fortaleza

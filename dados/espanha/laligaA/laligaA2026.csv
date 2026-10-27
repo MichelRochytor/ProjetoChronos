@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/08/26,Alavés,3-0,Getafe CF
+1,15/08/26,Sevilla FC,2-1,Rayo Vallecano
+1,16/08/26,Racing Santander,2-2,Villarreal CF
+1,16/08/26,Espanyol,3-0,Levante
+1,17/08/26,Deportivo,1-1,Elche CF
+1,19/08/26,Atlético de Madrid,2-0,Málaga CF
+2,20/08/26,Rayo Vallecano,1-1,Alavés
+2,21/08/26,Real Betis,1-0,Real Sociedad
+2,22/08/26,Athletic Bilbao,1-3,Sevilla FC
+2,22/08/26,Valencia CF,0-0,Celta de Vigo
+2,22/08/26,Espanyol,1-2,Real Madrid
+2,23/08/26,Atlético de Madrid,2-2,Villarreal CF
+2,23/08/26,Getafe CF,1-0,Racing Santander
+2,23/08/26,Elche CF,0-5,Barcelona
+2,24/08/26,Osasuna,0-0,Levante
+2,24/08/26,Málaga CF,1-1,Deportivo
+1,25/08/26,Valencia CF,0-1,Real Betis
+1,26/08/26,Real Madrid,4-1,Real Sociedad
+1,27/08/26,Barcelona,2-0,Athletic Bilbao
+1,27/08/26,Celta de Vigo,1-2,Osasuna
+3,28/08/26,Racing Santander,3-2,Elche CF
+3,28/08/26,Alavés,1-0,Villarreal CF
+3,29/08/26,Levante,5-2,Real Betis
+3,29/08/26,Real Sociedad,2-1,Espanyol
+3,29/08/26,Sevilla FC,1-3,Atlético de Madrid
+3,30/08/26,Real Madrid,4-0,Málaga CF
+3,30/08/26,Deportivo,3-1,Valencia CF
+3,30/08/26,Celta de Vigo,0-2,Athletic Bilbao
+3,31/08/26,Osasuna,1-0,Getafe CF
+3,31/08/26,Barcelona,5-2,Rayo Vallecano
+6,03/09/26,Real Sociedad,0-0,Celta de Vigo
+4,04/09/26,Real Betis,1-0,Real Madrid
+4,05/09/26,Athletic Bilbao,3-0,Atlético de Madrid
+4,05/09/26,Rayo Vallecano,3-2,Racing Santander
+4,05/09/26,Villarreal CF,2-3,Deportivo
+4,06/09/26,Valencia CF,0-5,Barcelona
+4,06/09/26,Alavés,5-2,Osasuna
+4,06/09/26,Málaga CF,0-0,Levante
+4,06/09/26,Espanyol,1-1,Sevilla FC
+4,07/09/26,Getafe CF,1-1,Celta de Vigo
+4,07/09/26,Elche CF,2-3,Real Sociedad
+5,11/09/26,Sevilla FC,1-0,Valencia CF
+5,12/09/26,Racing Santander,2-1,Alavés
+5,12/09/26,Osasuna,0-2,Espanyol
+5,12/09/26,Athletic Bilbao,1-1,Elche CF
+5,12/09/26,Real Madrid,4-1,Rayo Vallecano
+5,13/09/26,Celta de Vigo,1-1,Málaga CF
+5,13/09/26,Levante,2-4,Barcelona
+5,13/09/26,Getafe CF,1-1,Deportivo
+5,13/09/26,Real Sociedad,0-3,Atlético de Madrid
+5,14/09/26,Villarreal CF,1-2,Real Betis
+6,15/09/26,Rayo Vallecano,2-1,Espanyol
+6,15/09/26,Alavés,0-1,Valencia CF
+6,15/09/26,Elche CF,2-3,Real Madrid
+6,16/09/26,Atlético de Madrid,4-0,Osasuna
+6,16/09/26,Deportivo,0-1,Sevilla FC
+6,16/09/26,Barcelona,7-2,Racing Santander
+6,17/09/26,Real Betis,1-0,Getafe CF
+6,17/09/26,Málaga CF,1-3,Villarreal CF
+7,18/09/26,Espanyol,1-3,Elche CF
+7,19/09/26,Osasuna,1-1,Rayo Vallecano
+7,19/09/26,Athletic Bilbao,0-0,Alavés
+7,19/09/26,Celta de Vigo,5-0,Racing Santander
+7,19/09/26,Sevilla FC,1-3,Barcelona
+7,20/09/26,Getafe CF,1-0,Málaga CF
+7,20/09/26,Atlético de Madrid,2-1,Real Madrid
+7,20/09/26,Deportivo,1-1,Real Betis
+7,20/09/26,Villarreal CF,3-1,Levante
+7,20/09/26,Valencia CF,2-3,Real Sociedad
+8,09/10/26,Málaga CF,1-1,Espanyol
+8,10/10/26,Rayo Vallecano,SUSP,Athletic Bilbao
+8,10/10/26,Alavés,1-2,Atlético de Madrid
+8,10/10/26,Barcelona,3-0,Getafe CF
+8,10/10/26,Real Madrid,1-0,Villarreal CF
+8,11/10/26,Elche CF,0-0,Celta de Vigo
+8,11/10/26,Real Sociedad,3-2,Deportivo
+8,11/10/26,Real Betis,5-2,Osasuna
+8,11/10/26,Racing Santander,2-2,Valencia CF
+8,12/10/26,Levante,3-3,Sevilla FC
+9,16/10/26,Deportivo,1-1,Levante
+9,17/10/26,Espanyol,0-1,Atlético de Madrid
+9,17/10/26,Villarreal CF,0-0,Elche CF
+9,17/10/26,Real Betis,2-5,Barcelona
+9,17/10/26,Valencia CF,0-0,Athletic Bilbao
+9,18/10/26,Osasuna,2-0,Racing Santander
+9,18/10/26,Celta de Vigo,2-1,Alavés
+9,18/10/26,Málaga CF,2-5,Real Sociedad
+9,18/10/26,Real Madrid,4-1,Sevilla FC
+9,19/10/26,Getafe CF,1-1,Rayo Vallecano
+6,21/10/26,Levante,3-1,Athletic Bilbao
+10,23/10/26,Alavés,1-1,Málaga CF
+10,24/10/26,Rayo Vallecano,0-3,Elche CF
+10,24/10/26,Racing Santander,2-1,Espanyol
+10,24/10/26,Valencia CF,1-2,Villarreal CF
+10,24/10/26,Atlético de Madrid,1-0,Deportivo
+10,25/10/26,Athletic Bilbao,4-0,Getafe CF
+10,25/10/26,Celta de Vigo,vs,Real Betis
+10,25/10/26,Real Sociedad,vs,Levante
+10,25/10/26,Barcelona,vs,Real Madrid
+10,26/10/26,Sevilla FC,vs,Osasuna
+11,30/10/26,Villarreal CF,vs,Espanyol
+11,31/10/26,Levante,vs,Atlético de Madrid
+11,31/10/26,Rayo Vallecano,vs,Celta de Vigo
+11,31/10/26,Real Betis,vs,Málaga CF
+11,31/10/26,Barcelona,vs,Alavés
+11,01/11/26,Getafe CF,vs,Sevilla FC
+11,01/11/26,Racing Santander,vs,Real Madrid
+11,01/11/26,Elche CF,vs,Valencia CF
+11,01/11/26,Athletic Bilbao,vs,Real Sociedad
+11,02/11/26,Deportivo,vs,Osasuna
+12,06/11/26,Sevilla FC,vs,Alavés
+12,07/11/26,Málaga CF,vs,Racing Santander
+12,07/11/26,Espanyol,vs,Deportivo
+12,07/11/26,Osasuna,vs,Athletic Bilbao
+12,07/11/26,Valencia CF,vs,Real Madrid
+12,08/11/26,Elche CF,vs,Real Betis
+12,08/11/26,Real Sociedad,vs,Rayo Vallecano
+12,08/11/26,Celta de Vigo,vs,Levante
+12,08/11/26,Villarreal CF,vs,Getafe CF
+12,08/11/26,Atlético de Madrid,vs,Barcelona
+13,20/11/26,Athletic Bilbao,vs,Espanyol
+13,21/11/26,Alavés,vs,Deportivo
+13,21/11/26,Rayo Vallecano,vs,Valencia CF
+13,21/11/26,Sevilla FC,vs,Real Betis
+13,21/11/26,Real Madrid,vs,Celta de Vigo
+13,22/11/26,Barcelona,vs,Villarreal CF
+13,22/11/26,Racing Santander,vs,Real Sociedad
+13,22/11/26,Osasuna,vs,Málaga CF
+13,22/11/26,Getafe CF,vs,Atlético de Madrid
+13,23/11/26,Levante,vs,Elche CF
+14,29/11/26,Real Betis,vs,Rayo Vallecano
+14,29/11/26,Celta de Vigo,vs,Villarreal CF
+14,29/11/26,Deportivo,vs,Barcelona
+14,29/11/26,Elche CF,vs,Atlético de Madrid
+14,29/11/26,Espanyol,vs,Getafe CF
+14,29/11/26,Levante,vs,Racing Santander
+14,29/11/26,Málaga CF,vs,Athletic Bilbao
+14,29/11/26,Real Madrid,vs,Alavés
+14,29/11/26,Real Sociedad,vs,Sevilla FC
+14,29/11/26,Valencia CF,vs,Osasuna
+15,06/12/26,Alavés,vs,Espanyol
+15,06/12/26,Athletic Bilbao,vs,Real Madrid
+15,06/12/26,Atlético de Madrid,vs,Real Betis
+15,06/12/26,Barcelona,vs,Celta de Vigo
+15,06/12/26,Getafe CF,vs,Valencia CF
+15,06/12/26,Osasuna,vs,Elche CF
+15,06/12/26,Racing Santander,vs,Deportivo
+15,06/12/26,Rayo Vallecano,vs,Levante
+15,06/12/26,Sevilla FC,vs,Málaga CF
+15,06/12/26,Villarreal CF,vs,Real Sociedad
+16,13/12/26,Atlético de Madrid,vs,Valencia CF
+16,13/12/26,Real Betis,vs,Racing Santander
+16,13/12/26,Deportivo,vs,Athletic Bilbao
+16,13/12/26,Elche CF,vs,Sevilla FC
+16,13/12/26,Espanyol,vs,Celta de Vigo
+16,13/12/26,Levante,vs,Alavés
+16,13/12/26,Málaga CF,vs,Barcelona
+16,13/12/26,Real Madrid,vs,Osasuna
+16,13/12/26,Real Sociedad,vs,Getafe CF
+16,13/12/26,Villarreal CF,vs,Rayo Vallecano
+17,20/12/26,Alavés,vs,Elche CF
+17,20/12/26,Athletic Bilbao,vs,Real Betis
+17,20/12/26,Barcelona,vs,Real Sociedad
+17,20/12/26,Celta de Vigo,vs,Atlético de Madrid
+17,20/12/26,Deportivo,vs,Real Madrid
+17,20/12/26,Getafe CF,vs,Levante
+17,20/12/26,Osasuna,vs,Villarreal CF
+17,20/12/26,Rayo Vallecano,vs,Málaga CF
+17,20/12/26,Sevilla FC,vs,Racing Santander
+17,20/12/26,Valencia CF,vs,Espanyol
+18,03/01/27,Real Betis,vs,Alavés
+18,03/01/27,Celta de Vigo,vs,Deportivo
+18,03/01/27,Espanyol,vs,Barcelona
+18,03/01/27,Levante,vs,Valencia CF
+18,03/01/27,Málaga CF,vs,Elche CF
+18,03/01/27,Racing Santander,vs,Athletic Bilbao
+18,03/01/27,Rayo Vallecano,vs,Atlético de Madrid
+18,03/01/27,Real Madrid,vs,Getafe CF
+18,03/01/27,Real Sociedad,vs,Osasuna
+18,03/01/27,Villarreal CF,vs,Sevilla FC
+19,10/01/27,Alavés,vs,Real Sociedad
+19,10/01/27,Athletic Bilbao,vs,Villarreal CF
+19,10/01/27,Atlético de Madrid,vs,Racing Santander
+19,10/01/27,Deportivo,vs,Rayo Vallecano
+19,10/01/27,Elche CF,vs,Getafe CF
+19,10/01/27,Espanyol,vs,Real Betis
+19,10/01/27,Osasuna,vs,Barcelona
+19,10/01/27,Real Madrid,vs,Levante
+19,10/01/27,Sevilla FC,vs,Celta de Vigo
+19,10/01/27,Valencia CF,vs,Málaga CF
+20,17/01/27,Atlético de Madrid,vs,Real Sociedad
+20,17/01/27,Barcelona,vs,Elche CF
+20,17/01/27,Real Betis,vs,Deportivo
+20,17/01/27,Celta de Vigo,vs,Valencia CF
+20,17/01/27,Getafe CF,vs,Athletic Bilbao
+20,17/01/27,Levante,vs,Espanyol
+20,17/01/27,Málaga CF,vs,Real Madrid
+20,17/01/27,Racing Santander,vs,Osasuna
+20,17/01/27,Rayo Vallecano,vs,Sevilla FC
+20,17/01/27,Villarreal CF,vs,Alavés
+21,24/01/27,Alavés,vs,Barcelona
+21,24/01/27,Athletic Bilbao,vs,Levante
+21,24/01/27,Deportivo,vs,Atlético de Madrid
+21,24/01/27,Elche CF,vs,Rayo Vallecano
+21,24/01/27,Espanyol,vs,Villarreal CF
+21,24/01/27,Getafe CF,vs,Osasuna
+21,24/01/27,Racing Santander,vs,Celta de Vigo
+21,24/01/27,Real Madrid,vs,Real Betis
+21,24/01/27,Real Sociedad,vs,Málaga CF
+21,24/01/27,Valencia CF,vs,Sevilla FC
+22,31/01/27,Atlético de Madrid,vs,Espanyol
+22,31/01/27,Barcelona,vs,Valencia CF
+22,31/01/27,Real Betis,vs,Elche CF
+22,31/01/27,Celta de Vigo,vs,Getafe CF
+22,31/01/27,Levante,vs,Real Sociedad
+22,31/01/27,Málaga CF,vs,Alavés
+22,31/01/27,Osasuna,vs,Deportivo
+22,31/01/27,Rayo Vallecano,vs,Real Madrid
+22,31/01/27,Sevilla FC,vs,Athletic Bilbao
+22,31/01/27,Villarreal CF,vs,Racing Santander
+23,07/02/27,Alavés,vs,Celta de Vigo
+23,07/02/27,Athletic Bilbao,vs,Osasuna
+23,07/02/27,Barcelona,vs,Atlético de Madrid
+23,07/02/27,Real Betis,vs,Sevilla FC
+23,07/02/27,Deportivo,vs,Málaga CF
+23,07/02/27,Elche CF,vs,Levante
+23,07/02/27,Espanyol,vs,Rayo Vallecano
+23,07/02/27,Getafe CF,vs,Villarreal CF
+23,07/02/27,Real Sociedad,vs,Real Madrid
+23,07/02/27,Valencia CF,vs,Racing Santander
+24,14/02/27,Celta de Vigo,vs,Rayo Vallecano
+24,14/02/27,Elche CF,vs,Deportivo
+24,14/02/27,Levante,vs,Málaga CF
+24,14/02/27,Osasuna,vs,Atlético de Madrid
+24,14/02/27,Racing Santander,vs,Getafe CF
+24,14/02/27,Real Madrid,vs,Athletic Bilbao
+24,14/02/27,Real Sociedad,vs,Real Betis
+24,14/02/27,Sevilla FC,vs,Espanyol
+24,14/02/27,Valencia CF,vs,Alavés
+24,14/02/27,Villarreal CF,vs,Barcelona
+25,21/02/27,Alavés,vs,Racing Santander
+25,21/02/27,Athletic Bilbao,vs,Celta de Vigo
+25,21/02/27,Atlético de Madrid,vs,Elche CF
+25,21/02/27,Barcelona,vs,Levante
+25,21/02/27,Deportivo,vs,Real Sociedad
+25,21/02/27,Espanyol,vs,Osasuna
+25,21/02/27,Málaga CF,vs,Real Betis
+25,21/02/27,Rayo Vallecano,vs,Getafe CF
+25,21/02/27,Sevilla FC,vs,Real Madrid
+25,21/02/27,Villarreal CF,vs,Valencia CF
+26,28/02/27,Athletic Bilbao,vs,Barcelona
+26,28/02/27,Real Betis,vs,Villarreal CF
+26,28/02/27,Celta de Vigo,vs,Espanyol
+26,28/02/27,Getafe CF,vs,Alavés
+26,28/02/27,Levante,vs,Deportivo
+26,28/02/27,Málaga CF,vs,Atlético de Madrid
+26,28/02/27,Osasuna,vs,Sevilla FC
+26,28/02/27,Racing Santander,vs,Rayo Vallecano
+26,28/02/27,Real Madrid,vs,Valencia CF
+26,28/02/27,Real Sociedad,vs,Elche CF
+27,07/03/27,Alavés,vs,Athletic Bilbao
+27,07/03/27,Atlético de Madrid,vs,Celta de Vigo
+27,07/03/27,Barcelona,vs,Real Betis
+27,07/03/27,Deportivo,vs,Getafe CF
+27,07/03/27,Elche CF,vs,Málaga CF
+27,07/03/27,Espanyol,vs,Racing Santander
+27,07/03/27,Rayo Vallecano,vs,Osasuna
+27,07/03/27,Sevilla FC,vs,Real Sociedad
+27,07/03/27,Valencia CF,vs,Levante
+27,07/03/27,Villarreal CF,vs,Real Madrid
+28,14/03/27,Alavés,vs,Sevilla FC
+28,14/03/27,Athletic Bilbao,vs,Valencia CF
+28,14/03/27,Barcelona,vs,Deportivo
+28,14/03/27,Real Betis,vs,Levante
+28,14/03/27,Elche CF,vs,Villarreal CF
+28,14/03/27,Getafe CF,vs,Real Sociedad
+28,14/03/27,Málaga CF,vs,Rayo Vallecano
+28,14/03/27,Osasuna,vs,Celta de Vigo
+28,14/03/27,Racing Santander,vs,Atlético de Madrid
+28,14/03/27,Real Madrid,vs,Espanyol
+29,21/03/27,Atlético de Madrid,vs,Getafe CF
+29,21/03/27,Celta de Vigo,vs,Real Madrid
+29,21/03/27,Espanyol,vs,Athletic Bilbao
+29,21/03/27,Levante,vs,Osasuna
+29,21/03/27,Racing Santander,vs,Real Betis
+29,21/03/27,Rayo Vallecano,vs,Barcelona
+29,21/03/27,Real Sociedad,vs,Alavés
+29,21/03/27,Sevilla FC,vs,Elche CF
+29,21/03/27,Valencia CF,vs,Deportivo
+29,21/03/27,Villarreal CF,vs,Málaga CF
+30,04/04/27,Athletic Bilbao,vs,Racing Santander
+30,04/04/27,Barcelona,vs,Sevilla FC
+30,04/04/27,Real Betis,vs,Celta de Vigo
+30,04/04/27,Deportivo,vs,Villarreal CF
+30,04/04/27,Elche CF,vs,Alavés
+30,04/04/27,Getafe CF,vs,Espanyol
+30,04/04/27,Levante,vs,Rayo Vallecano
+30,04/04/27,Málaga CF,vs,Osasuna
+30,04/04/27,Real Madrid,vs,Atlético de Madrid
+30,04/04/27,Real Sociedad,vs,Valencia CF
+31,11/04/27,Alavés,vs,Real Betis
+31,11/04/27,Atlético de Madrid,vs,Levante
+31,11/04/27,Celta de Vigo,vs,Elche CF
+31,11/04/27,Espanyol,vs,Málaga CF
+31,11/04/27,Osasuna,vs,Real Madrid
+31,11/04/27,Racing Santander,vs,Barcelona
+31,11/04/27,Rayo Vallecano,vs,Real Sociedad
+31,11/04/27,Sevilla FC,vs,Deportivo
+31,11/04/27,Valencia CF,vs,Getafe CF
+31,11/04/27,Villarreal CF,vs,Athletic Bilbao
+32,18/04/27,Alavés,vs,Rayo Vallecano
+32,18/04/27,Atlético de Madrid,vs,Sevilla FC
+32,18/04/27,Barcelona,vs,Espanyol
+32,18/04/27,Real Betis,vs,Athletic Bilbao
+32,18/04/27,Deportivo,vs,Celta de Vigo
+32,18/04/27,Elche CF,vs,Osasuna
+32,18/04/27,Getafe CF,vs,Real Madrid
+32,18/04/27,Levante,vs,Villarreal CF
+32,18/04/27,Málaga CF,vs,Valencia CF
+32,18/04/27,Real Sociedad,vs,Racing Santander
+33,21/04/27,Athletic Bilbao,vs,Deportivo
+33,21/04/27,Celta de Vigo,vs,Barcelona
+33,21/04/27,Espanyol,vs,Real Sociedad
+33,21/04/27,Getafe CF,vs,Real Betis
+33,21/04/27,Osasuna,vs,Alavés
+33,21/04/27,Racing Santander,vs,Málaga CF
+33,21/04/27,Real Madrid,vs,Elche CF
+33,21/04/27,Sevilla FC,vs,Levante
+33,21/04/27,Valencia CF,vs,Rayo Vallecano
+33,21/04/27,Villarreal CF,vs,Atlético de Madrid
+34,02/05/27,Atlético de Madrid,vs,Alavés
+34,02/05/27,Barcelona,vs,Osasuna
+34,02/05/27,Real Betis,vs,Valencia CF
+34,02/05/27,Celta de Vigo,vs,Sevilla FC
+34,02/05/27,Deportivo,vs,Racing Santander
+34,02/05/27,Elche CF,vs,Espanyol
+34,02/05/27,Levante,vs,Real Madrid
+34,02/05/27,Málaga CF,vs,Getafe CF
+34,02/05/27,Rayo Vallecano,vs,Villarreal CF
+34,02/05/27,Real Sociedad,vs,Athletic Bilbao
+35,09/05/27,Alavés,vs,Levante
+35,09/05/27,Athletic Bilbao,vs,Málaga CF
+35,09/05/27,Real Betis,vs,Espanyol
+35,09/05/27,Getafe CF,vs,Elche CF
+35,09/05/27,Osasuna,vs,Real Sociedad
+35,09/05/27,Racing Santander,vs,Sevilla FC
+35,09/05/27,Rayo Vallecano,vs,Deportivo
+35,09/05/27,Real Madrid,vs,Barcelona
+35,09/05/27,Valencia CF,vs,Atlético de Madrid
+35,09/05/27,Villarreal CF,vs,Celta de Vigo
+36,16/05/27,Atlético de Madrid,vs,Rayo Vallecano
+36,16/05/27,Deportivo,vs,Alavés
+36,16/05/27,Elche CF,vs,Athletic Bilbao
+36,16/05/27,Espanyol,vs,Valencia CF
+36,16/05/27,Levante,vs,Getafe CF
+36,16/05/27,Málaga CF,vs,Celta de Vigo
+36,16/05/27,Osasuna,vs,Real Betis
+36,16/05/27,Real Madrid,vs,Racing Santander
+36,16/05/27,Real Sociedad,vs,Barcelona
+36,16/05/27,Sevilla FC,vs,Villarreal CF
+37,23/05/27,Alavés,vs,Real Madrid
+37,23/05/27,Atlético de Madrid,vs,Athletic Bilbao
+37,23/05/27,Barcelona,vs,Málaga CF
+37,23/05/27,Celta de Vigo,vs,Real Sociedad
+37,23/05/27,Deportivo,vs,Espanyol
+37,23/05/27,Racing Santander,vs,Levante
+37,23/05/27,Rayo Vallecano,vs,Real Betis
+37,23/05/27,Sevilla FC,vs,Getafe CF
+37,23/05/27,Valencia CF,vs,Elche CF
+37,23/05/27,Villarreal CF,vs,Osasuna
+38,30/05/27,Athletic Bilbao,vs,Rayo Vallecano
+38,30/05/27,Real Betis,vs,Atlético de Madrid
+38,30/05/27,Elche CF,vs,Racing Santander
+38,30/05/27,Espanyol,vs,Alavés
+38,30/05/27,Getafe CF,vs,Barcelona
+38,30/05/27,Levante,vs,Celta de Vigo
+38,30/05/27,Málaga CF,vs,Sevilla FC
+38,30/05/27,Osasuna,vs,Valencia CF
+38,30/05/27,Real Madrid,vs,Deportivo
+38,30/05/27,Real Sociedad,vs,Villarreal CF

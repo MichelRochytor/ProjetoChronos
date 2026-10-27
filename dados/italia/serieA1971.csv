@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,02/10/71,Cagliari,3-1,Hellas Verona
+1,02/10/71,Fiorentina,2-1,Napoli
+1,02/10/71,Internazionale,2-0,Atalanta
+1,02/10/71,Juventus,4-2,Catanzaro
+1,02/10/71,AC Mantova,1-2,Torino
+1,02/10/71,Roma,1-0,Lanerossi Vicenza
+1,02/10/71,Sampdoria,2-1,Bologna
+1,02/10/71,Varese,0-1,AC Milan
+2,16/10/71,Atalanta,2-1,Cagliari
+2,16/10/71,Bologna,1-0,Varese
+2,16/10/71,Catanzaro,0-2,Internazionale
+2,16/10/71,Hellas Verona,1-0,Juventus
+2,16/10/71,AC Milan,2-0,Fiorentina
+2,16/10/71,Napoli,1-0,AC Mantova
+2,16/10/71,Roma,1-0,Sampdoria
+2,16/10/71,Torino,2-1,Lanerossi Vicenza
+3,23/10/71,Cagliari,0-0,Catanzaro
+3,23/10/71,Fiorentina,2-0,Roma
+3,23/10/71,Internazionale,4-1,Hellas Verona
+3,23/10/71,Juventus,1-0,Atalanta
+3,23/10/71,Lanerossi Vicenza,0-2,AC Milan
+3,23/10/71,AC Mantova,1-1,Bologna
+3,23/10/71,Napoli,0-0,Sampdoria
+3,23/10/71,Varese,2-2,Torino
+4,30/10/71,Atalanta,3-1,Fiorentina
+4,30/10/71,Bologna,2-1,Lanerossi Vicenza
+4,30/10/71,Hellas Verona,1-0,AC Mantova
+4,30/10/71,AC Milan,1-4,Juventus
+4,30/10/71,Roma,3-1,Internazionale
+4,30/10/71,Sampdoria,1-1,Catanzaro
+4,30/10/71,Torino,1-0,Cagliari
+4,30/10/71,Varese,0-1,Napoli
+5,06/11/71,Cagliari,2-1,Napoli
+5,06/11/71,Catanzaro,1-1,Varese
+5,06/11/71,Fiorentina,2-1,Bologna
+5,06/11/71,Internazionale,2-0,Torino
+5,06/11/71,Juventus,2-1,Roma
+5,06/11/71,Lanerossi Vicenza,2-1,Hellas Verona
+5,06/11/71,AC Mantova,1-0,Atalanta
+5,06/11/71,Sampdoria,0-2,AC Milan
+6,13/11/71,Atalanta,1-3,Lanerossi Vicenza
+6,13/11/71,Bologna,1-2,Juventus
+6,13/11/71,Hellas Verona,0-0,Fiorentina
+6,13/11/71,AC Mantova,1-1,Catanzaro
+6,13/11/71,AC Milan,0-0,Cagliari
+6,13/11/71,Napoli,0-0,Internazionale
+6,13/11/71,Torino,2-0,Sampdoria
+6,13/11/71,Varese,1-3,Roma
+7,27/11/71,Cagliari,2-1,Bologna
+7,27/11/71,Catanzaro,1-1,Lanerossi Vicenza
+7,27/11/71,Fiorentina,1-1,Torino
+7,27/11/71,Internazionale,2-3,AC Milan
+7,27/11/71,Juventus,2-2,Napoli
+7,27/11/71,Roma,3-1,AC Mantova
+7,27/11/71,Sampdoria,1-0,Atalanta
+7,27/11/71,Varese,0-0,Hellas Verona
+8,04/12/71,Atalanta,1-0,Varese
+8,04/12/71,Bologna,0-3,Internazionale
+8,04/12/71,Catanzaro,0-2,Fiorentina
+8,04/12/71,Juventus,2-1,Torino
+8,04/12/71,Lanerossi Vicenza,6-2,Napoli
+8,04/12/71,AC Milan,0-1,AC Mantova
+8,04/12/71,Roma,2-2,Cagliari
+8,04/12/71,Sampdoria,1-0,Hellas Verona
+9,11/12/71,Bologna,0-2,AC Milan
+9,11/12/71,Fiorentina,2-1,Lanerossi Vicenza
+9,11/12/71,Hellas Verona,1-2,Atalanta
+9,11/12/71,Internazionale,0-0,Cagliari
+9,11/12/71,AC Mantova,1-2,Sampdoria
+9,11/12/71,Napoli,4-0,Roma
+9,11/12/71,Torino,1-0,Catanzaro
+9,11/12/71,Varese,0-1,Juventus
+10,18/12/71,Atalanta,1-0,Catanzaro
+10,18/12/71,Cagliari,0-0,Fiorentina
+10,18/12/71,Hellas Verona,0-0,Bologna
+10,18/12/71,Juventus,3-1,Sampdoria
+10,18/12/71,Lanerossi Vicenza,0-4,Internazionale
+10,18/12/71,AC Mantova,2-2,Varese
+10,18/12/71,AC Milan,3-0,Roma
+10,18/12/71,Napoli,1-1,Torino
+11,25/12/71,Atalanta,0-0,Torino
+11,25/12/71,Catanzaro,0-0,Napoli
+11,25/12/71,Fiorentina,0-0,Internazionale
+11,25/12/71,Juventus,2-1,AC Mantova
+11,25/12/71,Lanerossi Vicenza,0-1,Cagliari
+11,25/12/71,AC Milan,2-0,Hellas Verona
+11,25/12/71,Roma,1-0,Bologna
+11,25/12/71,Sampdoria,2-0,Varese
+12,01/01/72,Bologna,2-1,Catanzaro
+12,01/01/72,Hellas Verona,1-1,Napoli
+12,01/01/72,Internazionale,0-0,Juventus
+12,01/01/72,AC Mantova,1-2,Fiorentina
+12,01/01/72,Roma,1-0,Atalanta
+12,01/01/72,Sampdoria,1-1,Lanerossi Vicenza
+12,01/01/72,Torino,0-0,AC Milan
+12,01/01/72,Varese,0-2,Cagliari
+13,08/01/72,Atalanta,0-0,Bologna
+13,08/01/72,Cagliari,2-1,Juventus
+13,08/01/72,Catanzaro,1-1,Roma
+13,08/01/72,Fiorentina,1-0,Varese
+13,08/01/72,Internazionale,4-4,Sampdoria
+13,08/01/72,Lanerossi Vicenza,1-0,AC Mantova
+13,08/01/72,Napoli,0-0,AC Milan
+13,08/01/72,Torino,2-2,Hellas Verona
+14,15/01/72,Bologna,2-2,Napoli
+14,15/01/72,Hellas Verona,0-0,Catanzaro
+14,15/01/72,Juventus,1-0,Fiorentina
+14,15/01/72,AC Mantova,1-6,Internazionale
+14,15/01/72,AC Milan,1-0,Atalanta
+14,15/01/72,Roma,3-1,Torino
+14,15/01/72,Sampdoria,0-0,Cagliari
+14,15/01/72,Varese,0-0,Lanerossi Vicenza
+15,22/01/72,Cagliari,1-0,AC Mantova
+15,22/01/72,Catanzaro,0-0,AC Milan
+15,22/01/72,Fiorentina,0-0,Sampdoria
+15,22/01/72,Hellas Verona,1-1,Roma
+15,22/01/72,Internazionale,2-0,Varese
+15,22/01/72,Lanerossi Vicenza,1-3,Juventus
+15,22/01/72,Napoli,2-1,Atalanta
+15,22/01/72,Torino,1-0,Bologna
+16,29/01/72,Atalanta,1-0,Internazionale
+16,29/01/72,Bologna,1-0,Sampdoria
+16,29/01/72,Catanzaro,1-0,Juventus
+16,29/01/72,Hellas Verona,0-2,Cagliari
+16,29/01/72,Lanerossi Vicenza,0-1,Roma
+16,29/01/72,AC Milan,3-1,Varese
+16,29/01/72,Napoli,0-0,Fiorentina
+16,29/01/72,Torino,1-0,AC Mantova
+17,05/02/72,Cagliari,2-0,Atalanta
+17,05/02/72,Fiorentina,2-0,AC Milan
+17,05/02/72,Internazionale,1-0,Catanzaro
+17,05/02/72,Juventus,4-0,Hellas Verona
+17,05/02/72,Lanerossi Vicenza,0-0,Torino
+17,05/02/72,AC Mantova,0-0,Napoli
+17,05/02/72,Sampdoria,1-0,Roma
+17,05/02/72,Varese,0-0,Bologna
+18,12/02/72,Atalanta,0-0,Juventus
+18,12/02/72,Bologna,1-1,AC Mantova
+18,12/02/72,Catanzaro,2-2,Cagliari
+18,12/02/72,Hellas Verona,2-0,Internazionale
+18,12/02/72,AC Milan,1-1,Lanerossi Vicenza
+18,12/02/72,Roma,0-0,Fiorentina
+18,12/02/72,Sampdoria,1-2,Napoli
+18,12/02/72,Torino,2-0,Varese
+19,19/02/72,Cagliari,1-2,Torino
+19,19/02/72,Catanzaro,1-0,Sampdoria
+19,19/02/72,Fiorentina,2-0,Atalanta
+19,19/02/72,Internazionale,2-2,Roma
+19,19/02/72,Juventus,1-1,AC Milan
+19,19/02/72,Lanerossi Vicenza,2-3,Bologna
+19,19/02/72,AC Mantova,1-0,Hellas Verona
+19,19/02/72,Napoli,3-0,Varese
+20,26/02/72,Atalanta,2-0,AC Mantova
+20,26/02/72,Bologna,1-1,Fiorentina
+20,26/02/72,Hellas Verona,2-2,Lanerossi Vicenza
+20,26/02/72,AC Milan,0-0,Sampdoria
+20,26/02/72,Napoli,0-0,Cagliari
+20,26/02/72,Roma,1-1,Juventus
+20,26/02/72,Torino,2-1,Internazionale
+20,26/02/72,Varese,1-1,Catanzaro
+21,11/03/72,Cagliari,2-1,AC Milan
+21,11/03/72,Catanzaro,1-1,AC Mantova
+21,11/03/72,Fiorentina,2-1,Hellas Verona
+21,11/03/72,Internazionale,2-0,Napoli
+21,11/03/72,Juventus,2-1,Bologna
+21,11/03/72,Lanerossi Vicenza,1-0,Atalanta
+21,11/03/72,Roma,0-0,Varese
+21,11/03/72,Sampdoria,2-1,Torino
+22,18/03/72,Atalanta,0-0,Sampdoria
+22,18/03/72,Bologna,2-1,Cagliari
+22,18/03/72,Hellas Verona,1-1,Varese
+22,18/03/72,Lanerossi Vicenza,2-0,Catanzaro
+22,18/03/72,AC Mantova,0-2,Roma
+22,18/03/72,AC Milan,1-1,Internazionale
+22,18/03/72,Napoli,1-1,Juventus
+22,18/03/72,Torino,2-1,Fiorentina
+23,25/03/72,Cagliari,1-0,Roma
+23,25/03/72,Fiorentina,1-0,Catanzaro
+23,25/03/72,Hellas Verona,3-2,Sampdoria
+23,25/03/72,Internazionale,1-1,Bologna
+23,25/03/72,AC Mantova,0-0,AC Milan
+23,25/03/72,Napoli,1-1,Lanerossi Vicenza
+23,25/03/72,Torino,2-1,Juventus
+23,25/03/72,Varese,0-1,Atalanta
+24,01/04/72,Atalanta,0-0,Hellas Verona
+24,01/04/72,Cagliari,2-1,Internazionale
+24,01/04/72,Catanzaro,1-3,Torino
+24,01/04/72,Juventus,1-0,Varese
+24,01/04/72,Lanerossi Vicenza,0-1,Fiorentina
+24,01/04/72,AC Milan,1-0,Bologna
+24,01/04/72,Roma,1-0,Napoli
+24,01/04/72,Sampdoria,0-0,AC Mantova
+25,08/04/72,Bologna,1-0,Hellas Verona
+25,08/04/72,Catanzaro,1-1,Atalanta
+25,08/04/72,Fiorentina,0-1,Cagliari
+25,08/04/72,Internazionale,2-1,Lanerossi Vicenza
+25,08/04/72,Roma,1-2,AC Milan
+25,08/04/72,Sampdoria,0-0,Juventus
+25,08/04/72,Torino,1-0,Napoli
+25,08/04/72,Varese,2-4,AC Mantova
+26,15/04/72,Bologna,2-2,Roma
+26,15/04/72,Cagliari,3-0,Lanerossi Vicenza
+26,15/04/72,Hellas Verona,1-1,AC Milan
+26,15/04/72,Internazionale,1-1,Fiorentina
+26,15/04/72,AC Mantova,1-1,Juventus
+26,15/04/72,Napoli,0-0,Catanzaro
+26,15/04/72,Torino,1-0,Atalanta
+26,15/04/72,Varese,0-1,Sampdoria
+27,22/04/72,Atalanta,1-1,Roma
+27,22/04/72,Cagliari,1-1,Varese
+27,22/04/72,Catanzaro,1-0,Bologna
+27,22/04/72,Fiorentina,0-1,AC Mantova
+27,22/04/72,Juventus,3-0,Internazionale
+27,22/04/72,Lanerossi Vicenza,1-0,Sampdoria
+27,22/04/72,AC Milan,1-0,Torino
+27,22/04/72,Napoli,1-1,Hellas Verona
+28,06/05/72,Bologna,1-1,Atalanta
+28,06/05/72,Hellas Verona,0-0,Torino
+28,06/05/72,Juventus,2-1,Cagliari
+28,06/05/72,AC Mantova,0-1,Lanerossi Vicenza
+28,06/05/72,AC Milan,3-0,Napoli
+28,06/05/72,Roma,4-0,Catanzaro
+28,06/05/72,Sampdoria,0-0,Internazionale
+28,06/05/72,Varese,1-1,Fiorentina
+29,20/05/72,Atalanta,0-1,AC Milan
+29,20/05/72,Cagliari,3-1,Sampdoria
+29,20/05/72,Catanzaro,0-0,Hellas Verona
+29,20/05/72,Fiorentina,1-1,Juventus
+29,20/05/72,Internazionale,2-0,AC Mantova
+29,20/05/72,Lanerossi Vicenza,0-4,Varese
+29,20/05/72,Napoli,0-0,Bologna
+29,20/05/72,Torino,2-0,Roma
+30,27/05/72,Atalanta,3-1,Napoli
+30,27/05/72,Bologna,2-3,Torino
+30,27/05/72,Juventus,2-0,Lanerossi Vicenza
+30,27/05/72,AC Mantova,2-1,Cagliari
+30,27/05/72,AC Milan,1-0,Catanzaro
+30,27/05/72,Roma,1-0,Hellas Verona
+30,27/05/72,Sampdoria,0-0,Fiorentina
+30,27/05/72,Varese,0-3,Internazionale

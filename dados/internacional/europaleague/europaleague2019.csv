@@ -1,0 +1,200 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,19/09/19,APOEL,3-4,Dudelange
+A,19/09/19,Qarabag,0-3,Sevilla FC
+B,19/09/19,FC Kobenhavn,1-0,FC Lugano
+B,19/09/19,Dynamo Kyiv,1-0,Malmö
+C,19/09/19,FC Basel,5-0,FK Krasnodar
+C,19/09/19,Getafe CF,1-0,Trabzonspor
+D,19/09/19,LASK Linz,1-0,Rosenborg
+D,19/09/19,PSV,3-2,Sporting
+E,19/09/19,CFR Cluj,2-1,Lazio
+E,19/09/19,Rennes,1-1,Celtic
+F,19/09/19,Standard Liège,2-0,Vitória SC
+F,19/09/19,Eintracht Frankfurt,0-3,Arsenal
+G,19/09/19,FC Porto,2-1,Young Boys
+G,19/09/19,Rangers,1-0,Feyenoord
+H,19/09/19,Espanyol,1-1,Ferencváros
+H,19/09/19,Ludogorets Razgrad,5-1,CSKA Moskva
+J,19/09/19,Borussia M´gladbach,0-4,Wolfsberger AC
+J,19/09/19,Roma,4-0,Basaksehir
+L,19/09/19,Manchester United,1-0,Astana
+L,19/09/19,Partizan,2-2,AZ Alkmaar
+I,19/09/19,Gent,3-2,Saint-Étienne
+I,19/09/19,Wolfsburg,3-1,PFC Oleksandriya
+K,19/09/19,Slovan Bratislava,4-2,Besiktas
+K,19/09/19,Wolverhampton,0-1,SC Braga
+L,03/10/19,Astana,1-2,Partizan
+G,03/10/19,Young Boys,2-1,Rangers
+G,03/10/19,Feyenoord,2-0,FC Porto
+H,03/10/19,CSKA Moskva,0-2,Espanyol
+H,03/10/19,Ferencváros,0-3,Ludogorets Razgrad
+J,03/10/19,Basaksehir,1-1,Borussia M´gladbach
+J,03/10/19,Wolfsberger AC,1-1,Roma
+L,03/10/19,AZ Alkmaar,0-0,Manchester United
+I,03/10/19,Saint-Étienne,1-1,Wolfsburg
+I,03/10/19,PFC Oleksandriya,1-1,Gent
+K,03/10/19,Besiktas,0-1,Wolverhampton
+K,03/10/19,SC Braga,2-2,Slovan Bratislava
+A,03/10/19,Sevilla FC,1-0,APOEL
+A,03/10/19,Dudelange,1-4,Qarabag
+B,03/10/19,Malmö,1-1,FC Kobenhavn
+B,03/10/19,FC Lugano,0-0,Dynamo Kyiv
+C,03/10/19,Trabzonspor,2-2,FC Basel
+C,03/10/19,FK Krasnodar,1-2,Getafe CF
+D,03/10/19,Sporting,2-1,LASK Linz
+D,03/10/19,Rosenborg,1-4,PSV
+E,03/10/19,Celtic,2-0,CFR Cluj
+E,03/10/19,Lazio,2-1,Rennes
+F,03/10/19,Arsenal,4-0,Standard Liège
+F,03/10/19,Vitória SC,0-1,Eintracht Frankfurt
+G,24/10/19,FC Porto,1-1,Rangers
+G,24/10/19,Young Boys,2-0,Feyenoord
+A,24/10/19,Qarabag,2-2,APOEL
+H,24/10/19,CSKA Moskva,0-1,Ferencváros
+H,24/10/19,Ludogorets Razgrad,0-1,Espanyol
+J,24/10/19,Basaksehir,1-0,Wolfsberger AC
+J,24/10/19,Roma,1-1,Borussia M´gladbach
+L,24/10/19,AZ Alkmaar,6-0,Astana
+L,24/10/19,Partizan,0-1,Manchester United
+I,24/10/19,Saint-Étienne,1-1,PFC Oleksandriya
+I,24/10/19,Gent,2-2,Wolfsburg
+K,24/10/19,Besiktas,1-2,SC Braga
+K,24/10/19,Slovan Bratislava,1-2,Wolverhampton
+A,24/10/19,Sevilla FC,3-0,Dudelange
+B,24/10/19,Malmö,2-1,FC Lugano
+B,24/10/19,Dynamo Kyiv,1-1,FC Kobenhavn
+C,24/10/19,Trabzonspor,0-2,FK Krasnodar
+C,24/10/19,Getafe CF,0-1,FC Basel
+D,24/10/19,Sporting,1-0,Rosenborg
+D,24/10/19,PSV,0-0,LASK Linz
+E,24/10/19,Celtic,2-1,Lazio
+E,24/10/19,Rennes,0-1,CFR Cluj
+F,24/10/19,Arsenal,3-2,Vitória SC
+F,24/10/19,Eintracht Frankfurt,2-1,Standard Liège
+F,06/11/19,Vitória SC,1-1,Arsenal
+L,07/11/19,Astana,0-5,AZ Alkmaar
+A,07/11/19,Dudelange,2-5,Sevilla FC
+D,07/11/19,Rosenborg,0-2,Sporting
+D,07/11/19,LASK Linz,4-1,PSV
+E,07/11/19,Lazio,1-2,Celtic
+E,07/11/19,CFR Cluj,1-0,Rennes
+F,07/11/19,Standard Liège,2-1,Eintracht Frankfurt
+A,07/11/19,APOEL,2-1,Qarabag
+B,07/11/19,FC Lugano,0-0,Malmö
+B,07/11/19,FC Kobenhavn,1-1,Dynamo Kyiv
+C,07/11/19,FK Krasnodar,3-1,Trabzonspor
+C,07/11/19,FC Basel,2-1,Getafe CF
+G,07/11/19,Rangers,2-0,FC Porto
+J,07/11/19,Borussia M´gladbach,2-1,Roma
+L,07/11/19,Manchester United,3-0,Partizan
+K,07/11/19,SC Braga,3-1,Besiktas
+K,07/11/19,Wolverhampton,1-0,Slovan Bratislava
+G,07/11/19,Feyenoord,1-1,Young Boys
+H,07/11/19,Ferencváros,0-0,CSKA Moskva
+H,07/11/19,Espanyol,6-0,Ludogorets Razgrad
+J,07/11/19,Wolfsberger AC,0-3,Basaksehir
+I,07/11/19,PFC Oleksandriya,2-2,Saint-Étienne
+I,07/11/19,Wolfsburg,1-3,Gent
+C,28/11/19,FK Krasnodar,1-0,FC Basel
+C,28/11/19,Trabzonspor,0-1,Getafe CF
+L,28/11/19,Astana,2-1,Manchester United
+G,28/11/19,Young Boys,1-2,FC Porto
+G,28/11/19,Feyenoord,2-2,Rangers
+J,28/11/19,Basaksehir,0-3,Roma
+K,28/11/19,SC Braga,3-3,Wolverhampton
+H,28/11/19,Ferencváros,2-2,Espanyol
+H,28/11/19,CSKA Moskva,1-1,Ludogorets Razgrad
+J,28/11/19,Wolfsberger AC,0-1,Borussia M´gladbach
+L,28/11/19,AZ Alkmaar,2-2,Partizan
+I,28/11/19,Saint-Étienne,0-0,Gent
+I,28/11/19,PFC Oleksandriya,0-1,Wolfsburg
+K,28/11/19,Besiktas,2-1,Slovan Bratislava
+D,28/11/19,Rosenborg,1-2,LASK Linz
+D,28/11/19,Sporting,4-0,PSV
+E,28/11/19,Celtic,3-1,Rennes
+F,28/11/19,Vitória SC,1-1,Standard Liège
+F,28/11/19,Arsenal,1-2,Eintracht Frankfurt
+A,28/11/19,Dudelange,0-2,APOEL
+A,28/11/19,Sevilla FC,2-0,Qarabag
+B,28/11/19,FC Lugano,0-1,FC Kobenhavn
+B,28/11/19,Malmö,4-3,Dynamo Kyiv
+E,28/11/19,Lazio,1-0,CFR Cluj
+B,12/12/19,FC Kobenhavn,0-1,Malmö
+D,12/12/19,LASK Linz,3-0,Sporting
+E,12/12/19,CFR Cluj,2-0,Celtic
+E,12/12/19,Rennes,2-0,Lazio
+F,12/12/19,Standard Liège,2-2,Arsenal
+F,12/12/19,Eintracht Frankfurt,2-3,Vitória SC
+A,12/12/19,APOEL,1-0,Sevilla FC
+A,12/12/19,Qarabag,1-1,Dudelange
+B,12/12/19,Dynamo Kyiv,1-1,FC Lugano
+C,12/12/19,FC Basel,2-0,Trabzonspor
+C,12/12/19,Getafe CF,3-0,FK Krasnodar
+D,12/12/19,PSV,1-1,Rosenborg
+G,12/12/19,Rangers,1-1,Young Boys
+G,12/12/19,FC Porto,3-2,Feyenoord
+J,12/12/19,Roma,2-2,Wolfsberger AC
+K,12/12/19,Wolverhampton,4-0,Besiktas
+K,12/12/19,Slovan Bratislava,2-4,SC Braga
+H,12/12/19,Espanyol,0-1,CSKA Moskva
+H,12/12/19,Ludogorets Razgrad,1-1,Ferencváros
+J,12/12/19,Borussia M´gladbach,1-2,Basaksehir
+L,12/12/19,Manchester United,4-0,AZ Alkmaar
+L,12/12/19,Partizan,4-1,Astana
+I,12/12/19,Wolfsburg,1-0,Saint-Étienne
+I,12/12/19,Gent,2-1,PFC Oleksandriya
+1/16,20/02/20,Sporting,3-1,Basaksehir
+1/16,20/02/20,Eintracht Frankfurt,4-1,Red Bull Salzburg
+1/16,20/02/20,Ludogorets Razgrad,0-2,Internazionale
+1/16,20/02/20,Shakhtar Donetsk,2-1,Benfica
+1/16,20/02/20,Club Brugge,1-1,Manchester United
+1/16,20/02/20,FC Kobenhavn,1-1,Celtic
+1/16,20/02/20,Getafe CF,2-0,Ajax
+1/16,20/02/20,CFR Cluj,1-1,Sevilla FC
+1/16,20/02/20,Rangers,3-2,SC Braga
+1/16,20/02/20,Roma,1-0,Gent
+1/16,20/02/20,Wolverhampton,4-0,Espanyol
+1/16,20/02/20,Olympiacos,0-1,Arsenal
+1/16,20/02/20,Bayer Leverkusen,2-1,FC Porto
+1/16,20/02/20,APOEL,0-3,FC Basel
+1/16,20/02/20,Wolfsburg,2-1,Malmö
+1/16,20/02/20,AZ Alkmaar,1-1,LASK Linz
+1/16,26/02/20,SC Braga,0-1,Rangers
+1/16,27/02/20,FC Porto,1-3,Bayer Leverkusen
+1/16,27/02/20,FC Basel,1-0,APOEL
+1/16,27/02/20,Espanyol,3-2,Wolverhampton
+1/16,27/02/20,Gent,1-1,Roma
+1/16,27/02/20,Basaksehir,4-1(Pro.),Sporting
+1/16,27/02/20,Malmö,0-3,Wolfsburg
+1/16,27/02/20,LASK Linz,2-0,AZ Alkmaar
+1/16,27/02/20,Benfica,3-3,Shakhtar Donetsk
+1/16,27/02/20,Arsenal,1-2(Pro.),Olympiacos
+1/16,27/02/20,Manchester United,5-0,Club Brugge
+1/16,27/02/20,Internazionale,2-1,Ludogorets Razgrad
+1/16,27/02/20,Sevilla FC,0-0,CFR Cluj
+1/16,27/02/20,Celtic,1-3,FC Kobenhavn
+1/16,27/02/20,Ajax,2-1,Getafe CF
+1/16,28/02/20,Red Bull Salzburg,2-2,Eintracht Frankfurt
+1/8,12/03/20,Basaksehir,1-0,FC Kobenhavn
+1/8,12/03/20,Eintracht Frankfurt,0-3,FC Basel
+1/8,12/03/20,LASK Linz,0-5,Manchester United
+1/8,12/03/20,Olympiacos,1-1,Wolverhampton
+1/8,12/03/20,Rangers,1-3,Bayer Leverkusen
+1/8,12/03/20,Wolfsburg,1-2,Shakhtar Donetsk
+1/8,19/03/20,Getafe CF,ANU,Internazionale
+1/8,19/03/20,Roma,ANU,Sevilla FC
+1/8,05/08/20,FC Kobenhavn,3-0,Basaksehir
+1/8,05/08/20,Shakhtar Donetsk,3-0,Wolfsburg
+1/8,05/08/20,Internazionale,2-0,Getafe CF
+1/8,05/08/20,Manchester United,2-1,LASK Linz
+1/8,06/08/20,Sevilla FC,2-0,Roma
+1/8,06/08/20,Bayer Leverkusen,1-0,Rangers
+1/8,06/08/20,Wolverhampton,1-0,Olympiacos
+1/8,06/08/20,FC Basel,1-0,Eintracht Frankfurt
+QF,10/08/20,Manchester United,1-0(Pro.),FC Kobenhavn
+QF,10/08/20,Internazionale,2-1,Bayer Leverkusen
+QF,11/08/20,Shakhtar Donetsk,4-1,FC Basel
+QF,11/08/20,Wolverhampton,0-1,Sevilla FC
+SF,16/08/20,Sevilla FC,2-1,Manchester United
+SF,17/08/20,Internazionale,5-0,Shakhtar Donetsk
+F,21/08/20,Sevilla FC,3-2,Internazionale

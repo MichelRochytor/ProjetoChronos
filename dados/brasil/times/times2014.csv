@@ -1,0 +1,96 @@
+time,região,serie
+ABC,RN,B
+ASA,AL,C
+América Mineiro,MG,B
+América-MG,MG,B
+América-RN,RN,B
+Anapolina,GO,D
+Athletico-PR,PR,A
+Atlético Goianiense,GO,B
+Atlético-AC,AC,D
+Atlético-GO,GO,B
+Atlético-MG,MG,A
+Avaí,SC,B
+Bahia,BA,A
+Baraúnas,RN,D
+Boa Esporte,MG,B
+Boavista-RJ,RJ,D
+Botafogo,RJ,A
+Botafogo-PB,PB,C
+Bragantino,SP,B
+Brasiliense,DF,D
+CEOV Operário,MS,D
+Cabofriense,RJ,D
+Campinense,PB,D
+Caxias,RS,C
+Ceará,CE,B
+Central,PE,D
+Chapecoense,SC,A
+Confiança,SE,C
+Corinthians,SP,A
+Coritiba,PR,A
+Coruripe,AL,D
+Criciúma,SC,A
+Cruzeiro,MG,A
+Cuiabá,MT,C
+EC Vitória,OUTRO,A
+Estrela do Norte,RS,D
+Figueirense,SC,A
+Flamengo,RJ,A
+Fluminense,RJ,A
+Fortaleza,CE,C
+GE Brasil,RS,C
+Genus,RJ,D
+Globo FC,RN,D
+Goianésia,GO,D
+Goiás,GO,A
+Grêmio,RS,A
+Grêmio Barueri,SP,D
+Guarani,SP,C
+Guarani-SC,SC,D
+Guarany de Sobral,CE,D
+Guaratinguetá,SP,C
+Icasa,CE,B
+Internacional,RS,A
+Interporto,TO,D
+Ipatinga,MG,D
+Itaporã,MS,D
+Ituano,SP,D
+Jacuipense,BA,D
+Joinville,SC,B
+Juventude,RS,C
+Londrina,PR,C
+Luverdense,MT,B
+Luziânia,DF,D
+Madureira,RJ,C
+Maringá,PR,D
+Metropolitano,SC,D
+Moto Club,MA,D
+Náutico,PE,B
+Oeste,SP,B
+Palmeiras,SP,A
+Paraná,PR,B
+Pelotas,RS,D
+Penapolense,SP,D
+Ponte Preta,SP,B
+Porto-PE,PE,D
+Portuguesa,SP,B
+Princesa,AM,D
+Remo,PA,D
+Rio Branco-AC,AC,D
+River-PI,PI,D
+Salgueiro,PE,C
+Sampaio Corrêa,MA,B
+Santa Cruz,PE,B
+Santos,SP,A
+Santos-AP,AP,D
+Sport,PE,A
+São Paulo,SP,A
+São Raimundo-RR,RR,D
+Tombense,MG,C
+Tupi,MG,C
+Vasco,RJ,B
+Vila Nova,GO,B
+Villa Nova-MG,MG,D
+Vitória da Conquista,BA,D
+Águia,PA,C

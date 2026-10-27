@@ -1,0 +1,101 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+13,03/01/20,Fabril Barreiro,4-2,Pesc. Caparica
+1,11/01/20,Arrentela,4-1,EFAP
+17,20/01/20,Os Pelezinhos,0-2,Arrentela
+17,07/02/20,Barreirense,4-4,EFAP
+12,15/02/20,Pesc. Caparica,4-0,EFAP
+2,08/03/20,Pinhalnovense,0-3,Fabril Barreiro
+25,17/03/20,Amora FC,3-4,Arrentela
+11,21/03/20,Amora FC,3-3,CD Cova Piedade
+22,28/03/20,Beira-Mar Almada,3-1,Palmelense
+18,29/03/20,Arrentela,1-3,Beira-Mar Almada
+19,06/04/20,Fabril Barreiro,4-2,EFAP
+6,06/05/20,Os Pelezinhos,2-4,Beira-Mar Almada
+10,07/06/20,Olímpico do Montijo,4-0,Pesc. Caparica
+21,10/06/20,Palmelense,1-3,Os Pelezinhos
+23,20/06/20,Palmelense,4-0,Barreirense
+17,27/06/20,Fabril Barreiro,2-3,Amora FC
+1,30/06/20,Barreirense,2-3,Seixal
+24,30/06/20,Barreirense,1-1,Fabril Barreiro
+20,02/08/20,Arrentela,4-3,Palmelense
+6,11/08/20,Amora FC,3-0,Pinhalnovense
+21,01/09/20,Barreirense,0-0,Beira-Mar Almada
+23,10/09/20,Seixal,3-3,CD Cova Piedade
+9,18/09/20,Fabril Barreiro,0-1,Os Pelezinhos
+20,20/09/20,Os Pelezinhos,2-4,Barreirense
+2,26/09/20,Seixal,0-4,Palmelense
+10,29/09/20,Os Pelezinhos,0-4,GD «Os Amarelos»
+20,05/10/20,Amora FC,4-0,Seixal
+24,07/10/20,EFAP,1-3,Olímpico do Montijo
+13,28/10/20,Olímpico do Montijo,1-1,Arrentela
+15,11/11/20,Pesc. Caparica,0-1,GD «Os Amarelos»
+1,15/11/20,Pesc. Caparica,0-3,CD Cova Piedade
+4,19/11/20,EFAP,4-3,Barreirense
+17,21/11/20,GD «Os Amarelos»,0-2,Seixal
+25,01/12/20,GD «Os Amarelos»,0-3,Barreirense
+25,18/12/20,Seixal,0-0,Os Pelezinhos
+11,22/12/20,GD «Os Amarelos»,0-3,Beira-Mar Almada
+7,14/01/21,Barreirense,0-1,Os Pelezinhos
+9,10/02/21,Seixal,3-0,EFAP
+14,12/02/21,Seixal,2-1,Barreirense
+6,26/02/21,CD Cova Piedade,4-4,Palmelense
+15,02/03/21,Beira-Mar Almada,1-3,Olímpico do Montijo
+16,14/03/21,Seixal,0-3,Fabril Barreiro
+7,25/03/21,Fabril Barreiro,2-1,CD Cova Piedade
+6,01/04/21,Seixal,1-1,Pesc. Caparica
+5,08/04/21,Palmelense,3-3,EFAP
+21,17/04/21,Seixal,3-2,Olímpico do Montijo
+11,01/05/21,Fabril Barreiro,0-2,Barreirense
+9,02/05/21,GD «Os Amarelos»,2-4,Arrentela
+7,22/05/21,GD «Os Amarelos»,4-2,EFAP
+1,30/05/21,Palmelense,0-3,Pinhalnovense
+2,21/11/20,St. Mirren,0-4,Aberdeen
+9,22/11/20,Motherwell,0-3,Rangers
+4,26/11/20,St. Mirren,3-4,Motherwell
+6,08/12/20,Queen´s Park,2-2,Rangers
+5,10/12/20,Aberdeen,1-0,Falkirk
+6,17/12/20,Kilmarnock,0-0,Hamilton
+3,28/12/20,Third Lanark,3-3,Aberdeen
+9,02/01/21,St. Mirren,3-3,Dundee FC
+3,06/01/21,Third Lanark,1-2,Rangers
+2,09/01/21,Partick Thistle,1-2,St. Johnstone
+4,10/01/21,Clyde,1-4,Dundee FC
+9,14/01/21,Motherwell,1-3,Dundee FC
+4,22/01/21,Cowdenbeath,3-4,Third Lanark
+4,24/01/21,Third Lanark,4-1,St. Mirren
+4,11/02/21,Airdrieonians (1878),1-4,Partick Thistle
+6,16/02/21,Ayr United,1-4,Dundee FC
+2,20/02/21,Hibernian,4-3,Partick Thistle
+1,23/02/21,Hamilton,0-0,St. Johnstone
+3,25/02/21,Dundee FC,0-0,Third Lanark
+6,27/02/21,Cowdenbeath,1-2,Kilmarnock
+7,16/03/21,Airdrieonians (1878),3-2,St. Mirren
+8,18/03/21,Rangers,2-0,Clyde
+5,22/03/21,Motherwell,3-0,Cowdenbeath
+4,20/04/21,St. Mirren,3-4,Hamilton
+1,22/04/21,Celtic,0-2,Airdrieonians (1878)
+2,29/04/21,Hibernian,1-3,Motherwell
+2,23/05/21,Raith Rovers,4-1,Hearts
+7,24/05/21,Airdrieonians (1878),2-0,Ayr United
+8,12/06/21,Raith Rovers,4-1,Celtic
+5,15/06/21,Airdrieonians (1878),2-1,Queen´s Park
+8,19/06/21,Hibernian,4-1,Queen´s Park
+6,26/06/21,Clyde,2-3,Partick Thistle
+6,30/06/21,Falkirk,4-1,Airdrieonians (1878)
+7,13/07/21,Ayr United,1-4,Hamilton
+3,27/07/21,Motherwell,4-4,Aberdeen
+7,28/07/21,Celtic,2-3,Hamilton
+4,08/08/21,Partick Thistle,2-0,Ayr United
+6,09/08/21,Airdrieonians (1878),4-0,Third Lanark
+6,11/08/21,Third Lanark,0-3,Hibernian
+6,18/08/21,Ayr United,0-3,Hearts
+7,22/08/21,Raith Rovers,3-1,Aberdeen
+5,27/08/21,Queen´s Park,1-1,Aberdeen
+1,28/08/21,Raith Rovers,0-2,Partick Thistle
+8,01/09/21,Ayr United,0-3,Clyde
+4,07/09/21,St. Johnstone,3-0,Airdrieonians (1878)
+5,07/09/21,St. Johnstone,3-3,Ayr United
+7,08/09/21,Motherwell,3-2,Hibernian
+8,08/09/21,Celtic,0-1,Third Lanark
+8,14/09/21,Hamilton,2-3,Raith Rovers
+9,18/09/21,Ayr United,3-1,St. Johnstone

@@ -1,0 +1,86 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,10/11/12,Castanhal,0-1,Paragominas
+1F,11/11/12,São Raimundo-PA,1-1,Parauapebas
+1F,11/11/12,Independente Tucuruí,1-2,Santa Cruz-PA
+1F,17/11/12,Parauapebas,2-5,Santa Cruz-PA
+1F,17/11/12,Paragominas,3-2,Independente Tucuruí
+1F,18/11/12,São Raimundo-PA,1-0,Castanhal
+1F,24/11/12,Santa Cruz-PA,2-0,São Raimundo-PA
+1F,24/11/12,Parauapebas,2-2,Paragominas
+1F,24/11/12,Independente Tucuruí,1-0,Castanhal
+1F,01/12/12,Castanhal,1-4,Santa Cruz-PA
+1F,01/12/12,Independente Tucuruí,2-3,Parauapebas
+1F,01/12/12,Paragominas,1-0,São Raimundo-PA
+1F,08/12/12,Castanhal,0-1,Parauapebas
+1F,08/12/12,Santa Cruz-PA,3-2,Paragominas
+1F,08/12/12,São Raimundo-PA,6-1,Independente Tucuruí
+1T,12/01/13,Águia,0-0,Tuna Luso
+1T,12/01/13,Cametá,0-1,Paragominas
+1T,13/01/13,Paysandu,2-2,São Francisco-PA
+1T,14/01/13,Remo,1-0,Santa Cruz-PA
+1T,16/01/13,Paragominas,1-2,Paysandu
+1T,16/01/13,Águia,0-0,Cametá
+1T,17/01/13,Santa Cruz-PA,1-2,São Francisco-PA
+1T,17/01/13,Tuna Luso,0-2,Remo
+1T,20/01/13,Paysandu,6-2,Águia
+1T,20/01/13,Santa Cruz-PA,1-0,Tuna Luso
+1T,20/01/13,São Francisco-PA,2-3,Paragominas
+1T,21/01/13,Cametá,1-2,Remo
+1T,23/01/13,São Francisco-PA,2-1,Águia
+1T,26/01/13,Tuna Luso,0-1,Cametá
+1T,26/01/13,Remo,2-1,Paysandu
+1T,26/01/13,Paragominas,2-2,Santa Cruz-PA
+1T,30/01/13,São Francisco-PA,3-0,Tuna Luso
+1T,30/01/13,Águia,1-0,Santa Cruz-PA
+1T,30/01/13,Remo,3-2,Paragominas
+1T,31/01/13,Cametá,1-2,Paysandu
+1T,02/02/13,Paragominas,1-1,Águia
+1T,03/02/13,Santa Cruz-PA,1-0,Cametá
+1T,03/02/13,Paysandu,3-1,Tuna Luso
+1T,04/02/13,Remo,2-2,São Francisco-PA
+1T,07/02/13,Cametá,3-1,São Francisco-PA
+1T,07/02/13,Águia,2-3,Remo
+1T,07/02/13,Paysandu,3-1,Santa Cruz-PA
+1T,07/02/13,Tuna Luso,0-1,Paragominas
+SF,13/02/13,São Francisco-PA,0-2,Paysandu
+SF,14/02/13,Paragominas,2-2,Remo
+SF,16/02/13,Paysandu,6-1,São Francisco-PA
+SF,17/02/13,Remo,2-0,Paragominas
+,24/02/13,Remo,1-1,Paysandu
+,03/03/13,Paysandu,2-1,Remo
+2T,05/03/13,Tuna Luso,4-1,Águia
+2T,05/03/13,Paragominas,2-0,Cametá
+2T,06/03/13,São Francisco-PA,0-2,Paysandu
+2T,07/03/13,Santa Cruz-PA,2-3,Remo
+2T,09/03/13,Paysandu,3-1,Paragominas
+2T,09/03/13,Cametá,2-2,Águia
+2T,10/03/13,Remo,1-0,Tuna Luso
+2T,10/03/13,São Francisco-PA,0-1,Santa Cruz-PA
+2T,12/03/13,Águia,2-2,Paysandu
+2T,13/03/13,Tuna Luso,3-1,Santa Cruz-PA
+2T,13/03/13,Paragominas,5-3,São Francisco-PA
+2T,13/03/13,Remo,3-1,Cametá
+2T,16/03/13,Santa Cruz-PA,1-0,Paragominas
+2T,16/03/13,Águia,2-1,São Francisco-PA
+2T,16/03/13,Cametá,2-1,Tuna Luso
+2T,17/03/13,Paysandu,3-1,Remo
+2T,20/03/13,Tuna Luso,1-0,São Francisco-PA
+2T,20/03/13,Santa Cruz-PA,2-1,Águia
+2T,20/03/13,Paysandu,1-1,Cametá
+2T,21/03/13,Paragominas,1-0,Remo
+2T,23/03/13,Tuna Luso,2-2,Paysandu
+2T,24/03/13,Cametá,2-2,Santa Cruz-PA
+2T,24/03/13,São Francisco-PA,3-1,Remo
+2T,24/03/13,Águia,2-3,Paragominas
+2T,27/03/13,Santa Cruz-PA,0-3,Paysandu
+2T,27/03/13,São Francisco-PA,2-2,Cametá
+2T,28/03/13,Remo,1-0,Águia
+2T,28/03/13,Paragominas,3-2,Tuna Luso
+SF,20/04/13,Remo,2-1,Paysandu
+SF,21/04/13,Tuna Luso,0-0,Paragominas
+SF,27/04/13,Paysandu,1-2,Remo
+SF,28/04/13,Paragominas,2-1,Tuna Luso
+,01/05/13,Remo,1-1,Paragominas
+,05/05/13,Paragominas,3-1,Remo
+F,12/05/13,Paragominas,0-4,Paysandu
+F,19/05/13,Paysandu,3-1,Paragominas

@@ -1,0 +1,96 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,05/01/03,Ferroviário,0-1,Maranguape
+1T,05/01/03,Boa Viagem,1-2,Limoeiro
+1T,05/01/03,Itapipoca,0-1,Guarany de Sobral
+1T,08/01/03,Limoeiro,2-3,Ferroviário
+1T,08/01/03,Maranguape,1-0,Boa Viagem
+1T,08/01/03,Guarany de Sobral,1-3,Itapajé
+1T,11/01/03,Ceará,4-1,Guarany de Sobral
+1T,12/01/03,Itapajé,1-3,Boa Viagem
+1T,12/01/03,Maranguape,0-1,Limoeiro
+1T,12/01/03,Itapipoca,2-0,Quixadá
+1T,12/01/03,Ferroviário,1-2,Fortaleza
+1T,15/01/03,Itapajé,1-1,Fortaleza
+1T,15/01/03,Ferroviário,1-1,Guarany de Sobral
+1T,15/01/03,Boa Viagem,1-1,Ceará
+1T,15/01/03,Quixadá,1-2,Maranguape
+1T,15/01/03,Limoeiro,5-0,Itapipoca
+1T,17/01/03,Fortaleza,2-2,Itapipoca
+1T,19/01/03,Ferroviário,3-1,Itapipoca
+1T,19/01/03,Guarany de Sobral,0-2,Fortaleza
+1T,19/01/03,Limoeiro,4-0,Ceará
+1T,19/01/03,Quixadá,3-3,Boa Viagem
+1T,19/01/03,Maranguape,3-3,Itapajé
+1T,21/01/03,Ferroviário,1-1,Quixadá
+1T,22/01/03,Itapajé,0-0,Limoeiro
+1T,22/01/03,Itapipoca,0-1,Ceará
+1T,22/01/03,Fortaleza,2-0,Boa Viagem
+1T,22/01/03,Guarany de Sobral,1-2,Maranguape
+1T,24/01/03,Ceará,4-1,Itapajé
+1T,24/01/03,Quixadá,2-2,Fortaleza
+1T,26/01/03,Itapajé,1-4,Ferroviário
+1T,26/01/03,Fortaleza,1-1,Ceará
+1T,26/01/03,Boa Viagem,1-1,Guarany de Sobral
+1T,26/01/03,Itapipoca,0-0,Maranguape
+1T,26/01/03,Limoeiro,3-2,Quixadá
+1T,29/01/03,Ferroviário,0-2,Ceará
+1T,29/01/03,Maranguape,2-0,Fortaleza
+1T,29/01/03,Boa Viagem,1-0,Itapipoca
+1T,29/01/03,Quixadá,4-1,Itapajé
+1T,29/01/03,Limoeiro,1-1,Guarany de Sobral
+1T,31/01/03,Ceará,1-1,Quixadá
+1T,02/02/03,Fortaleza,6-2,Limoeiro
+1T,02/02/03,Ceará,1-3,Maranguape
+1T,02/02/03,Boa Viagem,2-2,Ferroviário
+1T,02/02/03,Guarany de Sobral,1-1,Quixadá
+1T,02/02/03,Itapipoca,3-0,Itapajé
+2T,09/02/03,Ferroviário,1-0,Boa Viagem
+2T,09/02/03,Itapajé,1-3,Quixadá
+SF,09/02/03,Maranguape,0-2,Ceará
+SF,09/02/03,Limoeiro,0-1,Fortaleza
+2T,12/02/03,Ferroviário,3-0,Itapajé
+2T,12/02/03,Guarany de Sobral,0-3,Itapipoca
+2T,12/02/03,Limoeiro,0-0,Maranguape
+2T,16/02/03,Itapipoca,0-0,Boa Viagem
+2T,16/02/03,Itapajé,0-0,Guarany de Sobral
+2T,16/02/03,Maranguape,1-3,Quixadá
+F,16/02/03,Fortaleza,3-1,Ceará
+2T,19/02/03,Quixadá,2-3,Itapipoca
+2T,19/02/03,Maranguape,2-3,Ferroviário
+2T,19/02/03,Guarany de Sobral,0-3,Limoeiro
+2T,19/02/03,Boa Viagem,2-2,Itapajé
+2T,21/02/03,Itapipoca,0-4,Fortaleza
+2T,21/02/03,Ceará,0-2,Boa Viagem
+2T,23/02/03,Fortaleza,2-0,Ferroviário
+2T,23/02/03,Quixadá,1-1,Ceará
+2T,23/02/03,Guarany de Sobral,1-1,Boa Viagem
+2T,23/02/03,Limoeiro,3-0,Itapajé
+2T,23/02/03,Maranguape,1-1,Itapipoca
+2T,25/02/03,Ceará,0-0,Itapipoca
+2T,26/02/03,Boa Viagem,0-3,Fortaleza
+2T,26/02/03,Quixadá,2-3,Guarany de Sobral
+2T,26/02/03,Itapajé,2-1,Maranguape
+2T,27/02/03,Ceará,2-1,Ferroviário
+2T,27/02/03,Itapipoca,4-1,Limoeiro
+2T,28/02/03,Fortaleza,3-0,Quixadá
+2T,28/02/03,Maranguape,2-1,Guarany de Sobral
+2T,01/03/03,Itapajé,2-1,Ceará
+2T,01/03/03,Itapipoca,0-2,Ferroviário
+2T,01/03/03,Limoeiro,3-0,Boa Viagem
+2T,05/03/03,Fortaleza,4-0,Itapajé
+2T,05/03/03,Quixadá,1-1,Ferroviário
+2T,05/03/03,Boa Viagem,1-3,Maranguape
+2T,06/03/03,Ceará,4-2,Limoeiro
+2T,09/03/03,Ceará,0-0,Fortaleza
+2T,09/03/03,Guarany de Sobral,1-0,Ferroviário
+2T,09/03/03,Quixadá,3-5,Limoeiro
+2T,11/03/03,Fortaleza,3-1,Maranguape
+2T,14/03/03,Guarany de Sobral,2-3,Ceará
+2T,14/03/03,Limoeiro,2-3,Fortaleza
+2T,16/03/03,Itapajé,2-3,Itapipoca
+2T,16/03/03,Fortaleza,2-1,Guarany de Sobral
+2T,16/03/03,Maranguape,2-1,Ceará
+2T,16/03/03,Ferroviário,2-0,Limoeiro
+SF,19/03/03,Fortaleza,5-0,Limoeiro
+SF,19/03/03,Ferroviário,4-2,Itapipoca
+F,23/03/03,Fortaleza,2-1,Ferroviário

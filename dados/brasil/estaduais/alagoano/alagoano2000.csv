@@ -1,0 +1,88 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,20/02/00,Comercial-AL,0-0,CSA
+1F,20/02/00,Capela,1-0,São Domingos-AL
+1F,20/02/00,CRB,1-0,Miguelense
+1F,20/02/00,Murici,1-0,ASA
+1F,26/02/00,CSA,1-1,Capela
+1F,26/02/00,CRB,0-1,São Domingos-AL
+1F,26/02/00,ASA,4-1,Comercial-AL
+1F,26/02/00,Miguelense,0-1,Corinthians-AL
+1F,01/03/00,CSA,2-2,Murici
+1F,01/03/00,Comercial-AL,2-0,São Domingos-AL
+1F,01/03/00,Capela,0-0,Miguelense
+1F,01/03/00,Corinthians-AL,5-1,CRB
+1F,12/03/00,CRB,5-2,Comercial-AL
+1F,12/03/00,Corinthians-AL,0-0,Murici
+1F,12/03/00,Miguelense,1-1,ASA
+1F,12/03/00,São Domingos-AL,1-4,CSA
+1F,15/03/00,Corinthians-AL,2-0,Capela
+1F,15/03/00,Miguelense,2-0,Comercial-AL
+1F,15/03/00,São Domingos-AL,0-1,Murici
+1F,15/03/00,CSA,3-1,ASA
+1F,19/03/00,Capela,0-0,CRB
+1F,19/03/00,ASA,3-0,São Domingos-AL
+1F,19/03/00,Murici,0-1,Miguelense
+1F,19/03/00,Comercial-AL,1-2,Corinthians-AL
+1F,26/03/00,Capela,0-0,Murici
+1F,26/03/00,CRB,1-0,ASA
+1F,26/03/00,Corinthians-AL,1-2,CSA
+1F,26/03/00,Miguelense,3-0,São Domingos-AL
+1F,02/04/00,CSA,2-0,Miguelense
+1F,02/04/00,ASA,3-0,Corinthians-AL
+1F,02/04/00,Murici,1-1,CRB
+1F,02/04/00,Comercial-AL,0-0,Capela
+1F,09/04/00,São Domingos-AL,0-5,Corinthians-AL
+1F,09/04/00,CRB,2-1,CSA
+1F,09/04/00,ASA,2-0,Capela
+1F,09/04/00,Murici,2-0,Comercial-AL
+1F,16/04/00,CSA,8-0,Comercial-AL
+1F,16/04/00,São Domingos-AL,1-4,Capela
+1F,16/04/00,Miguelense,2-0,CRB
+1F,16/04/00,ASA,2-2,Murici
+1F,19/04/00,Capela,0-1,CSA
+1F,19/04/00,São Domingos-AL,0-9,CRB
+1F,19/04/00,Comercial-AL,0-0,ASA
+1F,19/04/00,Corinthians-AL,1-1,Miguelense
+1F,23/04/00,Murici,0-2,CSA
+1F,23/04/00,São Domingos-AL,2-0,Comercial-AL
+1F,23/04/00,Miguelense,0-2,Capela
+1F,23/04/00,CRB,0-0,Corinthians-AL
+1F,30/04/00,Comercial-AL,1-1,CRB
+1F,30/04/00,Murici,1-0,Corinthians-AL
+1F,30/04/00,ASA,3-0,Miguelense
+1F,30/04/00,CSA,3-0,São Domingos-AL
+1F,07/05/00,CRB,1-1,Capela
+1F,07/05/00,São Domingos-AL,2-2,ASA
+1F,07/05/00,Miguelense,1-1,Murici
+1F,07/05/00,Corinthians-AL,6-1,Comercial-AL
+1F,14/05/00,Capela,1-0,Corinthians-AL
+1F,14/05/00,Comercial-AL,0-4,Miguelense
+1F,14/05/00,Murici,1-0,São Domingos-AL
+1F,14/05/00,ASA,0-0,CSA
+1F,21/05/00,Murici,1-0,Capela
+1F,21/05/00,ASA,0-0,CRB
+1F,21/05/00,CSA,1-0,Corinthians-AL
+1F,21/05/00,São Domingos-AL,0-0,Miguelense
+1F,28/05/00,Miguelense,3-4,CSA
+1F,28/05/00,Corinthians-AL,2-2,ASA
+1F,28/05/00,CRB,1-0,Murici
+1F,28/05/00,Capela,1-0,Comercial-AL
+1F,04/06/00,Corinthians-AL,4-0,São Domingos-AL
+1F,04/06/00,CSA,1-1,CRB
+1F,04/06/00,Capela,1-4,ASA
+1F,04/06/00,Comercial-AL,0-1,Murici
+2F,11/06/00,Murici,0-2,CSA
+2F,11/06/00,ASA,3-2,Corinthians-AL
+2F,15/06/00,CSA,3-2,Corinthians-AL
+2F,15/06/00,Murici,1-1,ASA
+2F,18/06/00,ASA,1-0,CSA
+2F,18/06/00,Corinthians-AL,2-0,Murici
+2F,21/06/00,CSA,0-1,Murici
+2F,21/06/00,Corinthians-AL,3-1,ASA
+2F,25/06/00,ASA,6-0,Murici
+2F,25/06/00,CSA,3-2,Corinthians-AL
+2F,29/06/00,CSA,1-1,ASA
+2F,29/06/00,Murici,1-3,Corinthians-AL
+F,02/07/00,ASA,1-3,CSA
+F,06/07/00,CSA,1-2,ASA
+F,09/07/00,CSA,0-1,ASA

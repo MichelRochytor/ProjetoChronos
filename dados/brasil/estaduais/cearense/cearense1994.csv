@@ -1,0 +1,169 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,20/02/94,Fortaleza,1-1,Icasa
+1T,20/02/94,Quixadá,0-0,Tiradentes-CE
+1T,20/02/94,Itapipoca,3-2,América-CE
+1T,20/02/94,Guarany de Sobral,1-1,Ferroviário
+1T,23/02/94,Fortaleza,2-0,América-CE
+1T,27/02/94,Ceará,2-0,Calouros do Ar
+1T,27/02/94,Icasa,0-0,Itapipoca
+1T,27/02/94,Guarany de Sobral,3-0,América-CE
+1T,03/03/94,Ferroviário,1-2,Tiradentes-CE
+1T,06/03/94,Ceará,0-2,Itapipoca
+1T,06/03/94,Quixadá,0-0,Calouros do Ar
+1T,06/03/94,Tiradentes-CE,0-2,Guarany de Sobral
+1T,06/03/94,Guarani de Juazeiro,2-0,Fortaleza
+1T,09/03/94,Ferroviário,2-1,Icasa
+1T,09/03/94,Tiradentes-CE,2-0,Guarani de Juazeiro
+1T,13/03/94,Icasa,0-0,Tiradentes-CE
+1T,13/03/94,Itapipoca,1-1,Quixadá
+1T,13/03/94,Ceará,0-1,Ferroviário
+1T,13/03/94,Guarany de Sobral,2-1,Fortaleza
+1T,16/03/94,Ceará,6-0,América-CE
+1T,20/03/94,Fortaleza,0-0,Calouros do Ar
+1T,20/03/94,Quixadá,0-0,Ceará
+1T,20/03/94,Guarani de Juazeiro,0-1,Ferroviário
+1T,24/03/94,Guarani de Juazeiro,2-0,Calouros do Ar
+1T,27/03/94,Fortaleza,3-1,Tiradentes-CE
+1T,27/03/94,Icasa,3-1,América-CE
+1T,27/03/94,Quixadá,0-1,Guarany de Sobral
+1T,27/03/94,Itapipoca,1-1,Guarani de Juazeiro
+1T,30/03/94,Calouros do Ar,0-1,Itapipoca
+1T,30/03/94,Ceará,0-0,Tiradentes-CE
+1T,03/04/94,Ferroviário,2-2,Quixadá
+1T,03/04/94,Icasa,0-0,Ceará
+1T,03/04/94,América-CE,2-2,Guarani de Juazeiro
+1T,03/04/94,Guarany de Sobral,0-0,Itapipoca
+1T,06/04/94,América-CE,2-2,Quixadá
+1T,06/04/94,Ferroviário,6-0,Calouros do Ar
+1T,10/04/94,Ceará,0-2,Fortaleza
+1T,10/04/94,Itapipoca,1-1,Tiradentes-CE
+1T,10/04/94,Quixadá,0-0,Guarani de Juazeiro
+1T,13/04/94,Tiradentes-CE,2-1,Calouros do Ar
+1T,13/04/94,Ferroviário,1-0,América-CE
+1T,17/04/94,Itapipoca,1-1,Fortaleza
+1T,17/04/94,Icasa,1-0,Quixadá
+1T,17/04/94,Calouros do Ar,1-1,Guarany de Sobral
+1T,17/04/94,Ceará,2-2,Guarani de Juazeiro
+1T,21/04/94,Ferroviário,3-1,Itapipoca
+1T,23/04/94,Calouros do Ar,1-3,Icasa
+1T,24/04/94,Fortaleza,3-0,Quixadá
+1T,24/04/94,Guarani de Juazeiro,1-0,Guarany de Sobral
+1T,28/04/94,Tiradentes-CE,0-0,América-CE
+1T,28/04/94,Ceará,0-0,Guarany de Sobral
+1T,01/05/94,Ferroviário,2-2,Fortaleza
+1T,01/05/94,Icasa,2-0,Guarani de Juazeiro
+1T,05/05/94,Guarany de Sobral,0-0,Icasa
+SF,08/05/94,Icasa,1-2,Itapipoca
+SF,08/05/94,Ferroviário,1-1,Guarany de Sobral
+F,11/05/94,Itapipoca,2-2,Ferroviário
+1T,15/05/94,Calouros do Ar,4-2,América-CE
+F,15/05/94,Ferroviário,4-0,Itapipoca
+2T,22/05/94,Ferroviário,4-0,Tiradentes-CE
+2T,22/05/94,Quixadá,2-1,Itapipoca
+2T,22/05/94,Guarany de Sobral,4-0,Calouros do Ar
+2T,22/05/94,Guarani de Juazeiro,2-0,América-CE
+2T,25/05/94,Ceará,3-0,Icasa
+2T,28/05/94,Fortaleza,2-0,América-CE
+2T,28/05/94,Itapipoca,3-0,Icasa
+2T,29/05/94,Quixadá,1-1,Ferroviário
+2T,29/05/94,Guarani de Juazeiro,3-0,Tiradentes-CE
+2T,01/06/94,Ceará,0-0,Tiradentes-CE
+2T,01/06/94,América-CE,1-1,Guarany de Sobral
+2T,04/06/94,Tiradentes-CE,0-0,América-CE
+2T,04/06/94,Ferroviário,4-0,Guarani de Juazeiro
+2T,05/06/94,Icasa,1-1,Fortaleza
+2T,09/06/94,América-CE,0-1,Icasa
+2T,09/06/94,Fortaleza,6-0,Calouros do Ar
+2T,11/06/94,Guarany de Sobral,3-0,Tiradentes-CE
+2T,11/06/94,Guarani de Juazeiro,1-2,Itapipoca
+2T,12/06/94,Quixadá,1-2,Fortaleza
+2T,12/06/94,Ceará,1-1,Ferroviário
+2T,15/06/94,Ferroviário,5-1,Guarany de Sobral
+2T,19/06/94,Itapipoca,0-2,Ceará
+2T,19/06/94,Quixadá,3-0,América-CE
+2T,19/06/94,Icasa,1-2,Calouros do Ar
+2T,19/06/94,Fortaleza,3-0,Guarani de Juazeiro
+2T,22/06/94,Tiradentes-CE,8-0,Calouros do Ar
+2T,22/06/94,Ceará,5-2,Quixadá
+2T,25/06/94,América-CE,0-1,Itapipoca
+2T,25/06/94,Calouros do Ar,0-0,Guarani de Juazeiro
+2T,26/06/94,Fortaleza,3-0,Tiradentes-CE
+2T,26/06/94,Icasa,0-0,Ferroviário
+2T,26/06/94,Guarany de Sobral,1-1,Ceará
+2T,29/06/94,Guarany de Sobral,1-0,Quixadá
+2T,30/06/94,Ferroviário,2-0,América-CE
+2T,30/06/94,Calouros do Ar,0-4,Ceará
+2T,02/07/94,Itapipoca,3-0,Guarany de Sobral
+2T,02/07/94,Guarani de Juazeiro,0-0,Quixadá
+2T,03/07/94,Ceará,2-2,Fortaleza
+2T,06/07/94,Tiradentes-CE,3-2,Quixadá
+2T,06/07/94,Fortaleza,2-0,Itapipoca
+2T,06/07/94,Guarany de Sobral,0-0,Guarani de Juazeiro
+2T,07/07/94,Ceará,1-0,América-CE
+2T,12/07/94,Quixadá,0-1,Icasa
+2T,12/07/94,Fortaleza,1-1,Guarany de Sobral
+2T,12/07/94,Guarani de Juazeiro,0-0,Ceará
+2T,14/07/94,Itapipoca,0-6,Ferroviário
+2T,15/07/94,Tiradentes-CE,4-1,Icasa
+2T,20/07/94,Ferroviário,3-0,Calouros do Ar
+2T,20/07/94,Guarani de Juazeiro,0-0,Icasa
+2T,23/07/94,Calouros do Ar,0-1,Quixadá
+2T,23/07/94,Tiradentes-CE,0-0,Itapipoca
+2T,24/07/94,Ferroviário,5-0,Fortaleza
+2T,24/07/94,Icasa,1-1,Guarany de Sobral
+2T,24/07/94,América-CE,0-0,Calouros do Ar
+2T,27/07/94,Itapipoca,1-0,Calouros do Ar
+SF,28/07/94,Ferroviário,0-1,Guarany de Sobral
+SF,03/08/94,Ceará,3-1,Fortaleza
+,14/08/94,América-CE,0-5,Ferroviário
+,14/08/94,Itapipoca,3-0,Tiradentes-CE
+,17/08/94,Ferroviário,5-0,Calouros do Ar
+,21/08/94,Icasa,0-0,Ferroviário
+,21/08/94,Itapipoca,2-0,Quixadá
+,21/08/94,Guarany de Sobral,7-0,Calouros do Ar
+,25/08/94,Ferroviário,1-2,Tiradentes-CE
+,28/08/94,Icasa,1-0,Itapipoca
+,28/08/94,Quixadá,2-1,Guarany de Sobral
+,31/08/94,América-CE,1-0,Tiradentes-CE
+,31/08/94,Calouros do Ar,0-3,Fortaleza
+,01/09/94,Ferroviário,1-1,Itapipoca
+,03/09/94,Fortaleza,2-0,Icasa
+F,04/09/94,Ceará,2-1,Guarany de Sobral
+,04/09/94,Quixadá,5-0,América-CE
+F,07/09/94,Guarany de Sobral,1-0,Ceará
+,07/09/94,América-CE,0-6,Itapipoca
+,07/09/94,Fortaleza,2-2,Tiradentes-CE
+,07/09/94,Quixadá,1-2,Ferroviário
+,11/09/94,Icasa,1-0,América-CE
+,11/09/94,Itapipoca,6-0,Calouros do Ar
+,11/09/94,Guarany de Sobral,2-1,Tiradentes-CE
+,14/09/94,Calouros do Ar,1-0,América-CE
+,14/09/94,Ferroviário,2-1,Guarany de Sobral
+,18/09/94,Ceará,2-0,Calouros do Ar
+,18/09/94,Guarany de Sobral,0-0,Itapipoca
+,19/09/94,Icasa,0-1,Quixadá
+,21/09/94,Tiradentes-CE,1-0,Calouros do Ar
+,25/09/94,América-CE,1-4,Guarany de Sobral
+,28/09/94,Ceará,3-1,América-CE
+,29/09/94,Tiradentes-CE,2-0,Icasa
+,29/09/94,Fortaleza,1-0,Quixadá
+,01/10/94,Calouros do Ar,1-1,Icasa
+,02/10/94,Quixadá,1-0,Ceará
+,02/10/94,Fortaleza,1-1,Itapipoca
+,05/10/94,Ceará,2-0,Tiradentes-CE
+,08/10/94,Calouros do Ar,0-2,Quixadá
+,08/10/94,Ceará,0-0,Guarany de Sobral
+,09/10/94,Ferroviário,2-2,Fortaleza
+,12/10/94,Itapipoca,1-1,Ceará
+,12/10/94,Fortaleza,6-1,América-CE
+,15/10/94,Tiradentes-CE,1-0,Quixadá
+,16/10/94,Guarany de Sobral,3-1,Fortaleza
+,26/10/94,Ferroviário,1-0,Ceará
+,09/11/94,Icasa,1-3,Ceará
+,13/11/94,Ceará,2-1,Fortaleza
+,13/11/94,Guarany de Sobral,1-0,Icasa
+SF,15/11/94,Ferroviário,1-0,Itapipoca
+SF,16/11/94,Guarany de Sobral,1-2,Ceará
+F,20/11/94,Ferroviário,1-1,Ceará
+F,27/11/94,Ceará,0-2,Ferroviário
+F,04/12/94,Ferroviário,0-0,Ceará

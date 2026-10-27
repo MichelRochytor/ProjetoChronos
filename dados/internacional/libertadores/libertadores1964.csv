@@ -1,0 +1,101 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+3,15/01/20,Oriental,2-4,Silves
+13,21/01/20,Atlético CP,3-2,Est. Amadora
+20,31/01/20,Lusitano GC,0-4,CD Cova Piedade
+12,31/01/20,Est. Amadora,2-3,Barreirense
+24,08/02/20,Lusitano GC,4-2,União Madeira
+17,23/02/20,Montijo,4-4,Silves
+23,25/02/20,Juventude SC,1-1,Oriental
+11,04/03/20,União Madeira,2-3,Torralta
+25,16/03/20,Barreirense,1-1,Montijo
+19,01/05/20,CD Cova Piedade,2-3,União Madeira
+17,05/05/20,Olhanense,4-4,Estoril Praia
+30,27/05/20,Juventude SC,4-4,Atlético CP
+28,29/05/20,Montijo,3-2,União Madeira
+2,14/06/20,União Madeira,0-4,Juventude SC
+22,26/07/20,Est. Amadora,2-0,Sacavenense
+6,29/07/20,Estoril Praia,1-1,Sacavenense
+28,30/07/20,Torralta,1-2,Farense
+30,04/08/20,Olhanense,2-2,Barreirense
+12,22/08/20,Juventude SC,4-2,Olhanense
+11,07/09/20,Barreirense,1-2,Oriental
+27,03/10/20,Estoril Praia,0-2,Montijo
+29,04/10/20,Estoril Praia,4-4,Est. Amadora
+24,08/10/20,Farense,4-3,Estoril Praia
+15,21/10/20,Torralta,4-3,Silves
+12,26/10/20,Silves,2-1,União Madeira
+26,15/11/20,Farense,2-1,Lusitano GC
+28,18/11/20,Silves,3-0,Lusitano GC
+18,23/11/20,Montijo,0-1,Sacavenense
+13,28/11/20,Sacavenense,4-3,Olhanense
+20,29/11/20,Silves,3-1,Nacional
+5,15/12/20,Olhanense,0-2,Farense
+12,27/12/20,Farense,3-3,Sacavenense
+6,31/01/21,Torralta,2-3,Olhanense
+17,02/02/21,Sacavenense,0-4,Barreirense
+8,02/02/21,Silves,2-0,CD Cova Piedade
+14,06/02/21,Juventude SC,2-3,Barreirense
+12,17/02/21,Torralta,2-3,Lusitano GC
+13,19/02/21,Estoril Praia,1-1,Oriental
+5,24/02/21,Est. Amadora,4-2,Montijo
+23,23/03/21,CD Cova Piedade,4-2,Silves
+5,09/04/21,Atlético CP,4-3,Estoril Praia
+15,05/05/21,Atlético CP,0-1,Juventude SC
+5,06/05/21,CD Cova Piedade,1-1,Lusitano GC
+23,13/05/21,Olhanense,4-1,Montijo
+11,21/05/21,Sacavenense,0-1,Juventude SC
+14,29/05/21,Nacional,3-3,Atlético CP
+10,18/06/21,Torralta,2-1,Estoril Praia
+24,02/07/21,Torralta,4-0,Atlético CP
+16,22/07/21,Estoril Praia,2-4,Juventude SC
+28,14/08/21,Olhanense,1-1,Sacavenense
+30,09/10/21,Beitar Tel Aviv,1-1,Maccabi Netanya
+15,13/10/21,Maccabi Tel Aviv,3-2,Beitar Netanya
+20,15/10/21,Maccabi Tel Aviv,1-2,Hapoel Tel Aviv
+19,18/10/21,Hapoel Beer Sheva,1-3,Maccabi Netanya
+16,22/10/21,Maccabi Netanya,4-1,Beitar Netanya
+9,12/11/21,Hapoel Tel Aviv,0-4,Bnei Yehuda
+9,18/11/21,Maccabi Netanya,1-4,Hapoel Petah Tikva
+6,29/11/21,Maccabi Yavne,3-3,Maccabi Tel Aviv
+3,15/12/21,Beitar Netanya,3-4,Maccabi Petah Tikva
+21,23/12/21,Hapoel Kfar Saba,3-4,Hapoel Petah Tikva
+28,27/12/21,Hapoel Lod,2-2,Hapoel Beer Sheva
+7,01/01/22,Maccabi Tel Aviv,2-0,Maccabi Netanya
+17,06/01/22,Beitar Jerusalem,3-1,Maccabi Haifa
+28,06/01/22,Beitar Jerusalem,4-2,Maccabi Netanya
+22,15/01/22,Maccabi Yavne,2-0,Beitar Tel Aviv
+26,17/01/22,Bnei Yehuda,4-0,Maccabi Netanya
+12,24/01/22,Maccabi Haifa,0-3,Maccabi Netanya
+18,24/01/22,Maccabi Petah Tikva,4-3,Beitar Netanya
+11,26/01/22,Hapoel Beer Sheva,0-3,Beitar Tel Aviv
+17,26/01/22,Hapoel Kfar Saba,3-2,Maccabi Yavne
+24,13/02/22,Beitar Jerusalem,2-4,Hapoel Beer Sheva
+16,21/02/22,Bnei Yehuda,4-3,Beitar Jerusalem
+15,01/03/22,Maccabi Netanya,4-4,Beitar Tel Aviv
+20,01/03/22,Maccabi Netanya,0-0,Hapoel Kfar Saba
+15,08/03/22,Bnei Yehuda,4-0,Maccabi Haifa
+9,09/03/22,Hapoel Kfar Saba,2-2,Maccabi Haifa
+2,10/03/22,Maccabi Netanya,0-2,Hapoel Lod
+10,11/04/22,Shimshon Tel Aviv,4-2,Hapoel Beer Sheva
+18,25/04/22,Maccabi Tel Aviv,3-1,Hapoel Beer Sheva
+19,05/05/22,Shimshon Tel Aviv,3-3,Beitar Jerusalem
+15,15/05/22,Hapoel Beer Sheva,4-0,Maccabi Yavne
+6,20/05/22,Maccabi Haifa,1-4,Hapoel Lod
+25,04/06/22,Hapoel Kfar Saba,4-1,Beitar Jerusalem
+19,08/06/22,Maccabi Jaffa,1-1,Hapoel Petah Tikva
+26,26/06/22,Shimshon Tel Aviv,4-2,Hapoel Kfar Saba
+2,29/06/22,Hapoel Tel Aviv,0-1,Hapoel Beer Sheva
+29,09/07/22,Hapoel Tel Aviv,3-0,Beitar Netanya
+26,23/07/22,Maccabi Haifa,0-2,Maccabi Tel Aviv
+10,16/08/22,Maccabi Petah Tikva,2-0,Maccabi Netanya
+11,27/08/22,Hapoel Lod,4-0,Maccabi Yavne
+25,31/08/22,Hapoel Lod,0-2,Beitar Netanya
+15,31/08/22,Hapoel Kfar Saba,0-3,Maccabi Jaffa
+23,06/09/22,Maccabi Jaffa,3-0,Beitar Jerusalem
+22,14/09/22,Bnei Yehuda,4-1,Hapoel Beer Sheva
+24,14/09/22,Bnei Yehuda,2-0,Hapoel Tel Aviv
+27,25/09/22,Hapoel Petah Tikva,4-1,Bnei Yehuda
+12,23/11/22,Beitar Jerusalem,3-0,Maccabi Tel Aviv
+8,24/11/22,Maccabi Yavne,2-2,Maccabi Netanya
+6,26/11/22,Bnei Yehuda,4-3,Maccabi Jaffa
+28,28/11/22,Shimshon Tel Aviv,3-4,Maccabi Tel Aviv

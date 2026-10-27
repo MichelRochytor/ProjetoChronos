@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,26/09/70,Bologna,3-0,Lanerossi Vicenza
+1,26/09/70,Cagliari,2-1,Sampdoria
+1,26/09/70,Catania,0-1,Juventus
+1,26/09/70,Hellas Verona,1-2,Internazionale
+1,26/09/70,AC Milan,1-1,Lazio
+1,26/09/70,Napoli,1-0,Varese
+1,26/09/70,Roma,0-1,Fiorentina
+1,26/09/70,Torino,1-1,Foggia
+2,06/10/70,Fiorentina,1-1,Hellas Verona
+2,06/10/70,Foggia,1-1,AC Milan
+2,06/10/70,Internazionale,0-0,Roma
+2,06/10/70,Juventus,0-0,Bologna
+2,06/10/70,Lanerossi Vicenza,0-0,Catania
+2,06/10/70,Lazio,2-4,Cagliari
+2,06/10/70,Sampdoria,0-1,Napoli
+2,06/10/70,Varese,0-0,Torino
+3,10/10/70,Bologna,2-2,Internazionale
+3,10/10/70,Cagliari,1-1,Varese
+3,10/10/70,Catania,0-0,Fiorentina
+3,10/10/70,Hellas Verona,0-0,Juventus
+3,10/10/70,AC Milan,3-1,Sampdoria
+3,10/10/70,Napoli,0-0,Foggia
+3,10/10/70,Roma,4-1,Lanerossi Vicenza
+3,10/10/70,Torino,1-1,Lazio
+4,24/10/70,Fiorentina,0-1,Napoli
+4,24/10/70,Foggia,1-1,Bologna
+4,24/10/70,Internazionale,1-3,Cagliari
+4,24/10/70,Juventus,0-2,AC Milan
+4,24/10/70,Lanerossi Vicenza,1-1,Torino
+4,24/10/70,Lazio,1-1,Hellas Verona
+4,24/10/70,Sampdoria,2-0,Catania
+4,24/10/70,Varese,0-0,Roma
+5,07/11/70,Bologna,2-0,Lazio
+5,07/11/70,Cagliari,1-1,Foggia
+5,07/11/70,Catania,0-0,Varese
+5,07/11/70,Hellas Verona,1-0,Lanerossi Vicenza
+5,07/11/70,AC Milan,3-0,Internazionale
+5,07/11/70,Napoli,1-0,Juventus
+5,07/11/70,Roma,0-0,Sampdoria
+5,07/11/70,Torino,1-1,Fiorentina
+6,14/11/70,Fiorentina,2-5,AC Milan
+6,14/11/70,Foggia,1-0,Catania
+6,14/11/70,Internazionale,2-0,Torino
+6,14/11/70,Juventus,2-1,Cagliari
+6,14/11/70,Lanerossi Vicenza,0-1,Napoli
+6,14/11/70,Lazio,1-1,Roma
+6,14/11/70,Sampdoria,3-0,Hellas Verona
+6,14/11/70,Varese,0-0,Bologna
+7,21/11/70,Bologna,1-1,Sampdoria
+7,21/11/70,Cagliari,2-0,Fiorentina
+7,21/11/70,Catania,3-1,Lazio
+7,21/11/70,Hellas Verona,1-1,Varese
+7,21/11/70,AC Milan,3-1,Lanerossi Vicenza
+7,21/11/70,Napoli,2-1,Internazionale
+7,21/11/70,Roma,3-1,Foggia
+7,21/11/70,Torino,2-0,Juventus
+8,28/11/70,Fiorentina,1-2,Bologna
+8,28/11/70,Foggia,3-0,Hellas Verona
+8,28/11/70,Internazionale,3-2,Catania
+8,28/11/70,Juventus,2-0,Roma
+8,28/11/70,Lanerossi Vicenza,1-1,Cagliari
+8,28/11/70,Lazio,0-0,Napoli
+8,28/11/70,Sampdoria,0-0,Torino
+8,28/11/70,Varese,1-1,AC Milan
+9,12/12/70,Bologna,2-0,Catania
+9,12/12/70,Foggia,5-2,Lazio
+9,12/12/70,Lanerossi Vicenza,1-2,Internazionale
+9,12/12/70,AC Milan,1-1,Hellas Verona
+9,12/12/70,Roma,0-0,Cagliari
+9,12/12/70,Sampdoria,2-2,Fiorentina
+9,12/12/70,Torino,1-1,Napoli
+9,12/12/70,Varese,0-0,Juventus
+10,19/12/70,Cagliari,2-1,Bologna
+10,19/12/70,Catania,1-2,Roma
+10,19/12/70,Fiorentina,3-0,Foggia
+10,19/12/70,Hellas Verona,1-0,Torino
+10,19/12/70,Internazionale,3-2,Varese
+10,19/12/70,Juventus,2-1,Lanerossi Vicenza
+10,19/12/70,Lazio,1-0,Sampdoria
+10,19/12/70,Napoli,0-2,AC Milan
+11,26/12/70,Catania,1-1,Cagliari
+11,26/12/70,Fiorentina,1-1,Lazio
+11,26/12/70,Foggia,2-2,Sampdoria
+11,26/12/70,Internazionale,2-0,Juventus
+11,26/12/70,Lanerossi Vicenza,3-1,Varese
+11,26/12/70,Napoli,2-0,Hellas Verona
+11,26/12/70,Roma,1-1,Bologna
+11,26/12/70,Torino,1-1,AC Milan
+12,02/01/71,Bologna,2-2,Hellas Verona
+12,02/01/71,Cagliari,0-0,Torino
+12,02/01/71,Juventus,3-1,Lazio
+12,02/01/71,Lanerossi Vicenza,1-0,Foggia
+12,02/01/71,AC Milan,4-0,Catania
+12,02/01/71,Roma,2-2,Napoli
+12,02/01/71,Sampdoria,0-2,Internazionale
+12,02/01/71,Varese,0-0,Fiorentina
+13,09/01/71,Fiorentina,0-0,Lanerossi Vicenza
+13,09/01/71,Foggia,1-1,Internazionale
+13,09/01/71,Hellas Verona,1-1,Catania
+13,09/01/71,Lazio,0-0,Varese
+13,09/01/71,AC Milan,2-1,Bologna
+13,09/01/71,Napoli,1-0,Cagliari
+13,09/01/71,Sampdoria,2-0,Juventus
+13,09/01/71,Torino,4-0,Roma
+14,16/01/71,Bologna,1-0,Napoli
+14,16/01/71,Cagliari,0-4,AC Milan
+14,16/01/71,Catania,1-0,Torino
+14,16/01/71,Internazionale,2-1,Fiorentina
+14,16/01/71,Juventus,2-1,Foggia
+14,16/01/71,Lanerossi Vicenza,1-0,Lazio
+14,16/01/71,Roma,0-0,Hellas Verona
+14,16/01/71,Varese,1-1,Sampdoria
+15,23/01/71,Fiorentina,1-2,Juventus
+15,23/01/71,Foggia,2-2,Varese
+15,23/01/71,Hellas Verona,2-0,Cagliari
+15,23/01/71,Lazio,0-1,Internazionale
+15,23/01/71,AC Milan,2-2,Roma
+15,23/01/71,Napoli,1-0,Catania
+15,23/01/71,Sampdoria,1-2,Lanerossi Vicenza
+15,23/01/71,Torino,1-0,Bologna
+16,30/01/71,Fiorentina,2-2,Roma
+16,30/01/71,Foggia,1-0,Torino
+16,30/01/71,Internazionale,1-0,Hellas Verona
+16,30/01/71,Juventus,5-0,Catania
+16,30/01/71,Lanerossi Vicenza,0-0,Bologna
+16,30/01/71,Lazio,0-1,AC Milan
+16,30/01/71,Sampdoria,0-0,Cagliari
+16,30/01/71,Varese,1-1,Napoli
+17,06/02/71,Bologna,1-0,Juventus
+17,06/02/71,Cagliari,2-1,Lazio
+17,06/02/71,Catania,1-1,Lanerossi Vicenza
+17,06/02/71,Hellas Verona,1-1,Fiorentina
+17,06/02/71,AC Milan,2-0,Foggia
+17,06/02/71,Napoli,0-0,Sampdoria
+17,06/02/71,Roma,0-0,Internazionale
+17,06/02/71,Torino,3-1,Varese
+18,13/02/71,Fiorentina,1-1,Catania
+18,13/02/71,Foggia,0-3,Napoli
+18,13/02/71,Internazionale,1-0,Bologna
+18,13/02/71,Juventus,2-1,Hellas Verona
+18,13/02/71,Lanerossi Vicenza,0-0,Roma
+18,13/02/71,Lazio,1-0,Torino
+18,13/02/71,Sampdoria,1-1,AC Milan
+18,13/02/71,Varese,4-1,Cagliari
+19,27/02/71,Bologna,1-2,Foggia
+19,27/02/71,Cagliari,0-0,Internazionale
+19,27/02/71,Catania,1-3,Sampdoria
+19,27/02/71,Hellas Verona,1-0,Lazio
+19,27/02/71,AC Milan,1-1,Juventus
+19,27/02/71,Napoli,0-0,Fiorentina
+19,27/02/71,Roma,3-0,Varese
+19,27/02/71,Torino,2-3,Lanerossi Vicenza
+20,06/03/71,Fiorentina,1-1,Torino
+20,06/03/71,Foggia,0-0,Cagliari
+20,06/03/71,Internazionale,2-0,AC Milan
+20,06/03/71,Juventus,4-1,Napoli
+20,06/03/71,Lanerossi Vicenza,0-0,Hellas Verona
+20,06/03/71,Lazio,2-2,Bologna
+20,06/03/71,Sampdoria,0-0,Roma
+20,06/03/71,Varese,0-1,Catania
+21,13/03/71,Bologna,1-0,Varese
+21,13/03/71,Cagliari,1-1,Juventus
+21,13/03/71,Catania,2-0,Foggia
+21,13/03/71,Hellas Verona,3-1,Sampdoria
+21,13/03/71,AC Milan,1-0,Fiorentina
+21,13/03/71,Napoli,1-0,Lanerossi Vicenza
+21,13/03/71,Roma,2-2,Lazio
+21,13/03/71,Torino,0-2,Internazionale
+22,20/03/71,Fiorentina,1-2,Cagliari
+22,20/03/71,Foggia,1-0,Roma
+22,20/03/71,Internazionale,2-1,Napoli
+22,20/03/71,Juventus,3-3,Torino
+22,20/03/71,Lanerossi Vicenza,1-1,AC Milan
+22,20/03/71,Lazio,1-0,Catania
+22,20/03/71,Sampdoria,1-2,Bologna
+22,20/03/71,Varese,2-0,Hellas Verona
+23,27/03/71,Bologna,0-0,Fiorentina
+23,27/03/71,Cagliari,1-1,Lanerossi Vicenza
+23,27/03/71,Catania,0-1,Internazionale
+23,27/03/71,Hellas Verona,1-1,Foggia
+23,27/03/71,AC Milan,1-2,Varese
+23,27/03/71,Napoli,2-0,Lazio
+23,27/03/71,Roma,0-0,Juventus
+23,27/03/71,Torino,0-0,Sampdoria
+24,03/04/71,Cagliari,0-1,Roma
+24,03/04/71,Catania,0-0,Bologna
+24,03/04/71,Fiorentina,0-0,Sampdoria
+24,03/04/71,Hellas Verona,1-3,AC Milan
+24,03/04/71,Internazionale,2-1,Lanerossi Vicenza
+24,03/04/71,Juventus,2-2,Varese
+24,03/04/71,Lazio,2-1,Foggia
+24,03/04/71,Napoli,2-0,Torino
+25,10/04/71,Bologna,0-0,Cagliari
+25,10/04/71,Foggia,1-1,Fiorentina
+25,10/04/71,Lanerossi Vicenza,1-1,Juventus
+25,10/04/71,AC Milan,1-1,Napoli
+25,10/04/71,Roma,5-0,Catania
+25,10/04/71,Sampdoria,2-3,Lazio
+25,10/04/71,Torino,1-0,Hellas Verona
+25,10/04/71,Varese,1-3,Internazionale
+26,17/04/71,Bologna,0-0,Roma
+26,17/04/71,Cagliari,1-1,Catania
+26,17/04/71,Hellas Verona,0-2,Napoli
+26,17/04/71,Juventus,1-1,Internazionale
+26,17/04/71,Lazio,0-0,Fiorentina
+26,17/04/71,AC Milan,1-0,Torino
+26,17/04/71,Sampdoria,2-0,Foggia
+26,17/04/71,Varese,0-0,Lanerossi Vicenza
+27,24/04/71,Catania,0-0,AC Milan
+27,24/04/71,Fiorentina,1-1,Varese
+27,24/04/71,Foggia,1-1,Lanerossi Vicenza
+27,24/04/71,Hellas Verona,0-0,Bologna
+27,24/04/71,Internazionale,3-1,Sampdoria
+27,24/04/71,Lazio,2-2,Juventus
+27,24/04/71,Napoli,1-2,Roma
+27,24/04/71,Torino,2-1,Cagliari
+28,01/05/71,Bologna,3-2,AC Milan
+28,01/05/71,Cagliari,1-1,Napoli
+28,01/05/71,Catania,0-1,Hellas Verona
+28,01/05/71,Internazionale,5-0,Foggia
+28,01/05/71,Juventus,3-1,Sampdoria
+28,01/05/71,Lanerossi Vicenza,0-1,Fiorentina
+28,01/05/71,Roma,1-1,Torino
+28,01/05/71,Varese,2-1,Lazio
+29,15/05/71,Fiorentina,2-2,Internazionale
+29,15/05/71,Foggia,0-0,Juventus
+29,15/05/71,Hellas Verona,1-0,Roma
+29,15/05/71,Lazio,0-1,Lanerossi Vicenza
+29,15/05/71,AC Milan,3-1,Cagliari
+29,15/05/71,Napoli,3-0,Bologna
+29,15/05/71,Sampdoria,2-1,Varese
+29,15/05/71,Torino,1-1,Catania
+30,22/05/71,Bologna,1-0,Torino
+30,22/05/71,Cagliari,4-1,Hellas Verona
+30,22/05/71,Catania,1-0,Napoli
+30,22/05/71,Internazionale,1-1,Lazio
+30,22/05/71,Juventus,1-1,Fiorentina
+30,22/05/71,Lanerossi Vicenza,0-0,Sampdoria
+30,22/05/71,Roma,1-1,AC Milan
+30,22/05/71,Varese,3-0,Foggia

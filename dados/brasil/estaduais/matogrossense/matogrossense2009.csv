@@ -1,0 +1,136 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,24/01/09,Sinop,1-2,Mixto
+A,25/01/09,CRAC-MT,4-1,Tangará
+A,25/01/09,Palmeiras-MT,0-4,Operário-MT
+A,25/01/09,Luverdense,2-0,Sorriso EC
+B,25/01/09,Araguaia,2-1,Rondonópolis
+B,25/01/09,Cáceres,2-2,Cacerense
+B,25/01/09,União Rondonópolis,1-1,Vila Aurora
+A,29/01/09,Palmeiras-MT,2-2,Sinop
+B,31/01/09,Vila Aurora,2-1,Araguaia
+B,01/02/09,Cacerense,ANU,Grêmio Jaciara
+A,01/02/09,Operário-MT,3-1,Sinop
+A,01/02/09,Mixto,1-3,Luverdense
+A,01/02/09,Tangará,2-0,Palmeiras-MT
+A,01/02/09,Sorriso EC,1-3,CRAC-MT
+B,01/02/09,Rondonópolis,3-1,Cáceres
+B,01/02/09,Barra,2-0,União Rondonópolis
+B,04/02/09,Grêmio Jaciara,ANU,Rondonópolis
+A,04/02/09,CRAC-MT,0-3,Operário-MT
+A,04/02/09,Luverdense,1-0,Tangará
+A,04/02/09,Mixto,1-1,Sorriso EC
+B,04/02/09,Araguaia,1-3,Barra
+B,04/02/09,Cáceres,0-2,Vila Aurora
+B,05/02/09,União Rondonópolis,3-0,Cacerense
+A,07/02/09,Sinop,1-0,Luverdense
+B,08/02/09,Grêmio Jaciara,ANU,Araguaia
+A,08/02/09,CRAC-MT,2-1,Mixto
+A,08/02/09,Sorriso EC,1-0,Palmeiras-MT
+A,08/02/09,Operário-MT,4-1,Tangará
+B,08/02/09,Barra,3-0,Cacerense
+B,08/02/09,Cáceres,0-0,União Rondonópolis
+B,08/02/09,Vila Aurora,1-2,Rondonópolis
+B,11/02/09,Grêmio Jaciara,ANU,Cáceres
+A,11/02/09,Operário-MT,2-1,Sorriso EC
+A,11/02/09,Palmeiras-MT,3-3,Mixto
+A,11/02/09,Luverdense,1-0,CRAC-MT
+A,11/02/09,Tangará,1-1,Sinop
+B,11/02/09,Cacerense,0-0,Rondonópolis
+B,11/02/09,Vila Aurora,1-1,Barra
+B,12/02/09,União Rondonópolis,0-0,Araguaia
+A,14/02/09,Mixto,2-2,Operário-MT
+B,15/02/09,Barra,ANU,Grêmio Jaciara
+A,15/02/09,CRAC-MT,1-1,Sinop
+A,15/02/09,Luverdense,4-0,Palmeiras-MT
+A,15/02/09,Sorriso EC,2-1,Tangará
+B,15/02/09,Araguaia,1-0,Cáceres
+B,15/02/09,Cacerense,1-0,Vila Aurora
+B,15/02/09,Rondonópolis,0-0,União Rondonópolis
+B,18/02/09,Cáceres,3-3,Barra
+B,19/02/09,Vila Aurora,ANU,Grêmio Jaciara
+B,21/02/09,Grêmio Jaciara,ANU,União Rondonópolis
+A,21/02/09,Tangará,0-1,Mixto
+A,21/02/09,Sinop,1-1,Sorriso EC
+B,21/02/09,Rondonópolis,1-1,Barra
+B,21/02/09,Araguaia,1-0,Cacerense
+A,28/02/09,Sinop,0-2,Palmeiras-MT
+A,28/02/09,Sorriso EC,1-0,Mixto
+B,28/02/09,Vila Aurora,4-1,Cáceres
+A,01/03/09,CRAC-MT,2-2,Operário-MT
+A,01/03/09,Tangará,1-3,Luverdense
+B,01/03/09,Barra,2-2,Araguaia
+A,05/03/09,Palmeiras-MT,0-1,CRAC-MT
+A,05/03/09,Operário-MT,3-3,Luverdense
+B,05/03/09,Barra,3-1,Rondonópolis
+A,07/03/09,Palmeiras-MT,1-0,Sorriso EC
+B,07/03/09,União Rondonópolis,1-0,Cáceres
+A,08/03/09,Luverdense,1-0,Sinop
+A,08/03/09,Mixto,2-1,CRAC-MT
+A,08/03/09,Tangará,1-0,Operário-MT
+B,08/03/09,Cacerense,1-1,Barra
+B,08/03/09,Rondonópolis,1-1,Vila Aurora
+A,11/03/09,CRAC-MT,3-2,Luverdense
+A,11/03/09,Sorriso EC,0-3,Operário-MT
+A,11/03/09,Mixto,4-2,Palmeiras-MT
+A,11/03/09,Sinop,2-1,Tangará
+B,11/03/09,Rondonópolis,4-1,Cacerense
+B,11/03/09,Araguaia,1-2,União Rondonópolis
+B,11/03/09,Barra,2-2,Vila Aurora
+A,14/03/09,Palmeiras-MT,2-0,Luverdense
+B,14/03/09,Vila Aurora,2-1,Cacerense
+A,14/03/09,Sinop,1-0,CRAC-MT
+A,15/03/09,Operário-MT,2-2,Mixto
+A,15/03/09,Tangará,0-0,Sorriso EC
+B,15/03/09,Cáceres,0-1,Araguaia
+B,15/03/09,União Rondonópolis,4-1,Rondonópolis
+A,19/03/09,CRAC-MT,4-1,Palmeiras-MT
+B,19/03/09,Barra,4-0,Cáceres
+A,19/03/09,Sorriso EC,3-2,Sinop
+A,19/03/09,Mixto,2-3,Tangará
+A,19/03/09,Luverdense,1-0,Operário-MT
+B,19/03/09,Cacerense,1-1,Araguaia
+A,21/03/09,Sinop,0-0,Operário-MT
+A,22/03/09,CRAC-MT,1-3,Sorriso EC
+A,22/03/09,Palmeiras-MT,1-0,Tangará
+A,22/03/09,Luverdense,3-1,Mixto
+B,22/03/09,Araguaia,1-0,Vila Aurora
+B,22/03/09,Cáceres,3-1,Rondonópolis
+B,22/03/09,União Rondonópolis,1-3,Barra
+A,25/03/09,Operário-MT,1-2,Palmeiras-MT
+B,25/03/09,Cacerense,1-2,União Rondonópolis
+B,25/03/09,Rondonópolis,2-3,Araguaia
+A,28/03/09,Tangará,0-2,CRAC-MT
+A,28/03/09,Mixto,3-2,Sinop
+B,28/03/09,Vila Aurora,1-0,União Rondonópolis
+B,28/03/09,Cacerense,0-3,Cáceres
+A,28/03/09,Sorriso EC,1-0,Luverdense
+C,05/04/09,Luverdense,4-0,CRAC-MT
+D,05/04/09,Barra,2-1,União Rondonópolis
+D,05/04/09,Vila Aurora,1-0,Araguaia
+C,08/04/09,CRAC-MT,3-3,Sorriso EC
+D,11/04/09,Araguaia,2-1,Barra
+C,11/04/09,Sorriso EC,1-2,Luverdense
+C,12/04/09,CRAC-MT,0-1,Mixto
+D,12/04/09,União Rondonópolis,0-1,Vila Aurora
+C,15/04/09,Luverdense,3-0,Mixto
+D,16/04/09,Araguaia,3-3,União Rondonópolis
+D,16/04/09,Vila Aurora,2-0,Barra
+C,19/04/09,Mixto,2-4,Sorriso EC
+C,19/04/09,CRAC-MT,1-0,Luverdense
+D,19/04/09,Barra,2-2,Araguaia
+D,19/04/09,Vila Aurora,0-3,União Rondonópolis
+C,21/04/09,Mixto,4-3,Luverdense
+D,23/04/09,Araguaia,3-2,Vila Aurora
+C,23/04/09,Sorriso EC,3-0,Mixto
+D,23/04/09,União Rondonópolis,0-0,Barra
+C,26/04/09,Luverdense,2-0,Sorriso EC
+D,26/04/09,Barra,2-1,Vila Aurora
+D,26/04/09,União Rondonópolis,1-2,Araguaia
+C,26/04/09,Mixto,2-4,CRAC-MT
+C,28/04/09,Sorriso EC,1-0,CRAC-MT
+SF,03/05/09,Vila Aurora,1-1,Luverdense
+SF,03/05/09,Sorriso EC,1-4,Araguaia
+SF,09/05/09,Luverdense,2-0,Vila Aurora
+SF,09/05/09,Araguaia,2-1,Sorriso EC
+F,13/05/09,Luverdense,2-2,Araguaia
+F,17/05/09,Araguaia,0-0(2-4 Pen.),Luverdense

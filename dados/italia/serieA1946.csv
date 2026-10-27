@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,22/09/46,Alessandria,1-3,Modena
+1,22/09/46,Atalanta,1-3,Juventus
+1,22/09/46,AS Bari,1-3,Lazio
+1,22/09/46,Bologna,4-0,Venezia
+1,22/09/46,Fiorentina,3-3,Internazionale
+1,22/09/46,Genoa,4-0,Brescia
+1,22/09/46,AC Milan,2-3,Associazione del Calcio in Vic
+1,22/09/46,Napoli,4-0,Livorno 1915
+1,22/09/46,Roma,3-1,Sampdoria
+1,22/09/46,Torino,1-1,Triestina
+2,29/09/46,Brescia,2-1,Napoli
+2,29/09/46,Internazionale,0-1,Atalanta
+2,29/09/46,Juventus,3-1,Alessandria
+2,29/09/46,Lazio,1-2,Torino
+2,29/09/46,Livorno 1915,4-1,Roma
+2,29/09/46,AC Milan,3-0,Triestina
+2,29/09/46,Modena,0-1,AS Bari
+2,29/09/46,Sampdoria,1-0,Fiorentina
+2,29/09/46,Venezia,2-1,Genoa
+2,29/09/46,Associazione del Calcio in Vic,0-3,Bologna
+3,06/10/46,Alessandria,0-1,Bologna
+3,06/10/46,Atalanta,1-1,Triestina
+3,06/10/46,Brescia,0-0,AS Bari
+3,06/10/46,Fiorentina,2-2,Livorno 1915
+3,06/10/46,Genoa,0-0,Internazionale
+3,06/10/46,AC Milan,3-3,Juventus
+3,06/10/46,Modena,6-1,Napoli
+3,06/10/46,Roma,3-0,Lazio
+3,06/10/46,Torino,1-1,Sampdoria
+3,06/10/46,Associazione del Calcio in Vic,5-0,Venezia
+4,13/10/46,AS Bari,1-0,Associazione del Calcio in Vic
+4,13/10/46,Bologna,0-0,Genoa
+4,13/10/46,Internazionale,1-1,Brescia
+4,13/10/46,Juventus,3-1,Fiorentina
+4,13/10/46,Lazio,1-2,Modena
+4,13/10/46,Livorno 1915,0-0,Atalanta
+4,13/10/46,Napoli,2-1,Alessandria
+4,13/10/46,Sampdoria,2-1,AC Milan
+4,13/10/46,Triestina,0-2,Roma
+4,13/10/46,Venezia,1-0,Torino
+5,20/10/46,Atalanta,1-1,Sampdoria
+5,20/10/46,AS Bari,2-2,Alessandria
+5,20/10/46,Bologna,1-0,Triestina
+5,20/10/46,Fiorentina,1-2,Modena
+5,20/10/46,Genoa,0-0,Livorno 1915
+5,20/10/46,Lazio,6-3,Brescia
+5,20/10/46,AC Milan,3-1,Internazionale
+5,20/10/46,Napoli,2-2,Associazione del Calcio in Vic
+5,20/10/46,Torino,0-0,Juventus
+5,20/10/46,Venezia,2-3,Roma
+6,27/10/46,Alessandria,1-1,Atalanta
+6,27/10/46,Brescia,1-1,AC Milan
+6,27/10/46,Fiorentina,2-1,Triestina
+6,27/10/46,Internazionale,3-0,Lazio
+6,27/10/46,Juventus,1-0,Napoli
+6,27/10/46,Livorno 1915,0-0,AS Bari
+6,27/10/46,Modena,2-0,Venezia
+6,27/10/46,Roma,1-3,Torino
+6,27/10/46,Sampdoria,0-1,Bologna
+6,27/10/46,Associazione del Calcio in Vic,1-0,Genoa
+7,03/11/46,Alessandria,0-2,Associazione del Calcio in Vic
+7,03/11/46,Atalanta,1-3,AC Milan
+7,03/11/46,Bologna,1-0,Modena
+7,03/11/46,Internazionale,1-3,Torino
+7,03/11/46,Juventus,6-0,AS Bari
+7,03/11/46,Livorno 1915,1-1,Lazio
+7,03/11/46,Napoli,2-0,Triestina
+7,03/11/46,Roma,2-1,Brescia
+7,03/11/46,Sampdoria,3-0,Genoa
+7,03/11/46,Venezia,3-0,Fiorentina
+8,10/11/46,AS Bari,2-0,Atalanta
+8,10/11/46,Brescia,0-1,Livorno 1915
+8,10/11/46,Fiorentina,2-0,Alessandria
+8,10/11/46,Genoa,1-0,Juventus
+8,10/11/46,Lazio,4-0,Sampdoria
+8,10/11/46,AC Milan,3-1,Roma
+8,10/11/46,Modena,0-1,Triestina
+8,10/11/46,Napoli,1-1,Venezia
+8,10/11/46,Torino,4-0,Bologna
+8,10/11/46,Associazione del Calcio in Vic,1-1,Internazionale
+9,12/11/46,Alessandria,0-1,Sampdoria
+9,12/11/46,AS Bari,1-0,Venezia
+9,12/11/46,Bologna,3-1,Lazio
+9,12/11/46,Fiorentina,4-1,Associazione del Calcio in Vic
+9,12/11/46,Genoa,1-1,Modena
+9,12/11/46,AC Milan,2-2,Livorno 1915
+9,12/11/46,Napoli,3-1,Atalanta
+9,12/11/46,Roma,1-5,Juventus
+9,12/11/46,Torino,4-0,Brescia
+9,12/11/46,Triestina,0-0,Internazionale
+10,24/11/46,Atalanta,1-0,Genoa
+10,24/11/46,Brescia,1-0,Fiorentina
+10,24/11/46,Internazionale,0-0,Roma
+10,24/11/46,Juventus,4-0,Triestina
+10,24/11/46,Lazio,2-1,Napoli
+10,24/11/46,Livorno 1915,1-1,Bologna
+10,24/11/46,Modena,2-1,AC Milan
+10,24/11/46,Sampdoria,6-1,AS Bari
+10,24/11/46,Venezia,1-1,Alessandria
+10,24/11/46,Associazione del Calcio in Vic,0-3,Torino
+11,08/12/46,Alessandria,1-0,Internazionale
+11,08/12/46,AS Bari,1-0,Napoli
+11,08/12/46,Bologna,0-0,Juventus
+11,08/12/46,Brescia,2-2,Triestina
+11,08/12/46,Fiorentina,1-0,Atalanta
+11,08/12/46,Genoa,3-0,Lazio
+11,08/12/46,AC Milan,3-2,Venezia
+11,08/12/46,Roma,0-0,Modena
+11,08/12/46,Torino,3-2,Livorno 1915
+11,08/12/46,Associazione del Calcio in Vic,1-5,Sampdoria
+12,15/12/46,Alessandria,4-1,Livorno 1915
+12,15/12/46,AS Bari,1-0,Bologna
+12,15/12/46,Fiorentina,4-1,Lazio
+12,15/12/46,Juventus,4-1,Internazionale
+12,15/12/46,AC Milan,4-1,Genoa
+12,15/12/46,Modena,1-0,Associazione del Calcio in Vic
+12,15/12/46,Napoli,2-2,Torino
+12,15/12/46,Roma,3-0,Atalanta
+12,15/12/46,Triestina,1-1,Sampdoria
+12,15/12/46,Venezia,1-2,Brescia
+13,22/12/46,Atalanta,1-1,Associazione del Calcio in Vic
+13,22/12/46,Brescia,0-3,Alessandria
+13,22/12/46,Genoa,3-0,Roma
+13,22/12/46,Internazionale,3-1,AS Bari
+13,22/12/46,Lazio,1-1,AC Milan
+13,22/12/46,Livorno 1915,3-0,Triestina
+13,22/12/46,Modena,1-0,Juventus
+13,22/12/46,Napoli,2-0,Bologna
+13,22/12/46,Torino,7-2,Fiorentina
+13,22/12/46,Venezia,0-2,Sampdoria
+14,29/12/46,Alessandria,2-2,Genoa
+14,29/12/46,Atalanta,0-3,Torino
+14,29/12/46,Bologna,1-2,AC Milan
+14,29/12/46,Internazionale,2-3,Napoli
+14,29/12/46,Juventus,1-0,Brescia
+14,29/12/46,Livorno 1915,0-0,Venezia
+14,29/12/46,Roma,2-0,Fiorentina
+14,29/12/46,Sampdoria,0-2,Modena
+14,29/12/46,Triestina,0-1,AS Bari
+14,29/12/46,Associazione del Calcio in Vic,1-2,Lazio
+15,05/01/47,AS Bari,2-0,Roma
+15,05/01/47,Brescia,0-1,Bologna
+15,05/01/47,Fiorentina,1-0,Napoli
+15,05/01/47,Genoa,2-3,Torino
+15,05/01/47,Juventus,2-1,Sampdoria
+15,05/01/47,Lazio,0-0,Atalanta
+15,05/01/47,AC Milan,4-0,Alessandria
+15,05/01/47,Modena,1-0,Livorno 1915
+15,05/01/47,Triestina,2-0,Associazione del Calcio in Vic
+15,05/01/47,Venezia,2-1,Internazionale
+16,12/01/47,Alessandria,5-0,Triestina
+16,12/01/47,Atalanta,1-1,Modena
+16,12/01/47,Bologna,0-2,Roma
+16,12/01/47,Fiorentina,0-3,AC Milan
+16,12/01/47,Internazionale,1-1,Livorno 1915
+16,12/01/47,Lazio,3-1,Venezia
+16,12/01/47,Napoli,2-1,Genoa
+16,12/01/47,Sampdoria,2-2,Brescia
+16,12/01/47,Torino,2-1,AS Bari
+16,12/01/47,Associazione del Calcio in Vic,1-1,Juventus
+17,19/01/47,Alessandria,2-0,Torino
+17,19/01/47,Atalanta,2-1,Bologna
+17,19/01/47,Brescia,0-2,Associazione del Calcio in Vic
+17,19/01/47,Genoa,5-0,Fiorentina
+17,19/01/47,Juventus,7-3,Venezia
+17,19/01/47,Livorno 1915,0-0,Sampdoria
+17,19/01/47,AC Milan,0-2,AS Bari
+17,19/01/47,Modena,1-0,Internazionale
+17,19/01/47,Roma,0-0,Napoli
+17,19/01/47,Triestina,2-2,Lazio
+18,26/01/47,AS Bari,1-0,Fiorentina
+18,26/01/47,Bologna,2-0,Internazionale
+18,26/01/47,Brescia,0-1,Modena
+18,26/01/47,Juventus,2-1,Livorno 1915
+18,26/01/47,Lazio,3-1,Alessandria
+18,26/01/47,AC Milan,1-2,Torino
+18,26/01/47,Sampdoria,0-1,Napoli
+18,26/01/47,Triestina,0-0,Genoa
+18,26/01/47,Venezia,0-0,Atalanta
+18,26/01/47,Associazione del Calcio in Vic,2-0,Roma
+19,02/02/47,Alessandria,1-0,Roma
+19,02/02/47,Atalanta,2-0,Brescia
+19,02/02/47,Fiorentina,0-0,Bologna
+19,02/02/47,Genoa,1-0,AS Bari
+19,02/02/47,Internazionale,2-1,Sampdoria
+19,02/02/47,Lazio,1-2,Juventus
+19,02/02/47,Livorno 1915,3-0,Associazione del Calcio in Vic
+19,02/02/47,Napoli,0-0,AC Milan
+19,02/02/47,Torino,1-1,Modena
+19,02/02/47,Venezia,4-1,Triestina
+20,16/02/47,Brescia,5-1,Genoa
+20,16/02/47,Internazionale,4-0,Fiorentina
+20,16/02/47,Juventus,4-1,Atalanta
+20,16/02/47,Lazio,0-1,AS Bari
+20,16/02/47,Livorno 1915,2-2,Napoli
+20,16/02/47,Modena,0-0,Alessandria
+20,16/02/47,Sampdoria,4-0,Roma
+20,16/02/47,Triestina,0-1,Torino
+20,16/02/47,Venezia,2-0,Bologna
+20,16/02/47,Associazione del Calcio in Vic,2-3,AC Milan
+21,23/02/47,Alessandria,2-0,Juventus
+21,23/02/47,Atalanta,0-3,Internazionale
+21,23/02/47,AS Bari,0-0,Modena
+21,23/02/47,Bologna,0-0,Associazione del Calcio in Vic
+21,23/02/47,Fiorentina,2-1,Sampdoria
+21,23/02/47,Genoa,2-1,Venezia
+21,23/02/47,Napoli,2-1,Brescia
+21,23/02/47,Roma,0-1,Livorno 1915
+21,23/02/47,Torino,5-1,Lazio
+21,23/02/47,Triestina,1-2,AC Milan
+22,02/03/47,AS Bari,0-0,Brescia
+22,02/03/47,Bologna,4-1,Alessandria
+22,02/03/47,Internazionale,2-1,Genoa
+22,02/03/47,Juventus,1-2,AC Milan
+22,02/03/47,Lazio,0-0,Roma
+22,02/03/47,Livorno 1915,2-1,Fiorentina
+22,02/03/47,Napoli,1-0,Modena
+22,02/03/47,Sampdoria,3-1,Torino
+22,02/03/47,Triestina,1-3,Atalanta
+22,02/03/47,Venezia,1-2,Associazione del Calcio in Vic
+23,09/03/47,Alessandria,5-0,Napoli
+23,09/03/47,Atalanta,3-1,Livorno 1915
+23,09/03/47,Brescia,2-2,Internazionale
+23,09/03/47,Fiorentina,2-1,Juventus
+23,09/03/47,Genoa,3-0,Bologna
+23,09/03/47,AC Milan,1-0,Sampdoria
+23,09/03/47,Modena,2-1,Lazio
+23,09/03/47,Roma,4-1,Triestina
+23,09/03/47,Torino,2-0,Venezia
+23,09/03/47,Associazione del Calcio in Vic,1-0,AS Bari
+24,16/03/47,Alessandria,1-0,AS Bari
+24,16/03/47,Brescia,2-0,Lazio
+24,16/03/47,Internazionale,1-2,AC Milan
+24,16/03/47,Juventus,0-1,Torino
+24,16/03/47,Livorno 1915,1-1,Genoa
+24,16/03/47,Modena,3-0,Fiorentina
+24,16/03/47,Roma,1-2,Venezia
+24,16/03/47,Sampdoria,1-1,Atalanta
+24,16/03/47,Triestina,3-1,Bologna
+24,16/03/47,Associazione del Calcio in Vic,4-1,Napoli
+25,23/03/47,Atalanta,1-0,Alessandria
+25,23/03/47,AS Bari,2-1,Livorno 1915
+25,23/03/47,Bologna,2-0,Sampdoria
+25,23/03/47,Genoa,2-0,Associazione del Calcio in Vic
+25,23/03/47,Lazio,0-1,Internazionale
+25,23/03/47,AC Milan,2-1,Brescia
+25,23/03/47,Napoli,3-3,Juventus
+25,23/03/47,Torino,4-0,Roma
+25,23/03/47,Triestina,1-1,Fiorentina
+25,23/03/47,Venezia,2-1,Modena
+26,30/03/47,AS Bari,0-1,Juventus
+26,30/03/47,Brescia,3-0,Roma
+26,30/03/47,Fiorentina,1-1,Venezia
+26,30/03/47,Genoa,2-3,Sampdoria
+26,30/03/47,Lazio,3-0,Livorno 1915
+26,30/03/47,AC Milan,0-0,Atalanta
+26,30/03/47,Modena,1-0,Bologna
+26,30/03/47,Torino,5-2,Internazionale
+26,30/03/47,Triestina,3-0,Napoli
+26,30/03/47,Associazione del Calcio in Vic,4-2,Alessandria
+27,06/04/47,Alessandria,1-1,Fiorentina
+27,06/04/47,Atalanta,3-0,AS Bari
+27,06/04/47,Bologna,1-1,Torino
+27,06/04/47,Internazionale,1-2,Associazione del Calcio in Vic
+27,06/04/47,Juventus,2-1,Genoa
+27,06/04/47,Livorno 1915,2-2,Brescia
+27,06/04/47,Roma,1-1,AC Milan
+27,06/04/47,Sampdoria,1-1,Lazio
+27,06/04/47,Triestina,0-1,Modena
+27,06/04/47,Venezia,0-1,Napoli
+28,13/04/47,Atalanta,2-1,Napoli
+28,13/04/47,Brescia,0-1,Torino
+28,13/04/47,Internazionale,5-2,Triestina
+28,13/04/47,Juventus,4-0,Roma
+28,13/04/47,Lazio,3-1,Bologna
+28,13/04/47,Livorno 1915,2-2,AC Milan
+28,13/04/47,Modena,2-1,Genoa
+28,13/04/47,Sampdoria,1-1,Alessandria
+28,13/04/47,Venezia,1-2,AS Bari
+28,13/04/47,Associazione del Calcio in Vic,1-0,Fiorentina
+29,20/04/47,Alessandria,1-1,Venezia
+29,20/04/47,AS Bari,2-1,Sampdoria
+29,20/04/47,Bologna,1-0,Livorno 1915
+29,20/04/47,Fiorentina,3-1,Brescia
+29,20/04/47,Genoa,2-2,Atalanta
+29,20/04/47,AC Milan,1-1,Modena
+29,20/04/47,Napoli,0-0,Lazio
+29,20/04/47,Roma,2-1,Internazionale
+29,20/04/47,Torino,6-0,Associazione del Calcio in Vic
+29,20/04/47,Triestina,1-5,Juventus
+30,04/05/47,Atalanta,1-1,Fiorentina
+30,04/05/47,Internazionale,4-2,Alessandria
+30,04/05/47,Juventus,2-0,Bologna
+30,04/05/47,Lazio,1-1,Genoa
+30,04/05/47,Livorno 1915,0-2,Torino
+30,04/05/47,Modena,1-0,Roma
+30,04/05/47,Napoli,5-1,AS Bari
+30,04/05/47,Sampdoria,2-1,Associazione del Calcio in Vic
+30,04/05/47,Triestina,0-1,Brescia
+30,04/05/47,Venezia,1-1,AC Milan
+31,18/05/47,Atalanta,0-0,Roma
+31,18/05/47,Bologna,2-1,AS Bari
+31,18/05/47,Brescia,0-2,Venezia
+31,18/05/47,Genoa,0-2,AC Milan
+31,18/05/47,Internazionale,0-0,Juventus
+31,18/05/47,Lazio,3-0,Fiorentina
+31,18/05/47,Livorno 1915,4-2,Alessandria
+31,18/05/47,Sampdoria,4-1,Triestina
+31,18/05/47,Torino,2-1,Napoli
+31,18/05/47,Associazione del Calcio in Vic,0-1,Modena
+32,25/05/47,Alessandria,2-2,Brescia
+32,25/05/47,AS Bari,1-2,Internazionale
+32,25/05/47,Bologna,3-0,Napoli
+32,25/05/47,Fiorentina,0-4,Torino
+32,25/05/47,Juventus,1-0,Modena
+32,25/05/47,AC Milan,0-0,Lazio
+32,25/05/47,Roma,0-1,Genoa
+32,25/05/47,Sampdoria,3-1,Venezia
+32,25/05/47,Triestina,0-3,Livorno 1915
+32,25/05/47,Associazione del Calcio in Vic,0-1,Atalanta
+33,01/06/47,AS Bari,2-0,Triestina
+33,01/06/47,Brescia,1-1,Juventus
+33,01/06/47,Fiorentina,3-3,Roma
+33,01/06/47,Genoa,3-1,Alessandria
+33,01/06/47,Lazio,1-1,Associazione del Calcio in Vic
+33,01/06/47,AC Milan,4-2,Bologna
+33,01/06/47,Modena,1-0,Sampdoria
+33,01/06/47,Napoli,1-0,Internazionale
+33,01/06/47,Torino,5-3,Atalanta
+33,01/06/47,Venezia,1-0,Livorno 1915
+34,08/06/47,Alessandria,4-1,AC Milan
+34,08/06/47,Atalanta,1-1,Lazio
+34,08/06/47,Bologna,0-2,Brescia
+34,08/06/47,Internazionale,3-1,Venezia
+34,08/06/47,Livorno 1915,0-1,Modena
+34,08/06/47,Napoli,1-1,Fiorentina
+34,08/06/47,Roma,2-0,AS Bari
+34,08/06/47,Sampdoria,0-3,Juventus
+34,08/06/47,Torino,6-0,Genoa
+34,08/06/47,Associazione del Calcio in Vic,3-2,Triestina
+35,15/06/47,AS Bari,0-0,Torino
+35,15/06/47,Brescia,2-1,Sampdoria
+35,15/06/47,Genoa,2-1,Napoli
+35,15/06/47,Juventus,1-2,Associazione del Calcio in Vic
+35,15/06/47,Livorno 1915,3-1,Internazionale
+35,15/06/47,AC Milan,2-2,Fiorentina
+35,15/06/47,Modena,0-0,Atalanta
+35,15/06/47,Roma,1-1,Bologna
+35,15/06/47,Triestina,1-3,Alessandria
+35,15/06/47,Venezia,1-2,Lazio
+36,22/06/47,AS Bari,0-3,AC Milan
+36,22/06/47,Bologna,2-0,Atalanta
+36,22/06/47,Fiorentina,2-2,Genoa
+36,22/06/47,Internazionale,1-0,Modena
+36,22/06/47,Lazio,3-0,Triestina
+36,22/06/47,Napoli,0-3,Roma
+36,22/06/47,Sampdoria,2-1,Livorno 1915
+36,22/06/47,Torino,4-1,Alessandria
+36,22/06/47,Venezia,0-2,Juventus
+36,22/06/47,Associazione del Calcio in Vic,2-0,Brescia
+37,29/06/47,Alessandria,2-1,Lazio
+37,29/06/47,Atalanta,3-2,Venezia
+37,29/06/47,Fiorentina,2-0,AS Bari
+37,29/06/47,Genoa,3-1,Triestina
+37,29/06/47,Internazionale,1-1,Bologna
+37,29/06/47,Livorno 1915,2-2,Juventus
+37,29/06/47,Modena,1-1,Brescia
+37,29/06/47,Napoli,1-0,Sampdoria
+37,29/06/47,Roma,0-0,Associazione del Calcio in Vic
+37,29/06/47,Torino,6-2,AC Milan
+38,06/08/47,AS Bari,2-0,Genoa
+38,06/08/47,Bologna,1-1,Fiorentina
+38,06/08/47,Brescia,4-1,Atalanta
+38,06/08/47,Juventus,3-3,Lazio
+38,06/08/47,AC Milan,4-2,Napoli
+38,06/08/47,Modena,2-4,Torino
+38,06/08/47,Roma,0-2,Alessandria
+38,06/08/47,Sampdoria,1-5,Internazionale
+38,06/08/47,Triestina,2-0,Venezia
+38,06/08/47,Associazione del Calcio in Vic,5-2,Livorno 1915

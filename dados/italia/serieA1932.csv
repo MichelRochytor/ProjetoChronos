@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,18/09/32,Alessandria,3-2,Juventus
+1,18/09/32,US Bari,2-2,AC Milan
+1,18/09/32,Genoa,4-0,Triestina
+1,18/09/32,Ambrosiana-Inter,6-2,Pro Patria
+1,18/09/32,Napoli,3-1,Lazio
+1,18/09/32,Padova,0-0,Bologna
+1,18/09/32,Pro Vercelli,2-0,Palermo
+1,18/09/32,Roma,2-0,Casale
+1,18/09/32,Torino,3-2,Fiorentina
+2,25/09/32,Bologna,3-0,US Bari
+2,25/09/32,Casale,2-2,Ambrosiana-Inter
+2,25/09/32,Fiorentina,3-1,Alessandria
+2,25/09/32,Juventus,3-1,Padova
+2,25/09/32,Lazio,1-1,Palermo
+2,25/09/32,AC Milan,2-1,Roma
+2,25/09/32,Pro Patria,3-4,Genoa
+2,25/09/32,Pro Vercelli,2-3,Torino
+2,25/09/32,Triestina,2-2,Napoli
+3,02/10/32,Alessandria,1-0,Pro Patria
+3,02/10/32,US Bari,1-0,Fiorentina
+3,02/10/32,Genoa,2-0,Casale
+3,02/10/32,Ambrosiana-Inter,3-0,Pro Vercelli
+3,02/10/32,Napoli,1-0,Juventus
+3,02/10/32,Padova,2-1,AC Milan
+3,02/10/32,Palermo,0-0,Bologna
+3,02/10/32,Roma,4-0,Triestina
+3,02/10/32,Torino,4-2,Lazio
+4,09/10/32,Alessandria,0-0,Pro Vercelli
+4,09/10/32,Bologna,1-1,Torino
+4,09/10/32,Casale,3-2,Pro Patria
+4,09/10/32,Fiorentina,0-0,Ambrosiana-Inter
+4,09/10/32,Juventus,1-0,Roma
+4,09/10/32,Lazio,0-0,US Bari
+4,09/10/32,AC Milan,0-3,Napoli
+4,09/10/32,Padova,3-0,Genoa
+4,09/10/32,Palermo,1-0,Triestina
+5,16/10/32,US Bari,1-2,Alessandria
+5,16/10/32,Genoa,1-0,Bologna
+5,16/10/32,Ambrosiana-Inter,1-2,Lazio
+5,16/10/32,Napoli,4-0,Casale
+5,16/10/32,Pro Patria,3-1,AC Milan
+5,16/10/32,Pro Vercelli,0-2,Juventus
+5,16/10/32,Roma,1-1,Padova
+5,16/10/32,Torino,0-1,Palermo
+5,16/10/32,Triestina,3-0,Fiorentina
+6,23/10/32,Alessandria,2-3,Ambrosiana-Inter
+6,23/10/32,Bologna,2-0,Pro Vercelli
+6,23/10/32,Casale,5-1,US Bari
+6,23/10/32,Fiorentina,2-0,Genoa
+6,23/10/32,Juventus,2-0,Pro Patria
+6,23/10/32,Lazio,2-1,Roma
+6,23/10/32,AC Milan,2-1,Palermo
+6,23/10/32,Padova,2-2,Napoli
+6,23/10/32,Triestina,2-2,Torino
+7,06/11/32,US Bari,0-4,Juventus
+7,06/11/32,Genoa,2-1,Lazio
+7,06/11/32,Ambrosiana-Inter,5-4,AC Milan
+7,06/11/32,Napoli,2-1,Fiorentina
+7,06/11/32,Palermo,1-1,Alessandria
+7,06/11/32,Pro Patria,1-0,Padova
+7,06/11/32,Pro Vercelli,3-2,Triestina
+7,06/11/32,Roma,0-0,Bologna
+7,06/11/32,Torino,9-0,Casale
+8,13/11/32,US Bari,2-4,Napoli
+8,13/11/32,Bologna,1-1,Fiorentina
+8,13/11/32,Casale,1-2,Juventus
+8,13/11/32,Lazio,2-1,Pro Patria
+8,13/11/32,AC Milan,4-2,Genoa
+8,13/11/32,Padova,2-1,Pro Vercelli
+8,13/11/32,Palermo,0-2,Roma
+8,13/11/32,Torino,3-2,Ambrosiana-Inter
+8,13/11/32,Triestina,1-0,Alessandria
+9,20/11/32,Alessandria,1-1,Casale
+9,20/11/32,Fiorentina,2-2,Padova
+9,20/11/32,Genoa,7-2,Palermo
+9,20/11/32,Ambrosiana-Inter,1-1,Bologna
+9,20/11/32,Juventus,4-0,Lazio
+9,20/11/32,Napoli,1-1,Torino
+9,20/11/32,Pro Patria,1-2,Triestina
+9,20/11/32,Pro Vercelli,2-1,AC Milan
+9,20/11/32,Roma,1-0,US Bari
+10,04/12/32,US Bari,4-2,Genoa
+10,04/12/32,Bologna,3-1,Napoli
+10,04/12/32,Casale,0-1,Pro Vercelli
+10,04/12/32,Lazio,6-0,Alessandria
+10,04/12/32,AC Milan,2-2,Fiorentina
+10,04/12/32,Padova,3-0,Palermo
+10,04/12/32,Pro Patria,1-3,Roma
+10,04/12/32,Torino,0-1,Juventus
+10,04/12/32,Triestina,1-4,Ambrosiana-Inter
+11,11/12/32,Alessandria,0-2,AC Milan
+11,11/12/32,Casale,3-4,Bologna
+11,11/12/32,Genoa,2-0,Torino
+11,11/12/32,Ambrosiana-Inter,3-2,Padova
+11,11/12/32,Juventus,6-1,Triestina
+11,11/12/32,Napoli,2-1,Pro Patria
+11,11/12/32,Palermo,1-0,US Bari
+11,11/12/32,Pro Vercelli,1-1,Lazio
+11,11/12/32,Roma,4-2,Fiorentina
+12,18/12/32,US Bari,1-0,Padova
+12,18/12/32,Bologna,4-0,Alessandria
+12,18/12/32,Fiorentina,3-0,Casale
+12,18/12/32,Juventus,3-0,Ambrosiana-Inter
+12,18/12/32,Lazio,1-2,Triestina
+12,18/12/32,AC Milan,4-3,Torino
+12,18/12/32,Napoli,1-2,Roma
+12,18/12/32,Palermo,2-1,Pro Patria
+12,18/12/32,Pro Vercelli,1-0,Genoa
+13,08/01/33,Bologna,2-2,AC Milan
+13,08/01/33,Fiorentina,1-0,Juventus
+13,08/01/33,Genoa,2-2,Napoli
+13,08/01/33,Ambrosiana-Inter,5-1,Palermo
+13,08/01/33,Lazio,1-0,Casale
+13,08/01/33,Padova,2-1,Alessandria
+13,08/01/33,Pro Patria,1-0,Pro Vercelli
+13,08/01/33,Torino,1-1,Roma
+13,08/01/33,Triestina,0-0,US Bari
+14,15/01/33,Alessandria,3-2,Napoli
+14,15/01/33,US Bari,2-3,Ambrosiana-Inter
+14,15/01/33,Casale,2-1,Palermo
+14,15/01/33,Juventus,2-2,Bologna
+14,15/01/33,AC Milan,0-0,Lazio
+14,15/01/33,Pro Patria,1-1,Torino
+14,15/01/33,Pro Vercelli,1-0,Fiorentina
+14,15/01/33,Roma,1-3,Genoa
+14,15/01/33,Triestina,0-0,Padova
+15,22/01/33,Bologna,6-1,Pro Patria
+15,22/01/33,Casale,2-0,Triestina
+15,22/01/33,Fiorentina,1-0,Palermo
+15,22/01/33,Genoa,2-2,Ambrosiana-Inter
+15,22/01/33,AC Milan,1-1,Juventus
+15,22/01/33,Napoli,3-0,Pro Vercelli
+15,22/01/33,Padova,1-1,Lazio
+15,22/01/33,Roma,1-0,Alessandria
+15,22/01/33,Torino,6-3,US Bari
+16,29/01/33,Alessandria,1-1,Torino
+16,29/01/33,Ambrosiana-Inter,3-2,Roma
+16,29/01/33,Juventus,4-1,Genoa
+16,29/01/33,Lazio,0-2,Bologna
+16,29/01/33,Padova,2-1,Casale
+16,29/01/33,Palermo,1-0,Napoli
+16,29/01/33,Pro Patria,1-2,Fiorentina
+16,29/01/33,Pro Vercelli,4-2,US Bari
+16,29/01/33,Triestina,2-1,AC Milan
+17,05/02/33,US Bari,2-0,Pro Patria
+17,05/02/33,Bologna,5-0,Triestina
+17,05/02/33,Fiorentina,3-1,Lazio
+17,05/02/33,Genoa,2-3,Alessandria
+17,05/02/33,AC Milan,3-0,Casale
+17,05/02/33,Napoli,3-0,Ambrosiana-Inter
+17,05/02/33,Palermo,0-2,Juventus
+17,05/02/33,Roma,2-0,Pro Vercelli
+17,05/02/33,Torino,4-2,Padova
+18,19/02/33,Juventus,3-0,Alessandria
+18,19/02/33,AC Milan,2-0,US Bari
+18,19/02/33,Triestina,2-1,Genoa
+18,19/02/33,Pro Patria,0-0,Ambrosiana-Inter
+18,19/02/33,Lazio,0-1,Napoli
+18,19/02/33,Bologna,1-0,Padova
+18,19/02/33,Palermo,1-1,Pro Vercelli
+18,19/02/33,Casale,1-1,Roma
+18,19/02/33,Fiorentina,0-1,Torino
+19,26/02/33,US Bari,1-1,Bologna
+19,26/02/33,Ambrosiana-Inter,4-2,Casale
+19,26/02/33,Alessandria,0-3,Fiorentina
+19,26/02/33,Padova,1-1,Juventus
+19,26/02/33,Palermo,2-1,Lazio
+19,26/02/33,Roma,4-0,AC Milan
+19,26/02/33,Genoa,1-1,Pro Patria
+19,26/02/33,Torino,4-0,Pro Vercelli
+19,26/02/33,Napoli,2-0,Triestina
+20,05/03/33,Pro Patria,2-1,Alessandria
+20,05/03/33,Fiorentina,1-0,US Bari
+20,05/03/33,Casale,2-3,Genoa
+20,05/03/33,Pro Vercelli,2-4,Ambrosiana-Inter
+20,05/03/33,Juventus,3-0,Napoli
+20,05/03/33,AC Milan,6-2,Padova
+20,05/03/33,Bologna,3-0,Palermo
+20,05/03/33,Triestina,1-1,Roma
+20,05/03/33,Lazio,0-0,Torino
+21,12/03/33,Pro Vercelli,3-2,Alessandria
+21,12/03/33,Torino,3-2,Bologna
+21,12/03/33,Pro Patria,5-1,Casale
+21,12/03/33,Ambrosiana-Inter,3-1,Fiorentina
+21,12/03/33,Roma,0-1,Juventus
+21,12/03/33,US Bari,2-3,Lazio
+21,12/03/33,Napoli,0-1,AC Milan
+21,12/03/33,Genoa,1-1,Padova
+21,12/03/33,Triestina,2-0,Palermo
+22,19/03/33,Alessandria,1-0,US Bari
+22,19/03/33,Bologna,0-0,Genoa
+22,19/03/33,Lazio,0-0,Ambrosiana-Inter
+22,19/03/33,Casale,1-0,Napoli
+22,19/03/33,AC Milan,5-0,Pro Patria
+22,19/03/33,Juventus,4-2,Pro Vercelli
+22,19/03/33,Padova,1-1,Roma
+22,19/03/33,Palermo,1-0,Torino
+22,19/03/33,Fiorentina,0-1,Triestina
+23,26/03/33,Ambrosiana-Inter,1-0,Alessandria
+23,26/03/33,Pro Vercelli,1-3,Bologna
+23,26/03/33,US Bari,3-3,Casale
+23,26/03/33,Genoa,2-4,Fiorentina
+23,26/03/33,Pro Patria,0-2,Juventus
+23,26/03/33,Roma,3-1,Lazio
+23,26/03/33,Palermo,1-0,AC Milan
+23,26/03/33,Napoli,1-1,Padova
+23,26/03/33,Torino,1-0,Triestina
+24,09/04/33,Juventus,2-0,US Bari
+24,09/04/33,Lazio,0-0,Genoa
+24,09/04/33,AC Milan,1-3,Ambrosiana-Inter
+24,09/04/33,Fiorentina,1-0,Napoli
+24,09/04/33,Alessandria,0-0,Palermo
+24,09/04/33,Padova,4-1,Pro Patria
+24,09/04/33,Triestina,2-1,Pro Vercelli
+24,09/04/33,Bologna,2-2,Roma
+24,09/04/33,Casale,1-0,Torino
+25,16/04/33,Napoli,2-0,US Bari
+25,16/04/33,Fiorentina,1-0,Bologna
+25,16/04/33,Juventus,6-0,Casale
+25,16/04/33,Pro Patria,2-3,Lazio
+25,16/04/33,Genoa,2-2,AC Milan
+25,16/04/33,Pro Vercelli,3-1,Padova
+25,16/04/33,Roma,3-0,Palermo
+25,16/04/33,Ambrosiana-Inter,5-1,Torino
+25,16/04/33,Alessandria,4-1,Triestina
+26,23/04/33,Casale,0-0,Alessandria
+26,23/04/33,Padova,1-1,Fiorentina
+26,23/04/33,Palermo,1-1,Genoa
+26,23/04/33,Bologna,2-1,Ambrosiana-Inter
+26,23/04/33,Lazio,1-0,Juventus
+26,23/04/33,Torino,0-1,Napoli
+26,23/04/33,Triestina,3-2,Pro Patria
+26,23/04/33,AC Milan,2-1,Pro Vercelli
+26,23/04/33,US Bari,0-2,Roma
+27,30/04/33,Genoa,3-1,US Bari
+27,30/04/33,Napoli,2-1,Bologna
+27,30/04/33,Pro Vercelli,2-1,Casale
+27,30/04/33,Alessandria,0-1,Lazio
+27,30/04/33,Fiorentina,5-1,AC Milan
+27,30/04/33,Palermo,3-0,Padova
+27,30/04/33,Roma,1-1,Pro Patria
+27,30/04/33,Juventus,2-1,Torino
+27,30/04/33,Ambrosiana-Inter,2-1,Triestina
+28,21/05/33,AC Milan,3-3,Alessandria
+28,21/05/33,Bologna,7-0,Casale
+28,21/05/33,Torino,3-0,Genoa
+28,21/05/33,Padova,1-1,Ambrosiana-Inter
+28,21/05/33,Triestina,0-1,Juventus
+28,21/05/33,Pro Patria,2-0,Napoli
+28,21/05/33,US Bari,1-1,Palermo
+28,21/05/33,Lazio,2-1,Pro Vercelli
+28,21/05/33,Fiorentina,0-0,Roma
+29,25/05/33,Padova,1-2,US Bari
+29,25/05/33,Alessandria,2-0,Bologna
+29,25/05/33,Casale,1-0,Fiorentina
+29,25/05/33,Ambrosiana-Inter,2-2,Juventus
+29,25/05/33,Triestina,2-1,Lazio
+29,25/05/33,Torino,0-0,AC Milan
+29,25/05/33,Roma,1-1,Napoli
+29,25/05/33,Pro Patria,2-3,Palermo
+29,25/05/33,Genoa,0-2,Pro Vercelli
+30,28/05/33,AC Milan,0-3,Bologna
+30,28/05/33,Juventus,5-0,Fiorentina
+30,28/05/33,Napoli,3-0,Genoa
+30,28/05/33,Palermo,0-2,Ambrosiana-Inter
+30,28/05/33,Casale,1-0,Lazio
+30,28/05/33,Alessandria,4-1,Padova
+30,28/05/33,Pro Vercelli,0-2,Pro Patria
+30,28/05/33,Roma,7-1,Torino
+30,28/05/33,US Bari,2-1,Triestina
+31,04/06/33,Napoli,4-1,Alessandria
+31,04/06/33,Ambrosiana-Inter,5-1,US Bari
+31,04/06/33,Palermo,1-0,Casale
+31,04/06/33,Bologna,1-2,Juventus
+31,04/06/33,Lazio,2-0,AC Milan
+31,04/06/33,Torino,3-1,Pro Patria
+31,04/06/33,Fiorentina,2-0,Pro Vercelli
+31,04/06/33,Genoa,2-1,Roma
+31,04/06/33,Padova,0-1,Triestina
+32,16/06/33,Pro Patria,3-3,Bologna
+32,16/06/33,Triestina,3-0,Casale
+32,16/06/33,Palermo,1-3,Fiorentina
+32,16/06/33,Ambrosiana-Inter,0-2,Genoa
+32,16/06/33,Juventus,3-0,AC Milan
+32,16/06/33,Pro Vercelli,2-1,Napoli
+32,16/06/33,Lazio,4-0,Padova
+32,16/06/33,Alessandria,2-2,Roma
+32,16/06/33,US Bari,3-1,Torino
+33,18/06/33,Torino,3-0,Alessandria
+33,18/06/33,Roma,0-1,Ambrosiana-Inter
+33,18/06/33,Genoa,3-2,Juventus
+33,18/06/33,Bologna,4-1,Lazio
+33,18/06/33,Casale,1-0,Padova
+33,18/06/33,Napoli,5-0,Palermo
+33,18/06/33,Fiorentina,1-0,Pro Patria
+33,18/06/33,US Bari,2-0,Pro Vercelli
+33,18/06/33,AC Milan,2-2,Triestina
+34,25/06/33,Pro Patria,2-1,US Bari
+34,25/06/33,Triestina,1-0,Bologna
+34,25/06/33,Lazio,0-0,Fiorentina

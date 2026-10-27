@@ -1,0 +1,106 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,0000-00-00,Americano-MA,3-1,Luminense
+1T,0000-00-00,Sampaio Corrêa,2-0,Imperatriz
+1T,22/07/06,Comerciário,2-2,Chapadinha
+1T,22/07/06,Moto Club,3-2,Luminense
+1T,23/07/06,Juventude-MA,3-0,Americano-MA
+1T,27/07/06,Imperatriz,3-0,Santa Inês
+1T,27/07/06,Maranhão,3-0,Juventude-MA
+1T,30/07/06,Chapadinha,0-0,Moto Club
+1T,30/07/06,Comerciário,2-2,Luminense
+1T,30/07/06,Juventude-MA,5-0,Santa Inês
+1T,03/08/06,Moto Club,2-0,Comerciário
+1T,06/08/06,Luminense,3-2,Chapadinha
+1T,06/08/06,Santa Inês,3-2,Comerciário
+1T,07/08/06,Americano-MA,2-2,Moto Club
+1T,10/08/06,Imperatriz,2-1,Americano-MA
+1T,10/08/06,Juventude-MA,1-2,Luminense
+1T,10/08/06,Maranhão,2-0,Santa Inês
+1T,13/08/06,Moto Club,2-1,Imperatriz
+1T,17/08/06,Luminense,2-3,Imperatriz
+1T,17/08/06,Santa Inês,1-0,Chapadinha
+1T,20/08/06,Comerciário,0-1,Americano-MA
+1T,20/08/06,Luminense,1-0,Sampaio Corrêa
+1T,20/08/06,Imperatriz,2-1,Juventude-MA
+1T,23/08/06,Luminense,3-3,Maranhão
+1T,24/08/06,Chapadinha,1-0,Sampaio Corrêa
+1T,24/08/06,Moto Club,0-1,Santa Inês
+1T,25/08/06,Americano-MA,1-1,Maranhão
+1T,26/08/06,Imperatriz,6-1,Comerciário
+1T,27/08/06,Chapadinha,2-2,Juventude-MA
+1T,28/08/06,Sampaio Corrêa,2-1,Americano-MA
+1T,03/09/06,Chapadinha,3-0,Imperatriz
+1T,03/09/06,Juventude-MA,2-3,Moto Club
+1T,03/09/06,Santa Inês,0-0,Luminense
+1T,03/09/06,Sampaio Corrêa,2-1,Comerciário
+1T,07/09/06,Moto Club,2-1,Maranhão
+1T,07/09/06,Santa Inês,2-3,Sampaio Corrêa
+1T,07/09/06,Juventude-MA,0-1,Comerciário
+1T,10/09/06,Imperatriz,0-0,Maranhão
+1T,11/09/06,Sampaio Corrêa,3-1,Juventude-MA
+1T,14/09/06,Maranhão,2-1,Chapadinha
+1T,17/09/06,Sampaio Corrêa,1-1,Moto Club
+1T,17/09/06,Americano-MA,1-0,Santa Inês
+1T,18/09/06,Comerciário,1-2,Maranhão
+1T,24/09/06,Americano-MA,1-2,Chapadinha
+1T,24/09/06,Maranhão,1-1,Sampaio Corrêa
+SF,04/10/06,Maranhão,0-1,Moto Club
+SF,04/10/06,Imperatriz,1-1,Sampaio Corrêa
+SF,08/10/06,Moto Club,2-2,Maranhão
+SF,08/10/06,Sampaio Corrêa,0-2,Imperatriz
+F,11/10/06,Imperatriz,3-1,Moto Club
+F,15/10/06,Moto Club,1-0,Imperatriz
+F,18/10/06,Moto Club,0-0,Imperatriz
+2T,19/10/06,Comerciário,7-0,Santa Inês
+2T,19/10/06,Sampaio Corrêa,2-0,Chapadinha
+2T,19/10/06,Luminense,0-0,Juventude-MA
+2T,22/10/06,Chapadinha,2-2,Comerciário
+2T,22/10/06,Imperatriz,0-1,Luminense
+2T,22/10/06,Americano-MA,1-4,Sampaio Corrêa
+2T,22/10/06,Santa Inês,2-1,Maranhão
+2T,22/10/06,Moto Club,0-1,Juventude-MA
+2T,25/10/06,Chapadinha,0-1,Maranhão
+2T,25/10/06,Luminense,1-0,Santa Inês
+2T,25/10/06,Comerciário,1-5,Imperatriz
+2T,25/10/06,Moto Club,2-0,Americano-MA
+2T,28/10/06,Juventude-MA,0-2,Chapadinha
+2T,28/10/06,Sampaio Corrêa,2-1,Luminense
+2T,28/10/06,Santa Inês,4-4,Americano-MA
+2T,01/11/06,Comerciário,0-0,Juventude-MA
+2T,01/11/06,Maranhão,1-2,Imperatriz
+2T,01/11/06,Santa Inês,0-2,Moto Club
+2T,01/11/06,Chapadinha,3-2,Americano-MA
+2T,04/11/06,Imperatriz,1-3,Sampaio Corrêa
+2T,05/11/06,Maranhão,1-1,Luminense
+2T,06/11/06,Americano-MA,1-1,Juventude-MA
+2T,09/11/06,Juventude-MA,1-1,Maranhão
+2T,09/11/06,Moto Club,1-2,Chapadinha
+2T,09/11/06,Sampaio Corrêa,0-0,Comerciário
+2T,12/11/06,Luminense,3-1,Moto Club
+2T,12/11/06,Americano-MA,2-1,Imperatriz
+2T,12/11/06,Sampaio Corrêa,2-0,Santa Inês
+2T,15/11/06,Luminense,0-1,Comerciário
+2T,15/11/06,Juventude-MA,1-2,Sampaio Corrêa
+2T,15/11/06,Santa Inês,0-2,Imperatriz
+2T,15/11/06,Maranhão,0-2,Moto Club
+2T,18/11/06,Imperatriz,2-1,Moto Club
+2T,19/11/06,Sampaio Corrêa,1-3,Maranhão
+2T,19/11/06,Americano-MA,2-0,Comerciário
+2T,19/11/06,Santa Inês,4-1,Juventude-MA
+2T,19/11/06,Chapadinha,3-0,Luminense
+2T,23/11/06,Americano-MA,2-3,Maranhão
+2T,23/11/06,Comerciário,2-1,Moto Club
+2T,23/11/06,Imperatriz,3-1,Chapadinha
+2T,26/11/06,Maranhão,0-0,Comerciário
+2T,26/11/06,Moto Club,0-1,Sampaio Corrêa
+2T,26/11/06,Juventude-MA,2-4,Imperatriz
+2T,26/11/06,Chapadinha,2-0,Santa Inês
+2T,26/11/06,Luminense,4-0,Americano-MA
+SF,29/11/06,Luminense,1-1,Sampaio Corrêa
+SF,29/11/06,Chapadinha,2-0,Imperatriz
+SF,03/12/06,Sampaio Corrêa,1-1,Luminense
+SF,03/12/06,Imperatriz,2-1,Chapadinha
+F,06/12/06,Chapadinha,1-2,Sampaio Corrêa
+F,10/12/06,Sampaio Corrêa,1-1,Chapadinha
+F,13/12/06,Moto Club,1-1,Sampaio Corrêa
+F,17/12/06,Sampaio Corrêa,1-2,Moto Club

@@ -1,0 +1,75 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,11/01/25,Joinville,0-0,Figueirense
+1F,15/01/25,Concórdia,0-0,Barra-SC
+1F,15/01/25,Caravaggio,1-1,Chapecoense
+1F,15/01/25,Marcílio Dias,0-0,Brusque
+1F,15/01/25,Avaí,1-0,Santa Catarina
+1F,18/01/25,Brusque,0-0,Avaí
+1F,18/01/25,Figueirense,1-1,Hercílio Luz
+1F,19/01/25,Chapecoense,1-0,Marcílio Dias
+1F,19/01/25,Santa Catarina,3-1,Caravaggio
+1F,19/01/25,Criciúma,2-0,Concórdia
+1F,19/01/25,Barra-SC,0-0,Joinville
+1F,22/01/25,Joinville,2-1,Concórdia
+1F,22/01/25,Caravaggio,0-0,Avaí
+1F,22/01/25,Brusque,1-2,Chapecoense
+1F,22/01/25,Figueirense,2-3,Criciúma
+1F,23/01/25,Barra-SC,2-2,Santa Catarina
+1F,23/01/25,Marcílio Dias,1-0,Hercílio Luz
+1F,25/01/25,Avaí,0-1,Figueirense
+1F,25/01/25,Joinville,1-1,Brusque
+1F,26/01/25,Hercílio Luz,0-1,Santa Catarina
+1F,26/01/25,Marcílio Dias,1-1,Caravaggio
+1F,26/01/25,Concórdia,2-1,Chapecoense
+1F,26/01/25,Criciúma,1-1,Barra-SC
+1F,29/01/25,Barra-SC,1-1,Hercílio Luz
+1F,29/01/25,Figueirense,4-1,Concórdia
+1F,29/01/25,Brusque,1-0,Caravaggio
+1F,29/01/25,Chapecoense,0-0,Avaí
+1F,29/01/25,Criciúma,3-0,Joinville
+1F,30/01/25,Santa Catarina,2-1,Marcílio Dias
+1F,01/02/25,Chapecoense,0-0,Criciúma
+1F,01/02/25,Avaí,3-0,Joinville
+1F,01/02/25,Brusque,2-0,Barra-SC
+1F,02/02/25,Santa Catarina,2-2,Figueirense
+1F,02/02/25,Caravaggio,1-0,Hercílio Luz
+1F,02/02/25,Marcílio Dias,0-0,Concórdia
+1F,05/02/25,Barra-SC,1-1,Chapecoense
+1F,05/02/25,Figueirense,1-0,Brusque
+1F,05/02/25,Hercílio Luz,0-3,Avaí
+1F,05/02/25,Criciúma,1-1,Santa Catarina
+1F,06/02/25,Concórdia,2-0,Caravaggio
+1F,06/02/25,Joinville,1-1,Marcílio Dias
+1F,08/02/25,Barra-SC,1-0,Figueirense
+1F,08/02/25,Brusque,1-1,Criciúma
+1F,09/02/25,Concórdia,1-0,Hercílio Luz
+1F,09/02/25,Chapecoense,1-1,Santa Catarina
+1F,09/02/25,Avaí,3-0,Marcílio Dias
+1F,09/02/25,Caravaggio,0-1,Joinville
+1F,12/02/25,Santa Catarina,1-0,Brusque
+1F,12/02/25,Marcílio Dias,2-0,Barra-SC
+1F,12/02/25,Criciúma,1-2,Caravaggio
+1F,12/02/25,Avaí,3-1,Concórdia
+1F,13/02/25,Hercílio Luz,2-1,Joinville
+1F,13/02/25,Figueirense,2-4,Chapecoense
+1F,15/02/25,Criciúma,0-0,Marcílio Dias
+1F,15/02/25,Barra-SC,1-0,Avaí
+1F,16/02/25,Hercílio Luz,2-2,Chapecoense
+1F,16/02/25,Concórdia,1-4,Brusque
+1F,16/02/25,Joinville,4-3,Santa Catarina
+1F,16/02/25,Figueirense,5-1,Caravaggio
+1F,19/02/25,Hercílio Luz,0-1,Criciúma
+1F,22/02/25,Marcílio Dias,2-1,Figueirense
+1F,22/02/25,Avaí,0-3,Criciúma
+1F,22/02/25,Caravaggio,0-0,Barra-SC
+1F,22/02/25,Santa Catarina,3-0,Concórdia
+1F,22/02/25,Chapecoense,1-1,Joinville
+1F,22/02/25,Brusque,3-1,Hercílio Luz
+QF,01/03/25,Brusque,0-0(4-5 Pen.),Chapecoense
+QF,02/03/25,Criciúma,0-0(7-8 Pen.),Joinville
+QF,04/03/25,Santa Catarina,2-0,Marcílio Dias
+QF,05/03/25,Avaí,1-1(4-2 Pen.),Figueirense
+SF,08/03/25,Santa Catarina,1-1(7-8 Pen.),Avaí
+SF,09/03/25,Chapecoense,2-1,Joinville
+F,15/03/25,Chapecoense,2-2,Avaí
+F,22/03/25,Avaí,1-1,Chapecoense

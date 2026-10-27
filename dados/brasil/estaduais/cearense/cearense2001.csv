@@ -1,0 +1,103 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,14/01/01,Fortaleza,3-1,Itapajé
+1T,14/01/01,Itapipoca,0-2,Ceará
+1T,14/01/01,Guarany de Sobral,1-1,Ferroviário
+1T,14/01/01,Boa Viagem,2-2,Tiradentes-CE
+1T,14/01/01,Juazeiro-CE,2-2,Uniclinic
+1T,21/01/01,Tiradentes-CE,1-1,Juazeiro-CE
+1T,21/01/01,Ceará,1-0,Uniclinic
+1T,21/01/01,Itapipoca,3-3,Guarany de Sobral
+1T,21/01/01,Boa Viagem,1-1,Fortaleza
+1T,28/01/01,Itapajé,1-0,Itapipoca
+1T,28/01/01,Fortaleza,3-1,Ferroviário
+1T,28/01/01,Juazeiro-CE,0-0,Ceará
+1T,04/02/01,Uniclinic,1-2,Tiradentes-CE
+1T,04/02/01,Itapajé,1-1,Boa Viagem
+1T,04/02/01,Ceará,2-1,Ferroviário
+1T,04/02/01,Guarany de Sobral,1-2,Fortaleza
+1T,10/02/01,Tiradentes-CE,1-2,Ferroviário
+1T,11/02/01,Itapipoca,1-2,Uniclinic
+1T,15/02/01,Guarany de Sobral,1-0,Juazeiro-CE
+1T,17/02/01,Ferroviário,3-1,Uniclinic
+1T,18/02/01,Itapajé,2-1,Ceará
+1T,18/02/01,Fortaleza,3-1,Juazeiro-CE
+1T,18/02/01,Guarany de Sobral,2-1,Tiradentes-CE
+1T,03/03/01,Ferroviário,0-1,Juazeiro-CE
+1T,04/03/01,Tiradentes-CE,3-2,Itapajé
+1T,04/03/01,Uniclinic,4-4,Guarany de Sobral
+1T,07/03/01,Uniclinic,4-4,Boa Viagem
+1T,07/03/01,Fortaleza,3-0,Itapipoca
+1T,08/03/01,Ceará,2-2,Tiradentes-CE
+1T,11/03/01,Itapajé,0-2,Uniclinic
+1T,11/03/01,Boa Viagem,0-0,Itapipoca
+1T,13/03/01,Fortaleza,3-0,Tiradentes-CE
+1T,14/03/01,Ferroviário,3-2,Boa Viagem
+1T,14/03/01,Juazeiro-CE,1-1,Itapipoca
+1T,18/03/01,Boa Viagem,2-0,Guarany de Sobral
+1T,18/03/01,Itapipoca,1-1,Ferroviário
+1T,21/03/01,Juazeiro-CE,1-0,Itapajé
+1T,21/03/01,Fortaleza,4-3,Uniclinic
+1T,24/03/01,Juazeiro-CE,0-2,Boa Viagem
+1T,25/03/01,Itapajé,2-0,Ferroviário
+1T,28/03/01,Fortaleza,1-0,Ceará
+1T,28/03/01,Tiradentes-CE,0-2,Itapipoca
+1T,28/03/01,Guarany de Sobral,2-0,Itapajé
+1T,04/04/01,Ceará,3-2,Guarany de Sobral
+1T,22/04/01,Ceará,2-1,Boa Viagem
+SF,29/04/01,Ferroviário,1-4,Fortaleza
+SF,29/04/01,Guarany de Sobral,1-1,Ceará
+2T,29/04/01,Itapipoca,0-0,Boa Viagem
+2T,29/04/01,Itapajé,3-1,Juazeiro-CE
+2T,01/05/01,Uniclinic,2-0,Juazeiro-CE
+2T,03/05/01,Itapipoca,4-2,Juazeiro-CE
+SF,05/05/01,Ceará,2-1,Guarany de Sobral
+2T,05/05/01,Tiradentes-CE,1-0,Boa Viagem
+SF,06/05/01,Fortaleza,1-0,Ferroviário
+2T,12/05/01,Ferroviário,0-0,Itapajé
+F,13/05/01,Ceará,2-2,Fortaleza
+2T,13/05/01,Tiradentes-CE,2-0,Guarany de Sobral
+2T,13/05/01,Boa Viagem,1-1,Uniclinic
+2T,16/05/01,Juazeiro-CE,1-1,Ferroviário
+2T,19/05/01,Uniclinic,2-2,Ferroviário
+2T,19/05/01,Guarany de Sobral,3-1,Itapipoca
+F,20/05/01,Fortaleza,4-3,Ceará
+2T,20/05/01,Itapajé,1-0,Tiradentes-CE
+2T,20/05/01,Boa Viagem,1-0,Juazeiro-CE
+2T,23/05/01,Ceará,5-0,Juazeiro-CE
+2T,24/05/01,Guarany de Sobral,2-0,Uniclinic
+2T,26/05/01,Ferroviário,4-2,Itapipoca
+2T,27/05/01,Fortaleza,3-1,Tiradentes-CE
+2T,27/05/01,Uniclinic,1-0,Itapajé
+2T,27/05/01,Juazeiro-CE,1-1,Guarany de Sobral
+2T,30/05/01,Ceará,2-2,Itapajé
+2T,31/05/01,Fortaleza,0-2,Uniclinic
+2T,31/05/01,Guarany de Sobral,0-0,Boa Viagem
+2T,03/06/01,Ferroviário,1-2,Ceará
+2T,03/06/01,Itapipoca,0-3,Fortaleza
+2T,03/06/01,Itapajé,2-2,Guarany de Sobral
+2T,03/06/01,Tiradentes-CE,1-1,Uniclinic
+2T,06/06/01,Ferroviário,0-3,Guarany de Sobral
+2T,06/06/01,Itapipoca,0-1,Tiradentes-CE
+2T,06/06/01,Ceará,8-3,Uniclinic
+2T,07/06/01,Fortaleza,2-1,Boa Viagem
+2T,09/06/01,Ferroviário,4-3,Tiradentes-CE
+2T,10/06/01,Ceará,0-1,Fortaleza
+2T,10/06/01,Boa Viagem,1-1,Itapajé
+2T,14/06/01,Tiradentes-CE,1-0,Ceará
+2T,14/06/01,Itapajé,1-1,Fortaleza
+2T,14/06/01,Boa Viagem,1-2,Ferroviário
+2T,17/06/01,Ferroviário,0-2,Fortaleza
+2T,17/06/01,Guarany de Sobral,2-2,Ceará
+2T,17/06/01,Itapipoca,0-2,Itapajé
+2T,20/06/01,Juazeiro-CE,5-2,Fortaleza
+2T,20/06/01,Ceará,3-2,Itapipoca
+2T,24/06/01,Fortaleza,2-1,Guarany de Sobral
+2T,24/06/01,Uniclinic,2-0,Itapipoca
+2T,24/06/01,Boa Viagem,4-3,Ceará
+2T,24/06/01,Juazeiro-CE,1-0,Tiradentes-CE
+SF,27/06/01,Itapajé,2-1,Fortaleza
+SF,27/06/01,Ceará,2-3,Uniclinic
+SF,30/06/01,Uniclinic,1-4,Ceará
+SF,01/07/01,Fortaleza,5-0,Itapajé
+F,05/07/01,Ceará,0-0,Fortaleza
+F,08/07/01,Fortaleza,3-1,Ceará

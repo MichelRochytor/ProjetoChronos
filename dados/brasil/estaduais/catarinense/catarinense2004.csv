@@ -1,0 +1,73 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,21/01/04,Tiradentes-SC,2-2,Avaí
+A,21/01/04,Chapecoense,2-2,Caxias-SC
+B,21/01/04,Guarani-SC,2-1,Lages
+B,21/01/04,Joinville,2-1,Tubarão FC
+A,25/01/04,Hermann Aichinger,2-1,Tiradentes-SC
+A,25/01/04,Avaí,1-0,Chapecoense
+B,25/01/04,Tubarão FC,2-0,Figueirense
+B,25/01/04,Lages,0-0,Joinville
+B,25/01/04,Marcílio Dias,2-1,Guarani-SC
+A,28/01/04,Tiradentes-SC,0-6,Chapecoense
+A,28/01/04,Hermann Aichinger,0-1,Caxias-SC
+B,28/01/04,Figueirense,3-1,Guarani-SC
+B,28/01/04,Joinville,3-3,Marcílio Dias
+B,28/01/04,Tubarão FC,2-1,Lages
+A,01/02/04,Caxias-SC,5-2,Tiradentes-SC
+A,01/02/04,Avaí,0-0,Hermann Aichinger
+A,01/02/04,Chapecoense,0-3,Criciúma
+B,01/02/04,Lages,3-3,Figueirense
+B,01/02/04,Marcílio Dias,2-1,Tubarão FC
+B,01/02/04,Guarani-SC,1-0,Joinville
+A,04/02/04,Criciúma,1-0,Hermann Aichinger
+A,08/02/04,Tiradentes-SC,0-0,Criciúma
+A,08/02/04,Hermann Aichinger,0-1,Chapecoense
+A,08/02/04,Caxias-SC,3-2,Avaí
+B,08/02/04,Figueirense,3-0,Joinville
+B,08/02/04,Tubarão FC,4-2,Guarani-SC
+B,08/02/04,Lages,3-2,Marcílio Dias
+A,11/02/04,Caxias-SC,4-2,Criciúma
+B,11/02/04,Figueirense,1-2,Marcílio Dias
+A,14/02/04,Avaí,4-2,Caxias-SC
+A,15/02/04,Criciúma,2-2,Tiradentes-SC
+A,15/02/04,Chapecoense,2-1,Hermann Aichinger
+B,15/02/04,Joinville,1-0,Figueirense
+B,15/02/04,Guarani-SC,5-1,Tubarão FC
+B,15/02/04,Marcílio Dias,2-1,Lages
+A,18/02/04,Criciúma,1-1,Avaí
+A,21/02/04,Tiradentes-SC,6-2,Caxias-SC
+A,21/02/04,Hermann Aichinger,2-1,Avaí
+A,21/02/04,Criciúma,1-0,Chapecoense
+B,21/02/04,Figueirense,2-1,Lages
+B,21/02/04,Tubarão FC,0-0,Marcílio Dias
+B,21/02/04,Joinville,0-0,Guarani-SC
+A,25/02/04,Chapecoense,5-2,Tiradentes-SC
+A,25/02/04,Avaí,2-1,Criciúma
+A,25/02/04,Caxias-SC,0-2,Hermann Aichinger
+B,25/02/04,Guarani-SC,1-0,Figueirense
+B,25/02/04,Marcílio Dias,2-2,Joinville
+B,25/02/04,Lages,1-2,Tubarão FC
+A,29/02/04,Tiradentes-SC,1-5,Hermann Aichinger
+A,29/02/04,Criciúma,4-0,Caxias-SC
+A,29/02/04,Chapecoense,3-1,Avaí
+B,29/02/04,Figueirense,3-1,Tubarão FC
+B,29/02/04,Joinville,3-2,Lages
+B,29/02/04,Guarani-SC,2-0,Marcílio Dias
+A,07/03/04,Avaí,0-3,Tiradentes-SC
+A,07/03/04,Caxias-SC,2-2,Chapecoense
+A,07/03/04,Hermann Aichinger,1-0,Criciúma
+B,07/03/04,Marcílio Dias,0-5,Figueirense
+B,07/03/04,Lages,2-1,Guarani-SC
+B,07/03/04,Tubarão FC,2-1,Joinville
+QDF,14/03/04,Hermann Aichinger,2-0,Chapecoense
+QDF,14/03/04,Guarani-SC,1-1,Figueirense
+QDF,21/03/04,Chapecoense,3-0,Guarani-SC
+QDF,21/03/04,Figueirense,3-0,Hermann Aichinger
+QDF,28/03/04,Figueirense,2-0,Chapecoense
+QDF,28/03/04,Hermann Aichinger,3-4,Guarani-SC
+QDF,04/04/04,Chapecoense,5-1,Figueirense
+QDF,04/04/04,Guarani-SC,0-2,Hermann Aichinger
+QDF,11/04/04,Guarani-SC,3-2,Chapecoense
+QDF,11/04/04,Hermann Aichinger,0-0,Figueirense
+QDF,18/04/04,Chapecoense,1-1,Hermann Aichinger
+QDF,18/04/04,Figueirense,3-1,Guarani-SC

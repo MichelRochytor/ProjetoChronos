@@ -1,0 +1,71 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,06/01/26,Chapecoense,1-1,Brusque
+A,06/01/26,Santa Catarina,2-2,Camboriú
+A,07/01/26,Marcílio Dias,2-0,Criciúma
+A,07/01/26,Joinville,2-3,Figueirense
+A,07/01/26,Avaí,2-1,Barra-SC
+A,08/01/26,Carlos Renaux,0-1,Concórdia
+A,10/01/26,Figueirense,1-0,Marcílio Dias
+A,10/01/26,Barra-SC,1-0,Joinville
+A,11/01/26,Concórdia,0-0,Santa Catarina
+A,11/01/26,Camboriú,2-0,Chapecoense
+A,11/01/26,Criciúma,2-1,Avaí
+A,11/01/26,Brusque,1-0,Carlos Renaux
+A,14/01/26,Camboriú,1-0,Barra-SC
+A,14/01/26,Concórdia,1-2,Chapecoense
+A,14/01/26,Avaí,1-0,Carlos Renaux
+A,14/01/26,Brusque,2-1,Figueirense
+A,15/01/26,Joinville,0-0,Criciúma
+A,15/01/26,Marcílio Dias,0-1,Santa Catarina
+A,17/01/26,Carlos Renaux,1-1,Camboriú
+A,17/01/26,Barra-SC,0-1,Brusque
+A,18/01/26,Santa Catarina,3-1,Joinville
+A,18/01/26,Figueirense,0-2,Avaí
+A,18/01/26,Chapecoense,1-0,Marcílio Dias
+A,19/01/26,Criciúma,3-1,Concórdia
+A,21/01/26,Joinville,0-1,Carlos Renaux
+A,21/01/26,Brusque,1-1,Santa Catarina
+A,21/01/26,Avaí,1-1,Chapecoense
+A,22/01/26,Marcílio Dias,0-1,Barra-SC
+A,22/01/26,Concórdia,1-0,Figueirense
+A,22/01/26,Camboriú,1-2,Criciúma
+A,25/01/26,Figueirense,1-1,Camboriú
+A,25/01/26,Criciúma,3-3,Brusque
+A,25/01/26,Santa Catarina,3-1,Avaí
+A,25/01/26,Chapecoense,6-0,Joinville
+A,25/01/26,Carlos Renaux,2-4,Marcílio Dias
+A,25/01/26,Barra-SC,5-1,Concórdia
+QF,31/01/26,Camboriú,1-2,Avaí
+QF,31/01/26,Barra-SC,1-1,Santa Catarina
+QF,01/02/26,Concórdia,0-0,Brusque
+QF,01/02/26,Criciúma,1-2,Chapecoense
+,02/02/26,Carlos Renaux,1-0,Figueirense
+,03/02/26,Joinville,2-4,Marcílio Dias
+,06/02/26,Figueirense,1-0,Joinville
+QF,07/02/26,Santa Catarina,0-1,Barra-SC
+QF,07/02/26,Brusque,1-1(5-4 Pen.),Concórdia
+QF,08/02/26,Avaí,0-1(3-4 Pen.),Camboriú
+QF,08/02/26,Chapecoense,0-0,Criciúma
+,09/02/26,Marcílio Dias,1-1,Carlos Renaux
+,12/02/26,Concórdia,2-2,Criciúma
+,13/02/26,Marcílio Dias,1-0,Figueirense
+,13/02/26,Joinville,3-0,Carlos Renaux
+SF,14/02/26,Brusque,1-0,Chapecoense
+,14/02/26,Santa Catarina,1-2,Avaí
+SF,15/02/26,Camboriú,1-1,Barra-SC
+,19/02/26,Carlos Renaux,2-1,Joinville
+,20/02/26,Figueirense,0-1,Marcílio Dias
+,21/02/26,Avaí,3-0,Santa Catarina
+SF,21/02/26,Barra-SC,3-0,Camboriú
+SF,22/02/26,Chapecoense,3-0,Brusque
+,22/02/26,Criciúma,4-0,Concórdia
+,26/02/26,Carlos Renaux,2-1,Marcílio Dias
+,27/02/26,Joinville,0-3,Figueirense
+SF,28/02/26,Camboriú,1-0,Avaí
+SF,28/02/26,Brusque,0-1,Criciúma
+F,01/03/26,Barra-SC,3-1,Chapecoense
+F,04/03/26,Camboriú,1-0,Criciúma
+,06/03/26,Figueirense,2-4,Carlos Renaux
+,06/03/26,Marcílio Dias,2-0,Joinville
+F,07/03/26,Criciúma,3-2(8-7 Pen.),Camboriú
+F,08/03/26,Chapecoense,1-0,Barra-SC

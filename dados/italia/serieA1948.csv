@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,19/09/48,AS Bari,0-2,AC Milan
+1,19/09/48,Bologna,1-2,Roma
+1,19/09/48,Fiorentina,0-3,Palermo
+1,19/09/48,Genoa,7-1,Padova
+1,19/09/48,Internazionale,4-2,Sampdoria
+1,19/09/48,Lazio,0-4,Juventus
+1,19/09/48,Lucchese Libertas,3-1,Triestina
+1,19/09/48,Modena,0-0,Livorno 1915
+1,19/09/48,Novara,2-0,Atalanta
+1,19/09/48,Torino,4-1,Pro Patria
+2,26/09/48,Atalanta,3-2,Torino
+2,26/09/48,Bologna,2-0,Pro Patria
+2,26/09/48,Internazionale,5-0,Novara
+2,26/09/48,Juventus,3-2,Fiorentina
+2,26/09/48,Livorno 1915,2-2,Genoa
+2,26/09/48,Lucchese Libertas,1-0,Modena
+2,26/09/48,Padova,2-0,Lazio
+2,26/09/48,Palermo,2-1,AC Milan
+2,26/09/48,Roma,4-2,Triestina
+2,26/09/48,Sampdoria,2-1,AS Bari
+3,03/10/48,Fiorentina,1-0,Sampdoria
+3,03/10/48,Genoa,2-1,Juventus
+3,03/10/48,Lazio,2-2,Internazionale
+3,03/10/48,AC Milan,3-0,Atalanta
+3,03/10/48,Modena,1-1,Novara
+3,03/10/48,Padova,2-0,Bologna
+3,03/10/48,Palermo,4-2,Livorno 1915
+3,03/10/48,Pro Patria,0-2,Lucchese Libertas
+3,03/10/48,Torino,4-0,Roma
+3,03/10/48,Triestina,2-0,AS Bari
+4,10/10/48,Atalanta,2-0,Modena
+4,10/10/48,AS Bari,0-0,Fiorentina
+4,10/10/48,Bologna,2-2,Genoa
+4,10/10/48,Internazionale,0-0,Palermo
+4,10/10/48,Juventus,2-0,Triestina
+4,10/10/48,Livorno 1915,0-2,Torino
+4,10/10/48,Lucchese Libertas,2-1,Lazio
+4,10/10/48,Novara,2-1,Padova
+4,10/10/48,Roma,1-2,AC Milan
+4,10/10/48,Sampdoria,4-4,Pro Patria
+5,17/10/48,Atalanta,2-4,Juventus
+5,17/10/48,Fiorentina,2-0,Novara
+5,17/10/48,Livorno 1915,1-1,Bologna
+5,17/10/48,AC Milan,0-2,Internazionale
+5,17/10/48,Modena,0-2,Padova
+5,17/10/48,Pro Patria,0-1,AS Bari
+5,17/10/48,Roma,1-1,Lazio
+5,17/10/48,Sampdoria,5-1,Genoa
+5,17/10/48,Torino,2-1,Lucchese Libertas
+5,17/10/48,Triestina,3-1,Palermo
+6,24/10/48,AS Bari,0-4,Roma
+6,24/10/48,Genoa,4-1,Internazionale
+6,24/10/48,Juventus,1-2,Torino
+6,24/10/48,Lazio,1-1,Atalanta
+6,24/10/48,AC Milan,3-1,Triestina
+6,24/10/48,Modena,2-1,Sampdoria
+6,24/10/48,Novara,1-1,Bologna
+6,24/10/48,Padova,2-0,Fiorentina
+6,24/10/48,Palermo,1-3,Lucchese Libertas
+6,24/10/48,Pro Patria,1-0,Livorno 1915
+7,31/10/48,Atalanta,0-1,Pro Patria
+7,31/10/48,Bologna,2-0,Modena
+7,31/10/48,Fiorentina,3-2,Livorno 1915
+7,31/10/48,Internazionale,9-1,AS Bari
+7,31/10/48,Lucchese Libertas,2-2,AC Milan
+7,31/10/48,Palermo,1-0,Lazio
+7,31/10/48,Roma,1-0,Genoa
+7,31/10/48,Sampdoria,2-0,Juventus
+7,31/10/48,Torino,3-1,Padova
+7,31/10/48,Triestina,1-1,Novara
+8,04/11/48,Genoa,1-1,Palermo
+8,04/11/48,Juventus,0-1,Internazionale
+8,04/11/48,Lazio,1-1,AS Bari
+8,04/11/48,Livorno 1915,0-0,Lucchese Libertas
+8,04/11/48,AC Milan,1-0,Torino
+8,04/11/48,Modena,2-2,Roma
+8,04/11/48,Novara,2-3,Sampdoria
+8,04/11/48,Padova,3-0,Atalanta
+8,04/11/48,Pro Patria,2-4,Fiorentina
+8,04/11/48,Triestina,1-1,Bologna
+9,07/11/48,AS Bari,0-0,Genoa
+9,07/11/48,Bologna,1-1,Atalanta
+9,07/11/48,Fiorentina,4-2,AC Milan
+9,07/11/48,Internazionale,2-0,Modena
+9,07/11/48,Lucchese Libertas,2-1,Juventus
+9,07/11/48,Novara,1-0,Palermo
+9,07/11/48,Padova,1-1,Pro Patria
+9,07/11/48,Roma,4-0,Livorno 1915
+9,07/11/48,Sampdoria,1-1,Triestina
+9,07/11/48,Torino,1-0,Lazio
+10,14/11/48,Atalanta,0-1,Triestina
+10,14/11/48,Bologna,2-2,Torino
+10,14/11/48,Genoa,1-0,Lazio
+10,14/11/48,Juventus,0-1,Modena
+10,14/11/48,Livorno 1915,2-2,Padova
+10,14/11/48,Lucchese Libertas,4-0,Fiorentina
+10,14/11/48,AC Milan,4-1,Novara
+10,14/11/48,Palermo,3-0,AS Bari
+10,14/11/48,Pro Patria,1-1,Internazionale
+10,14/11/48,Roma,2-4,Sampdoria
+11,21/11/48,Fiorentina,3-1,Roma
+11,21/11/48,Genoa,2-0,Atalanta
+11,21/11/48,Internazionale,3-1,Livorno 1915
+11,21/11/48,Juventus,1-0,AS Bari
+11,21/11/48,Lazio,8-2,Bologna
+11,21/11/48,Modena,0-0,AC Milan
+11,21/11/48,Novara,0-2,Torino
+11,21/11/48,Padova,0-1,Lucchese Libertas
+11,21/11/48,Palermo,1-1,Sampdoria
+11,21/11/48,Triestina,0-0,Pro Patria
+12,28/11/48,Atalanta,2-1,Palermo
+12,28/11/48,AS Bari,0-1,Modena
+12,28/11/48,Bologna,0-0,Fiorentina
+12,28/11/48,Livorno 1915,1-1,Lazio
+12,28/11/48,Lucchese Libertas,0-0,Genoa
+12,28/11/48,AC Milan,1-1,Juventus
+12,28/11/48,Pro Patria,5-0,Novara
+12,28/11/48,Roma,1-0,Internazionale
+12,28/11/48,Sampdoria,0-0,Padova
+12,28/11/48,Torino,1-1,Triestina
+13,05/12/48,Fiorentina,2-0,Atalanta
+13,05/12/48,Internazionale,2-2,Bologna
+13,05/12/48,Juventus,2-2,Livorno 1915
+13,05/12/48,Lazio,2-5,Pro Patria
+13,05/12/48,Modena,0-1,Torino
+13,05/12/48,Novara,3-1,AS Bari
+13,05/12/48,Padova,1-4,AC Milan
+13,05/12/48,Palermo,2-1,Roma
+13,05/12/48,Sampdoria,5-0,Lucchese Libertas
+13,05/12/48,Triestina,0-0,Genoa
+14,08/12/48,Atalanta,1-5,Sampdoria
+14,08/12/48,Bologna,3-0,Juventus
+14,08/12/48,Fiorentina,1-1,Modena
+14,08/12/48,Genoa,1-0,AC Milan
+14,08/12/48,Internazionale,4-0,Lucchese Libertas
+14,08/12/48,Livorno 1915,1-0,Novara
+14,08/12/48,Palermo,3-1,Pro Patria
+14,08/12/48,Roma,0-2,Padova
+14,08/12/48,Torino,2-0,AS Bari
+14,08/12/48,Triestina,4-1,Lazio
+15,12/12/48,AS Bari,1-0,Padova
+15,12/12/48,Bologna,1-2,Sampdoria
+15,12/12/48,Genoa,4-2,Fiorentina
+15,12/12/48,Livorno 1915,1-0,Triestina
+15,12/12/48,Lucchese Libertas,0-1,Atalanta
+15,12/12/48,AC Milan,3-0,Lazio
+15,12/12/48,Modena,4-0,Palermo
+15,12/12/48,Pro Patria,0-1,Juventus
+15,12/12/48,Roma,4-1,Novara
+15,12/12/48,Torino,4-2,Internazionale
+16,19/12/48,Atalanta,1-2,Internazionale
+16,19/12/48,AS Bari,0-0,Lucchese Libertas
+16,19/12/48,Fiorentina,0-0,Torino
+16,19/12/48,Juventus,3-2,Palermo
+16,19/12/48,Lazio,5-1,Modena
+16,19/12/48,AC Milan,2-2,Bologna
+16,19/12/48,Novara,1-2,Genoa
+16,19/12/48,Padova,0-0,Triestina
+16,19/12/48,Pro Patria,1-1,Roma
+16,19/12/48,Sampdoria,3-0,Livorno 1915
+17,26/12/48,Atalanta,0-2,AS Bari
+17,26/12/48,Bologna,1-0,Palermo
+17,26/12/48,Genoa,3-0,Torino
+17,26/12/48,Internazionale,1-1,Padova
+17,26/12/48,Juventus,0-0,Roma
+17,26/12/48,Lazio,2-0,Sampdoria
+17,26/12/48,Livorno 1915,2-1,AC Milan
+17,26/12/48,Lucchese Libertas,5-1,Novara
+17,26/12/48,Modena,1-1,Pro Patria
+17,26/12/48,Triestina,4-0,Fiorentina
+18,02/01/49,AS Bari,3-0,Livorno 1915
+18,02/01/49,Fiorentina,4-0,Lazio
+18,02/01/49,Genoa,1-0,Modena
+18,02/01/49,Lucchese Libertas,1-1,Bologna
+18,02/01/49,AC Milan,3-2,Pro Patria
+18,02/01/49,Novara,0-0,Juventus
+18,02/01/49,Palermo,1-0,Padova
+18,02/01/49,Roma,1-0,Atalanta
+18,02/01/49,Torino,2-1,Sampdoria
+18,02/01/49,Triestina,2-0,Internazionale
+19,05/01/49,Atalanta,4-2,Livorno 1915
+19,05/01/49,AS Bari,3-0,Bologna
+19,05/01/49,Internazionale,7-1,Fiorentina
+19,05/01/49,Juventus,6-1,Padova
+19,05/01/49,Lazio,2-1,Novara
+19,05/01/49,Lucchese Libertas,5-1,Roma
+19,05/01/49,Modena,0-2,Triestina
+19,05/01/49,Palermo,2-2,Torino
+19,05/01/49,Pro Patria,2-1,Genoa
+19,05/01/49,Sampdoria,2-1,AC Milan
+20,09/01/49,Atalanta,3-1,Novara
+20,09/01/49,Juventus,4-1,Lazio
+20,09/01/49,Livorno 1915,1-0,Modena
+20,09/01/49,AC Milan,4-1,AS Bari
+20,09/01/49,Padova,0-0,Genoa
+20,09/01/49,Palermo,0-2,Fiorentina
+20,09/01/49,Pro Patria,0-1,Torino
+20,09/01/49,Roma,1-1,Bologna
+20,09/01/49,Sampdoria,0-4,Internazionale
+20,09/01/49,Triestina,1-0,Lucchese Libertas
+21,16/01/49,AS Bari,1-2,Sampdoria
+21,16/01/49,Fiorentina,0-0,Juventus
+21,16/01/49,Genoa,3-2,Livorno 1915
+21,16/01/49,Lazio,1-1,Padova
+21,16/01/49,AC Milan,2-1,Palermo
+21,16/01/49,Modena,4-0,Lucchese Libertas
+21,16/01/49,Novara,1-1,Internazionale
+21,16/01/49,Pro Patria,0-3,Bologna
+21,16/01/49,Torino,2-0,Atalanta
+21,16/01/49,Triestina,2-0,Roma
+22,23/01/49,Atalanta,1-1,AC Milan
+22,23/01/49,AS Bari,1-1,Triestina
+22,23/01/49,Bologna,0-0,Padova
+22,23/01/49,Internazionale,1-0,Lazio
+22,23/01/49,Juventus,2-1,Genoa
+22,23/01/49,Livorno 1915,0-2,Palermo
+22,23/01/49,Lucchese Libertas,1-0,Pro Patria
+22,23/01/49,Novara,2-1,Modena
+22,23/01/49,Roma,1-2,Torino
+22,23/01/49,Sampdoria,2-1,Fiorentina
+23,30/01/49,Fiorentina,0-2,AS Bari
+23,30/01/49,Genoa,0-0,Bologna
+23,30/01/49,Lazio,2-1,Lucchese Libertas
+23,30/01/49,AC Milan,3-0,Roma
+23,30/01/49,Modena,2-0,Atalanta
+23,30/01/49,Padova,3-2,Novara
+23,30/01/49,Palermo,2-1,Internazionale
+23,30/01/49,Pro Patria,1-4,Sampdoria
+23,30/01/49,Torino,1-0,Livorno 1915
+23,30/01/49,Triestina,1-0,Juventus
+24,06/02/49,AS Bari,1-0,Pro Patria
+24,06/02/49,Bologna,6-2,Livorno 1915
+24,06/02/49,Genoa,0-0,Sampdoria
+24,06/02/49,Internazionale,4-4,AC Milan
+24,06/02/49,Juventus,1-0,Atalanta
+24,06/02/49,Lazio,0-0,Roma
+24,06/02/49,Lucchese Libertas,1-1,Torino
+24,06/02/49,Novara,2-0,Fiorentina
+24,06/02/49,Padova,0-0,Modena
+24,06/02/49,Palermo,4-0,Triestina
+25,13/02/49,Atalanta,1-1,Lazio
+25,13/02/49,Bologna,3-1,Novara
+25,13/02/49,Fiorentina,0-0,Padova
+25,13/02/49,Internazionale,2-1,Genoa
+25,13/02/49,Livorno 1915,2-0,Pro Patria
+25,13/02/49,Lucchese Libertas,6-2,Palermo
+25,13/02/49,Roma,0-0,AS Bari
+25,13/02/49,Sampdoria,1-1,Modena
+25,13/02/49,Torino,3-1,Juventus
+25,13/02/49,Triestina,1-3,AC Milan
+26,20/02/49,AS Bari,1-2,Internazionale
+26,20/02/49,Genoa,1-0,Roma
+26,20/02/49,Juventus,5-1,Sampdoria
+26,20/02/49,Lazio,5-1,Palermo
+26,20/02/49,Livorno 1915,1-1,Fiorentina
+26,20/02/49,AC Milan,4-0,Lucchese Libertas
+26,20/02/49,Modena,0-1,Bologna
+26,20/02/49,Novara,3-0,Triestina
+26,20/02/49,Padova,4-4,Torino
+26,20/02/49,Pro Patria,0-0,Atalanta
+27,06/03/49,Atalanta,0-1,Padova
+27,06/03/49,AS Bari,0-0,Lazio
+27,06/03/49,Bologna,1-1,Triestina
+27,06/03/49,Fiorentina,3-1,Pro Patria
+27,06/03/49,Internazionale,1-1,Juventus
+27,06/03/49,Lucchese Libertas,0-1,Livorno 1915
+27,06/03/49,Palermo,3-0,Genoa
+27,06/03/49,Roma,2-1,Modena
+27,06/03/49,Sampdoria,1-3,Novara
+27,06/03/49,Torino,4-1,AC Milan
+28,13/03/49,Atalanta,1-1,Bologna
+28,13/03/49,Genoa,2-1,AS Bari
+28,13/03/49,Juventus,2-1,Lucchese Libertas
+28,13/03/49,Lazio,2-2,Torino
+28,13/03/49,Livorno 1915,2-1,Roma
+28,13/03/49,AC Milan,3-1,Fiorentina
+28,13/03/49,Modena,2-3,Internazionale
+28,13/03/49,Palermo,3-0,Novara
+28,13/03/49,Pro Patria,3-0,Padova
+28,13/03/49,Triestina,3-1,Sampdoria
+29,20/03/49,AS Bari,2-1,Palermo
+29,20/03/49,Fiorentina,1-0,Lucchese Libertas
+29,20/03/49,Internazionale,2-1,Pro Patria
+29,20/03/49,Lazio,5-1,Genoa
+29,20/03/49,Modena,2-2,Juventus
+29,20/03/49,Novara,1-2,AC Milan
+29,20/03/49,Padova,2-1,Livorno 1915
+29,20/03/49,Sampdoria,2-0,Roma
+29,20/03/49,Torino,1-0,Bologna
+29,20/03/49,Triestina,1-1,Atalanta
+30,03/04/49,Atalanta,0-0,Genoa
+30,03/04/49,AS Bari,2-1,Juventus
+30,03/04/49,Bologna,2-0,Lazio
+30,03/04/49,Livorno 1915,0-2,Internazionale
+30,03/04/49,Lucchese Libertas,4-0,Padova
+30,03/04/49,AC Milan,5-1,Modena
+30,03/04/49,Pro Patria,3-1,Triestina
+30,03/04/49,Roma,1-1,Fiorentina
+30,03/04/49,Sampdoria,2-2,Palermo
+30,03/04/49,Torino,4-0,Novara
+31,10/04/49,Fiorentina,1-0,Bologna
+31,10/04/49,Genoa,0-0,Lucchese Libertas
+31,10/04/49,Internazionale,1-0,Roma
+31,10/04/49,Juventus,1-1,AC Milan
+31,10/04/49,Lazio,2-0,Livorno 1915
+31,10/04/49,Modena,0-0,AS Bari
+31,10/04/49,Novara,1-1,Pro Patria
+31,10/04/49,Padova,1-3,Sampdoria
+31,10/04/49,Palermo,1-2,Atalanta
+31,10/04/49,Triestina,1-1,Torino
+32,17/04/49,Atalanta,2-1,Fiorentina
+32,17/04/49,AS Bari,2-0,Novara
+32,17/04/49,Bologna,1-3,Internazionale
+32,17/04/49,Genoa,5-1,Triestina
+32,17/04/49,Livorno 1915,1-3,Juventus
+32,17/04/49,Lucchese Libertas,3-1,Sampdoria
+32,17/04/49,AC Milan,2-0,Padova
+32,17/04/49,Pro Patria,1-2,Lazio
+32,17/04/49,Roma,3-2,Palermo
+32,17/04/49,Torino,3-1,Modena
+33,20/04/49,AS Bari,1-1,Torino
+33,20/04/49,Juventus,DA,Bologna
+33,20/04/49,Lazio,4-0,Triestina
+33,20/04/49,Lucchese Libertas,0-0,Internazionale
+33,20/04/49,AC Milan,2-2,Genoa
+33,20/04/49,Modena,1-2,Fiorentina
+33,20/04/49,Novara,3-1,Livorno 1915
+33,20/04/49,Padova,2-0,Roma
+33,20/04/49,Pro Patria,1-0,Palermo
+33,20/04/49,Sampdoria,4-2,Atalanta
+34,30/04/49,Atalanta,2-2,Lucchese Libertas
+34,30/04/49,Fiorentina,2-1,Genoa
+34,30/04/49,Internazionale,0-0,Torino
+34,30/04/49,Juventus,4-3,Pro Patria
+34,30/04/49,Lazio,2-3,AC Milan
+34,30/04/49,Novara,2-1,Roma
+34,30/04/49,Padova,1-0,AS Bari
+34,30/04/49,Palermo,0-0,Modena
+34,30/04/49,Sampdoria,1-1,Bologna
+34,30/04/49,Triestina,5-4,Livorno 1915
+35,08/05/49,Bologna,3-1,AC Milan
+35,08/05/49,Genoa,0-4,Novara
+35,08/05/49,Internazionale,4-0,Atalanta
+35,08/05/49,Livorno 1915,1-0,Sampdoria
+35,08/05/49,Lucchese Libertas,1-1,AS Bari
+35,08/05/49,Modena,2-0,Lazio
+35,08/05/49,Palermo,2-0,Juventus
+35,08/05/49,Roma,3-1,Pro Patria
+35,08/05/49,Torino,2-0,Fiorentina
+35,08/05/49,Triestina,9-1,Padova
+36,15/05/49,AS Bari,0-2,Atalanta
+36,15/05/49,Fiorentina,5-3,Triestina
+36,15/05/49,AC Milan,2-0,Livorno 1915
+36,15/05/49,Novara,5-2,Lucchese Libertas
+36,15/05/49,Padova,1-3,Internazionale
+36,15/05/49,Palermo,0-0,Bologna
+36,15/05/49,Pro Patria,2-0,Modena
+36,15/05/49,Roma,0-1,Juventus
+36,15/05/49,Sampdoria,2-2,Lazio
+36,15/05/49,Torino,4-0,Genoa
+37,29/05/49,Atalanta,3-0,Roma
+37,29/05/49,Bologna,4-1,Lucchese Libertas
+37,29/05/49,Internazionale,1-1,Triestina
+37,29/05/49,Juventus,4-1,Novara
+37,29/05/49,Lazio,2-1,Fiorentina
+37,29/05/49,Livorno 1915,1-0,AS Bari
+37,29/05/49,Modena,2-0,Genoa
+37,29/05/49,Padova,3-3,Palermo
+37,29/05/49,Pro Patria,3-2,AC Milan
+37,29/05/49,Sampdoria,2-3,Torino
+38,05/06/49,Bologna,1-0,AS Bari
+38,05/06/49,Fiorentina,0-2,Internazionale
+38,05/06/49,Genoa,DA,Pro Patria
+38,05/06/49,Livorno 1915,0-2,Atalanta
+38,05/06/49,AC Milan,3-2,Sampdoria
+38,05/06/49,Novara,2-2,Lazio
+38,05/06/49,Padova,3-0,Juventus
+38,05/06/49,Roma,3-0,Lucchese Libertas
+38,05/06/49,Torino,3-0,Palermo
+38,05/06/49,Triestina,1-2,Modena

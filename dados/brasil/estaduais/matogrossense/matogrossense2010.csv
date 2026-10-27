@@ -1,0 +1,113 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,23/01/10,Luverdense,1-1,Operário-MT
+B,31/01/10,Mixto,1-1,Vila Aurora
+A,31/01/10,CRAC-MT,2-0,Cacerense
+A,31/01/10,Cáceres,1-2,Cuiabá
+A,31/01/10,Sorriso EC,0-0,Luverdense
+B,31/01/10,Rondonópolis,1-2,Araguaia
+A,03/02/10,Operário-MT,1-0,Sinop
+B,03/02/10,Araguaia,3-0,Mixto
+B,03/02/10,Barra,3-1,Rondonópolis
+B,03/02/10,União Rondonópolis,3-2,Palmeiras-MT
+A,03/02/10,Sorriso EC,2-1,CRAC-MT
+A,03/02/10,Cuiabá,1-1,Cacerense
+A,07/02/10,Cuiabá,3-3,Sinop
+A,07/02/10,CRAC-MT,1-2,Operário-MT
+B,07/02/10,Barra,1-1,União Rondonópolis
+A,07/02/10,Cacerense,3-3,Sorriso EC
+A,07/02/10,Luverdense,3-0,Cáceres
+B,07/02/10,Vila Aurora,1-0,Rondonópolis
+B,11/02/10,Palmeiras-MT,0-1,Barra
+A,13/02/10,Cáceres,0-1,CRAC-MT
+A,13/02/10,Luverdense,0-0,Cuiabá
+B,13/02/10,Araguaia,2-2,Vila Aurora
+B,13/02/10,Rondonópolis,2-4,União Rondonópolis
+B,13/02/10,Mixto,1-4,Barra
+A,13/02/10,Sinop,4-0,Cacerense
+A,14/02/10,Operário-MT,1-1,Sorriso EC
+B,17/02/10,União Rondonópolis,2-2,Mixto
+A,17/02/10,Sorriso EC,2-1,Cáceres
+A,17/02/10,Cacerense,1-2,Operário-MT
+A,17/02/10,Sinop,1-1,Luverdense
+A,17/02/10,CRAC-MT,3-2,Cuiabá
+B,18/02/10,Vila Aurora,4-0,Palmeiras-MT
+B,21/02/10,Rondonópolis,0-0,Mixto
+B,21/02/10,Araguaia,0-2,União Rondonópolis
+A,21/02/10,CRAC-MT,1-1,Sinop
+A,24/02/10,Cuiabá,1-2,Sorriso EC
+B,25/02/10,Palmeiras-MT,3-1,Rondonópolis
+B,25/02/10,Vila Aurora,2-2,Barra
+B,28/02/10,Mixto,2-2,Palmeiras-MT
+B,28/02/10,Barra,4-0,Araguaia
+A,28/02/10,Cáceres,4-5,Cacerense
+A,28/02/10,Operário-MT,0-1,Cuiabá
+A,28/02/10,Sorriso EC,2-1,Sinop
+A,28/02/10,Luverdense,3-2,CRAC-MT
+B,28/02/10,União Rondonópolis,1-2,Vila Aurora
+A,28/02/10,Sinop,5-0,Cáceres
+A,03/03/10,Operário-MT,1-0,Cáceres
+B,04/03/10,Palmeiras-MT,2-1,Araguaia
+A,04/03/10,Cacerense,1-2,Luverdense
+A,06/03/10,Sinop,2-0,Cuiabá
+A,06/03/10,Sorriso EC,1-0,Cacerense
+B,06/03/10,Vila Aurora,1-2,Araguaia
+A,07/03/10,Operário-MT,0-1,CRAC-MT
+A,07/03/10,Cáceres,0-4,Luverdense
+B,07/03/10,União Rondonópolis,2-1,Rondonópolis
+B,07/03/10,Barra,2-1,Mixto
+A,10/03/10,Cáceres,0-1,Sinop
+B,10/03/10,Barra,3-2,Palmeiras-MT
+B,10/03/10,União Rondonópolis,0-0,Araguaia
+A,11/03/10,Cacerense,0-2,Cuiabá
+A,11/03/10,CRAC-MT,3-0,Sorriso EC
+B,13/03/10,Palmeiras-MT,1-0,União Rondonópolis
+A,13/03/10,Sinop,0-0,Operário-MT
+A,14/03/10,Cuiabá,11-1,Cáceres
+B,14/03/10,Araguaia,1-0,Barra
+A,14/03/10,Luverdense,1-0,Sorriso EC
+A,14/03/10,Cacerense,1-0,CRAC-MT
+B,14/03/10,Vila Aurora,4-1,Mixto
+A,17/03/10,Cuiabá,3-1,Luverdense
+A,17/03/10,Cacerense,1-2,Sinop
+B,17/03/10,União Rondonópolis,2-2,Barra
+A,17/03/10,Sorriso EC,1-0,Operário-MT
+B,18/03/10,Araguaia,2-1,Palmeiras-MT
+A,18/03/10,CRAC-MT,9-1,Cáceres
+B,18/03/10,Rondonópolis,0-0,Vila Aurora
+B,21/03/10,Mixto,2-2,União Rondonópolis
+B,21/03/10,Barra,0-1,Vila Aurora
+A,21/03/10,Operário-MT,6-0,Cacerense
+A,21/03/10,Cáceres,0-14,Sorriso EC
+A,21/03/10,Luverdense,1-0,Sinop
+B,21/03/10,Rondonópolis,5-0,Palmeiras-MT
+B,23/03/10,Mixto,2-1,Araguaia
+B,24/03/10,Palmeiras-MT,1-3,Vila Aurora
+B,24/03/10,Rondonópolis,3-2,Barra
+A,24/03/10,Luverdense,6-1,Cacerense
+A,24/03/10,Cáceres,1-7,Operário-MT
+A,24/03/10,Sinop,1-2,CRAC-MT
+A,24/03/10,Sorriso EC,1-0,Cuiabá
+A,27/03/10,Cuiabá,1-0,CRAC-MT
+A,28/03/10,Operário-MT,2-2,Luverdense
+B,28/03/10,Mixto,3-0,Rondonópolis
+A,30/03/10,CRAC-MT,2-3,Luverdense
+A,30/03/10,Sinop,2-3,Sorriso EC
+A,31/03/10,Cuiabá,1-2,Operário-MT
+B,31/03/10,Araguaia,0-2,Rondonópolis
+A,31/03/10,Cacerense,ANU,Cáceres
+B,31/03/10,Palmeiras-MT,0-5,Mixto
+B,31/03/10,Vila Aurora,2-2,União Rondonópolis
+QF,04/04/10,Operário-MT,1-0,Barra
+QF,04/04/10,Araguaia,5-1,Sorriso EC
+QF,04/04/10,CRAC-MT,0-1,Vila Aurora
+QF,04/04/10,União Rondonópolis,3-2,Luverdense
+QF,10/04/10,Sorriso EC,2-1,Araguaia
+QF,11/04/10,Barra,1-2,Operário-MT
+QF,11/04/10,Luverdense,1-1,União Rondonópolis
+QF,11/04/10,Vila Aurora,1-1,CRAC-MT
+SF,14/04/10,Araguaia,2-0,Operário-MT
+SF,14/04/10,Vila Aurora,0-1,União Rondonópolis
+SF,21/04/10,União Rondonópolis,1-1,Vila Aurora
+SF,21/04/10,Operário-MT,5-0,Araguaia
+F,25/04/10,Operário-MT,3-3,União Rondonópolis
+F,28/04/10,União Rondonópolis,3-2,Operário-MT

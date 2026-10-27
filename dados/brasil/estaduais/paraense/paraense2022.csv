@@ -1,0 +1,65 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,26/01/22,Itupiranga,4-1,Caeté
+B,26/01/22,Águia,1-1,Tuna Luso
+B,26/01/22,Paysandu,3-1,Bragantino-PA
+C,27/01/22,Castanhal,1-0,Paragominas
+C,27/01/22,Remo,1-0,Amazônia Independente
+C,29/01/22,Caeté,1-0,Tapajós
+B,30/01/22,Tuna Luso,0-3,Paysandu
+B,30/01/22,Bragantino-PA,1-0,Águia
+C,30/01/22,Amazônia Independente,0-0,Castanhal
+C,30/01/22,Independente Tucuruí,2-0,Itupiranga
+C,30/01/22,Paragominas,0-0,Remo
+C,02/02/22,Tapajós,1-1,Independente Tucuruí
+C,05/02/22,Tapajós,1-0,Castanhal
+C,05/02/22,Caeté,3-1,Águia
+B,06/02/22,Amazônia Independente,2-4,Tuna Luso
+B,06/02/22,Paragominas,3-2,Bragantino-PA
+C,06/02/22,Itupiranga,0-3,Remo
+B,09/02/22,Tuna Luso,2-1,Paragominas
+B,09/02/22,Bragantino-PA,1-0,Amazônia Independente
+C,09/02/22,Castanhal,1-2,Itupiranga
+C,09/02/22,Águia,0-0,Independente Tucuruí
+C,09/02/22,Paysandu,2-0,Caeté
+C,10/02/22,Remo,2-1,Tapajós
+C,12/02/22,Castanhal,2-1,Bragantino-PA
+B,12/02/22,Itupiranga,2-4,Águia
+C,12/02/22,Paragominas,2-3,Independente Tucuruí
+B,13/02/22,Tapajós,0-0,Paysandu
+C,13/02/22,Amazônia Independente,0-1,Caeté
+C,13/02/22,Remo,0-0,Tuna Luso
+C,16/02/22,Bragantino-PA,1-1,Remo
+B,16/02/22,Águia,2-1,Tapajós
+B,16/02/22,Paysandu,4-0,Itupiranga
+C,17/02/22,Tuna Luso,0-2,Castanhal
+C,17/02/22,Caeté,0-0,Paragominas
+C,17/02/22,Independente Tucuruí,0-1,Amazônia Independente
+C,20/02/22,Caeté,2-1,Bragantino-PA
+C,20/02/22,Independente Tucuruí,1-0,Tuna Luso
+C,20/02/22,Águia,1-0,Castanhal
+C,20/02/22,Paysandu,1-1,Remo
+B,22/02/22,Tapajós,1-0,Amazônia Independente
+B,22/02/22,Itupiranga,1-1,Paragominas
+C,23/02/22,Independente Tucuruí,0-1,Paysandu
+B,06/03/22,Paragominas,1-1,Tapajós
+C,06/03/22,Bragantino-PA,3-2,Independente Tucuruí
+B,06/03/22,Amazônia Independente,1-1,Itupiranga
+C,06/03/22,Tuna Luso,1-0,Caeté
+C,06/03/22,Castanhal,4-0,Paysandu
+C,06/03/22,Remo,1-1,Águia
+QF,19/03/22,Caeté,1-1,Remo
+QF,19/03/22,Águia,0-0,Castanhal
+QF,20/03/22,Tapajós,3-4,Paysandu
+QF,20/03/22,Bragantino-PA,1-1,Tuna Luso
+QF,22/03/22,Castanhal,0-1,Águia
+QF,22/03/22,Remo,4-0,Caeté
+QF,23/03/22,Tuna Luso,4-0,Bragantino-PA
+QF,23/03/22,Paysandu,1-0,Tapajós
+SF,26/03/22,Tuna Luso,1-2,Remo
+SF,27/03/22,Águia,1-3,Paysandu
+SF,29/03/22,Remo,0-1(4-2 Pen.),Tuna Luso
+SF,30/03/22,Paysandu,2-0,Águia
+3/4,02/04/22,Águia,3-2,Tuna Luso
+F,03/04/22,Remo,3-0,Paysandu
+3/4,06/04/22,Tuna Luso,3-2,Águia
+F,06/04/22,Paysandu,3-1,Remo

@@ -1,0 +1,206 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,23/09/03,Dinamo Zagreb,3-1,MTK
+1,23/09/03,Panionios,2-1,Nordsjaelland
+1,23/09/03,Hertha BSC,0-0,Dyskobolia
+1,23/09/03,Gençlerbirligi,3-1,Blackburn Rovers
+1,23/09/03,Cementarnica,0-1,Lens
+1,23/09/03,Valerenga,0-0,Grazer AK
+1,23/09/03,NK Varazdin,1-3,Debreceni
+1,23/09/03,Brondby IF,1-0,Viktoria Zizkov
+1,23/09/03,Red Bull Salzburg,0-1,Udinese
+1,23/09/03,FC Utrecht,2-0,MSK Zilina
+1,23/09/03,Kaiserslautern,1-2,Teplice
+1,23/09/03,FK Matador Púchov,1-1,Barcelona
+1,23/09/03,Metalurh Donetsk,1-1,Parma
+1,23/09/03,MyPa,0-1,Sochaux
+1,23/09/03,Dundee FC,1-2,Perugia
+1,23/09/03,Grasshoppers,1-1,Hajduk Split
+1,23/09/03,FC Zimbru,1-1,Aris
+1,23/09/03,Southampton,1-1,FCSB
+1,23/09/03,Newcastle,5-0,NAC Breda
+1,23/09/03,Hearts,2-0,Zeljeznicar
+1,23/09/03,Dinamo Bucuresti,2-0,Shakhtar Donetsk
+1,23/09/03,Ventspils,1-4,Rosenborg
+1,23/09/03,Gaziantepspor,1-0,Hapoel Tel Aviv
+1,23/09/03,Spartak Moskva,2-0,Esbjerg fB
+1,23/09/03,Malatyaspor,0-2,FC Basel
+1,23/09/03,APOEL,1-2,Mallorca
+1,23/09/03,Manchester City,3-2,Lokeren
+1,23/09/03,Odense BK,2-2,Crvena Zvezda
+1,23/09/03,NK Olimpija,1-1,Liverpool
+1,23/09/03,Ferencváros,1-1,FC Kobenhavn
+1,23/09/03,AIK,0-1,Valencia CF
+1,23/09/03,Auxerre,1-0,Neuchâtel Xamax
+1,23/09/03,Sporting,2-0,Malmö
+1,23/09/03,Roma,4-0,Vardar
+1,23/09/03,PAOK,0-1,Lyn
+1,23/09/03,Villarreal CF,0-0,Trabzonspor
+1,24/09/03,Austria Wien,1-2,Borussia Dortmund
+1,24/09/03,Hapoel Ramat Gan,0-1,Levski Sofia
+1,24/09/03,CSKA Sofia,1-1,Torpedo
+1,24/09/03,FK Sartid Smederevo,1-2,Slavia Praha
+1,24/09/03,UD Leiria,1-0,Molde
+1,24/09/03,Maccabi Haifa,2-1,NK Celje
+1,24/09/03,La Louvière,1-1,Benfica
+1,24/09/03,Hamburger SV,2-1,Dnipro
+1,24/09/03,Wisla Kraków,2-1,NEC
+1,24/09/03,Feyenoord,2-1,Kelag Kärnten
+1,24/09/03,Bordeaux,2-1,FK Artmedia Petrzalka
+1,25/09/03,NKK Ingrad,0-0,Schalke 04
+1,14/10/03,Slavia Praha,2-1,FK Sartid Smederevo
+1,14/10/03,MTK,0-0,Dinamo Zagreb
+1,14/10/03,Nordsjaelland,0-1,Panionios
+1,14/10/03,Dyskobolia,1-0,Hertha BSC
+1,14/10/03,Blackburn Rovers,1-1,Gençlerbirligi
+1,14/10/03,Lens,5-0,Cementarnica
+1,14/10/03,Grazer AK,1-1,Valerenga
+1,14/10/03,Debreceni,3-2,NK Varazdin
+1,14/10/03,Udinese,1-2,Red Bull Salzburg
+1,14/10/03,MSK Zilina,0-4,FC Utrecht
+1,14/10/03,Barcelona,8-0,FK Matador Púchov
+1,14/10/03,Parma,3-0,Metalurh Donetsk
+1,14/10/03,Sochaux,2-0,MyPa
+1,14/10/03,Perugia,1-0,Dundee FC
+1,14/10/03,Hajduk Split,0-0,Grasshoppers
+1,14/10/03,Aris,2-1,FC Zimbru
+1,14/10/03,FCSB,1-0,Southampton
+1,14/10/03,NAC Breda,0-1,Newcastle
+1,14/10/03,Zeljeznicar,0-0,Hearts
+1,14/10/03,Shakhtar Donetsk,2-3,Dinamo Bucuresti
+1,14/10/03,Rosenborg,6-0,Ventspils
+1,14/10/03,Hapoel Tel Aviv,0-0,Gaziantepspor
+1,14/10/03,Esbjerg fB,1-1,Spartak Moskva
+1,14/10/03,FC Basel,1-2(Pro.),Malatyaspor
+1,14/10/03,Mallorca,4-2,APOEL
+1,14/10/03,Lokeren,0-1,Manchester City
+1,14/10/03,Crvena Zvezda,4-3,Odense BK
+1,14/10/03,Liverpool,3-0,NK Olimpija
+1,14/10/03,FC Kobenhavn,1-1(3-2 Pen.),Ferencváros
+1,14/10/03,Neuchâtel Xamax,0-1,Auxerre
+1,14/10/03,Malmö,0-1,Sporting
+1,14/10/03,Vardar,1-1,Roma
+1,14/10/03,Lyn,0-3,PAOK
+1,14/10/03,Trabzonspor,2-3,Villarreal CF
+1,14/10/03,Dnipro,3-0,Hamburger SV
+1,14/10/03,NEC,1-2,Wisla Kraków
+1,14/10/03,FK Artmedia Petrzalka,1-1,Bordeaux
+1,15/10/03,Borussia Dortmund,1-0,Austria Wien
+1,15/10/03,Levski Sofia,4-0,Hapoel Ramat Gan
+1,15/10/03,Torpedo,1-1(3-2 Pen.),CSKA Sofia
+1,15/10/03,NK Celje,2-2,Maccabi Haifa
+1,15/10/03,Molde,3-1,UD Leiria
+1,15/10/03,Valencia CF,1-0,AIK
+1,15/10/03,Benfica,1-0,La Louvière
+1,15/10/03,Viktoria Zizkov,0-1,Brondby IF
+1,15/10/03,Teplice,1-0,Kaiserslautern
+1,15/10/03,Kelag Kärnten,0-1,Feyenoord
+1,16/10/03,Schalke 04,1-0,NKK Ingrad
+,29/10/03,Rosenborg,0-0,Crvena Zvezda
+,06/11/03,Gaziantepspor,3-0,Lens
+,06/11/03,Slavia Praha,2-2,Levski Sofia
+,06/11/03,Spartak Moskva,4-0,Dinamo Bucuresti
+,06/11/03,Dinamo Zagreb,0-2,Dnipro
+,06/11/03,Schalke 04,2-1,Brondby IF
+,06/11/03,FC Utrecht,0-0,Auxerre
+,06/11/03,Valerenga,0-0,Wisla Kraków
+,06/11/03,Bordeaux,0-1,Hearts
+,06/11/03,Panionios,0-3,Barcelona
+,06/11/03,Gençlerbirligi,1-1,Sporting
+,06/11/03,FCSB,1-1,Liverpool
+,06/11/03,Villarreal CF,2-0,Torpedo
+,06/11/03,PAOK,1-1,Debreceni
+,06/11/03,FC Kobenhavn,1-2,Mallorca
+,06/11/03,Red Bull Salzburg,0-4,Parma
+,06/11/03,FC Basel,2-3,Newcastle
+,06/11/03,Borussia Dortmund,2-2,Sochaux
+,06/11/03,Perugia,2-0,Aris
+,06/11/03,Feyenoord,0-2,Teplice
+,06/11/03,Manchester City,1-1,Dyskobolia
+,06/11/03,Roma,1-0,Hajduk Split
+,06/11/03,Benfica,3-1,Molde
+,06/11/03,Valencia CF,0-0,Maccabi Haifa
+,27/11/03,Levski Sofia,0-0,Slavia Praha
+,27/11/03,Dyskobolia,0-0,Manchester City
+,27/11/03,Dnipro,1-1,Dinamo Zagreb
+,27/11/03,Debreceni,0-0,PAOK
+,27/11/03,Torpedo,1-0,Villarreal CF
+,27/11/03,Parma,5-0,Red Bull Salzburg
+,27/11/03,Teplice,1-1,Feyenoord
+,27/11/03,Brondby IF,2-1(3-1 Pen.),Schalke 04
+,27/11/03,Lens,1-3,Gaziantepspor
+,27/11/03,Crvena Zvezda,0-1,Rosenborg
+,27/11/03,Dinamo Bucuresti,3-1,Spartak Moskva
+,27/11/03,Aris,1-1,Perugia
+,27/11/03,Molde,0-2,Benfica
+,27/11/03,Wisla Kraków,0-0(3-4 Pen.),Valerenga
+,27/11/03,Auxerre,4-0,FC Utrecht
+,27/11/03,Newcastle,1-0,FC Basel
+,27/11/03,Sochaux,4-0,Borussia Dortmund
+,27/11/03,Hajduk Split,1-1,Roma
+,27/11/03,Hearts,0-2,Bordeaux
+,27/11/03,Liverpool,1-0,FCSB
+,27/11/03,Mallorca,1-1,FC Kobenhavn
+,27/11/03,Barcelona,2-0,Panionios
+,27/11/03,Sporting,0-3,Gençlerbirligi
+,11/12/03,Maccabi Haifa,0-4,Valencia CF
+3,26/02/04,Spartak Moskva,0-3,Mallorca
+3,26/02/04,Valerenga,1-1,Newcastle
+3,26/02/04,Dyskobolia,0-1,Bordeaux
+3,26/02/04,Gaziantepspor,1-0,Roma
+3,26/02/04,Marseille,1-0,Dnipro
+3,26/02/04,Parma,0-1,Gençlerbirligi
+3,26/02/04,Perugia,0-0,PSV
+3,26/02/04,Galatasaray,2-2,Villarreal CF
+3,26/02/04,Auxerre,0-0,Panathinaikos
+3,26/02/04,Brondby IF,0-1,Barcelona
+3,26/02/04,Club Brugge,1-0,Debreceni
+3,26/02/04,Celtic,3-0,Teplice
+3,26/02/04,Sochaux,2-2,Internazionale
+3,26/02/04,Liverpool,2-0,Levski Sofia
+3,26/02/04,Valencia CF,3-2,Besiktas
+3,26/02/04,Benfica,1-0,Rosenborg
+3,03/03/04,Gençlerbirligi,3-0,Parma
+3,03/03/04,Dnipro,0-0,Marseille
+3,03/03/04,Roma,2-0,Gaziantepspor
+3,03/03/04,Teplice,1-0,Celtic
+3,03/03/04,Bordeaux,4-1,Dyskobolia
+3,03/03/04,Debreceni,0-0,Club Brugge
+3,03/03/04,Besiktas,0-2,Valencia CF
+3,03/03/04,Levski Sofia,2-4,Liverpool
+3,03/03/04,PSV,3-1,Perugia
+3,03/03/04,Panathinaikos,0-1,Auxerre
+3,03/03/04,Rosenborg,2-1,Benfica
+3,03/03/04,Internazionale,0-0,Sochaux
+3,03/03/04,Newcastle,3-1,Valerenga
+3,03/03/04,Mallorca,0-1,Spartak Moskva
+3,03/03/04,Barcelona,2-1,Brondby IF
+3,03/03/04,Villarreal CF,3-0,Galatasaray
+4,11/03/04,Gençlerbirligi,1-0,Valencia CF
+4,11/03/04,Bordeaux,3-1,Club Brugge
+4,11/03/04,Auxerre,1-1,PSV
+4,11/03/04,Newcastle,4-1,Mallorca
+4,11/03/04,Benfica,0-0,Internazionale
+4,11/03/04,Celtic,1-0,Barcelona
+4,11/03/04,Liverpool,1-1,Marseille
+4,11/03/04,Villarreal CF,2-0,Roma
+4,25/03/04,Club Brugge,0-1,Bordeaux
+4,25/03/04,PSV,3-0,Auxerre
+4,25/03/04,Roma,2-1,Villarreal CF
+4,25/03/04,Internazionale,4-3,Benfica
+4,25/03/04,Barcelona,0-0,Celtic
+4,25/03/04,Mallorca,0-3,Newcastle
+4,25/03/04,Marseille,2-1,Liverpool
+4,25/03/04,Valencia CF,2-0(Pro.),Gençlerbirligi
+QF,08/04/04,Bordeaux,1-2,Valencia CF
+QF,08/04/04,PSV,1-1,Newcastle
+QF,08/04/04,Celtic,1-1,Villarreal CF
+QF,08/04/04,Marseille,1-0,Internazionale
+QF,14/04/04,Villarreal CF,2-0,Celtic
+QF,14/04/04,Newcastle,2-1,PSV
+QF,14/04/04,Internazionale,0-1,Marseille
+QF,14/04/04,Valencia CF,2-1,Bordeaux
+SF,22/04/04,Newcastle,0-0,Marseille
+SF,22/04/04,Villarreal CF,0-0,Valencia CF
+SF,06/05/04,Marseille,2-0,Newcastle
+SF,06/05/04,Valencia CF,1-0,Villarreal CF
+F,19/05/04,Valencia CF,2-0,Marseille

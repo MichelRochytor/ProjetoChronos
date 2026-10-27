@@ -1,0 +1,99 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,17/01/10,Metropolitano,2-0,Juventus Jaraguá
+1T,17/01/10,Joinville,3-0,Criciúma
+1T,17/01/10,Hermann Aichinger,2-1,Chapecoense
+1T,17/01/10,Avaí,3-0,Brusque
+1T,18/01/10,Figueirense,3-1,Imbituba
+1T,20/01/10,Criciúma,1-3,Hermann Aichinger
+1T,20/01/10,Chapecoense,2-0,Metropolitano
+1T,21/01/10,Juventus Jaraguá,1-1,Avaí
+1T,21/01/10,Imbituba,2-1,Joinville
+1T,21/01/10,Brusque,2-1,Figueirense
+1T,23/01/10,Avaí,1-0,Chapecoense
+1T,23/01/10,Metropolitano,1-0,Criciúma
+1T,24/01/10,Juventus Jaraguá,0-5,Brusque
+1T,24/01/10,Hermann Aichinger,2-0,Imbituba
+1T,24/01/10,Joinville,2-1,Figueirense
+1T,27/01/10,Brusque,2-3,Joinville
+1T,27/01/10,Imbituba,1-0,Metropolitano
+1T,27/01/10,Chapecoense,2-1,Juventus Jaraguá
+1T,27/01/10,Criciúma,2-2,Avaí
+1T,28/01/10,Figueirense,1-1,Hermann Aichinger
+1T,30/01/10,Juventus Jaraguá,1-2,Criciúma
+1T,31/01/10,Chapecoense,2-3,Brusque
+1T,31/01/10,Metropolitano,1-0,Figueirense
+1T,31/01/10,Hermann Aichinger,0-1,Joinville
+1T,01/02/10,Avaí,4-2,Imbituba
+1T,03/02/10,Brusque,0-2,Hermann Aichinger
+1T,03/02/10,Criciúma,2-2,Chapecoense
+1T,04/02/10,Joinville,3-1,Metropolitano
+1T,04/02/10,Imbituba,3-1,Juventus Jaraguá
+1T,04/02/10,Figueirense,2-2,Avaí
+1T,06/02/10,Criciúma,2-0,Brusque
+1T,07/02/10,Chapecoense,1-2,Imbituba
+1T,07/02/10,Juventus Jaraguá,1-4,Figueirense
+1T,07/02/10,Metropolitano,4-1,Hermann Aichinger
+1T,07/02/10,Avaí,5-1,Joinville
+1T,10/02/10,Joinville,3-0,Juventus Jaraguá
+1T,10/02/10,Imbituba,2-3,Criciúma
+1T,10/02/10,Brusque,0-1,Metropolitano
+1T,10/02/10,Figueirense,4-3,Chapecoense
+1T,10/02/10,Hermann Aichinger,3-1,Avaí
+1T,13/02/10,Imbituba,3-0,Brusque
+1T,13/02/10,Criciúma,1-2,Figueirense
+1T,13/02/10,Chapecoense,1-1,Joinville
+1T,13/02/10,Juventus Jaraguá,1-1,Hermann Aichinger
+1T,13/02/10,Avaí,1-0,Metropolitano
+SF,17/02/10,Joinville,2-2,Metropolitano
+SF,18/02/10,Avaí,2-0,Hermann Aichinger
+F,21/02/10,Joinville,1-1,Avaí
+2T,27/02/10,Imbituba,2-2,Figueirense
+2T,28/02/10,Brusque,0-2,Avaí
+2T,28/02/10,Juventus Jaraguá,2-4,Metropolitano
+2T,28/02/10,Chapecoense,0-0,Hermann Aichinger
+2T,28/02/10,Criciúma,1-1,Joinville
+2T,03/03/10,Joinville,2-2,Imbituba
+2T,03/03/10,Figueirense,5-3,Brusque
+2T,03/03/10,Metropolitano,3-2,Chapecoense
+2T,04/03/10,Hermann Aichinger,1-1,Criciúma
+2T,04/03/10,Avaí,3-1,Juventus Jaraguá
+2T,06/03/10,Figueirense,3-0,Joinville
+2T,07/03/10,Brusque,3-1,Juventus Jaraguá
+2T,07/03/10,Chapecoense,1-3,Avaí
+2T,07/03/10,Imbituba,1-0,Hermann Aichinger
+2T,08/03/10,Criciúma,1-0,Metropolitano
+2T,13/03/10,Avaí,1-0,Criciúma
+2T,14/03/10,Hermann Aichinger,2-0,Figueirense
+2T,14/03/10,Metropolitano,2-2,Imbituba
+2T,14/03/10,Juventus Jaraguá,3-0,Chapecoense
+2T,15/03/10,Joinville,3-2,Brusque
+2T,20/03/10,Figueirense,3-0,Metropolitano
+2T,20/03/10,Criciúma,2-1,Juventus Jaraguá
+2T,21/03/10,Brusque,2-2,Chapecoense
+2T,21/03/10,Imbituba,1-0,Avaí
+2T,21/03/10,Joinville,1-1,Hermann Aichinger
+2T,23/03/10,Metropolitano,2-1,Joinville
+2T,23/03/10,Avaí,1-1,Figueirense
+2T,24/03/10,Hermann Aichinger,0-0,Brusque
+2T,24/03/10,Juventus Jaraguá,1-2,Imbituba
+2T,25/03/10,Chapecoense,1-1,Criciúma
+2T,27/03/10,Figueirense,5-0,Juventus Jaraguá
+2T,28/03/10,Imbituba,1-2,Chapecoense
+2T,28/03/10,Joinville,3-2,Avaí
+2T,28/03/10,Hermann Aichinger,3-2,Metropolitano
+2T,29/03/10,Brusque,2-0,Criciúma
+2T,04/04/10,Metropolitano,0-2,Brusque
+2T,04/04/10,Avaí,5-0,Hermann Aichinger
+2T,04/04/10,Juventus Jaraguá,2-3,Joinville
+2T,04/04/10,Chapecoense,0-0,Figueirense
+2T,04/04/10,Criciúma,3-2,Imbituba
+2T,07/04/10,Brusque,3-0,Imbituba
+2T,07/04/10,Figueirense,5-0,Criciúma
+2T,07/04/10,Joinville,2-1,Chapecoense
+2T,07/04/10,Hermann Aichinger,2-3,Juventus Jaraguá
+2T,07/04/10,Metropolitano,1-2,Avaí
+SF,10/04/10,Avaí,4-3,Brusque
+SF,11/04/10,Figueirense,0-0,Joinville
+F,18/04/10,Avaí,1-1,Figueirense
+F,25/04/10,Joinville,1-3,Avaí
+F,02/05/10,Avaí,2-0,Joinville

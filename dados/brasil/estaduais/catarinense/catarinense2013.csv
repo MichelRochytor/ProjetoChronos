@@ -1,0 +1,97 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,19/01/13,Avaí,1-0,Hermann Aichinger
+1T,19/01/13,Criciúma,6-0,Camboriú
+1T,20/01/13,Joinville,1-2,Chapecoense
+1T,20/01/13,Guarani-SC,1-2,Figueirense
+1T,20/01/13,Juventus Jaraguá,1-3,Metropolitano
+1T,23/01/13,Figueirense,2-2,Joinville
+1T,23/01/13,Hermann Aichinger,1-1,Criciúma
+1T,23/01/13,Camboriú,1-2,Juventus Jaraguá
+1T,23/01/13,Metropolitano,1-0,Guarani-SC
+1T,24/01/13,Chapecoense,4-1,Avaí
+1T,26/01/13,Joinville,1-0,Metropolitano
+1T,27/01/13,Guarani-SC,1-0,Camboriú
+1T,27/01/13,Juventus Jaraguá,2-1,Hermann Aichinger
+1T,27/01/13,Criciúma,1-1,Avaí
+1T,27/01/13,Figueirense,2-1,Chapecoense
+1T,30/01/13,Avaí,2-1,Juventus Jaraguá
+1T,30/01/13,Hermann Aichinger,1-0,Guarani-SC
+1T,30/01/13,Camboriú,2-1,Joinville
+1T,30/01/13,Chapecoense,1-0,Criciúma
+1T,30/01/13,Metropolitano,2-1,Figueirense
+1T,02/02/13,Figueirense,2-0,Camboriú
+1T,02/02/13,Joinville,2-0,Hermann Aichinger
+1T,03/02/13,Metropolitano,1-2,Chapecoense
+1T,03/02/13,Juventus Jaraguá,1-3,Criciúma
+1T,06/02/13,Chapecoense,2-1,Juventus Jaraguá
+1T,06/02/13,Avaí,2-2,Joinville
+1T,06/02/13,Camboriú,2-0,Metropolitano
+1T,07/02/13,Hermann Aichinger,1-2,Figueirense
+1T,16/02/13,Figueirense,1-0,Avaí
+1T,17/02/13,Camboriú,0-3,Chapecoense
+1T,17/02/13,Metropolitano,1-4,Hermann Aichinger
+1T,17/02/13,Joinville,4-3,Criciúma
+1T,17/02/13,Guarani-SC,0-1,Juventus Jaraguá
+1T,20/02/13,Criciúma,0-1,Guarani-SC
+1T,23/02/13,Juventus Jaraguá,2-1,Joinville
+1T,23/02/13,Avaí,1-2,Metropolitano
+1T,24/02/13,Chapecoense,5-2,Guarani-SC
+1T,24/02/13,Criciúma,2-0,Figueirense
+1T,24/02/13,Hermann Aichinger,0-0,Camboriú
+1T,27/02/13,Guarani-SC,3-3,Avaí
+1T,02/03/13,Joinville,7-0,Guarani-SC
+1T,02/03/13,Figueirense,2-2,Juventus Jaraguá
+1T,03/03/13,Hermann Aichinger,1-1,Chapecoense
+1T,03/03/13,Camboriú,0-1,Avaí
+1T,03/03/13,Metropolitano,2-1,Criciúma
+2T,09/03/13,Camboriú,1-2,Criciúma
+2T,09/03/13,Hermann Aichinger,4-3,Avaí
+2T,10/03/13,Chapecoense,3-2,Joinville
+2T,10/03/13,Metropolitano,2-1,Juventus Jaraguá
+2T,10/03/13,Figueirense,3-0,Guarani-SC
+2T,16/03/13,Criciúma,2-3,Hermann Aichinger
+2T,16/03/13,Guarani-SC,3-1,Metropolitano
+2T,17/03/13,Juventus Jaraguá,1-3,Camboriú
+2T,17/03/13,Joinville,1-1,Figueirense
+2T,17/03/13,Avaí,2-0,Chapecoense
+2T,20/03/13,Avaí,2-2,Criciúma
+2T,20/03/13,Camboriú,1-1,Guarani-SC
+2T,20/03/13,Hermann Aichinger,3-0,Juventus Jaraguá
+2T,20/03/13,Chapecoense,0-0,Figueirense
+2T,21/03/13,Metropolitano,1-1,Joinville
+2T,23/03/13,Criciúma,0-0,Chapecoense
+2T,23/03/13,Guarani-SC,1-0,Hermann Aichinger
+2T,24/03/13,Juventus Jaraguá,2-3,Avaí
+2T,24/03/13,Joinville,2-2,Camboriú
+2T,24/03/13,Figueirense,4-1,Metropolitano
+2T,27/03/13,Hermann Aichinger,1-1,Joinville
+2T,27/03/13,Chapecoense,0-0,Metropolitano
+2T,27/03/13,Camboriú,2-3,Figueirense
+2T,28/03/13,Criciúma,8-0,Juventus Jaraguá
+2T,28/03/13,Avaí,2-0,Guarani-SC
+2T,30/03/13,Figueirense,1-1,Hermann Aichinger
+2T,31/03/13,Juventus Jaraguá,2-0,Chapecoense
+2T,31/03/13,Joinville,3-0,Avaí
+2T,31/03/13,Metropolitano,4-0,Camboriú
+2T,31/03/13,Guarani-SC,1-2,Criciúma
+2T,07/04/13,Chapecoense,2-1,Camboriú
+2T,07/04/13,Hermann Aichinger,0-0,Metropolitano
+2T,07/04/13,Criciúma,3-0,Joinville
+2T,07/04/13,Juventus Jaraguá,2-1,Guarani-SC
+2T,07/04/13,Avaí,2-1,Figueirense
+2T,14/04/13,Figueirense,1-3,Criciúma
+2T,14/04/13,Metropolitano,1-1,Avaí
+2T,14/04/13,Camboriú,0-5,Hermann Aichinger
+2T,14/04/13,Guarani-SC,0-0,Chapecoense
+2T,14/04/13,Joinville,6-1,Juventus Jaraguá
+2T,21/04/13,Chapecoense,1-0,Hermann Aichinger
+2T,21/04/13,Avaí,3-1,Camboriú
+2T,21/04/13,Criciúma,3-3,Metropolitano
+2T,21/04/13,Juventus Jaraguá,0-2,Figueirense
+2T,21/04/13,Guarani-SC,2-1,Joinville
+SF,27/04/13,Figueirense,1-1,Chapecoense
+SF,28/04/13,Avaí,3-2,Criciúma
+SF,04/05/13,Criciúma,1-0,Avaí
+SF,05/05/13,Chapecoense,2-1,Figueirense
+F,12/05/13,Criciúma,2-0,Chapecoense
+F,19/05/13,Chapecoense,1-0,Criciúma

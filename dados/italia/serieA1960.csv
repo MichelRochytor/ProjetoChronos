@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,25/09/60,Atalanta,1-5,Internazionale
+1,25/09/60,AS Bari,0-3,Roma
+1,25/09/60,Fiorentina,4-0,Lecco
+1,25/09/60,Lanerossi Vicenza,2-3,Napoli
+1,25/09/60,Lazio,1-3,Bologna
+1,25/09/60,AC Milan,3-0,SS Catania
+1,25/09/60,SPAL,1-1,Padova
+1,25/09/60,Torino,0-1,Sampdoria
+1,25/09/60,Udinese,0-1,Juventus
+2,02/10/60,Atalanta,1-1,SPAL
+2,02/10/60,Bologna,1-1,Lanerossi Vicenza
+2,02/10/60,SS Catania,2-0,Lecco
+2,02/10/60,Internazionale,2-1,AS Bari
+2,02/10/60,Juventus,3-1,Lazio
+2,02/10/60,Napoli,1-1,Torino
+2,02/10/60,Padova,4-1,AC Milan
+2,02/10/60,Roma,6-1,Udinese
+2,02/10/60,Sampdoria,3-1,Fiorentina
+3,09/10/60,SS Catania,3-1,Atalanta
+3,09/10/60,Fiorentina,4-0,AS Bari
+3,09/10/60,Lanerossi Vicenza,1-1,Sampdoria
+3,09/10/60,Lazio,1-1,Napoli
+3,09/10/60,Lecco,2-1,Padova
+3,09/10/60,AC Milan,5-1,Bologna
+3,09/10/60,SPAL,1-2,Juventus
+3,09/10/60,Torino,1-3,Roma
+3,09/10/60,Udinese,0-6,Internazionale
+4,16/10/60,Atalanta,1-1,Torino
+4,16/10/60,AS Bari,4-1,Lecco
+4,16/10/60,Bologna,0-2,Napoli
+4,16/10/60,Internazionale,5-0,Lanerossi Vicenza
+4,16/10/60,Juventus,4-1,SS Catania
+4,16/10/60,Padova,0-0,Fiorentina
+4,16/10/60,Roma,2-1,SPAL
+4,16/10/60,Sampdoria,2-2,AC Milan
+4,16/10/60,Udinese,2-0,Lazio
+5,23/10/60,Bologna,1-2,SS Catania
+5,23/10/60,Fiorentina,3-0,Juventus
+5,23/10/60,Lanerossi Vicenza,2-1,Padova
+5,23/10/60,Lazio,0-0,Internazionale
+5,23/10/60,Lecco,3-1,Udinese
+5,23/10/60,AC Milan,0-0,Atalanta
+5,23/10/60,Napoli,3-2,Roma
+5,23/10/60,SPAL,2-2,Sampdoria
+5,23/10/60,Torino,2-1,AS Bari
+6,06/11/60,AS Bari,1-3,Bologna
+6,06/11/60,SS Catania,1-1,Fiorentina
+6,06/11/60,Internazionale,1-1,Lecco
+6,06/11/60,Juventus,3-4,AC Milan
+6,06/11/60,Padova,5-1,Torino
+6,06/11/60,Roma,0-0,Atalanta
+6,06/11/60,Sampdoria,1-0,Lazio
+6,06/11/60,SPAL,3-2,Napoli
+6,06/11/60,Udinese,1-0,Lanerossi Vicenza
+7,13/11/60,Atalanta,2-0,AS Bari
+7,13/11/60,Bologna,3-1,SPAL
+7,13/11/60,SS Catania,4-0,Lanerossi Vicenza
+7,13/11/60,Lazio,0-4,Roma
+7,13/11/60,Lecco,1-1,Sampdoria
+7,13/11/60,AC Milan,3-1,Udinese
+7,13/11/60,Napoli,1-0,Fiorentina
+7,13/11/60,Padova,2-1,Internazionale
+7,13/11/60,Torino,0-0,Juventus
+8,20/11/60,Atalanta,3-0,Lecco
+8,20/11/60,AS Bari,2-0,SPAL
+8,20/11/60,Fiorentina,4-0,Lazio
+8,20/11/60,Internazionale,1-0,AC Milan
+8,20/11/60,Juventus,3-0,Bologna
+8,20/11/60,Lanerossi Vicenza,1-1,Torino
+8,20/11/60,Roma,3-1,Padova
+8,20/11/60,Sampdoria,0-0,Napoli
+8,20/11/60,Udinese,0-1,SS Catania
+9,27/11/60,Bologna,3-1,Atalanta
+9,27/11/60,Internazionale,3-0,Sampdoria
+9,27/11/60,Lanerossi Vicenza,1-0,Lecco
+9,27/11/60,Napoli,1-2,AC Milan
+9,27/11/60,Padova,2-1,Lazio
+9,27/11/60,Roma,2-1,Juventus
+9,27/11/60,SPAL,2-0,SS Catania
+9,27/11/60,Torino,0-0,Fiorentina
+9,27/11/60,Udinese,0-0,AS Bari
+10,04/12/60,AS Bari,1-0,Padova
+10,04/12/60,Bologna,2-1,Internazionale
+10,04/12/60,SS Catania,1-1,Roma
+10,04/12/60,Fiorentina,3-0,Udinese
+10,04/12/60,Juventus,2-0,Lanerossi Vicenza
+10,04/12/60,Lazio,4-0,SPAL
+10,04/12/60,Lecco,1-0,Napoli
+10,04/12/60,AC Milan,2-0,Torino
+10,04/12/60,Sampdoria,1-0,Atalanta
+11,18/12/60,Atalanta,1-0,Padova
+11,18/12/60,SS Catania,3-0,Sampdoria
+11,18/12/60,Internazionale,3-1,Juventus
+11,18/12/60,Lanerossi Vicenza,0-0,Lazio
+11,18/12/60,Napoli,1-0,AS Bari
+11,18/12/60,Roma,2-2,AC Milan
+11,18/12/60,SPAL,2-0,Fiorentina
+11,18/12/60,Torino,3-1,Lecco
+11,18/12/60,Udinese,0-0,Bologna
+12,25/12/60,AS Bari,0-0,AC Milan
+12,25/12/60,Bologna,3-1,Torino
+12,25/12/60,Fiorentina,0-1,Lanerossi Vicenza
+12,25/12/60,Internazionale,4-1,SPAL
+12,25/12/60,Juventus,3-2,Sampdoria
+12,25/12/60,Lazio,2-2,SS Catania
+12,25/12/60,Lecco,0-0,Roma
+12,25/12/60,Napoli,0-0,Atalanta
+12,25/12/60,Padova,1-0,Udinese
+13,01/01/61,Bologna,2-0,Roma
+13,01/01/61,SS Catania,3-1,AS Bari
+13,01/01/61,Lanerossi Vicenza,1-0,SPAL
+13,01/01/61,Lazio,1-2,Atalanta
+13,01/01/61,Lecco,2-2,Juventus
+13,01/01/61,AC Milan,4-1,Fiorentina
+13,01/01/61,Sampdoria,3-0,Padova
+13,01/01/61,Torino,0-1,Internazionale
+13,01/01/61,Udinese,1-1,Napoli
+14,08/01/61,Atalanta,2-2,Juventus
+14,08/01/61,AS Bari,1-1,Lanerossi Vicenza
+14,08/01/61,Fiorentina,1-1,Internazionale
+14,08/01/61,AC Milan,5-1,Lazio
+14,08/01/61,Napoli,0-1,SS Catania
+14,08/01/61,Padova,2-1,Bologna
+14,08/01/61,Roma,3-2,Sampdoria
+14,08/01/61,SPAL,1-0,Lecco
+14,08/01/61,Torino,3-1,Udinese
+15,15/01/61,SS Catania,2-0,Padova
+15,15/01/61,Fiorentina,3-1,Bologna
+15,15/01/61,Internazionale,3-1,Roma
+15,15/01/61,Juventus,2-2,Napoli
+15,15/01/61,Lanerossi Vicenza,1-0,Atalanta
+15,15/01/61,Lazio,1-0,Torino
+15,15/01/61,Lecco,2-2,AC Milan
+15,15/01/61,Sampdoria,1-0,AS Bari
+15,15/01/61,SPAL,1-1,Udinese
+16,22/01/61,Atalanta,4-1,Fiorentina
+16,22/01/61,AS Bari,0-0,Lazio
+16,22/01/61,Bologna,0-0,Lecco
+16,22/01/61,SS Catania,0-0,Torino
+16,22/01/61,Juventus,2-1,Padova
+16,22/01/61,AC Milan,4-0,SPAL
+16,22/01/61,Napoli,0-0,Internazionale
+16,22/01/61,Roma,6-3,Lanerossi Vicenza
+16,22/01/61,Udinese,7-1,Sampdoria
+17,29/01/61,Atalanta,1-1,Udinese
+17,29/01/61,AS Bari,0-1,Juventus
+17,29/01/61,Internazionale,5-0,SS Catania
+17,29/01/61,Lanerossi Vicenza,1-0,AC Milan
+17,29/01/61,Lecco,2-1,Lazio
+17,29/01/61,Padova,2-0,Napoli
+17,29/01/61,Roma,1-3,Fiorentina
+17,29/01/61,Sampdoria,2-1,Bologna
+17,29/01/61,Torino,3-2,SPAL
+18,05/02/61,Bologna,1-1,Lazio
+18,05/02/61,SS Catania,4-3,AC Milan
+18,05/02/61,Internazionale,2-1,Atalanta
+18,05/02/61,Juventus,5-1,Udinese
+18,05/02/61,Lecco,0-2,Fiorentina
+18,05/02/61,Napoli,0-0,Lanerossi Vicenza
+18,05/02/61,Padova,1-1,SPAL
+18,05/02/61,Roma,1-0,AS Bari
+18,05/02/61,Sampdoria,2-1,Torino
+19,12/02/61,AS Bari,1-1,Internazionale
+19,12/02/61,Fiorentina,1-0,Sampdoria
+19,12/02/61,Lanerossi Vicenza,2-2,Bologna
+19,12/02/61,Lazio,1-4,Juventus
+19,12/02/61,Lecco,2-2,SS Catania
+19,12/02/61,AC Milan,3-0,Padova
+19,12/02/61,SPAL,2-1,Atalanta
+19,12/02/61,Torino,1-0,Napoli
+19,12/02/61,Udinese,2-1,Roma
+20,19/02/61,Atalanta,1-0,SS Catania
+20,19/02/61,AS Bari,0-0,Fiorentina
+20,19/02/61,Bologna,0-2,AC Milan
+20,19/02/61,Internazionale,1-0,Udinese
+20,19/02/61,Juventus,1-0,SPAL
+20,19/02/61,Napoli,2-5,Lazio
+20,19/02/61,Padova,3-1,Lecco
+20,19/02/61,Roma,2-1,Torino
+20,19/02/61,Sampdoria,3-1,Lanerossi Vicenza
+21,26/02/61,SS Catania,1-2,Juventus
+21,26/02/61,Fiorentina,2-0,Padova
+21,26/02/61,Lanerossi Vicenza,1-3,Internazionale
+21,26/02/61,Lazio,0-1,Udinese
+21,26/02/61,Lecco,0-0,AS Bari
+21,26/02/61,AC Milan,3-1,Sampdoria
+21,26/02/61,Napoli,1-2,Bologna
+21,26/02/61,SPAL,2-2,Roma
+21,26/02/61,Torino,1-1,Atalanta
+22,05/03/61,Atalanta,2-0,AC Milan
+22,05/03/61,AS Bari,1-0,Torino
+22,05/03/61,SS Catania,1-0,Bologna
+22,05/03/61,Internazionale,7-0,Lazio
+22,05/03/61,Juventus,3-0,Fiorentina
+22,05/03/61,Padova,2-1,Lanerossi Vicenza
+22,05/03/61,Roma,2-0,Napoli
+22,05/03/61,Sampdoria,1-1,SPAL
+22,05/03/61,Udinese,2-0,Lecco
+23,12/03/61,Atalanta,0-0,Roma
+23,12/03/61,Bologna,0-0,AS Bari
+23,12/03/61,Fiorentina,2-0,SS Catania
+23,12/03/61,Lanerossi Vicenza,2-2,Udinese
+23,12/03/61,Lazio,0-1,Sampdoria
+23,12/03/61,Lecco,2-1,Internazionale
+23,12/03/61,AC Milan,3-1,Juventus
+23,12/03/61,Napoli,0-2,SPAL
+23,12/03/61,Torino,0-0,Padova
+24,19/03/61,AS Bari,2-2,Atalanta
+24,19/03/61,Fiorentina,0-0,Napoli
+24,19/03/61,Internazionale,1-2,Padova
+24,19/03/61,Juventus,1-0,Torino
+24,19/03/61,Lanerossi Vicenza,1-0,SS Catania
+24,19/03/61,Roma,1-2,Lazio
+24,19/03/61,Sampdoria,1-0,Lecco
+24,19/03/61,SPAL,0-1,Bologna
+24,19/03/61,Udinese,0-0,AC Milan
+25,26/03/61,Bologna,2-4,Juventus
+25,26/03/61,SS Catania,3-0,Udinese
+25,26/03/61,Lazio,1-2,Fiorentina
+25,26/03/61,Lecco,1-0,Atalanta
+25,26/03/61,AC Milan,2-1,Internazionale
+25,26/03/61,Napoli,1-0,Sampdoria
+25,26/03/61,Padova,0-0,Roma
+25,26/03/61,SPAL,1-0,AS Bari
+25,26/03/61,Torino,2-0,Lanerossi Vicenza
+26,02/04/61,Atalanta,1-1,Bologna
+26,02/04/61,AS Bari,2-1,Udinese
+26,02/04/61,SS Catania,1-1,SPAL
+26,02/04/61,Fiorentina,1-1,Torino
+26,02/04/61,Juventus,3-0,Roma
+26,02/04/61,Lazio,1-2,Padova
+26,02/04/61,Lecco,0-1,Lanerossi Vicenza
+26,02/04/61,AC Milan,2-1,Napoli
+26,02/04/61,Sampdoria,4-2,Internazionale
+27,09/04/61,Atalanta,0-3,Sampdoria
+27,09/04/61,Internazionale,0-0,Bologna
+27,09/04/61,Lanerossi Vicenza,0-1,Juventus
+27,09/04/61,Napoli,3-1,Lecco
+27,09/04/61,Padova,1-1,AS Bari
+27,09/04/61,Roma,4-1,SS Catania
+27,09/04/61,SPAL,3-2,Lazio
+27,09/04/61,Torino,1-1,AC Milan
+27,09/04/61,Udinese,0-0,Fiorentina
+28,16/04/61,AS Bari,1-0,Napoli
+28,16/04/61,Bologna,1-1,Udinese
+28,16/04/61,Fiorentina,0-3,SPAL
+28,16/04/61,Juventus,9-1,Internazionale
+28,16/04/61,Lazio,1-1,Lanerossi Vicenza
+28,16/04/61,Lecco,2-1,Torino
+28,16/04/61,AC Milan,2-1,Roma
+28,16/04/61,Padova,3-0,Atalanta
+28,16/04/61,Sampdoria,2-0,SS Catania
+29,30/04/61,Atalanta,1-1,Napoli
+29,30/04/61,SS Catania,0-1,Lazio
+29,30/04/61,Lanerossi Vicenza,0-0,Fiorentina
+29,30/04/61,AC Milan,1-3,AS Bari
+29,30/04/61,Roma,1-0,Lecco
+29,30/04/61,Sampdoria,3-2,Juventus
+29,30/04/61,SPAL,1-3,Internazionale
+29,30/04/61,Torino,1-0,Bologna
+29,30/04/61,Udinese,3-1,Padova
+30,07/05/61,Atalanta,0-0,Lazio
+30,07/05/61,AS Bari,0-1,SS Catania
+30,07/05/61,Fiorentina,2-0,AC Milan
+30,07/05/61,Internazionale,1-1,Torino
+30,07/05/61,Juventus,4-2,Lecco
+30,07/05/61,Napoli,2-2,Udinese
+30,07/05/61,Padova,3-0,Sampdoria
+30,07/05/61,Roma,1-0,Bologna
+30,07/05/61,SPAL,2-1,Lanerossi Vicenza
+31,14/05/61,Bologna,2-1,Padova
+31,14/05/61,SS Catania,1-0,Napoli
+31,14/05/61,Internazionale,2-2,Fiorentina
+31,14/05/61,Juventus,3-2,Atalanta
+31,14/05/61,Lanerossi Vicenza,4-1,AS Bari
+31,14/05/61,Lazio,0-1,AC Milan
+31,14/05/61,Lecco,2-0,SPAL
+31,14/05/61,Sampdoria,3-2,Roma
+31,14/05/61,Udinese,3-0,Torino
+32,21/05/61,Atalanta,1-0,Lanerossi Vicenza
+32,21/05/61,AS Bari,1-0,Sampdoria
+32,21/05/61,Bologna,3-3,Fiorentina
+32,21/05/61,AC Milan,1-1,Lecco
+32,21/05/61,Napoli,0-4,Juventus
+32,21/05/61,Padova,2-1,SS Catania
+32,21/05/61,Torino,4-1,Lazio
+32,21/05/61,Udinese,0-0,SPAL
+32,21/05/61,Roma,0-2,Internazionale
+33,30/05/61,Fiorentina,0-1,Atalanta
+33,30/05/61,Internazionale,3-0,Napoli
+33,30/05/61,Lanerossi Vicenza,4-0,Roma
+33,30/05/61,Lazio,0-1,AS Bari
+33,30/05/61,Lecco,2-0,Bologna
+33,30/05/61,Padova,1-0,Juventus
+33,30/05/61,Sampdoria,3-2,Udinese
+33,30/05/61,SPAL,1-2,AC Milan
+33,30/05/61,Torino,2-1,SS Catania
+34,04/06/61,Bologna,4-4,Sampdoria
+34,04/06/61,SS Catania,2-0,Internazionale
+34,04/06/61,Fiorentina,0-1,Roma

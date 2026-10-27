@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/09/64,Atalanta,2-0,Bologna
+1,13/09/64,Fiorentina,3-1,Foggia & Incedit
+1,13/09/64,Genoa,1-0,Lazio
+1,13/09/64,Lanerossi Vicenza,0-0,Sampdoria
+1,13/09/64,A.C. Riunite Messina,1-1,Juventus
+1,13/09/64,AC Milan,1-1,SS Catania
+1,13/09/64,Roma,2-1,Cagliari
+1,13/09/64,Torino,2-0,AC Mantova
+1,13/09/64,Varese,0-0,Internazionale
+2,20/09/64,Atalanta,1-0,Roma
+2,20/09/64,Bologna,3-0,Lanerossi Vicenza
+2,20/09/64,Internazionale,2-0,Foggia & Incedit
+2,20/09/64,Juventus,0-0,Cagliari
+2,20/09/64,Lazio,2-2,SS Catania
+2,20/09/64,AC Mantova,0-4,AC Milan
+2,20/09/64,A.C. Riunite Messina,1-0,Genoa
+2,20/09/64,Sampdoria,3-0,Fiorentina
+2,20/09/64,Varese,2-0,Torino
+3,27/09/64,Cagliari,1-1,Sampdoria
+3,27/09/64,SS Catania,3-1,Juventus
+3,27/09/64,Fiorentina,1-0,Lazio
+3,27/09/64,Foggia & Incedit,1-0,AC Mantova
+3,27/09/64,Genoa,0-0,Bologna
+3,27/09/64,Internazionale,3-1,A.C. Riunite Messina
+3,27/09/64,Lanerossi Vicenza,2-3,AC Milan
+3,27/09/64,Roma,5-2,Varese
+3,27/09/64,Torino,1-1,Atalanta
+4,04/10/64,Bologna,3-0,A.C. Riunite Messina
+4,04/10/64,Cagliari,2-1,Lanerossi Vicenza
+4,04/10/64,SS Catania,3-2,Genoa
+4,04/10/64,Foggia & Incedit,1-1,Atalanta
+4,04/10/64,Juventus,1-0,AC Mantova
+4,04/10/64,Lazio,1-1,Internazionale
+4,04/10/64,AC Milan,1-1,Torino
+4,04/10/64,Sampdoria,1-0,Roma
+4,04/10/64,Varese,1-1,Fiorentina
+5,11/10/64,Atalanta,0-0,Juventus
+5,11/10/64,Bologna,0-1,Sampdoria
+5,11/10/64,Genoa,1-2,Internazionale
+5,11/10/64,Lanerossi Vicenza,3-2,Varese
+5,11/10/64,AC Mantova,2-2,Cagliari
+5,11/10/64,A.C. Riunite Messina,2-1,SS Catania
+5,11/10/64,AC Milan,2-1,Lazio
+5,11/10/64,Roma,3-3,Fiorentina
+5,11/10/64,Torino,0-0,Foggia & Incedit
+6,18/10/64,SS Catania,2-1,Cagliari
+6,18/10/64,Fiorentina,1-0,Atalanta
+6,18/10/64,Foggia & Incedit,0-0,Genoa
+6,18/10/64,Internazionale,0-0,Roma
+6,18/10/64,Juventus,1-0,Bologna
+6,18/10/64,Lanerossi Vicenza,0-0,Torino
+6,18/10/64,Lazio,3-1,Varese
+6,18/10/64,A.C. Riunite Messina,0-2,AC Milan
+6,18/10/64,Sampdoria,1-0,AC Mantova
+7,25/10/64,Bologna,2-0,Lazio
+7,25/10/64,Cagliari,0-2,Internazionale
+7,25/10/64,Foggia & Incedit,1-0,A.C. Riunite Messina
+7,25/10/64,Genoa,0-1,Juventus
+7,25/10/64,AC Mantova,0-1,Lanerossi Vicenza
+7,25/10/64,AC Milan,2-0,Atalanta
+7,25/10/64,Roma,2-1,SS Catania
+7,25/10/64,Torino,3-1,Fiorentina
+7,25/10/64,Varese,2-0,Sampdoria
+8,08/11/64,Atalanta,0-0,Varese
+8,08/11/64,SS Catania,1-0,Foggia & Incedit
+8,08/11/64,Fiorentina,1-0,Juventus
+8,08/11/64,Internazionale,1-0,AC Mantova
+8,08/11/64,Lanerossi Vicenza,2-1,Lazio
+8,08/11/64,A.C. Riunite Messina,0-0,Cagliari
+8,08/11/64,Roma,1-1,Bologna
+8,08/11/64,Sampdoria,0-2,AC Milan
+8,08/11/64,Torino,4-1,Genoa
+9,15/11/64,Cagliari,0-1,Atalanta
+9,15/11/64,Fiorentina,2-1,Bologna
+9,15/11/64,Genoa,0-0,AC Mantova
+9,15/11/64,Internazionale,0-3,AC Milan
+9,15/11/64,Juventus,2-0,Sampdoria
+9,15/11/64,Lanerossi Vicenza,2-0,SS Catania
+9,15/11/64,Lazio,0-0,Roma
+9,15/11/64,A.C. Riunite Messina,0-1,Torino
+9,15/11/64,Varese,0-0,Foggia & Incedit
+10,22/11/64,Atalanta,0-0,SS Catania
+10,22/11/64,Bologna,0-0,Internazionale
+10,22/11/64,Foggia & Incedit,1-0,Lanerossi Vicenza
+10,22/11/64,Genoa,2-1,Sampdoria
+10,22/11/64,Lazio,1-0,Cagliari
+10,22/11/64,AC Mantova,0-0,Roma
+10,22/11/64,AC Milan,2-0,Fiorentina
+10,22/11/64,Torino,0-3,Juventus
+10,22/11/64,Varese,1-0,A.C. Riunite Messina
+11,29/11/64,Atalanta,0-1,A.C. Riunite Messina
+11,29/11/64,SS Catania,0-0,Varese
+11,29/11/64,Fiorentina,2-0,Cagliari
+11,29/11/64,Foggia & Incedit,1-2,AC Milan
+11,29/11/64,Internazionale,3-2,Lanerossi Vicenza
+11,29/11/64,Juventus,0-0,Lazio
+11,29/11/64,AC Mantova,0-1,Bologna
+11,29/11/64,Roma,1-1,Genoa
+11,29/11/64,Sampdoria,0-0,Torino
+12,13/12/64,Bologna,4-2,Foggia & Incedit
+12,13/12/64,Cagliari,1-1,Varese
+12,13/12/64,SS Catania,1-1,AC Mantova
+12,13/12/64,Genoa,0-0,Atalanta
+12,13/12/64,Internazionale,3-2,Sampdoria
+12,13/12/64,Juventus,2-2,AC Milan
+12,13/12/64,Lanerossi Vicenza,1-1,Fiorentina
+12,13/12/64,Lazio,1-1,Torino
+12,13/12/64,A.C. Riunite Messina,1-2,Roma
+13,20/12/64,Atalanta,1-0,Lanerossi Vicenza
+13,20/12/64,Cagliari,0-1,Foggia & Incedit
+13,20/12/64,Fiorentina,2-2,Internazionale
+13,20/12/64,AC Mantova,2-0,A.C. Riunite Messina
+13,20/12/64,AC Milan,3-1,Bologna
+13,20/12/64,Roma,1-1,Juventus
+13,20/12/64,Sampdoria,0-0,Lazio
+13,20/12/64,Torino,2-1,SS Catania
+13,20/12/64,Varese,2-2,Genoa
+14,27/12/64,Bologna,3-0,Varese
+14,27/12/64,Fiorentina,1-1,A.C. Riunite Messina
+14,27/12/64,Foggia & Incedit,1-0,Lazio
+14,27/12/64,Internazionale,1-1,Juventus
+14,27/12/64,Lanerossi Vicenza,0-0,Genoa
+14,27/12/64,AC Mantova,2-0,Atalanta
+14,27/12/64,Roma,1-2,AC Milan
+14,27/12/64,Sampdoria,0-1,SS Catania
+14,27/12/64,Torino,4-0,Cagliari
+15,03/01/65,Bologna,1-0,Torino
+15,03/01/65,SS Catania,0-2,Fiorentina
+15,03/01/65,Genoa,1-1,Cagliari
+15,03/01/65,Internazionale,1-0,Atalanta
+15,03/01/65,Juventus,1-0,Foggia & Incedit
+15,03/01/65,Lanerossi Vicenza,1-0,Roma
+15,03/01/65,Lazio,2-0,AC Mantova
+15,03/01/65,A.C. Riunite Messina,2-2,Sampdoria
+15,03/01/65,Varese,0-0,AC Milan
+16,10/01/65,Atalanta,1-1,Lazio
+16,10/01/65,Cagliari,0-0,Bologna
+16,10/01/65,SS Catania,2-3,Internazionale
+16,10/01/65,Juventus,3-2,Varese
+16,10/01/65,AC Mantova,0-0,Fiorentina
+16,10/01/65,A.C. Riunite Messina,0-0,Lanerossi Vicenza
+16,10/01/65,AC Milan,1-0,Genoa
+16,10/01/65,Roma,2-2,Torino
+16,10/01/65,Sampdoria,1-1,Foggia & Incedit
+17,17/01/65,Bologna,3-0,SS Catania
+17,17/01/65,Fiorentina,5-0,Genoa
+17,17/01/65,Foggia & Incedit,0-0,Roma
+17,17/01/65,Lanerossi Vicenza,1-3,Juventus
+17,17/01/65,Lazio,2-1,A.C. Riunite Messina
+17,17/01/65,AC Milan,1-0,Cagliari
+17,17/01/65,Sampdoria,1-0,Atalanta
+17,17/01/65,Torino,0-0,Internazionale
+17,17/01/65,Varese,1-0,AC Mantova
+18,24/01/65,Bologna,1-1,Atalanta
+18,24/01/65,Cagliari,1-0,Roma
+18,24/01/65,SS Catania,1-1,AC Milan
+18,24/01/65,Foggia & Incedit,0-0,Fiorentina
+18,24/01/65,Internazionale,0-0,Varese
+18,24/01/65,Juventus,1-0,A.C. Riunite Messina
+18,24/01/65,Lazio,1-1,Genoa
+18,24/01/65,AC Mantova,1-2,Torino
+18,24/01/65,Sampdoria,0-3,Lanerossi Vicenza
+19,31/01/65,Cagliari,1-0,Juventus
+19,31/01/65,SS Catania,3-0,Lazio
+19,31/01/65,Fiorentina,0-1,Sampdoria
+19,31/01/65,Foggia & Incedit,3-2,Internazionale
+19,31/01/65,Genoa,2-0,A.C. Riunite Messina
+19,31/01/65,Lanerossi Vicenza,1-1,Bologna
+19,31/01/65,AC Milan,2-0,AC Mantova
+19,31/01/65,Roma,0-0,Atalanta
+19,31/01/65,Torino,1-0,Varese
+20,07/02/65,Atalanta,0-0,Torino
+20,07/02/65,Bologna,2-1,Genoa
+20,07/02/65,Juventus,4-1,SS Catania
+20,07/02/65,Lazio,0-1,Fiorentina
+20,07/02/65,AC Mantova,0-0,Foggia & Incedit
+20,07/02/65,A.C. Riunite Messina,0-1,Internazionale
+20,07/02/65,AC Milan,0-1,Lanerossi Vicenza
+20,07/02/65,Sampdoria,1-0,Cagliari
+20,07/02/65,Varese,1-1,Roma
+21,14/02/65,Atalanta,1-0,Foggia & Incedit
+21,14/02/65,Fiorentina,1-0,Varese
+21,14/02/65,Genoa,1-1,SS Catania
+21,14/02/65,Internazionale,3-0,Lazio
+21,14/02/65,Lanerossi Vicenza,1-0,Cagliari
+21,14/02/65,AC Mantova,1-0,Juventus
+21,14/02/65,A.C. Riunite Messina,3-3,Bologna
+21,14/02/65,Roma,1-0,Sampdoria
+21,14/02/65,Torino,1-2,AC Milan
+22,21/02/65,Cagliari,2-1,AC Mantova
+22,21/02/65,SS Catania,4-2,A.C. Riunite Messina
+22,21/02/65,Fiorentina,2-0,Roma
+22,21/02/65,Foggia & Incedit,1-2,Torino
+22,21/02/65,Internazionale,4-1,Genoa
+22,21/02/65,Juventus,0-0,Atalanta
+22,21/02/65,Lazio,0-0,AC Milan
+22,21/02/65,Sampdoria,0-0,Bologna
+22,21/02/65,Varese,3-2,Lanerossi Vicenza
+23,28/02/65,Atalanta,2-1,Fiorentina
+23,28/02/65,Bologna,1-1,Juventus
+23,28/02/65,Cagliari,2-0,SS Catania
+23,28/02/65,Genoa,1-0,Foggia & Incedit
+23,28/02/65,AC Mantova,1-0,Sampdoria
+23,28/02/65,AC Milan,2-0,A.C. Riunite Messina
+23,28/02/65,Roma,1-3,Internazionale
+23,28/02/65,Torino,3-0,Lanerossi Vicenza
+23,28/02/65,Varese,0-1,Lazio
+24,07/03/65,Atalanta,1-1,AC Milan
+24,07/03/65,SS Catania,4-0,Roma
+24,07/03/65,Fiorentina,2-0,Torino
+24,07/03/65,Internazionale,3-0,Cagliari
+24,07/03/65,Juventus,7-0,Genoa
+24,07/03/65,Lanerossi Vicenza,1-0,AC Mantova
+24,07/03/65,Lazio,1-1,Bologna
+24,07/03/65,A.C. Riunite Messina,0-0,Foggia & Incedit
+24,07/03/65,Sampdoria,0-0,Varese
+25,21/03/65,Bologna,1-2,Roma
+25,21/03/65,Cagliari,2-1,A.C. Riunite Messina
+25,21/03/65,Foggia & Incedit,1-0,SS Catania
+25,21/03/65,Genoa,1-2,Torino
+25,21/03/65,Juventus,1-0,Fiorentina
+25,21/03/65,Lazio,0-0,Lanerossi Vicenza
+25,21/03/65,AC Mantova,0-1,Internazionale
+25,21/03/65,AC Milan,3-0,Sampdoria
+25,21/03/65,Varese,0-0,Atalanta
+26,28/03/65,Atalanta,0-1,Cagliari
+26,28/03/65,Bologna,3-1,Fiorentina
+26,28/03/65,SS Catania,2-0,Lanerossi Vicenza
+26,28/03/65,Foggia & Incedit,3-0,Varese
+26,28/03/65,AC Mantova,2-0,Genoa
+26,28/03/65,AC Milan,2-5,Internazionale
+26,28/03/65,Roma,0-0,Lazio
+26,28/03/65,Sampdoria,1-0,Juventus
+26,28/03/65,Torino,1-0,A.C. Riunite Messina
+27,04/04/65,Cagliari,3-0,Lazio
+27,04/04/65,SS Catania,4-1,Atalanta
+27,04/04/65,Fiorentina,0-0,AC Milan
+27,04/04/65,Internazionale,2-0,Bologna
+27,04/04/65,Juventus,1-1,Torino
+27,04/04/65,Lanerossi Vicenza,0-1,Foggia & Incedit
+27,04/04/65,A.C. Riunite Messina,0-1,Varese
+27,04/04/65,Roma,0-0,AC Mantova
+27,04/04/65,Sampdoria,0-1,Genoa
+28,11/04/65,Bologna,4-1,AC Mantova
+28,11/04/65,Cagliari,1-1,Fiorentina
+28,11/04/65,Genoa,0-0,Roma
+28,11/04/65,Lanerossi Vicenza,1-1,Internazionale
+28,11/04/65,Lazio,0-2,Juventus
+28,11/04/65,A.C. Riunite Messina,1-0,Atalanta
+28,11/04/65,AC Milan,1-0,Foggia & Incedit
+28,11/04/65,Torino,0-1,Sampdoria
+28,11/04/65,Varese,3-0,SS Catania
+29,25/04/65,Atalanta,0-2,Genoa
+29,25/04/65,Fiorentina,4-1,Lanerossi Vicenza
+29,25/04/65,Foggia & Incedit,2-2,Bologna
+29,25/04/65,AC Mantova,1-0,SS Catania
+29,25/04/65,AC Milan,1-0,Juventus
+29,25/04/65,Roma,0-1,A.C. Riunite Messina
+29,25/04/65,Sampdoria,0-1,Internazionale
+29,25/04/65,Torino,2-0,Lazio
+29,25/04/65,Varese,0-2,Cagliari
+30,09/05/65,Bologna,0-2,AC Milan
+30,09/05/65,SS Catania,1-1,Torino
+30,09/05/65,Foggia & Incedit,1-2,Cagliari
+30,09/05/65,Genoa,0-1,Varese
+30,09/05/65,Internazionale,6-2,Fiorentina
+30,09/05/65,Juventus,1-0,Roma
+30,09/05/65,Lanerossi Vicenza,2-2,Atalanta
+30,09/05/65,Lazio,2-0,Sampdoria
+30,09/05/65,A.C. Riunite Messina,2-0,AC Mantova
+31,16/05/65,Atalanta,2-1,AC Mantova
+31,16/05/65,Cagliari,0-1,Torino
+31,16/05/65,SS Catania,1-0,Sampdoria
+31,16/05/65,Genoa,3-1,Lanerossi Vicenza
+31,16/05/65,Juventus,0-2,Internazionale
+31,16/05/65,Lazio,2-1,Foggia & Incedit
+31,16/05/65,A.C. Riunite Messina,0-3,Fiorentina
+31,16/05/65,AC Milan,0-2,Roma
+31,16/05/65,Varese,0-0,Bologna
+32,23/05/65,Atalanta,1-3,Internazionale
+32,23/05/65,Cagliari,2-1,Genoa
+32,23/05/65,Fiorentina,5-0,SS Catania
+32,23/05/65,Foggia & Incedit,1-0,Juventus
+32,23/05/65,AC Mantova,1-3,Lazio
+32,23/05/65,AC Milan,1-0,Varese
+32,23/05/65,Roma,0-0,Lanerossi Vicenza
+32,23/05/65,Sampdoria,0-0,A.C. Riunite Messina
+32,23/05/65,Torino,5-0,Bologna
+33,30/05/65,Bologna,1-3,Cagliari
+33,30/05/65,Fiorentina,2-0,AC Mantova
+33,30/05/65,Foggia & Incedit,1-1,Sampdoria
+33,30/05/65,Genoa,0-0,AC Milan
+33,30/05/65,Internazionale,5-1,SS Catania
+33,30/05/65,Lanerossi Vicenza,2-1,A.C. Riunite Messina
+33,30/05/65,Lazio,0-0,Atalanta
+33,30/05/65,Torino,3-1,Roma
+33,30/05/65,Varese,1-1,Juventus
+34,06/06/65,Atalanta,0-0,Sampdoria
+34,06/06/65,Cagliari,2-1,AC Milan
+34,06/06/65,SS Catania,4-0,Bologna

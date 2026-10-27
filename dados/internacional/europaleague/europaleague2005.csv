@@ -1,0 +1,222 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/09/05,Krylya Sovetov,5-3,AZ Alkmaar
+1,15/09/05,Stuttgart,2-0,Domzale
+1,15/09/05,CSKA Moskva,3-1,Midtjylland
+1,15/09/05,Zenit,0-0,AEK
+1,15/09/05,Vitória FC,1-1,Sampdoria
+1,15/09/05,Shakhtar Donetsk,4-1,Debreceni
+1,15/09/05,Bayer Leverkusen,0-1,CSKA Sofia
+1,15/09/05,Maccabi Petah Tikva,0-2,Partizan
+1,15/09/05,Teplice,1-1,Espanyol
+1,15/09/05,Viking,1-0,Austria Wien
+1,15/09/05,Feyenoord,1-1,Rapid București
+1,15/09/05,Rennes,3-1,Osasuna
+1,15/09/05,Besiktas,0-1,Malmö
+1,15/09/05,Brann,1-2,Lokomotiv
+1,15/09/05,FC Basel,5-0,NK Siroki Brijeg
+1,15/09/05,Valerenga,0-3,FCSB
+1,15/09/05,Litex Lovech,2-2,Genk
+1,15/09/05,PAOK,1-1,Metalurh Donetsk
+1,15/09/05,Slavia Praha,2-0,Cork City
+1,15/09/05,APOEL,0-1,Hertha BSC
+1,15/09/05,Lens,1-1,Dyskobolia
+1,15/09/05,Crvena Zvezda,0-0,SC Braga
+1,15/09/05,Brondby IF,2-0,FC Zurich
+1,15/09/05,Auxerre,2-1,Levski Sofia
+1,15/09/05,Hamburger SV,1-1,FC Kobenhavn
+1,15/09/05,Grasshoppers,1-1,MyPa
+1,15/09/05,Germinal Beerschot,0-0,Marseille
+1,15/09/05,Tromso,1-0,Galatasaray
+1,15/09/05,Dinamo Bucuresti,5-1,Everton
+1,15/09/05,Hibernian,0-0,Dnipro
+1,15/09/05,Grazer AK,0-2,RC Strasbourg
+1,15/09/05,Halmstads,1-2,Sporting
+1,15/09/05,Palermo,2-1,Anorthosis
+1,15/09/05,Middlesbrough,2-0,Xanthi
+1,15/09/05,Roma,5-1,Aris
+1,15/09/05,Baník Ostrava,2-0,Heerenveen
+1,15/09/05,Monaco,2-0,Willem II
+1,15/09/05,Bolton,2-1,Lokomotiv Plovdiv
+1,15/09/05,Sevilla FC,0-0,Mainz
+1,15/09/05,Vitória SC,3-0,Wisla Kraków
+1,29/09/05,Domzale,1-0,Stuttgart
+1,29/09/05,CSKA Sofia,1-0,Bayer Leverkusen
+1,29/09/05,Lokomotiv Plovdiv,1-2,Bolton
+1,29/09/05,Anorthosis,0-4,Palermo
+1,29/09/05,MyPa,0-3,Grasshoppers
+1,29/09/05,Rapid București,1-0,Feyenoord
+1,29/09/05,Willem II,1-3,Monaco
+1,29/09/05,Metalurh Donetsk,2-2,PAOK
+1,29/09/05,Lokomotiv,3-2,Brann
+1,29/09/05,RC Strasbourg,5-0,Grazer AK
+1,29/09/05,Levski Sofia,1-0,Auxerre
+1,29/09/05,Cork City,1-2,Slavia Praha
+1,29/09/05,Hertha BSC,3-1,APOEL
+1,29/09/05,Dyskobolia,2-4,Lens
+1,29/09/05,Galatasaray,1-1,Tromso
+1,29/09/05,FCSB,3-1,Valerenga
+1,29/09/05,Partizan,2-5,Maccabi Petah Tikva
+1,29/09/05,NK Siroki Brijeg,0-1,FC Basel
+1,29/09/05,Midtjylland,1-3,CSKA Moskva
+1,29/09/05,Dnipro,5-1,Hibernian
+1,29/09/05,Xanthi,0-0,Middlesbrough
+1,29/09/05,Debreceni,0-2,Shakhtar Donetsk
+1,29/09/05,AZ Alkmaar,3-1,Krylya Sovetov
+1,29/09/05,FC Zurich,2-1,Brondby IF
+1,29/09/05,SC Braga,1-1,Crvena Zvezda
+1,29/09/05,Mainz,0-2,Sevilla FC
+1,29/09/05,Osasuna,0-0,Rennes
+1,29/09/05,Wisla Kraków,0-1,Vitória SC
+1,29/09/05,Malmö,1-4,Besiktas
+1,29/09/05,Sampdoria,1-0,Vitória FC
+1,29/09/05,Genk,0-1,Litex Lovech
+1,29/09/05,Austria Wien,2-1,Viking
+1,29/09/05,AEK,0-1,Zenit
+1,29/09/05,FC Kobenhavn,0-1,Hamburger SV
+1,29/09/05,Everton,1-0,Dinamo Bucuresti
+1,29/09/05,Marseille,0-0(4-1 Pen.),Germinal Beerschot
+1,29/09/05,Aris,0-0,Roma
+1,29/09/05,Heerenveen,5-0,Baník Ostrava
+1,29/09/05,Espanyol,2-0,Teplice
+1,29/09/05,Sporting,2-3(Pro.),Halmstads
+B,19/10/05,Lokomotiv,0-1,Espanyol
+C,20/10/05,Halmstads,0-1,Hertha BSC
+B,20/10/05,Maccabi Petah Tikva,1-2,Palermo
+F,20/10/05,CSKA Moskva,1-2,Marseille
+A,20/10/05,Viking,1-0,Monaco
+G,20/10/05,Shakhtar Donetsk,1-0,PAOK
+H,20/10/05,Zenit,2-1,Vitória SC
+G,20/10/05,Rennes,0-2,Stuttgart
+C,20/10/05,FCSB,4-0,Lens
+E,20/10/05,FC Basel,0-2,RC Strasbourg
+D,20/10/05,Dnipro,1-2,AZ Alkmaar
+A,20/10/05,CSKA Sofia,0-1,Hamburger SV
+E,20/10/05,Tromso,1-2,Roma
+F,20/10/05,Dinamo Bucuresti,0-0,Heerenveen
+H,20/10/05,Besiktas,1-1,Bolton
+D,20/10/05,Grasshoppers,0-1,Middlesbrough
+D,03/11/05,Litex Lovech,2-1,Grasshoppers
+E,03/11/05,Crvena Zvezda,1-2,FC Basel
+F,03/11/05,Levski Sofia,1-0,Dinamo Bucuresti
+A,03/11/05,Hamburger SV,2-0,Viking
+G,03/11/05,Rapid București,2-0,Rennes
+A,03/11/05,Slavia Praha,4-2,CSKA Sofia
+C,03/11/05,Lens,5-0,Halmstads
+F,03/11/05,Heerenveen,0-0,CSKA Moskva
+B,03/11/05,Brondby IF,2-0,Maccabi Petah Tikva
+C,03/11/05,Sampdoria,0-0,FCSB
+E,03/11/05,RC Strasbourg,2-0,Tromso
+G,03/11/05,Stuttgart,0-2,Shakhtar Donetsk
+B,03/11/05,Palermo,0-0,Lokomotiv
+D,03/11/05,Middlesbrough,3-0,Dnipro
+H,03/11/05,Bolton,1-0,Zenit
+H,03/11/05,Sevilla FC,3-0,Besiktas
+B,23/11/05,Lokomotiv,4-2,Brondby IF
+F,24/11/05,CSKA Moskva,2-1,Levski Sofia
+G,24/11/05,PAOK,1-2,Stuttgart
+A,24/11/05,Viking,2-2,Slavia Praha
+D,24/11/05,AZ Alkmaar,0-0,Middlesbrough
+G,24/11/05,Shakhtar Donetsk,0-1,Rapid București
+H,24/11/05,Zenit,2-1,Sevilla FC
+C,24/11/05,Hertha BSC,0-0,Lens
+C,24/11/05,Halmstads,1-3,Sampdoria
+D,24/11/05,Dnipro,0-2,Litex Lovech
+E,24/11/05,Tromso,3-1,Crvena Zvezda
+F,24/11/05,Marseille,1-0,Heerenveen
+A,24/11/05,Monaco,2-0,Hamburger SV
+E,24/11/05,Roma,1-1,RC Strasbourg
+H,24/11/05,Vitória SC,1-1,Bolton
+B,24/11/05,Espanyol,1-1,Palermo
+A,30/11/05,Slavia Praha,0-2,Monaco
+B,30/11/05,Brondby IF,1-1,Espanyol
+C,30/11/05,Sampdoria,0-0,Hertha BSC
+D,30/11/05,Grasshoppers,2-3,Dnipro
+A,30/11/05,CSKA Sofia,2-0,Viking
+B,30/11/05,Maccabi Petah Tikva,0-4,Lokomotiv
+C,30/11/05,FCSB,3-0,Halmstads
+D,30/11/05,Litex Lovech,0-2,AZ Alkmaar
+F,01/12/05,Levski Sofia,1-0,Marseille
+F,01/12/05,Dinamo Bucuresti,1-0,CSKA Moskva
+E,01/12/05,Crvena Zvezda,3-1,Roma
+E,01/12/05,FC Basel,4-3,Tromso
+G,01/12/05,Rennes,0-1,Shakhtar Donetsk
+H,01/12/05,Sevilla FC,3-1,Vitória SC
+G,01/12/05,Rapid București,1-0,PAOK
+H,01/12/05,Besiktas,1-1,Zenit
+E,14/12/05,Roma,3-1,FC Basel
+E,14/12/05,RC Strasbourg,2-2,Crvena Zvezda
+F,14/12/05,Marseille,2-1,Dinamo Bucuresti
+F,14/12/05,Heerenveen,2-1,Levski Sofia
+G,14/12/05,PAOK,5-1,Rennes
+G,14/12/05,Stuttgart,2-1,Rapid București
+H,14/12/05,Vitória SC,1-3,Besiktas
+H,14/12/05,Bolton,1-1,Sevilla FC
+A,15/12/05,Monaco,2-1,CSKA Sofia
+A,15/12/05,Hamburger SV,2-0,Slavia Praha
+B,15/12/05,Espanyol,1-0,Maccabi Petah Tikva
+B,15/12/05,Palermo,3-0,Brondby IF
+C,15/12/05,Hertha BSC,0-0,FCSB
+C,15/12/05,Lens,2-1,Sampdoria
+D,15/12/05,AZ Alkmaar,1-0,Grasshoppers
+D,15/12/05,Middlesbrough,2-0,Litex Lovech
+1/16,15/02/06,Litex Lovech,0-2,RC Strasbourg
+1/16,15/02/06,Lokomotiv,0-1,Sevilla FC
+1/16,15/02/06,Artmedia Bratislava,0-1,Levski Sofia
+1/16,15/02/06,Hertha BSC,0-1,Rapid București
+1/16,15/02/06,FC Basel,1-0,Monaco
+1/16,15/02/06,Lille,3-2,Shakhtar Donetsk
+1/16,15/02/06,Heerenveen,1-3,FCSB
+1/16,15/02/06,Rosenborg,0-2,Zenit
+1/16,15/02/06,Schalke 04,2-1,Espanyol
+1/16,15/02/06,Bolton,0-0,Marseille
+1/16,15/02/06,Udinese,3-0,Lens
+1/16,15/02/06,Club Brugge,1-2,Roma
+1/16,15/02/06,Real Betis,2-0,AZ Alkmaar
+1/16,16/02/06,FC Thun,1-0,Hamburger SV
+1/16,16/02/06,Stuttgart,1-2,Middlesbrough
+1/16,16/02/06,Slavia Praha,2-1,Palermo
+1/16,23/02/06,Palermo,1-0,Slavia Praha
+1/16,23/02/06,Rapid București,2-0,Hertha BSC
+1/16,23/02/06,Levski Sofia,2-0,Artmedia Bratislava
+1/16,23/02/06,FCSB,0-1,Heerenveen
+1/16,23/02/06,Zenit,2-1,Rosenborg
+1/16,23/02/06,Shakhtar Donetsk,0-0,Lille
+1/16,23/02/06,Hamburger SV,2-0,FC Thun
+1/16,23/02/06,RC Strasbourg,0-0,Litex Lovech
+1/16,23/02/06,Middlesbrough,0-1,Stuttgart
+1/16,23/02/06,Marseille,2-1,Bolton
+1/16,23/02/06,Monaco,1-1,FC Basel
+1/16,23/02/06,Lens,1-0,Udinese
+1/16,23/02/06,AZ Alkmaar,2-1(Pro.),Real Betis
+1/16,23/02/06,Roma,2-1,Club Brugge
+1/16,23/02/06,Sevilla FC,2-0,Lokomotiv
+1/16,23/02/06,Espanyol,0-3,Schalke 04
+1/8,09/03/06,Rapid București,2-0,Hamburger SV
+1/8,09/03/06,FCSB,0-0,Real Betis
+1/8,09/03/06,Palermo,1-0,Schalke 04
+1/8,09/03/06,Lille,1-0,Sevilla FC
+1/8,09/03/06,FC Basel,2-0,RC Strasbourg
+1/8,09/03/06,Marseille,0-1,Zenit
+1/8,09/03/06,Udinese,0-0,Levski Sofia
+1/8,09/03/06,Middlesbrough,1-0,Roma
+1/8,15/03/06,Hamburger SV,3-1,Rapid București
+1/8,15/03/06,Roma,2-1,Middlesbrough
+1/8,15/03/06,Sevilla FC,2-0,Lille
+1/8,16/03/06,Zenit,1-1,Marseille
+1/8,16/03/06,Levski Sofia,2-1,Udinese
+1/8,16/03/06,RC Strasbourg,2-2,FC Basel
+1/8,16/03/06,Schalke 04,3-0,Palermo
+1/8,16/03/06,Real Betis,0-3,FCSB
+QF,30/03/06,Levski Sofia,1-3,Schalke 04
+QF,30/03/06,Rapid București,1-1,FCSB
+QF,30/03/06,FC Basel,2-0,Middlesbrough
+QF,30/03/06,Sevilla FC,4-1,Zenit
+QF,06/04/06,Zenit,1-1,Sevilla FC
+QF,06/04/06,FCSB,0-0,Rapid București
+QF,06/04/06,Schalke 04,1-1,Levski Sofia
+QF,06/04/06,Middlesbrough,4-1,FC Basel
+SF,20/04/06,FCSB,1-0,Middlesbrough
+SF,20/04/06,Schalke 04,0-0,Sevilla FC
+SF,27/04/06,Sevilla FC,1-0(Pro.),Schalke 04
+SF,27/04/06,Middlesbrough,4-2,FCSB
+F,10/05/06,Middlesbrough,0-4,Sevilla FC

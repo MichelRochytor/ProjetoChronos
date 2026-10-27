@@ -1,0 +1,93 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,28/01/17,Figueirense,1-2,Brusque
+1T,29/01/17,Chapecoense,2-1,Inter de Lages
+1T,29/01/17,Almirante Barroso,2-2,Joinville
+1T,29/01/17,Criciúma,0-1,Avaí
+1T,29/01/17,Metropolitano,0-0,Atlético Tubarão
+1T,01/02/17,Atlético Tubarão,0-1,Chapecoense
+1T,01/02/17,Inter de Lages,2-0,Almirante Barroso
+1T,01/02/17,Joinville,0-0,Figueirense
+1T,02/02/17,Brusque,0-4,Criciúma
+1T,02/02/17,Avaí,2-1,Metropolitano
+1T,04/02/17,Figueirense,2-0,Inter de Lages
+1T,04/02/17,Chapecoense,1-1,Almirante Barroso
+1T,05/02/17,Criciúma,1-0,Joinville
+1T,05/02/17,Metropolitano,2-0,Brusque
+1T,05/02/17,Atlético Tubarão,0-2,Avaí
+1T,08/02/17,Avaí,3-0,Chapecoense
+1T,08/02/17,Brusque,1-0,Atlético Tubarão
+1T,08/02/17,Joinville,1-0,Metropolitano
+1T,09/02/17,Almirante Barroso,4-2,Figueirense
+1T,09/02/17,Inter de Lages,1-1,Criciúma
+1T,11/02/17,Brusque,2-1,Chapecoense
+1T,12/02/17,Almirante Barroso,0-0,Metropolitano
+1T,12/02/17,Joinville,0-0,Avaí
+1T,12/02/17,Inter de Lages,2-1,Atlético Tubarão
+1T,12/02/17,Figueirense,4-2,Criciúma
+1T,18/02/17,Atlético Tubarão,2-0,Joinville
+1T,19/02/17,Avaí,2-1,Brusque
+1T,19/02/17,Chapecoense,1-1,Figueirense
+1T,19/02/17,Metropolitano,1-0,Inter de Lages
+1T,19/02/17,Criciúma,2-1,Almirante Barroso
+1T,22/02/17,Inter de Lages,4-1,Joinville
+1T,22/02/17,Brusque,3-2,Almirante Barroso
+1T,22/02/17,Chapecoense,4-0,Metropolitano
+1T,22/02/17,Avaí,0-0,Figueirense
+1T,25/02/17,Figueirense,1-1,Atlético Tubarão
+1T,25/02/17,Inter de Lages,0-3,Brusque
+1T,25/02/17,Almirante Barroso,0-3,Avaí
+1T,25/02/17,Criciúma,5-4,Metropolitano
+1T,25/02/17,Joinville,0-1,Chapecoense
+1T,01/03/17,Atlético Tubarão,3-2,Criciúma
+1T,04/03/17,Chapecoense,2-0,Criciúma
+1T,04/03/17,Brusque,0-0,Joinville
+1T,05/03/17,Metropolitano,2-3,Figueirense
+1T,05/03/17,Avaí,1-1,Inter de Lages
+1T,05/03/17,Atlético Tubarão,4-1,Almirante Barroso
+2T,11/03/17,Inter de Lages,0-0,Chapecoense
+2T,11/03/17,Joinville,2-0,Almirante Barroso
+2T,12/03/17,Brusque,2-0,Figueirense
+2T,12/03/17,Avaí,2-3,Criciúma
+2T,12/03/17,Atlético Tubarão,2-2,Metropolitano
+2T,18/03/17,Figueirense,0-2,Joinville
+2T,19/03/17,Criciúma,4-4,Brusque
+2T,19/03/17,Metropolitano,1-4,Avaí
+2T,19/03/17,Almirante Barroso,2-1,Inter de Lages
+2T,19/03/17,Chapecoense,7-0,Atlético Tubarão
+2T,22/03/17,Avaí,3-2,Atlético Tubarão
+2T,22/03/17,Brusque,3-2,Metropolitano
+2T,22/03/17,Almirante Barroso,2-3,Chapecoense
+2T,22/03/17,Inter de Lages,1-0,Figueirense
+2T,23/03/17,Joinville,1-0,Criciúma
+2T,25/03/17,Figueirense,1-0,Almirante Barroso
+2T,26/03/17,Metropolitano,0-0,Joinville
+2T,26/03/17,Chapecoense,2-0,Avaí
+2T,26/03/17,Criciúma,1-0,Inter de Lages
+2T,26/03/17,Atlético Tubarão,3-2,Brusque
+2T,29/03/17,Criciúma,0-0,Figueirense
+2T,29/03/17,Atlético Tubarão,6-0,Inter de Lages
+2T,29/03/17,Metropolitano,1-0,Almirante Barroso
+2T,29/03/17,Chapecoense,4-1,Brusque
+2T,30/03/17,Avaí,1-0,Joinville
+2T,01/04/17,Figueirense,0-2,Chapecoense
+2T,02/04/17,Almirante Barroso,1-3,Criciúma
+2T,02/04/17,Inter de Lages,2-2,Metropolitano
+2T,02/04/17,Brusque,2-3,Avaí
+2T,02/04/17,Joinville,4-3,Atlético Tubarão
+2T,08/04/17,Joinville,3-1,Inter de Lages
+2T,09/04/17,Criciúma,1-0,Atlético Tubarão
+2T,09/04/17,Metropolitano,1-3,Chapecoense
+2T,09/04/17,Almirante Barroso,2-1,Brusque
+2T,09/04/17,Figueirense,0-0,Avaí
+2T,15/04/17,Chapecoense,2-0,Joinville
+2T,15/04/17,Brusque,2-1,Inter de Lages
+2T,15/04/17,Avaí,0-1,Almirante Barroso
+2T,15/04/17,Atlético Tubarão,0-0,Figueirense
+2T,15/04/17,Metropolitano,2-2,Criciúma
+2T,23/04/17,Figueirense,1-3,Metropolitano
+2T,23/04/17,Almirante Barroso,2-1,Atlético Tubarão
+2T,23/04/17,Inter de Lages,2-0,Avaí
+2T,23/04/17,Criciúma,1-0,Chapecoense
+2T,23/04/17,Joinville,0-1,Brusque
+F,30/04/17,Avaí,0-1,Chapecoense
+F,07/05/17,Chapecoense,0-1,Avaí

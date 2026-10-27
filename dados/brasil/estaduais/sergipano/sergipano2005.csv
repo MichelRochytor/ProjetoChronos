@@ -1,0 +1,91 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,13/02/05,Confiança,4-0,América-SE
+C,13/02/05,Boca Júnior-SE,2-3,Sergipe
+C,13/02/05,Itabaiana,4-0,Maruinense
+C,13/02/05,Lagartense,1-1,Guarany-SE
+C,13/02/05,Riachuelo-SE,2-2,Olímpico
+C,20/02/05,Olímpico,2-0,Confiança
+C,20/02/05,Guarany-SE,1-0,Riachuelo-SE
+C,20/02/05,Sergipe,1-1,Itabaiana
+C,20/02/05,América-SE,0-4,Boca Júnior-SE
+C,23/02/05,Maruinense,1-2,Lagartense
+C,27/02/05,Itabaiana,0-1,Boca Júnior-SE
+C,27/02/05,Confiança,0-1,Guarany-SE
+C,27/02/05,Olímpico,1-1,Maruinense
+C,27/02/05,Riachuelo-SE,1-2,Sergipe
+C,27/02/05,Lagartense,2-2,América-SE
+C,06/03/05,Lagartense,2-1,Confiança
+C,06/03/05,Riachuelo-SE,2-3,Itabaiana
+C,06/03/05,Boca Júnior-SE,1-1,Olímpico
+C,06/03/05,Guarany-SE,1-1,América-SE
+C,06/03/05,Sergipe,0-2,Maruinense
+C,13/03/05,Itabaiana,1-0,Guarany-SE
+C,13/03/05,Confiança,1-2,Riachuelo-SE
+C,13/03/05,Olímpico,2-2,Lagartense
+C,13/03/05,Maruinense,0-2,Boca Júnior-SE
+C,13/03/05,América-SE,1-2,Sergipe
+C,20/03/05,Sergipe,1-0,Confiança
+C,23/03/05,Boca Júnior-SE,2-0,Lagartense
+C,23/03/05,Riachuelo-SE,3-1,América-SE
+C,23/03/05,Sergipe,2-0,Olímpico
+C,23/03/05,Guarany-SE,1-1,Maruinense
+C,24/03/05,Itabaiana,0-1,Confiança
+C,26/03/05,Confiança,2-0,Boca Júnior-SE
+C,26/03/05,América-SE,0-1,Itabaiana
+C,26/03/05,Lagartense,3-3,Sergipe
+C,26/03/05,Maruinense,0-3,Riachuelo-SE
+C,26/03/05,Olímpico,1-1,Guarany-SE
+C,02/04/05,Itabaiana,2-0,Olímpico
+C,02/04/05,Maruinense,2-0,América-SE
+C,02/04/05,Boca Júnior-SE,1-1,Guarany-SE
+C,02/04/05,Riachuelo-SE,1-1,Lagartense
+C,10/04/05,Guarany-SE,1-3,Sergipe
+C,10/04/05,Confiança,1-0,Maruinense
+C,10/04/05,América-SE,2-2,Olímpico
+C,10/04/05,Boca Júnior-SE,1-0,Riachuelo-SE
+C,10/04/05,Lagartense,2-2,Itabaiana
+C,17/04/05,América-SE,1-1,Confiança
+C,17/04/05,Sergipe,2-0,Boca Júnior-SE
+C,17/04/05,Maruinense,0-3,Itabaiana
+C,17/04/05,Guarany-SE,2-2,Lagartense
+C,17/04/05,Olímpico,1-0,Riachuelo-SE
+C,21/04/05,Confiança,1-2,Olímpico
+C,21/04/05,Riachuelo-SE,1-1,Guarany-SE
+C,21/04/05,Lagartense,4-2,Maruinense
+C,21/04/05,Itabaiana,2-2,Sergipe
+C,21/04/05,Boca Júnior-SE,0-2,América-SE
+C,24/04/05,Guarany-SE,0-1,Confiança
+C,24/04/05,Maruinense,0-1,Olímpico
+C,24/04/05,Sergipe,5-1,Riachuelo-SE
+C,24/04/05,América-SE,4-5,Lagartense
+C,24/04/05,Boca Júnior-SE,3-5,Itabaiana
+C,01/05/05,Itabaiana,1-0,Riachuelo-SE
+C,01/05/05,Confiança,0-2,Lagartense
+C,01/05/05,Olímpico,3-0,Boca Júnior-SE
+C,01/05/05,América-SE,3-1,Guarany-SE
+C,01/05/05,Maruinense,1-0,Sergipe
+C,08/05/05,Riachuelo-SE,1-4,Confiança
+C,08/05/05,Lagartense,3-3,Olímpico
+C,08/05/05,Guarany-SE,2-2,Itabaiana
+C,08/05/05,Boca Júnior-SE,5-1,Maruinense
+C,08/05/05,Sergipe,3-2,América-SE
+C,15/05/05,Confiança,0-1,Itabaiana
+C,15/05/05,Lagartense,6-2,Boca Júnior-SE
+C,15/05/05,América-SE,2-1,Riachuelo-SE
+C,15/05/05,Olímpico,2-2,Sergipe
+C,15/05/05,Maruinense,1-1,Guarany-SE
+C,22/05/05,Itabaiana,2-1,América-SE
+C,22/05/05,Boca Júnior-SE,3-1,Confiança
+C,22/05/05,Sergipe,0-1,Lagartense
+C,22/05/05,Riachuelo-SE,3-2,Maruinense
+C,22/05/05,Guarany-SE,2-0,Olímpico
+C,26/05/05,Confiança,1-2,Sergipe
+C,26/05/05,América-SE,1-5,Maruinense
+C,26/05/05,Guarany-SE,4-2,Boca Júnior-SE
+C,26/05/05,Olímpico,0-0,Itabaiana
+C,26/05/05,Lagartense,1-1,Riachuelo-SE
+C,29/05/05,Maruinense,0-4,Confiança
+C,29/05/05,Sergipe,1-0,Guarany-SE
+C,29/05/05,Olímpico,1-2,América-SE
+C,29/05/05,Riachuelo-SE,2-2,Boca Júnior-SE
+C,29/05/05,Itabaiana,3-0,Lagartense

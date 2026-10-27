@@ -1,0 +1,77 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,25/01/03,Atlético Paranaense,4-1,União Bandeirante
+B,26/01/03,Coritiba,7-1,Prudentópolis
+B,26/01/03,Roma Apucarana,3-1,Paraná
+B,26/01/03,Portuguesa Londrinense,3-3,Londrina
+B,26/01/03,Iraty,1-1,Malutrom
+B,26/01/03,Rio Branco-PR,3-1,Ponta Grossa
+B,26/01/03,Francisco Beltrão,5-1,Cascavel
+B,26/01/03,Grêmio Maringá,1-1,Paranavaí
+B,29/01/03,Paranavaí,4-0,Rio Branco-PR
+B,29/01/03,Prudentópolis,4-3,Portuguesa Londrinense
+B,29/01/03,Paraná,2-2,Francisco Beltrão
+B,29/01/03,Malutrom,0-0,Atlético Paranaense
+B,29/01/03,Londrina,1-3,Coritiba
+B,29/01/03,Ponta Grossa,2-1,Roma Apucarana
+B,29/01/03,Cascavel,0-0,Grêmio Maringá
+B,29/01/03,Iraty,3-1,União Bandeirante
+B,02/02/03,Paraná,0-1,Coritiba
+B,02/02/03,Grêmio Maringá,2-2,Londrina
+B,02/02/03,Paranavaí,3-1,Malutrom
+B,02/02/03,Francisco Beltrão,2-0,Atlético Paranaense
+B,02/02/03,Roma Apucarana,2-0,Prudentópolis
+B,02/02/03,União Bandeirante,3-2,Ponta Grossa
+B,02/02/03,Portuguesa Londrinense,2-2,Iraty
+B,02/02/03,Rio Branco-PR,3-2,Cascavel
+B,05/02/03,Atlético Paranaense,2-1,Rio Branco-PR
+B,05/02/03,Coritiba,1-0,Iraty
+B,05/02/03,Prudentópolis,0-0,Grêmio Maringá
+B,05/02/03,Malutrom,3-1,Cascavel
+B,05/02/03,Londrina,2-0,Roma Apucarana
+B,05/02/03,União Bandeirante,2-3,Paraná
+B,05/02/03,Ponta Grossa,1-1,Francisco Beltrão
+B,06/02/03,Portuguesa Londrinense,1-1,Paranavaí
+B,08/02/03,Coritiba,2-1,Atlético Paranaense
+B,09/02/03,Grêmio Maringá,0-0,Paraná
+B,09/02/03,Prudentópolis,3-2,Rio Branco-PR
+B,09/02/03,Londrina,2-1,União Bandeirante
+B,09/02/03,Iraty,3-3,Roma Apucarana
+B,09/02/03,Malutrom,3-0,Ponta Grossa
+B,09/02/03,Paranavaí,3-0,Francisco Beltrão
+B,09/02/03,Cascavel,1-1,Portuguesa Londrinense
+B,12/02/03,Paraná,2-2,Malutrom
+B,12/02/03,União Bandeirante,2-1,Prudentópolis
+B,12/02/03,Rio Branco-PR,1-2,Londrina
+B,12/02/03,Roma Apucarana,0-2,Paranavaí
+B,12/02/03,Ponta Grossa,4-1,Portuguesa Londrinense
+B,12/02/03,Atlético Paranaense,2-3,Grêmio Maringá
+B,12/02/03,Francisco Beltrão,2-3,Iraty
+B,12/02/03,Cascavel,1-2,Coritiba
+B,15/02/03,Portuguesa Londrinense,0-1,Atlético Paranaense
+B,15/02/03,Coritiba,2-0,Ponta Grossa
+B,16/02/03,Rio Branco-PR,1-0,Paraná
+B,16/02/03,Malutrom,1-1,Prudentópolis
+B,16/02/03,União Bandeirante,0-1,Paranavaí
+B,16/02/03,Grêmio Maringá,3-6,Iraty
+B,16/02/03,Francisco Beltrão,2-2,Londrina
+B,16/02/03,Roma Apucarana,0-1,Cascavel
+B,22/02/03,Paranavaí,2-2,Coritiba
+B,22/02/03,Paraná,1-1,Portuguesa Londrinense
+B,22/02/03,Cascavel,2-2,União Bandeirante
+B,23/02/03,Atlético Paranaense,1-0,Roma Apucarana
+B,23/02/03,Prudentópolis,2-0,Francisco Beltrão
+B,23/02/03,Iraty,3-2,Rio Branco-PR
+B,23/02/03,Londrina,2-0,Malutrom
+B,23/02/03,Ponta Grossa,1-4,Grêmio Maringá
+QF,26/02/03,Coritiba,4-0,Malutrom
+QF,26/02/03,Paranavaí,1-0,Grêmio Maringá
+QF,26/02/03,Iraty,2-4,Prudentópolis
+QF,26/02/03,Londrina,0-0,Atlético Paranaense
+SF,01/03/03,Londrina,1-1,Coritiba
+SF,01/03/03,Prudentópolis,2-2,Paranavaí
+SF,08/03/03,Coritiba,2-2,Londrina
+SF,09/03/03,Paranavaí,1-0,Prudentópolis
+F,15/03/03,Paranavaí,2-2,Coritiba
+F,23/03/03,Coritiba,2-0,Paranavaí
+3/4,16/03/03,Prudentópolis,1-1,Londrina
+3/4,20/03/03,Londrina,2-0,Prudentópolis

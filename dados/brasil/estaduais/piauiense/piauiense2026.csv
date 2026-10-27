@@ -1,0 +1,35 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,10/01/26,Oeirense,1-2,Fluminense-PI
+1,10/01/26,Piauí,0-1,Altos
+1,11/01/26,Parnahyba,2-2,Atlético Piauiense
+1,11/01/26,Corisabbá,1-2,Teresina EC
+2,17/01/26,Oeirense,1-0,Atlético Piauiense
+2,17/01/26,Fluminense-PI,1-2,Piauí
+2,18/01/26,Teresina EC,1-1,Altos
+2,18/01/26,Corisabbá,2-1,Parnahyba
+3,23/01/26,Teresina EC,1-0,Oeirense
+3,24/01/26,Altos,2-2,Fluminense-PI
+3,25/01/26,Atlético Piauiense,3-0,Corisabbá
+3,26/01/26,Piauí,1-0,Parnahyba
+4,31/01/26,Oeirense,3-1,Corisabbá
+4,31/01/26,Parnahyba,0-0,Altos
+4,31/01/26,Atlético Piauiense,4-1,Piauí
+4,01/02/26,Fluminense-PI,1-0,Teresina EC
+5,07/02/26,Corisabbá,1-1,Fluminense-PI
+5,07/02/26,Altos,0-0,Atlético Piauiense
+5,08/02/26,Parnahyba,1-2,Oeirense
+5,08/02/26,Teresina EC,0-2,Piauí
+6,11/02/26,Atlético Piauiense,1-0,Teresina EC
+6,12/02/26,Altos,3-1,Corisabbá
+6,13/02/26,Piauí,2-1,Oeirense
+6,18/02/26,Fluminense-PI,4-0,Parnahyba
+7,22/02/26,Oeirense,0-0,Altos
+7,22/02/26,Corisabbá,0-0,Piauí
+7,22/02/26,Parnahyba,1-1,Teresina EC
+7,22/02/26,Fluminense-PI,1-3,Atlético Piauiense
+SF,28/02/26,Fluminense-PI,0-1,Piauí
+SF,02/03/26,Altos,0-2,Atlético Piauiense
+SF,07/03/26,Atlético Piauiense,2-1,Altos
+SF,14/03/26,Piauí,3-1,Fluminense-PI
+F,18/03/26,Piauí,1-0,Atlético Piauiense
+F,21/03/26,Atlético Piauiense,0-0,Piauí

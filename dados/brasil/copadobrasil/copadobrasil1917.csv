@@ -1,0 +1,101 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+6,03/01/20,Entente SSG B,0-1,FC Les Lilas
+26,12/01/20,CO Les Ulis,4-2,FC Les Lilas
+15,12/01/20,FC Les Lilas,1-4,RCF Paris B
+19,21/01/20,RCF Paris B,0-2,FC Versailles 78
+7,31/01/20,PSG C,4-1,Ararat Issy
+4,09/02/20,AC Boulogne-Billancourt,0-1,PSG C
+10,17/02/20,RCF Paris B,2-4,AC Boulogne-Billancourt
+3,18/02/20,RSC Montreuil,1-2,Le Blanc-Mesnil
+3,25/02/20,FC Les Lilas,0-4,PSG C
+18,12/03/20,Entente SSG B,3-2,PSG C
+12,02/04/20,CO Les Ulis,1-4,PSG C
+3,05/04/20,Ararat Issy,2-3,RCF Paris B
+13,08/04/20,FC Les Lilas,3-2,CO Les Ulis
+2,05/05/20,Le Blanc-Mesnil,1-0,PSG C
+22,12/05/20,Ararat Issy,4-1,Entente SSG B
+23,13/05/20,Entente SSG B,4-2,Le Mée
+2,15/05/20,FC Versailles 78,3-4,Le Mée
+13,19/05/20,PSG C,4-2,RCF Paris B
+21,13/06/20,AC Boulogne-Billancourt,0-3,CO Les Ulis
+7,17/08/20,Le Blanc-Mesnil,4-4,FC Versailles 78
+25,18/08/20,PSG C,4-2,CO Les Ulis
+5,24/08/20,CO Les Ulis,3-3,FC Versailles 78
+23,12/09/20,RSC Montreuil,1-0,Ararat Issy
+7,16/09/20,AS Évry,0-0,Le Mée
+17,07/10/20,FC Versailles 78,4-2,CS Meaux
+14,27/10/20,CS Meaux,2-0,Le Mée
+4,28/10/20,RCF Paris B,1-3,RSC Montreuil
+18,09/11/20,Le Mée,4-3,RCF Paris B
+23,17/01/21,Le Blanc-Mesnil,2-4,CO Les Ulis
+10,19/01/21,Ararat Issy,4-2,RSC Montreuil
+1,04/02/21,RSC Montreuil,0-3,CO Les Ulis
+21,15/02/21,Entente SSG B,4-2,RSC Montreuil
+8,16/02/21,RSC Montreuil,4-2,Entente SSG B
+9,17/02/21,AC Boulogne-Billancourt,3-1,RSC Montreuil
+17,19/02/21,Ararat Issy,3-1,CO Les Ulis
+19,02/03/21,CO Les Ulis,1-2,CS Meaux
+14,09/03/21,Ararat Issy,4-3,AS St Ouen-l´Aumône
+18,30/03/21,FC Les Lilas,1-1,AC Boulogne-Billancourt
+12,17/04/21,RCF Paris B,2-4,AS Évry
+15,19/04/21,Entente SSG B,1-1,CO Les Ulis
+20,18/05/21,Le Mée,1-4,AS Évry
+1,21/05/21,AS St Ouen-l´Aumône,0-1,Ararat Issy
+22,26/07/21,FC Versailles 78,0-2,PSG C
+18,31/07/21,CS Meaux,1-4,AS St Ouen-l´Aumône
+4,09/08/21,AS St Ouen-l´Aumône,4-4,Le Mée
+24,21/08/21,CO Les Ulis,0-3,AS Évry
+19,02/09/21,AS Évry,0-2,Ararat Issy
+14,08/09/21,AC Boulogne-Billancourt,0-0,FC Versailles 78
+24,10/11/21,Le Mée,3-0,RSC Montreuil
+15,10/11/21,RSC Montreuil,4-2,AS St Ouen-l´Aumône
+9,04/08/22,SC Wacker Wien,0-0,FC Wien
+7,07/10/22,SC Wacker Wien,0-0,Austria Wien
+13,19/12/22,First Vienna,2-4,FC Wien
+14,27/12/22,FC Wien,4-2,SK Admira Wien
+9,18/01/23,Wiener SC,3-0,First Vienna
+5,24/03/23,SK Admira Wien,3-0,Rapid Wien
+22,24/03/23,SK Admira Wien,2-1,SC Wacker Wien
+1,28/03/23,Floridsdorfer AC,3-0,First Vienna
+12,08/04/23,Wiener AC,2-0,Sturm Graz
+20,21/04/23,Floridsdorfer AC,3-2,Austria Wien
+5,22/04/23,Wiener AC,0-3,Floridsdorfer AC
+20,11/05/23,SK Admira Wien,3-2,Wiener AC
+2,23/05/23,Floridsdorfer AC,4-3,SK Admira Wien
+3,22/06/23,Wiener SC,2-4,Wiener AC
+1,04/07/23,Sturm Graz,4-2,Wiener AC
+16,12/08/23,SC Ostbahn XI,1-0,First Vienna
+11,07/09/23,Austria Wien,0-3,First Vienna
+7,16/09/23,Wiener SC,3-4,Floridsdorfer AC
+11,12/10/23,Wiener AC,2-3,SC Ostbahn XI
+17,09/11/23,Austria Wien,3-2,Wiener AC
+12,16/11/23,SC Ostbahn XI,3-2,Wiener SC
+17,01/12/23,SC Wacker Wien,0-3,Wiener SC
+18,03/12/23,Floridsdorfer AC,0-3,Wiener SC
+7,17/12/23,Wiener AC,2-0,FC Wien
+22,18/01/24,SC Ostbahn XI,0-0,Wiener AC
+8,14/03/24,FC Wien,0-4,Wiener SC
+2,21/04/24,FC Wien,2-0,First Vienna
+2,07/06/24,SC Wacker Wien,0-0,SC Ostbahn XI
+17,06/07/24,Floridsdorfer AC,1-4,Sturm Graz
+8,04/08/24,Rapid Wien,1-0,SC Ostbahn XI
+15,20/08/24,Rapid Wien,2-3,FC Wien
+8,24/08/24,First Vienna,3-1,Wiener AC
+22,02/10/24,First Vienna,3-1,Austria Wien
+4,07/01/25,First Vienna,0-1,SK Admira Wien
+14,04/02/25,Austria Wien,3-3,SC Ostbahn XI
+3,07/02/25,SC Ostbahn XI,4-2,Austria Wien
+16,24/02/25,FC Wien,4-4,Sturm Graz
+5,14/03/25,Sturm Graz,0-3,FC Wien
+15,02/04/25,Wiener AC,3-1,SC Wacker Wien
+5,10/06/25,Austria Wien,2-1,Wiener SC
+1,10/07/25,Rapid Wien,3-1,SC Wacker Wien
+6,19/08/25,Wiener SC,4-0,SC Wacker Wien
+17,23/08/25,First Vienna,1-4,Rapid Wien
+15,28/08/25,SK Admira Wien,3-0,First Vienna
+6,09/09/25,Rapid Wien,4-0,First Vienna
+19,03/10/25,Sturm Graz,2-3,SK Admira Wien
+20,27/12/25,First Vienna,4-4,Wiener SC
+21,04/01/26,Wiener SC,0-1,SK Admira Wien
+18,27/02/26,FC Wien,0-1,Wiener AC
+7,04/03/26,Sturm Graz,1-1,First Vienna

@@ -1,0 +1,421 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,14/09/47,Alessandria,1-3,Juventus
+1,14/09/47,Atalanta,3-1,AS Bari
+1,14/09/47,Bologna,2-2,Pro Patria
+1,14/09/47,Fiorentina,1-0,Roma
+1,14/09/47,Internazionale,1-1,Modena
+1,14/09/47,Lazio,1-2,AC Milan
+1,14/09/47,Livorno 1915,2-0,Associazione del Calcio in Vic
+1,14/09/47,Lucchese Libertas,0-3,Genoa
+1,14/09/47,Sampdoria,2-2,Triestina
+1,14/09/47,Torino,4-0,Napoli
+2,21/09/47,Alessandria,4-0,Associazione del Calcio in Vic
+2,21/09/47,Atalanta,1-1,Internazionale
+2,21/09/47,AS Bari,1-0,Torino
+2,21/09/47,Genoa,3-2,Napoli
+2,21/09/47,Juventus,4-1,Sampdoria
+2,21/09/47,Lucchese Libertas,1-0,Bologna
+2,21/09/47,AC Milan,4-2,Pro Patria
+2,21/09/47,Modena,1-1,Fiorentina
+2,21/09/47,Roma,1-0,Livorno 1915
+2,21/09/47,Salernitana,2-0,Lazio
+3,28/09/47,AS Bari,2-1,Roma
+3,28/09/47,Bologna,3-1,Atalanta
+3,28/09/47,Fiorentina,2-1,AC Milan
+3,28/09/47,Genoa,2-3,Juventus
+3,28/09/47,Internazionale,6-0,Alessandria
+3,28/09/47,Lazio,1-0,Modena
+3,28/09/47,Livorno 1915,2-1,Triestina
+3,28/09/47,Pro Patria,1-0,Sampdoria
+3,28/09/47,Torino,6-0,Lucchese Libertas
+3,28/09/47,Associazione del Calcio in Vic,2-0,Salernitana
+4,05/10/47,Alessandria,0-2,Bologna
+4,05/10/47,Juventus,1-0,Atalanta
+4,05/10/47,AC Milan,2-0,Genoa
+4,05/10/47,Modena,3-0,Livorno 1915
+4,05/10/47,Napoli,0-0,Lazio
+4,05/10/47,Pro Patria,1-0,Fiorentina
+4,05/10/47,Roma,1-7,Torino
+4,05/10/47,Sampdoria,1-4,Internazionale
+4,05/10/47,Triestina,0-0,Salernitana
+4,05/10/47,Associazione del Calcio in Vic,3-1,AS Bari
+5,12/10/47,Atalanta,2-1,Modena
+5,12/10/47,Bologna,2-2,Roma
+5,12/10/47,Fiorentina,1-0,Napoli
+5,12/10/47,Genoa,3-0,Alessandria
+5,12/10/47,Internazionale,4-2,Juventus
+5,12/10/47,Lazio,1-0,Pro Patria
+5,12/10/47,Livorno 1915,1-1,AC Milan
+5,12/10/47,Salernitana,5-2,Lucchese Libertas
+5,12/10/47,Torino,2-0,Associazione del Calcio in Vic
+5,12/10/47,Triestina,1-1,AS Bari
+6,19/10/47,Alessandria,1-0,Livorno 1915
+6,19/10/47,AS Bari,0-0,Salernitana
+6,19/10/47,Juventus,0-1,Triestina
+6,19/10/47,Lazio,1-0,Internazionale
+6,19/10/47,Lucchese Libertas,1-0,Fiorentina
+6,19/10/47,AC Milan,2-1,Bologna
+6,19/10/47,Modena,3-2,Genoa
+6,19/10/47,Napoli,1-1,Associazione del Calcio in Vic
+6,19/10/47,Pro Patria,0-2,Torino
+6,19/10/47,Sampdoria,1-0,Atalanta
+7,26/10/47,Napoli,1-2,Alessandria
+7,26/10/47,Bologna,1-0,Sampdoria
+7,26/10/47,Fiorentina,1-0,Salernitana
+7,26/10/47,Genoa,3-1,Lazio
+7,26/10/47,Internazionale,6-0,Lucchese Libertas
+7,26/10/47,Livorno 1915,2-2,Pro Patria
+7,26/10/47,Roma,4-1,Atalanta
+7,26/10/47,Torino,1-1,Juventus
+7,26/10/47,Triestina,2-0,AC Milan
+7,26/10/47,Associazione del Calcio in Vic,0-0,Modena
+8,02/11/47,Atalanta,0-0,Alessandria
+8,02/11/47,AS Bari,1-1,Modena
+8,02/11/47,Bologna,1-0,Torino
+8,02/11/47,Fiorentina,1-1,Livorno 1915
+8,02/11/47,Juventus,1-1,Lazio
+8,02/11/47,Lucchese Libertas,1-1,Triestina
+8,02/11/47,AC Milan,3-2,Internazionale
+8,02/11/47,Roma,1-1,Pro Patria
+8,02/11/47,Salernitana,3-3,Napoli
+8,02/11/47,Sampdoria,6-1,Associazione del Calcio in Vic
+9,16/11/47,Alessandria,4-2,Lucchese Libertas
+9,16/11/47,AS Bari,1-0,Fiorentina
+9,16/11/47,Genoa,2-1,Sampdoria
+9,16/11/47,Lazio,0-1,Roma
+9,16/11/47,Livorno 1915,3-2,Internazionale
+9,16/11/47,AC Milan,1-0,Atalanta
+9,16/11/47,Napoli,0-0,Juventus
+9,16/11/47,Pro Patria,3-1,Triestina
+9,16/11/47,Torino,7-1,Salernitana
+9,16/11/47,Associazione del Calcio in Vic,2-1,Bologna
+10,23/11/47,Atalanta,0-0,Salernitana
+10,23/11/47,Fiorentina,1-1,Bologna
+10,23/11/47,Internazionale,1-0,Genoa
+10,23/11/47,Juventus,6-1,Livorno 1915
+10,23/11/47,Lucchese Libertas,1-0,AS Bari
+10,23/11/47,Modena,1-0,Alessandria
+10,23/11/47,Napoli,1-0,Pro Patria
+10,23/11/47,Roma,1-4,AC Milan
+10,23/11/47,Sampdoria,0-1,Torino
+10,23/11/47,Triestina,2-1,Lazio
+11,30/11/47,Alessandria,2-2,Torino
+11,30/11/47,Bologna,4-1,Livorno 1915
+11,30/11/47,Internazionale,4-1,AS Bari
+11,30/11/47,Lazio,1-1,Atalanta
+11,30/11/47,Lucchese Libertas,0-0,AC Milan
+11,30/11/47,Pro Patria,3-2,Genoa
+11,30/11/47,Salernitana,1-0,Modena
+11,30/11/47,Sampdoria,2-1,Napoli
+11,30/11/47,Triestina,1-0,Fiorentina
+11,30/11/47,Associazione del Calcio in Vic,1-1,Roma
+12,07/12/47,Atalanta,5-0,Lucchese Libertas
+12,07/12/47,AS Bari,1-0,Alessandria
+12,07/12/47,Bologna,0-0,Triestina
+12,07/12/47,Genoa,4-0,Associazione del Calcio in Vic
+12,07/12/47,Livorno 1915,0-0,Lazio
+12,07/12/47,AC Milan,5-0,Juventus
+12,07/12/47,Napoli,5-1,Modena
+12,07/12/47,Pro Patria,1-0,Salernitana
+12,07/12/47,Roma,2-0,Sampdoria
+12,07/12/47,Torino,5-0,Internazionale
+13,21/12/47,Atalanta,1-0,Torino
+13,21/12/47,Fiorentina,2-1,Alessandria
+13,21/12/47,Genoa,0-0,Livorno 1915
+13,21/12/47,Internazionale,4-0,Pro Patria
+13,21/12/47,Juventus,1-1,Lucchese Libertas
+13,21/12/47,Lazio,3-3,AS Bari
+13,21/12/47,Modena,1-1,Bologna
+13,21/12/47,Napoli,1-2,Roma
+13,21/12/47,Salernitana,2-1,Sampdoria
+13,21/12/47,Triestina,1-0,Associazione del Calcio in Vic
+14,28/12/47,Alessandria,3-0,Salernitana
+14,28/12/47,AS Bari,0-2,Genoa
+14,28/12/47,Bologna,0-0,Lazio
+14,28/12/47,Livorno 1915,1-0,Napoli
+14,28/12/47,Lucchese Libertas,2-0,Pro Patria
+14,28/12/47,AC Milan,2-1,Modena
+14,28/12/47,Roma,2-3,Juventus
+14,28/12/47,Sampdoria,0-0,Fiorentina
+14,28/12/47,Torino,6-0,Triestina
+14,28/12/47,Associazione del Calcio in Vic,1-4,Internazionale
+15,01/01/48,Alessandria,4-0,Roma
+15,01/01/48,Atalanta,2-1,Napoli
+15,01/01/48,AS Bari,1-3,Pro Patria
+15,01/01/48,Internazionale,2-1,Bologna
+15,01/01/48,Lazio,1-0,Lucchese Libertas
+15,01/01/48,Modena,0-0,Triestina
+15,01/01/48,Salernitana,4-1,Genoa
+15,01/01/48,Sampdoria,0-0,AC Milan
+15,01/01/48,Torino,5-0,Fiorentina
+15,01/01/48,Associazione del Calcio in Vic,0-1,Juventus
+16,04/01/48,Atalanta,2-0,Associazione del Calcio in Vic
+16,04/01/48,Fiorentina,1-0,Internazionale
+16,04/01/48,Genoa,2-4,Roma
+16,04/01/48,Juventus,0-1,Modena
+16,04/01/48,Lazio,0-0,Torino
+16,04/01/48,Lucchese Libertas,2-1,Sampdoria
+16,04/01/48,AC Milan,8-1,AS Bari
+16,04/01/48,Pro Patria,3-2,Alessandria
+16,04/01/48,Salernitana,2-4,Livorno 1915
+16,04/01/48,Triestina,1-0,Napoli
+17,11/01/48,Alessandria,1-1,Triestina
+17,11/01/48,AS Bari,0-2,Sampdoria
+17,11/01/48,Genoa,1-1,Atalanta
+17,11/01/48,Juventus,3-0,Fiorentina
+17,11/01/48,Livorno 1915,1-3,Torino
+17,11/01/48,AC Milan,2-0,Salernitana
+17,11/01/48,Modena,3-0,Lucchese Libertas
+17,11/01/48,Napoli,1-1,Bologna
+17,11/01/48,Roma,2-3,Internazionale
+17,11/01/48,Associazione del Calcio in Vic,2-1,Lazio
+18,18/01/48,AS Bari,1-1,Bologna
+18,18/01/48,Fiorentina,2-0,Atalanta
+18,18/01/48,Lazio,1-0,Alessandria
+18,18/01/48,Lucchese Libertas,1-1,Associazione del Calcio in Vic
+18,18/01/48,Modena,1-0,Pro Patria
+18,18/01/48,Napoli,0-2,AC Milan
+18,18/01/48,Salernitana,0-0,Juventus
+18,18/01/48,Sampdoria,1-1,Livorno 1915
+18,18/01/48,Torino,2-1,Genoa
+18,18/01/48,Triestina,2-0,Roma
+19,25/01/48,Atalanta,3-1,Livorno 1915
+19,25/01/48,Bologna,4-0,Salernitana
+19,25/01/48,Fiorentina,4-1,Lazio
+19,25/01/48,Juventus,6-0,AS Bari
+19,25/01/48,AC Milan,3-2,Torino
+19,25/01/48,Napoli,3-0,Internazionale
+19,25/01/48,Pro Patria,2-0,Associazione del Calcio in Vic
+19,25/01/48,Roma,4-2,Lucchese Libertas
+19,25/01/48,Sampdoria,0-0,Modena
+19,25/01/48,Triestina,1-0,Genoa
+20,01/02/48,Alessandria,1-1,Sampdoria
+20,01/02/48,Atalanta,2-2,Pro Patria
+20,01/02/48,Genoa,1-2,Fiorentina
+20,01/02/48,Internazionale,1-1,Triestina
+20,01/02/48,Juventus,0-1,Bologna
+20,01/02/48,Livorno 1915,1-1,AS Bari
+20,01/02/48,Lucchese Libertas,2-1,Napoli
+20,01/02/48,Modena,0-3,Torino
+20,01/02/48,Salernitana,0-1,Roma
+20,01/02/48,Associazione del Calcio in Vic,0-0,AC Milan
+21,08/02/48,Alessandria,2-2,AC Milan
+21,08/02/48,AS Bari,2-1,Napoli
+21,08/02/48,Bologna,4-2,Genoa
+21,08/02/48,Fiorentina,1-2,Associazione del Calcio in Vic
+21,08/02/48,Internazionale,2-1,Salernitana
+21,08/02/48,Livorno 1915,2-0,Lucchese Libertas
+21,08/02/48,Pro Patria,2-3,Juventus
+21,08/02/48,Roma,0-0,Modena
+21,08/02/48,Sampdoria,2-1,Lazio
+21,08/02/48,Triestina,1-1,Atalanta
+22,22/02/48,AS Bari,3-0,Atalanta
+22,22/02/48,Genoa,1-1,Lucchese Libertas
+22,22/02/48,Juventus,6-1,Alessandria
+22,22/02/48,AC Milan,5-2,Lazio
+22,22/02/48,Modena,2-0,Internazionale
+22,22/02/48,Napoli,0-0,Torino
+22,22/02/48,Pro Patria,1-0,Bologna
+22,22/02/48,Roma,0-1,Fiorentina
+22,22/02/48,Triestina,2-0,Sampdoria
+22,22/02/48,Associazione del Calcio in Vic,1-0,Livorno 1915
+23,29/02/48,Bologna,2-2,Lucchese Libertas
+23,29/02/48,Fiorentina,4-2,Modena
+23,29/02/48,Internazionale,0-3,Atalanta
+23,29/02/48,Lazio,3-1,Salernitana
+23,29/02/48,Livorno 1915,2-1,Roma
+23,29/02/48,Napoli,3-0,Genoa
+23,29/02/48,Pro Patria,2-3,AC Milan
+23,29/02/48,Sampdoria,5-2,Juventus
+23,29/02/48,Torino,5-1,AS Bari
+23,29/02/48,Associazione del Calcio in Vic,0-3,Alessandria
+24,07/03/48,Alessandria,1-0,Internazionale
+24,07/03/48,Atalanta,1-0,Bologna
+24,07/03/48,Juventus,2-1,Genoa
+24,07/03/48,Lucchese Libertas,2-2,Torino
+24,07/03/48,AC Milan,2-1,Fiorentina
+24,07/03/48,Modena,2-0,Lazio
+24,07/03/48,Roma,0-0,AS Bari
+24,07/03/48,Salernitana,1-0,Associazione del Calcio in Vic
+24,07/03/48,Sampdoria,5-3,Pro Patria
+24,07/03/48,Triestina,1-1,Livorno 1915
+25,14/03/48,Atalanta,0-0,Juventus
+25,14/03/48,AS Bari,1-0,Associazione del Calcio in Vic
+25,14/03/48,Bologna,3-2,Alessandria
+25,14/03/48,Fiorentina,1-0,Pro Patria
+25,14/03/48,Genoa,3-1,AC Milan
+25,14/03/48,Internazionale,2-4,Sampdoria
+25,14/03/48,Lazio,0-0,Napoli
+25,14/03/48,Livorno 1915,1-1,Modena
+25,14/03/48,Salernitana,2-2,Triestina
+25,14/03/48,Torino,4-1,Roma
+26,21/03/48,Alessandria,0-0,Genoa
+26,21/03/48,AS Bari,0-0,Triestina
+26,21/03/48,Juventus,2-0,Internazionale
+26,21/03/48,Lucchese Libertas,1-0,Salernitana
+26,21/03/48,AC Milan,2-0,Livorno 1915
+26,21/03/48,Modena,2-0,Atalanta
+26,21/03/48,Napoli,3-0,Fiorentina
+26,21/03/48,Pro Patria,1-1,Lazio
+26,21/03/48,Roma,0-2,Bologna
+26,21/03/48,Associazione del Calcio in Vic,0-4,Torino
+27,28/03/48,Atalanta,2-0,Sampdoria
+27,28/03/48,Bologna,1-0,AC Milan
+27,28/03/48,Fiorentina,2-0,Lucchese Libertas
+27,28/03/48,Genoa,2-0,Modena
+27,28/03/48,Internazionale,1-1,Lazio
+27,28/03/48,Livorno 1915,1-0,Alessandria
+27,28/03/48,Salernitana,1-0,AS Bari
+27,28/03/48,Torino,4-1,Pro Patria
+27,28/03/48,Triestina,1-0,Juventus
+27,28/03/48,Associazione del Calcio in Vic,2-1,Napoli
+28,08/04/48,Atalanta,1-1,Roma
+28,08/04/48,Juventus,1-1,Torino
+28,08/04/48,Lazio,3-0,Genoa
+28,08/04/48,Lucchese Libertas,1-1,Internazionale
+28,08/04/48,AC Milan,1-1,Triestina
+28,08/04/48,Modena,2-0,Associazione del Calcio in Vic
+28,08/04/48,Pro Patria,2-0,Livorno 1915
+28,08/04/48,Salernitana,2-0,Fiorentina
+28,08/04/48,Sampdoria,2-0,Bologna
+28,08/04/48,Alessandria,2-2,Napoli
+29,15/04/48,Alessandria,0-1,Atalanta
+29,15/04/48,Internazionale,0-2,AC Milan
+29,15/04/48,Lazio,0-0,Juventus
+29,15/04/48,Livorno 1915,2-2,Fiorentina
+29,15/04/48,Modena,2-0,AS Bari
+29,15/04/48,Napoli,0-0,Salernitana
+29,15/04/48,Pro Patria,2-2,Roma
+29,15/04/48,Torino,5-1,Bologna
+29,15/04/48,Triestina,4-1,Lucchese Libertas
+29,15/04/48,Associazione del Calcio in Vic,3-2,Sampdoria
+30,21/04/48,Atalanta,1-0,AC Milan
+30,21/04/48,Bologna,2-1,Associazione del Calcio in Vic
+30,21/04/48,Fiorentina,2-0,AS Bari
+30,21/04/48,Internazionale,1-0,Livorno 1915
+30,21/04/48,Juventus,1-3,Napoli
+30,21/04/48,Lucchese Libertas,2-1,Alessandria
+30,21/04/48,Roma,0-2,Lazio
+30,21/04/48,Salernitana,1-4,Torino
+30,21/04/48,Sampdoria,1-1,Genoa
+30,21/04/48,Triestina,4-1,Pro Patria
+31,02/05/48,Alessandria,0-0,Modena
+31,02/05/48,AS Bari,1-0,Lucchese Libertas
+31,02/05/48,Bologna,1-0,Fiorentina
+31,02/05/48,Genoa,2-1,Internazionale
+31,02/05/48,Lazio,3-1,Triestina
+31,02/05/48,Livorno 1915,0-0,Juventus
+31,02/05/48,AC Milan,2-2,Roma
+31,02/05/48,Pro Patria,3-1,Napoli
+31,02/05/48,Salernitana,0-0,Atalanta
+31,02/05/48,Torino,3-2,Sampdoria
+32,09/05/48,Atalanta,5-0,Lazio
+32,09/05/48,AS Bari,2-1,Internazionale
+32,09/05/48,Fiorentina,2-1,Triestina
+32,09/05/48,Genoa,4-1,Pro Patria
+32,09/05/48,Livorno 1915,2-0,Bologna
+32,09/05/48,AC Milan,1-2,Lucchese Libertas
+32,09/05/48,Modena,1-0,Salernitana
+32,09/05/48,Napoli,3-1,Sampdoria
+32,09/05/48,Roma,2-0,Associazione del Calcio in Vic
+32,09/05/48,Torino,10-0,Alessandria
+37,13/05/48,Alessandria,2-5,Pro Patria
+37,13/05/48,AS Bari,1-0,AC Milan
+37,13/05/48,Internazionale,4-1,Fiorentina
+37,13/05/48,Livorno 1915,3-0,Salernitana
+37,13/05/48,Modena,0-1,Juventus
+37,13/05/48,Napoli,1-0,Triestina
+37,13/05/48,Roma,3-0,Genoa
+37,13/05/48,Sampdoria,4-1,Lucchese Libertas
+37,13/05/48,Torino,4-3,Lazio
+37,13/05/48,Associazione del Calcio in Vic,1-0,Atalanta
+33,23/05/48,Alessandria,1-0,AS Bari
+33,23/05/48,Internazionale,0-1,Torino
+33,23/05/48,Juventus,2-1,AC Milan
+33,23/05/48,Lazio,4-1,Livorno 1915
+33,23/05/48,Lucchese Libertas,1-1,Atalanta
+33,23/05/48,Modena,1-0,Napoli
+33,23/05/48,Salernitana,5-0,Pro Patria
+33,23/05/48,Sampdoria,2-1,Roma
+33,23/05/48,Triestina,1-0,Bologna
+33,23/05/48,Associazione del Calcio in Vic,0-3,Genoa
+34,27/05/48,Alessandria,1-0,Fiorentina
+34,27/05/48,AS Bari,2-1,Lazio
+34,27/05/48,Bologna,3-3,Modena
+34,27/05/48,Livorno 1915,1-1,Genoa
+34,27/05/48,Lucchese Libertas,2-2,Juventus
+34,27/05/48,Pro Patria,2-0,Internazionale
+34,27/05/48,Roma,1-0,Napoli
+34,27/05/48,Sampdoria,6-3,Salernitana
+34,27/05/48,Torino,4-0,Atalanta
+34,27/05/48,Associazione del Calcio in Vic,1-1,Triestina
+35,30/05/48,Fiorentina,4-3,Sampdoria
+35,30/05/48,Genoa,2-2,AS Bari
+35,30/05/48,Internazionale,2-0,Associazione del Calcio in Vic
+35,30/05/48,Juventus,3-0,Roma
+35,30/05/48,Lazio,2-1,Bologna
+35,30/05/48,Modena,1-0,AC Milan
+35,30/05/48,Napoli,3-0,Livorno 1915
+35,30/05/48,Pro Patria,5-1,Lucchese Libertas
+35,30/05/48,Salernitana,1-0,Alessandria
+35,30/05/48,Triestina,0-0,Torino
+36,06/06/48,Bologna,1-0,Internazionale
+36,06/06/48,Fiorentina,1-2,Torino
+36,06/06/48,Genoa,3-1,Salernitana
+36,06/06/48,Juventus,6-0,Associazione del Calcio in Vic
+36,06/06/48,Lucchese Libertas,2-1,Lazio
+36,06/06/48,AC Milan,1-0,Sampdoria
+36,06/06/48,Napoli,1-1,Atalanta
+36,06/06/48,Pro Patria,2-0,AS Bari
+36,06/06/48,Roma,4-1,Alessandria
+36,06/06/48,Triestina,1-0,Modena
+38,20/06/48,Atalanta,2-1,Genoa
+38,20/06/48,Bologna,0-1,Napoli
+38,20/06/48,Fiorentina,2-4,Juventus
+38,20/06/48,Internazionale,3-2,Roma
+38,20/06/48,Lazio,2-1,Associazione del Calcio in Vic
+38,20/06/48,Lucchese Libertas,2-0,Modena
+38,20/06/48,Salernitana,4-3,AC Milan
+38,20/06/48,Sampdoria,0-1,AS Bari
+38,20/06/48,Torino,5-2,Livorno 1915
+38,20/06/48,Triestina,2-1,Alessandria
+39,27/06/48,Alessandria,2-2,Lazio
+39,27/06/48,Atalanta,1-0,Fiorentina
+39,27/06/48,Bologna,0-0,AS Bari
+39,27/06/48,Genoa,1-2,Torino
+39,27/06/48,Juventus,2-0,Salernitana
+39,27/06/48,Livorno 1915,1-1,Sampdoria
+39,27/06/48,AC Milan,3-0,Napoli
+39,27/06/48,Pro Patria,0-1,Modena
+39,27/06/48,Roma,1-3,Triestina
+39,27/06/48,Associazione del Calcio in Vic,1-3,Lucchese Libertas
+41,27/06/48,Torino,5-2,Modena
+40,04/08/48,AS Bari,2-1,Juventus
+40,04/08/48,Genoa,2-1,Triestina
+40,04/08/48,Internazionale,1-0,Napoli
+40,04/08/48,Lazio,5-0,Fiorentina
+40,04/08/48,Livorno 1915,2-0,Atalanta
+40,04/08/48,Lucchese Libertas,2-2,Roma
+40,04/08/48,Modena,1-1,Sampdoria
+40,04/08/48,Salernitana,2-0,Bologna
+40,04/08/48,Torino,2-1,AC Milan
+40,04/08/48,Associazione del Calcio in Vic,1-0,Pro Patria
+41,08/08/48,Sampdoria,4-0,Alessandria
+42,12/08/48,Atalanta,3-1,Triestina
+42,12/08/48,Genoa,7-2,Bologna
+42,12/08/48,Juventus,0-4,Pro Patria
+42,12/08/48,Lazio,3-3,Sampdoria
+42,12/08/48,Lucchese Libertas,2-2,Livorno 1915
+42,12/08/48,AC Milan,1-3,Alessandria
+42,12/08/48,Modena,3-0,Roma
+42,12/08/48,Napoli,1-0,AS Bari
+42,12/08/48,Salernitana,1-0,Internazionale
+42,12/08/48,Associazione del Calcio in Vic,1-2,Fiorentina
+41,08/08/49,AS Bari,3-0,Livorno 1915
+41,08/08/49,Bologna,1-1,Juventus
+41,08/08/49,Fiorentina,4-0,Genoa
+41,08/08/49,AC Milan,3-2,Associazione del Calcio in Vic
+41,08/08/49,Napoli,5-0,Lucchese Libertas
+41,08/08/49,Pro Patria,2-0,Atalanta
+41,08/08/49,Roma,1-0,Salernitana
+41,08/08/49,Triestina,4-3,Internazionale

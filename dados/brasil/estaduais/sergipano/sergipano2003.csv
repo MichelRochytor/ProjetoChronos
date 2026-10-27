@@ -1,0 +1,214 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,25/01/03,Itabaiana,4-1,Propriá
+1F,26/01/03,Estanciano,1-2,Coritiba-SE
+1F,26/01/03,Confiança,1-2,Dorense
+1F,26/01/03,Guarany-SE,3-1,Amadense
+1F,26/01/03,Lagartense,2-1,Olímpico
+1F,26/01/03,Riachuelo-SE,1-1,Maruinense
+1F,26/01/03,São Cristóvão-SE,1-3,Sergipe
+1F,01/02/03,Dorense,2-0,São Cristóvão-SE
+1F,02/02/03,Coritiba-SE,0-0,Riachuelo-SE
+1F,02/02/03,Propriá,0-1,Lagartense
+1F,02/02/03,Amadense,1-0,Itabaiana
+1F,02/02/03,Olímpico,4-1,Maruinense
+1F,02/02/03,Guarany-SE,2-2,Confiança
+1F,02/02/03,Sergipe,3-1,Estanciano
+1F,05/02/03,Estanciano,0-1,Dorense
+1F,05/02/03,Confiança,3-1,São Cristóvão-SE
+1F,05/02/03,Maruinense,1-1,Propriá
+1F,05/02/03,Riachuelo-SE,2-0,Sergipe
+1F,05/02/03,Olímpico,1-0,Coritiba-SE
+1F,06/02/03,Lagartense,2-3,Amadense
+1F,09/02/03,São Cristóvão-SE,0-2,Estanciano
+1F,09/02/03,Amadense,2-2,Maruinense
+1F,09/02/03,Propriá,1-0,Coritiba-SE
+1F,09/02/03,Sergipe,2-0,Olímpico
+1F,09/02/03,Itabaiana,0-2,Confiança
+1F,09/02/03,Guarany-SE,2-2,Lagartense
+1F,09/02/03,Dorense,1-1,Riachuelo-SE
+1F,12/02/03,Confiança,2-2,Estanciano
+1F,16/02/03,Maruinense,1-1,Guarany-SE
+1F,16/02/03,Coritiba-SE,1-1,Amadense
+1F,16/02/03,Propriá,2-2,Sergipe
+1F,16/02/03,Lagartense,2-0,Itabaiana
+1F,16/02/03,Riachuelo-SE,3-1,São Cristóvão-SE
+1F,16/02/03,Olímpico,3-1,Dorense
+1F,20/02/03,Itabaiana,3-2,Guarany-SE
+1F,22/02/03,São Cristóvão-SE,1-5,Olímpico
+1F,23/02/03,Itabaiana,3-0,Maruinense
+1F,23/02/03,Lagartense,1-2,Confiança
+1F,23/02/03,Dorense,4-1,Propriá
+1F,23/02/03,Estanciano,1-1,Riachuelo-SE
+1F,23/02/03,Guarany-SE,0-0,Coritiba-SE
+1F,23/02/03,Sergipe,5-1,Amadense
+1F,26/02/03,Itabaiana,0-0,Coritiba-SE
+1F,26/02/03,Amadense,0-2,Dorense
+1F,26/02/03,Propriá,1-2,São Cristóvão-SE
+1F,26/02/03,Maruinense,2-0,Lagartense
+1F,26/02/03,Olímpico,2-0,Estanciano
+1F,26/02/03,Confiança,2-0,Riachuelo-SE
+1F,26/02/03,Guarany-SE,0-0,Sergipe
+1F,09/03/03,Dorense,2-1,Guarany-SE
+1F,09/03/03,Estanciano,1-3,Propriá
+1F,09/03/03,São Cristóvão-SE,0-0,Amadense
+1F,09/03/03,Maruinense,3-0,Confiança
+1F,09/03/03,Riachuelo-SE,1-0,Olímpico
+1F,09/03/03,Sergipe,3-1,Itabaiana
+1F,09/03/03,Coritiba-SE,1-2,Lagartense
+1F,12/03/03,Dorense,2-2,Maruinense
+1F,12/03/03,Coritiba-SE,0-1,Sergipe
+1F,12/03/03,Amadense,2-2,Olímpico
+1F,12/03/03,Guarany-SE,2-0,Riachuelo-SE
+1F,12/03/03,Lagartense,1-0,São Cristóvão-SE
+1F,16/03/03,Itabaiana,4-0,Dorense
+1F,16/03/03,Maruinense,3-1,Coritiba-SE
+1F,16/03/03,Propriá,3-3,Riachuelo-SE
+1F,16/03/03,Olímpico,0-2,Confiança
+1F,16/03/03,São Cristóvão-SE,1-4,Guarany-SE
+1F,16/03/03,Amadense,1-1,Estanciano
+1F,16/03/03,Sergipe,2-3,Lagartense
+1F,18/03/03,Estanciano,0-0,Itabaiana
+1F,20/03/03,Confiança,4-2,Propriá
+1F,23/03/03,Olímpico,6-4,Propriá
+1F,23/03/03,Dorense,1-2,Lagartense
+1F,23/03/03,Guarany-SE,3-0,Estanciano
+1F,23/03/03,Riachuelo-SE,3-1,Amadense
+1F,23/03/03,São Cristóvão-SE,2-1,Itabaiana
+1F,23/03/03,Maruinense,0-0,Sergipe
+1F,24/03/03,Confiança,2-0,Coritiba-SE
+1F,29/03/03,Itabaiana,0-0,Olímpico
+1F,30/03/03,Estanciano,0-5,Maruinense
+1F,30/03/03,Propriá,1-0,Guarany-SE
+1F,30/03/03,Coritiba-SE,4-0,São Cristóvão-SE
+1F,30/03/03,Lagartense,0-2,Riachuelo-SE
+1F,30/03/03,Amadense,1-2,Confiança
+1F,30/03/03,Sergipe,2-1,Dorense
+1F,05/04/03,Coritiba-SE,0-1,Dorense
+1F,05/04/03,São Cristóvão-SE,0-1,Maruinense
+1F,05/04/03,Lagartense,2-1,Estanciano
+1F,06/04/03,Confiança,2-0,Sergipe
+1F,06/04/03,Amadense,1-1,Propriá
+1F,06/04/03,Guarany-SE,0-1,Olímpico
+1F,06/04/03,Riachuelo-SE,1-0,Itabaiana
+1F,12/04/03,Amadense,2-1,Guarany-SE
+1F,13/04/03,Dorense,1-1,Confiança
+1F,13/04/03,Coritiba-SE,3-1,Estanciano
+1F,13/04/03,Olímpico,1-0,Lagartense
+1F,13/04/03,Maruinense,0-0,Riachuelo-SE
+1F,13/04/03,Sergipe,6-1,São Cristóvão-SE
+1F,17/04/03,Propriá,1-2,Itabaiana
+1F,17/04/03,Confiança,3-2,Guarany-SE
+1F,19/04/03,São Cristóvão-SE,0-0,Dorense
+1F,19/04/03,Riachuelo-SE,1-1,Coritiba-SE
+1F,20/04/03,Itabaiana,0-0,Amadense
+1F,20/04/03,Lagartense,6-2,Propriá
+1F,20/04/03,Maruinense,1-0,Olímpico
+1F,20/04/03,Estanciano,0-6,Sergipe
+1F,26/04/03,Sergipe,3-1,Riachuelo-SE
+1F,27/04/03,Guarany-SE,1-2,Itabaiana
+1F,27/04/03,Dorense,2-0,Estanciano
+1F,27/04/03,São Cristóvão-SE,0-0,Confiança
+1F,27/04/03,Propriá,0-3,Maruinense
+1F,27/04/03,Amadense,1-0,Lagartense
+1F,27/04/03,Coritiba-SE,1-4,Olímpico
+1F,01/05/03,Estanciano,1-3,São Cristóvão-SE
+1F,01/05/03,Maruinense,1-1,Amadense
+1F,01/05/03,Coritiba-SE,1-2,Propriá
+1F,01/05/03,Olímpico,0-2,Sergipe
+1F,01/05/03,Confiança,3-0,Itabaiana
+1F,01/05/03,Lagartense,2-2,Guarany-SE
+1F,01/05/03,Riachuelo-SE,1-2,Dorense
+1F,03/05/03,Amadense,2-2,Coritiba-SE
+1F,04/05/03,Estanciano,0-6,Confiança
+1F,04/05/03,Guarany-SE,2-4,Maruinense
+1F,04/05/03,Sergipe,5-2,Propriá
+1F,04/05/03,São Cristóvão-SE,0-0,Riachuelo-SE
+1F,04/05/03,Dorense,0-1,Olímpico
+1F,07/05/03,Confiança,2-1,Lagartense
+1F,07/05/03,Propriá,0-3,Dorense
+1F,07/05/03,Riachuelo-SE,5-0,Estanciano
+1F,07/05/03,Olímpico,3-0,São Cristóvão-SE
+1F,07/05/03,Coritiba-SE,1-2,Guarany-SE
+1F,07/05/03,Maruinense,1-1,Itabaiana
+1F,07/05/03,Amadense,2-5,Sergipe
+1F,10/05/03,Dorense,2-0,Amadense
+1F,11/05/03,Coritiba-SE,3-1,Itabaiana
+1F,11/05/03,São Cristóvão-SE,3-2,Propriá
+1F,11/05/03,Lagartense,1-0,Maruinense
+1F,11/05/03,Estanciano,0-3,Olímpico
+1F,11/05/03,Riachuelo-SE,1-1,Confiança
+1F,11/05/03,Sergipe,3-0,Guarany-SE
+1F,15/05/03,Itabaiana,3-2,Lagartense
+1F,17/05/03,Confiança,3-0,Maruinense
+1F,18/05/03,Guarany-SE,2-0,Dorense
+1F,18/05/03,Propriá,3-0,Estanciano
+1F,18/05/03,Lagartense,2-2,Coritiba-SE
+1F,18/05/03,Amadense,2-3,São Cristóvão-SE
+1F,18/05/03,Olímpico,1-0,Riachuelo-SE
+1F,18/05/03,Itabaiana,1-3,Sergipe
+1F,21/05/03,Maruinense,1-1,Dorense
+1F,21/05/03,Sergipe,2-0,Coritiba-SE
+1F,21/05/03,Olímpico,3-0,Amadense
+1F,21/05/03,Propriá,0-3,Confiança
+1F,21/05/03,Riachuelo-SE,3-2,Guarany-SE
+1F,21/05/03,São Cristóvão-SE,0-1,Lagartense
+1F,22/05/03,Itabaiana,7-0,Estanciano
+1F,24/05/03,Confiança,0-0,Olímpico
+1F,24/05/03,Guarany-SE,0-0,São Cristóvão-SE
+1F,25/05/03,Coritiba-SE,1-2,Maruinense
+1F,25/05/03,Riachuelo-SE,7-0,Propriá
+1F,25/05/03,Dorense,5-2,Itabaiana
+1F,25/05/03,Estanciano,2-9,Amadense
+1F,25/05/03,Lagartense,1-3,Sergipe
+1F,31/05/03,Itabaiana,1-1,São Cristóvão-SE
+1F,31/05/03,Lagartense,2-1,Dorense
+1F,31/05/03,Amadense,1-4,Riachuelo-SE
+1F,01/06/03,Coritiba-SE,0-2,Confiança
+1F,01/06/03,Propriá,2-2,Olímpico
+1F,01/06/03,Estanciano,1-4,Guarany-SE
+1F,01/06/03,Sergipe,3-2,Maruinense
+1F,07/06/03,São Cristóvão-SE,1-0,Coritiba-SE
+1F,07/06/03,Guarany-SE,2-0,Propriá
+1F,07/06/03,Olímpico,1-0,Itabaiana
+1F,07/06/03,Confiança,1-0,Amadense
+1F,08/06/03,Maruinense,3-0,Estanciano
+1F,08/06/03,Riachuelo-SE,3-0,Lagartense
+1F,08/06/03,Dorense,1-5,Sergipe
+1F,12/06/03,Estanciano,0-3,Lagartense
+1F,14/06/03,Olímpico,1-0,Guarany-SE
+1F,15/06/03,Sergipe,2-1,Confiança
+1F,15/06/03,Propriá,1-2,Amadense
+1F,15/06/03,Dorense,3-0,Coritiba-SE
+1F,15/06/03,Itabaiana,1-1,Riachuelo-SE
+1F,15/06/03,Maruinense,3-1,São Cristóvão-SE
+F,22/06/03,Confiança,0-2,Sergipe
+2F,29/06/03,Sergipe,1-1,Riachuelo-SE
+2F,29/06/03,Dorense,1-2,Confiança
+2F,29/06/03,Olímpico,0-0,Lagartense
+2F,03/07/03,Lagartense,0-5,Sergipe
+2F,03/07/03,Confiança,1-2,Olímpico
+2F,03/07/03,Riachuelo-SE,0-1,Dorense
+2F,06/07/03,Sergipe,4-0,Olímpico
+2F,06/07/03,Dorense,0-1,Lagartense
+2F,06/07/03,Riachuelo-SE,0-0,Confiança
+2F,10/07/03,Dorense,2-2,Sergipe
+2F,10/07/03,Olímpico,2-1,Riachuelo-SE
+2F,10/07/03,Confiança,4-0,Lagartense
+2F,13/07/03,Sergipe,2-1,Confiança
+2F,13/07/03,Lagartense,0-3,Riachuelo-SE
+2F,13/07/03,Olímpico,0-0,Dorense
+2F,20/07/03,Riachuelo-SE,1-1,Sergipe
+2F,20/07/03,Confiança,2-1,Dorense
+2F,20/07/03,Lagartense,0-1,Olímpico
+2F,24/07/03,Sergipe,2-1,Lagartense
+2F,24/07/03,Olímpico,2-3,Confiança
+2F,24/07/03,Dorense,1-2,Riachuelo-SE
+2F,27/07/03,Olímpico,1-2,Sergipe
+2F,27/07/03,Lagartense,3-2,Dorense
+2F,27/07/03,Confiança,3-2,Riachuelo-SE
+2F,03/08/03,Sergipe,2-1,Dorense
+2F,03/08/03,Riachuelo-SE,1-1,Olímpico
+2F,03/08/03,Lagartense,0-1,Confiança
+2F,10/08/03,Confiança,0-2,Sergipe
+2F,10/08/03,Riachuelo-SE,3-0,Lagartense
+2F,10/08/03,Dorense,1-2,Olímpico

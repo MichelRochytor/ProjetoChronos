@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,22/09/35,Brescia,1-0,Ambrosiana-Inter
+1,22/09/35,Triestina,5-1,Fiorentina
+1,22/09/35,AC Sampierdarenese,2-2,Napoli
+1,22/09/35,Roma,1-0,Torino
+1,22/09/35,Juventus,3-1,Palermo
+1,22/09/35,Bologna,4-1,Genoa
+1,22/09/35,US Bari,1-1,Lazio
+1,22/09/35,AC Milan,2-0,Alessandria
+2,29/09/35,Fiorentina,0-1,Bologna
+2,29/09/35,Palermo,2-1,US Bari
+2,29/09/35,Napoli,1-0,Brescia
+2,29/09/35,Torino,2-2,Juventus
+2,29/09/35,Genoa,2-1,Roma
+2,29/09/35,Ambrosiana-Inter,1-1,AC Milan
+2,29/09/35,Alessandria,1-1,AC Sampierdarenese
+2,29/09/35,Lazio,3-2,Triestina
+3,06/10/35,Bologna,3-0,Ambrosiana-Inter
+3,06/10/35,Brescia,2-2,Torino
+3,06/10/35,Juventus,2-1,Lazio
+3,06/10/35,AC Milan,1-0,Fiorentina
+3,06/10/35,Palermo,1-0,Alessandria
+3,06/10/35,Roma,1-0,Napoli
+3,06/10/35,AC Sampierdarenese,1-2,Genoa
+3,06/10/35,Triestina,4-1,US Bari
+4,13/10/35,Lazio,0-1,Roma
+4,13/10/35,Genoa,1-1,Juventus
+4,13/10/35,Torino,5-3,Triestina
+4,13/10/35,Alessandria,5-0,Brescia
+4,13/10/35,US Bari,0-2,AC Milan
+4,13/10/35,Fiorentina,1-1,AC Sampierdarenese
+4,13/10/35,Ambrosiana-Inter,4-0,Palermo
+4,13/10/35,Napoli,0-1,Bologna
+5,20/10/35,AC Milan,0-1,Torino
+5,20/10/35,Triestina,0-0,Alessandria
+5,20/10/35,AC Sampierdarenese,2-1,US Bari
+5,20/10/35,Roma,0-0,Ambrosiana-Inter
+5,20/10/35,Napoli,4-0,Fiorentina
+5,20/10/35,Juventus,0-0,Bologna
+5,20/10/35,Brescia,0-0,Genoa
+5,20/10/35,Palermo,2-1,Lazio
+6,03/11/35,US Bari,0-1,Roma
+6,03/11/35,Torino,5-0,Palermo
+6,03/11/35,Lazio,5-0,AC Sampierdarenese
+6,03/11/35,Genoa,3-3,AC Milan
+6,03/11/35,Ambrosiana-Inter,5-0,Triestina
+6,03/11/35,Alessandria,2-3,Napoli
+6,03/11/35,Fiorentina,1-1,Juventus
+6,03/11/35,Bologna,1-0,Brescia
+7,10/11/35,AC Milan,1-2,Bologna
+7,10/11/35,AC Sampierdarenese,2-2,Triestina
+7,10/11/35,Roma,0-1,Fiorentina
+7,10/11/35,Napoli,0-1,Torino
+7,10/11/35,Juventus,0-0,US Bari
+7,10/11/35,Brescia,3-1,Lazio
+7,10/11/35,Alessandria,2-2,Ambrosiana-Inter
+7,10/11/35,Palermo,0-1,Genoa
+8,17/11/35,Bologna,2-0,Roma
+8,17/11/35,Torino,3-0,AC Sampierdarenese
+8,17/11/35,Lazio,2-2,AC Milan
+8,17/11/35,Triestina,5-0,Palermo
+8,17/11/35,US Bari,0-0,Napoli
+8,17/11/35,Ambrosiana-Inter,4-0,Juventus
+8,17/11/35,Fiorentina,1-0,Brescia
+8,17/11/35,Genoa,0-0,Alessandria
+9,01/12/35,Lazio,1-1,Genoa
+9,01/12/35,AC Sampierdarenese,0-0,Bologna
+9,01/12/35,Palermo,1-3,Fiorentina
+9,01/12/35,AC Milan,0-0,Roma
+9,01/12/35,Juventus,3-0,Triestina
+9,01/12/35,Brescia,1-2,US Bari
+9,01/12/35,Alessandria,0-2,Torino
+9,01/12/35,Napoli,3-2,Ambrosiana-Inter
+10,08/12/35,Fiorentina,2-2,US Bari
+10,08/12/35,Torino,0-2,Lazio
+10,08/12/35,Roma,1-1,Juventus
+10,08/12/35,Triestina,1-0,AC Milan
+10,08/12/35,Genoa,2-2,Napoli
+10,08/12/35,Bologna,1-1,Alessandria
+10,08/12/35,Ambrosiana-Inter,3-0,AC Sampierdarenese
+10,08/12/35,Palermo,3-2,Brescia
+11,15/12/35,Alessandria,2-1,Fiorentina
+11,15/12/35,US Bari,3-2,Genoa
+11,15/12/35,Brescia,0-0,Triestina
+11,15/12/35,Lazio,0-0,Ambrosiana-Inter
+11,15/12/35,AC Milan,3-1,Palermo
+11,15/12/35,Napoli,0-1,Juventus
+11,15/12/35,AC Sampierdarenese,0-2,Roma
+11,15/12/35,Torino,0-0,Bologna
+12,22/12/35,Palermo,2-0,AC Sampierdarenese
+12,22/12/35,Juventus,3-1,AC Milan
+12,22/12/35,Triestina,6-1,Napoli
+12,22/12/35,Ambrosiana-Inter,0-2,Fiorentina
+12,22/12/35,Bologna,2-0,Lazio
+12,22/12/35,Genoa,0-2,Torino
+12,22/12/35,US Bari,4-0,Alessandria
+12,22/12/35,Roma,1-0,Brescia
+13,29/12/35,Lazio,3-0,Alessandria
+13,29/12/35,Triestina,0-0,Roma
+13,29/12/35,Torino,3-3,Ambrosiana-Inter
+13,29/12/35,AC Sampierdarenese,0-1,Juventus
+13,29/12/35,AC Milan,2-1,Brescia
+13,29/12/35,Fiorentina,2-1,Genoa
+13,29/12/35,Bologna,0-2,US Bari
+13,29/12/35,Napoli,3-0,Palermo
+14,05/01/36,Brescia,0-1,Juventus
+14,05/01/36,Torino,5-0,Fiorentina
+14,05/01/36,Palermo,2-0,Bologna
+14,05/01/36,AC Milan,1-2,AC Sampierdarenese
+14,05/01/36,US Bari,2-1,Ambrosiana-Inter
+14,05/01/36,Alessandria,1-0,Roma
+14,05/01/36,Lazio,3-1,Napoli
+14,05/01/36,Genoa,2-2,Triestina
+15,12/01/36,Juventus,4-0,Alessandria
+15,12/01/36,Triestina,2-2,Bologna
+15,12/01/36,AC Sampierdarenese,2-0,Brescia
+15,12/01/36,Napoli,1-0,AC Milan
+15,12/01/36,Fiorentina,2-1,Lazio
+15,12/01/36,US Bari,2-0,Torino
+15,12/01/36,Ambrosiana-Inter,3-0,Genoa
+15,12/01/36,Roma,0-1,Palermo
+16,26/01/36,Fiorentina,3-1,Triestina
+16,26/01/36,Torino,1-0,Roma
+16,26/01/36,Palermo,1-0,Juventus
+16,26/01/36,Napoli,4-2,AC Sampierdarenese
+16,26/01/36,Lazio,2-1,US Bari
+16,26/01/36,Ambrosiana-Inter,1-0,Brescia
+16,26/01/36,Alessandria,6-1,AC Milan
+16,26/01/36,Genoa,1-1,Bologna
+17,02/02/36,Juventus,2-1,Torino
+17,02/02/36,Triestina,3-3,Lazio
+17,02/02/36,AC Sampierdarenese,1-1,Alessandria
+17,02/02/36,AC Milan,2-2,Ambrosiana-Inter
+17,02/02/36,Brescia,2-0,Napoli
+17,02/02/36,Bologna,1-0,Fiorentina
+17,02/02/36,US Bari,1-0,Palermo
+17,02/02/36,Roma,0-0,Genoa
+18,09/02/36,Fiorentina,3-1,AC Milan
+18,09/02/36,Napoli,1-2,Roma
+18,09/02/36,Torino,2-0,Brescia
+18,09/02/36,Genoa,3-0,AC Sampierdarenese
+18,09/02/36,Ambrosiana-Inter,3-1,Bologna
+18,09/02/36,Alessandria,1-0,Palermo
+18,09/02/36,Lazio,3-0,Juventus
+18,09/02/36,US Bari,0-0,Triestina
+19,16/02/36,AC Milan,4-0,US Bari
+19,16/02/36,Triestina,2-0,Torino
+19,16/02/36,AC Sampierdarenese,1-0,Fiorentina
+19,16/02/36,Palermo,1-1,Ambrosiana-Inter
+19,16/02/36,Juventus,4-0,Genoa
+19,16/02/36,Brescia,1-1,Alessandria
+19,16/02/36,Bologna,2-1,Napoli
+19,16/02/36,Roma,1-0,Lazio
+20,23/02/36,US Bari,1-1,AC Sampierdarenese
+20,23/02/36,Lazio,3-0,Palermo
+20,23/02/36,Genoa,2-0,Brescia
+20,23/02/36,Torino,2-1,AC Milan
+20,23/02/36,Ambrosiana-Inter,5-1,Roma
+20,23/02/36,Alessandria,0-0,Triestina
+20,23/02/36,Fiorentina,2-0,Napoli
+20,23/02/36,Bologna,2-1,Juventus
+21,01/03/36,Napoli,1-0,Alessandria
+21,01/03/36,Triestina,2-1,Ambrosiana-Inter
+21,01/03/36,AC Sampierdarenese,2-2,Lazio
+21,01/03/36,Palermo,0-1,Torino
+21,01/03/36,AC Milan,1-0,Genoa
+21,01/03/36,Juventus,0-0,Fiorentina
+21,01/03/36,Brescia,2-1,Bologna
+21,01/03/36,Roma,3-0,US Bari
+22,08/03/36,Fiorentina,1-2,Roma
+22,08/03/36,Genoa,2-0,Palermo
+22,08/03/36,Triestina,1-0,AC Sampierdarenese
+22,08/03/36,Torino,1-0,Napoli
+22,08/03/36,Bologna,4-1,AC Milan
+22,08/03/36,US Bari,1-1,Juventus
+22,08/03/36,Ambrosiana-Inter,2-1,Alessandria
+22,08/03/36,Lazio,3-0,Brescia
+23,15/03/36,AC Milan,5-0,Lazio
+23,15/03/36,AC Sampierdarenese,2-0,Torino
+23,15/03/36,Roma,1-0,Bologna
+23,15/03/36,Napoli,2-0,US Bari
+23,15/03/36,Juventus,1-0,Ambrosiana-Inter
+23,15/03/36,Brescia,2-0,Fiorentina
+23,15/03/36,Alessandria,1-0,Genoa
+23,15/03/36,Palermo,1-0,Triestina
+24,22/03/36,Fiorentina,2-1,Palermo
+24,22/03/36,Torino,1-0,Alessandria
+24,22/03/36,Triestina,1-0,Juventus
+24,22/03/36,Genoa,3-2,Lazio
+24,22/03/36,US Bari,1-1,Brescia
+24,22/03/36,Ambrosiana-Inter,4-2,Napoli
+24,22/03/36,Roma,0-0,AC Milan
+24,22/03/36,Bologna,0-0,AC Sampierdarenese
+25,29/03/36,Juventus,1-3,Roma
+25,29/03/36,AC Sampierdarenese,1-0,Ambrosiana-Inter
+25,29/03/36,Napoli,2-1,Genoa
+25,29/03/36,Lazio,1-1,Torino
+25,29/03/36,Brescia,0-1,Palermo
+25,29/03/36,US Bari,0-0,Fiorentina
+25,29/03/36,Alessandria,1-1,Bologna
+25,29/03/36,AC Milan,0-0,Triestina
+26,12/04/36,Genoa,0-0,US Bari
+26,12/04/36,Roma,2-0,AC Sampierdarenese
+26,12/04/36,Triestina,2-0,Brescia
+26,12/04/36,Juventus,2-2,Napoli
+26,12/04/36,Bologna,2-0,Torino
+26,12/04/36,Ambrosiana-Inter,3-1,Lazio
+26,12/04/36,Palermo,0-0,AC Milan
+26,12/04/36,Fiorentina,0-0,Alessandria
+27,19/04/36,Lazio,1-1,Bologna
+27,19/04/36,Torino,4-4,Genoa
+27,19/04/36,AC Sampierdarenese,2-0,Palermo
+27,19/04/36,AC Milan,2-1,Juventus
+27,19/04/36,Fiorentina,2-3,Ambrosiana-Inter
+27,19/04/36,Brescia,1-1,Roma
+27,19/04/36,Alessandria,2-0,US Bari
+27,19/04/36,Napoli,2-2,Triestina
+28,26/04/36,Genoa,2-2,Fiorentina
+28,26/04/36,Palermo,2-2,Napoli
+28,26/04/36,Roma,1-0,Triestina
+28,26/04/36,Juventus,7-2,AC Sampierdarenese
+28,26/04/36,US Bari,0-0,Bologna
+28,26/04/36,Brescia,1-2,AC Milan
+28,26/04/36,Ambrosiana-Inter,4-0,Torino
+28,26/04/36,Alessandria,2-0,Lazio
+29,03/05/36,Juventus,1-0,Brescia
+29,03/05/36,Triestina,0-0,Genoa
+29,03/05/36,AC Sampierdarenese,3-1,AC Milan
+29,03/05/36,Napoli,1-2,Lazio
+29,03/05/36,Fiorentina,0-2,Torino
+29,03/05/36,Bologna,1-0,Palermo
+29,03/05/36,Ambrosiana-Inter,2-0,US Bari
+29,03/05/36,Roma,3-1,Alessandria
+30,10/05/36,Genoa,2-2,Ambrosiana-Inter
+30,10/05/36,Lazio,1-0,Fiorentina
+30,10/05/36,Torino,2-0,US Bari
+30,10/05/36,Palermo,1-3,Roma
+30,10/05/36,Alessandria,3-2,Juventus
+30,10/05/36,Brescia,1-2,AC Sampierdarenese
+30,10/05/36,Bologna,3-0,Triestina
+30,10/05/36,AC Milan,0-1,Napoli

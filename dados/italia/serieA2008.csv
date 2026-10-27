@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,30/08/08,Udinese,3-1,Palermo
+1,30/08/08,Sampdoria,1-1,Internazionale
+1,31/08/08,Atalanta,1-0,AC Siena
+1,31/08/08,Cagliari,1-4,Lazio
+1,31/08/08,Catania,1-0,Genoa
+1,31/08/08,Chievo Verona,2-1,Reggina
+1,31/08/08,AC Milan,1-2,Bologna
+1,31/08/08,Roma,1-1,Napoli
+1,31/08/08,Torino,3-0,Lecce
+1,31/08/08,Fiorentina,1-1,Juventus
+2,13/09/08,Palermo,3-1,Roma
+2,13/09/08,Internazionale,2-1,Catania
+2,14/09/08,Bologna,0-1,Atalanta
+2,14/09/08,Genoa,2-0,AC Milan
+2,14/09/08,Lazio,2-0,Sampdoria
+2,14/09/08,Lecce,2-0,Chievo Verona
+2,14/09/08,Napoli,2-1,Fiorentina
+2,14/09/08,Reggina,1-1,Torino
+2,14/09/08,AC Siena,2-0,Cagliari
+2,14/09/08,Juventus,1-0,Udinese
+3,20/09/08,Catania,1-0,Atalanta
+3,20/09/08,Roma,3-0,Reggina
+3,21/09/08,Cagliari,0-1,Juventus
+3,21/09/08,Fiorentina,1-0,Bologna
+3,21/09/08,Lecce,1-1,AC Siena
+3,21/09/08,Palermo,2-1,Genoa
+3,21/09/08,Sampdoria,1-1,Chievo Verona
+3,21/09/08,Torino,1-3,Internazionale
+3,21/09/08,Udinese,0-0,Napoli
+3,21/09/08,AC Milan,4-1,Lazio
+4,24/09/08,Atalanta,1-0,Cagliari
+4,24/09/08,Bologna,0-3,Udinese
+4,24/09/08,Chievo Verona,1-1,Torino
+4,24/09/08,Genoa,3-1,Roma
+4,24/09/08,Internazionale,1-0,Lecce
+4,24/09/08,Juventus,1-1,Catania
+4,24/09/08,Lazio,3-0,Fiorentina
+4,24/09/08,Napoli,2-1,Palermo
+4,24/09/08,Reggina,1-2,AC Milan
+4,24/09/08,AC Siena,0-0,Sampdoria
+5,27/09/08,Sampdoria,0-0,Juventus
+5,27/09/08,Fiorentina,1-0,Genoa
+5,28/09/08,Bologna,0-1,Napoli
+5,28/09/08,Catania,1-0,Chievo Verona
+5,28/09/08,Lecce,2-0,Cagliari
+5,28/09/08,Palermo,1-0,Reggina
+5,28/09/08,Roma,2-0,Atalanta
+5,28/09/08,Torino,1-3,Lazio
+5,28/09/08,Udinese,2-1,AC Siena
+5,28/09/08,AC Milan,1-0,Internazionale
+6,04/10/08,Lazio,1-1,Lecce
+6,04/10/08,Internazionale,2-1,Bologna
+6,05/10/08,Atalanta,4-2,Sampdoria
+6,05/10/08,Chievo Verona,0-2,Fiorentina
+6,05/10/08,Genoa,3-2,Napoli
+6,05/10/08,Juventus,1-2,Palermo
+6,05/10/08,Reggina,1-1,Catania
+6,05/10/08,AC Siena,1-0,Roma
+6,05/10/08,Udinese,2-0,Torino
+6,05/10/08,Cagliari,0-0,AC Milan
+7,18/10/08,Fiorentina,3-0,Reggina
+7,18/10/08,Napoli,2-1,Juventus
+7,19/10/08,Bologna,3-1,Lazio
+7,19/10/08,Catania,2-0,Palermo
+7,19/10/08,Chievo Verona,1-1,Atalanta
+7,19/10/08,Genoa,1-0,AC Siena
+7,19/10/08,Lecce,2-2,Udinese
+7,19/10/08,AC Milan,3-0,Sampdoria
+7,19/10/08,Torino,0-1,Cagliari
+7,19/10/08,Roma,0-4,Internazionale
+8,25/10/08,AC Siena,1-1,Catania
+8,25/10/08,Juventus,1-0,Torino
+8,26/10/08,Atalanta,0-1,AC Milan
+8,26/10/08,Cagliari,2-0,Chievo Verona
+8,26/10/08,Internazionale,0-0,Genoa
+8,26/10/08,Lazio,0-1,Napoli
+8,26/10/08,Reggina,2-0,Lecce
+8,26/10/08,Sampdoria,2-0,Bologna
+8,26/10/08,Udinese,3-1,Roma
+8,26/10/08,Palermo,1-3,Fiorentina
+9,29/10/08,Bologna,1-2,Juventus
+9,29/10/08,Catania,0-2,Udinese
+9,29/10/08,Chievo Verona,1-2,Lazio
+9,29/10/08,Fiorentina,0-0,Internazionale
+9,29/10/08,Genoa,2-1,Cagliari
+9,29/10/08,Lecce,1-1,Palermo
+9,29/10/08,AC Milan,2-1,AC Siena
+9,29/10/08,Napoli,3-0,Reggina
+9,29/10/08,Torino,2-1,Atalanta
+10,01/11/08,Reggina,2-3,Internazionale
+10,01/11/08,Juventus,2-0,Roma
+10,02/11/08,Atalanta,0-0,Lecce
+10,02/11/08,Cagliari,5-1,Bologna
+10,02/11/08,Lazio,1-0,Catania
+10,02/11/08,Palermo,3-0,Chievo Verona
+10,02/11/08,Sampdoria,1-0,Torino
+10,02/11/08,AC Siena,1-0,Fiorentina
+10,02/11/08,Udinese,2-2,Genoa
+10,02/11/08,AC Milan,1-0,Napoli
+11,08/11/08,Torino,1-0,Palermo
+11,08/11/08,Bologna,1-1,Roma
+11,09/11/08,Catania,2-1,Cagliari
+11,09/11/08,Chievo Verona,0-2,Juventus
+11,09/11/08,Fiorentina,2-1,Atalanta
+11,09/11/08,Genoa,4-0,Reggina
+11,09/11/08,Internazionale,1-0,Udinese
+11,09/11/08,Lazio,3-0,AC Siena
+11,09/11/08,Napoli,2-0,Sampdoria
+11,09/11/08,Lecce,1-1,AC Milan
+12,13/11/08,Juventus,4-1,Genoa
+12,15/11/08,Palermo,0-2,Internazionale
+12,16/11/08,Atalanta,3-1,Napoli
+12,16/11/08,Cagliari,1-0,Fiorentina
+12,16/11/08,Catania,3-2,Torino
+12,16/11/08,AC Milan,1-0,Chievo Verona
+12,16/11/08,Sampdoria,3-2,Lecce
+12,16/11/08,AC Siena,1-1,Bologna
+12,16/11/08,Udinese,0-1,Reggina
+12,16/11/08,Roma,1-0,Lazio
+13,22/11/08,Fiorentina,4-2,Udinese
+13,22/11/08,Internazionale,1-0,Juventus
+13,23/11/08,Bologna,1-1,Palermo
+13,23/11/08,Chievo Verona,0-2,AC Siena
+13,23/11/08,Lazio,1-1,Genoa
+13,23/11/08,Lecce,0-3,Roma
+13,23/11/08,Napoli,2-2,Cagliari
+13,23/11/08,Reggina,3-1,Atalanta
+13,23/11/08,Sampdoria,3-0,Catania
+13,23/11/08,Torino,2-2,AC Milan
+14,29/11/08,Catania,1-1,Lecce
+14,29/11/08,Juventus,4-0,Reggina
+14,30/11/08,Atalanta,2-0,Lazio
+14,30/11/08,Cagliari,1-0,Sampdoria
+14,30/11/08,Genoa,1-1,Bologna
+14,30/11/08,Internazionale,2-1,Napoli
+14,30/11/08,Roma,1-0,Fiorentina
+14,30/11/08,AC Siena,1-0,Torino
+14,30/11/08,Udinese,0-1,Chievo Verona
+14,30/11/08,Palermo,3-1,AC Milan
+15,06/12/08,Chievo Verona,0-1,Roma
+15,06/12/08,Lazio,0-3,Internazionale
+15,07/12/08,Atalanta,3-0,Udinese
+15,07/12/08,Cagliari,1-0,Palermo
+15,07/12/08,Lecce,1-2,Juventus
+15,07/12/08,AC Milan,1-0,Catania
+15,07/12/08,Napoli,2-0,AC Siena
+15,07/12/08,Reggina,2-2,Bologna
+15,07/12/08,Torino,1-4,Fiorentina
+15,07/12/08,Sampdoria,0-1,Genoa
+16,13/12/08,Bologna,5-2,Torino
+16,13/12/08,Napoli,3-0,Lecce
+16,14/12/08,Fiorentina,2-0,Catania
+16,14/12/08,Genoa,1-1,Atalanta
+16,14/12/08,Internazionale,4-2,Chievo Verona
+16,14/12/08,Palermo,2-0,AC Siena
+16,14/12/08,Reggina,0-2,Sampdoria
+16,14/12/08,Roma,3-2,Cagliari
+16,14/12/08,Udinese,3-3,Lazio
+16,14/12/08,Juventus,4-2,AC Milan
+17,20/12/08,Lazio,1-0,Palermo
+17,20/12/08,AC Siena,1-2,Internazionale
+17,21/12/08,Atalanta,1-3,Juventus
+17,21/12/08,Cagliari,1-1,Reggina
+17,21/12/08,Catania,3-2,Roma
+17,21/12/08,Chievo Verona,0-1,Genoa
+17,21/12/08,Lecce,0-0,Bologna
+17,21/12/08,Sampdoria,0-1,Fiorentina
+17,21/12/08,Torino,1-0,Napoli
+17,21/12/08,AC Milan,5-1,Udinese
+18,10/01/09,Genoa,3-0,Torino
+18,10/01/09,Internazionale,1-1,Cagliari
+18,11/01/09,Bologna,1-1,Chievo Verona
+18,11/01/09,Fiorentina,1-2,Lecce
+18,11/01/09,Juventus,1-0,AC Siena
+18,11/01/09,Napoli,1-0,Catania
+18,11/01/09,Palermo,3-2,Atalanta
+18,11/01/09,Reggina,2-3,Lazio
+18,11/01/09,Udinese,1-1,Sampdoria
+18,11/01/09,Roma,2-2,AC Milan
+9,14/01/09,Roma,2-0,Sampdoria
+19,17/01/09,AC Siena,1-0,Reggina
+19,17/01/09,AC Milan,1-0,Fiorentina
+19,18/01/09,Atalanta,3-1,Internazionale
+19,18/01/09,Cagliari,2-0,Udinese
+19,18/01/09,Catania,1-2,Bologna
+19,18/01/09,Chievo Verona,2-1,Napoli
+19,18/01/09,Lecce,0-2,Genoa
+19,18/01/09,Sampdoria,0-2,Palermo
+19,18/01/09,Torino,0-1,Roma
+19,18/01/09,Lazio,1-1,Juventus
+20,24/01/09,Reggina,0-1,Chievo Verona
+20,24/01/09,Juventus,1-0,Fiorentina
+20,25/01/09,AC Siena,1-0,Atalanta
+20,25/01/09,Lazio,1-4,Cagliari
+20,25/01/09,Genoa,1-1,Catania
+20,25/01/09,Bologna,1-4,AC Milan
+20,25/01/09,Napoli,0-3,Roma
+20,25/01/09,Lecce,3-3,Torino
+20,25/01/09,Palermo,3-2,Udinese
+20,25/01/09,Internazionale,1-0,Sampdoria
+21,28/01/09,Atalanta,0-1,Bologna
+21,28/01/09,AC Milan,1-1,Genoa
+21,28/01/09,Catania,0-2,Internazionale
+21,28/01/09,Udinese,2-1,Juventus
+21,28/01/09,Sampdoria,3-1,Lazio
+21,28/01/09,Chievo Verona,1-1,Lecce
+21,28/01/09,Fiorentina,2-1,Napoli
+21,28/01/09,Roma,2-1,Palermo
+21,28/01/09,Torino,0-0,Reggina
+21,28/01/09,Cagliari,1-0,AC Siena
+22,31/01/09,Napoli,2-2,Udinese
+22,31/01/09,Juventus,2-3,Cagliari
+22,01/02/09,Internazionale,1-1,Torino
+22,01/02/09,Atalanta,1-0,Catania
+22,01/02/09,AC Siena,1-2,Lecce
+22,01/02/09,Genoa,1-0,Palermo
+22,01/02/09,Reggina,2-2,Roma
+22,01/02/09,Chievo Verona,1-1,Sampdoria
+22,01/02/09,Lazio,0-3,AC Milan
+22,02/02/09,Bologna,1-3,Fiorentina
+23,07/02/09,Lecce,0-3,Internazionale
+23,07/02/09,AC Milan,1-1,Reggina
+23,08/02/09,Cagliari,0-1,Atalanta
+23,08/02/09,Udinese,1-0,Bologna
+23,08/02/09,Torino,1-1,Chievo Verona
+23,08/02/09,Roma,3-0,Genoa
+23,08/02/09,Catania,1-2,Juventus
+23,08/02/09,Fiorentina,1-0,Lazio
+23,08/02/09,Sampdoria,2-2,AC Siena
+23,08/02/09,Palermo,2-1,Napoli
+24,14/02/09,Lazio,1-1,Torino
+24,14/02/09,Napoli,1-1,Bologna
+24,15/02/09,Chievo Verona,1-1,Catania
+24,15/02/09,Genoa,3-3,Fiorentina
+24,15/02/09,Cagliari,2-0,Lecce
+24,15/02/09,Reggina,0-0,Palermo
+24,15/02/09,Atalanta,3-0,Roma
+24,15/02/09,Juventus,1-1,Sampdoria
+24,15/02/09,AC Siena,1-1,Udinese
+24,15/02/09,Internazionale,2-1,AC Milan
+25,21/02/09,Bologna,1-2,Internazionale
+25,21/02/09,Roma,1-0,AC Siena
+25,21/02/09,Palermo,0-2,Juventus
+25,22/02/09,Sampdoria,1-0,Atalanta
+25,22/02/09,AC Milan,1-0,Cagliari
+25,22/02/09,Fiorentina,2-1,Chievo Verona
+25,22/02/09,Napoli,0-1,Genoa
+25,22/02/09,Lecce,0-2,Lazio
+25,22/02/09,Catania,2-0,Reggina
+25,22/02/09,Torino,1-0,Udinese
+26,28/02/09,Lazio,2-0,Bologna
+26,28/02/09,Juventus,1-0,Napoli
+26,01/03/09,Palermo,0-4,Catania
+26,01/03/09,Atalanta,0-2,Chievo Verona
+26,01/03/09,Reggina,1-1,Fiorentina
+26,01/03/09,AC Siena,0-0,Genoa
+26,01/03/09,Udinese,2-0,Lecce
+26,01/03/09,Sampdoria,2-1,AC Milan
+26,01/03/09,Cagliari,0-0,Torino
+26,01/03/09,Internazionale,3-3,Roma
+27,07/03/09,Roma,1-1,Udinese
+27,07/03/09,Genoa,0-2,Internazionale
+27,07/03/09,Torino,0-1,Juventus
+27,08/03/09,AC Milan,3-0,Atalanta
+27,08/03/09,Chievo Verona,1-1,Cagliari
+27,08/03/09,Napoli,0-2,Lazio
+27,08/03/09,Fiorentina,0-2,Palermo
+27,08/03/09,Lecce,0-0,Reggina
+27,08/03/09,Bologna,3-0,Sampdoria
+27,08/03/09,Catania,0-3,AC Siena
+28,14/03/09,Cagliari,0-1,Genoa
+28,14/03/09,Juventus,4-1,Bologna
+28,15/03/09,Udinese,1-1,Catania
+28,15/03/09,Lazio,0-3,Chievo Verona
+28,15/03/09,Palermo,5-2,Lecce
+28,15/03/09,AC Siena,1-5,AC Milan
+28,15/03/09,Reggina,1-1,Napoli
+28,15/03/09,Sampdoria,2-2,Roma
+28,15/03/09,Atalanta,2-0,Torino
+28,15/03/09,Internazionale,2-0,Fiorentina
+29,21/03/09,Catania,1-0,Lazio
+29,21/03/09,Roma,1-4,Juventus
+29,22/03/09,Lecce,2-2,Atalanta
+29,22/03/09,Bologna,0-1,Cagliari
+29,22/03/09,Chievo Verona,1-0,Palermo
+29,22/03/09,Internazionale,3-0,Reggina
+29,22/03/09,Torino,1-3,Sampdoria
+29,22/03/09,Fiorentina,1-0,AC Siena
+29,22/03/09,Genoa,2-0,Udinese
+29,22/03/09,Napoli,0-0,AC Milan
+30,05/04/09,Atalanta,1-2,Fiorentina
+30,05/04/09,Roma,2-1,Bologna
+30,05/04/09,Cagliari,1-0,Catania
+30,05/04/09,Juventus,3-3,Chievo Verona
+30,05/04/09,Reggina,0-1,Genoa
+30,05/04/09,AC Siena,2-0,Lazio
+30,05/04/09,Sampdoria,2-2,Napoli
+30,05/04/09,Palermo,1-0,Torino
+30,05/04/09,Udinese,0-1,Internazionale
+30,05/04/09,AC Milan,2-0,Lecce
+31,11/04/09,Napoli,0-0,Atalanta
+31,11/04/09,Fiorentina,2-1,Cagliari
+31,11/04/09,Torino,2-1,Catania
+31,11/04/09,Chievo Verona,0-1,AC Milan
+31,11/04/09,Internazionale,2-2,Palermo
+31,11/04/09,Lazio,4-2,Roma
+31,11/04/09,Lecce,1-3,Sampdoria
+31,11/04/09,Bologna,1-4,AC Siena
+31,11/04/09,Genoa,3-2,Juventus
+31,12/04/09,Reggina,0-2,Udinese
+32,18/04/09,Genoa,0-1,Lazio
+32,18/04/09,Juventus,1-1,Internazionale
+32,19/04/09,Palermo,4-1,Bologna
+32,19/04/09,AC Siena,0-2,Chievo Verona
+32,19/04/09,Udinese,3-1,Fiorentina
+32,19/04/09,Roma,3-2,Lecce
+32,19/04/09,Cagliari,2-0,Napoli
+32,19/04/09,Atalanta,0-1,Reggina
+32,19/04/09,Catania,2-0,Sampdoria
+32,19/04/09,AC Milan,5-1,Torino
+33,25/04/09,Chievo Verona,1-2,Udinese
+33,25/04/09,Fiorentina,4-1,Roma
+33,26/04/09,Lazio,0-1,Atalanta
+33,26/04/09,Sampdoria,3-3,Cagliari
+33,26/04/09,Lecce,2-1,Catania
+33,26/04/09,Bologna,2-0,Genoa
+33,26/04/09,Reggina,2-2,Juventus
+33,26/04/09,AC Milan,3-0,Palermo
+33,26/04/09,Torino,1-0,AC Siena
+33,26/04/09,Napoli,1-0,Internazionale
+34,02/05/09,Bologna,1-2,Reggina
+34,02/05/09,Internazionale,2-0,Lazio
+34,03/05/09,Udinese,3-0,Atalanta
+34,03/05/09,Palermo,5-1,Cagliari
+34,03/05/09,Roma,0-0,Chievo Verona
+34,03/05/09,Juventus,2-2,Lecce
+34,03/05/09,Catania,0-2,AC Milan
+34,03/05/09,AC Siena,2-1,Napoli
+34,03/05/09,Fiorentina,1-0,Torino
+34,03/05/09,Genoa,3-1,Sampdoria
+35,09/05/09,Sampdoria,5-0,Reggina
+35,09/05/09,Lazio,1-3,Udinese
+35,10/05/09,Torino,1-1,Bologna
+35,10/05/09,Catania,0-2,Fiorentina
+35,10/05/09,Atalanta,1-1,Genoa
+35,10/05/09,Chievo Verona,2-2,Internazionale
+35,10/05/09,Lecce,1-1,Napoli
+35,10/05/09,AC Siena,1-0,Palermo
+35,10/05/09,Cagliari,2-2,Roma
+35,10/05/09,AC Milan,1-1,Juventus
+36,16/05/09,Roma,4-3,Catania
+36,16/05/09,Udinese,2-1,AC Milan
+36,17/05/09,Juventus,2-2,Atalanta
+36,17/05/09,Reggina,2-1,Cagliari
+36,17/05/09,Genoa,2-2,Chievo Verona
+36,17/05/09,Palermo,2-0,Lazio
+36,17/05/09,Bologna,2-1,Lecce
+36,17/05/09,Fiorentina,1-0,Sampdoria
+36,17/05/09,Napoli,1-2,Torino
+36,17/05/09,Internazionale,3-0,AC Siena
+37,20/05/09,Lazio,1-0,Reggina
+37,24/05/09,Chievo Verona,0-0,Bologna
+37,24/05/09,Lecce,1-1,Fiorentina
+37,24/05/09,Torino,2-3,Genoa
+37,24/05/09,Cagliari,2-1,Internazionale
+37,24/05/09,AC Siena,0-3,Juventus
+37,24/05/09,Catania,3-1,Napoli
+37,24/05/09,Atalanta,2-2,Palermo
+37,24/05/09,AC Milan,2-3,Roma
+37,24/05/09,Sampdoria,2-2,Udinese
+38,31/05/09,Internazionale,4-3,Atalanta
+38,31/05/09,Udinese,6-2,Cagliari
+38,31/05/09,Bologna,3-1,Catania
+38,31/05/09,Napoli,3-0,Chievo Verona
+38,31/05/09,Juventus,2-0,Lazio
+38,31/05/09,Genoa,4-1,Lecce
+38,31/05/09,Fiorentina,0-2,AC Milan
+38,31/05/09,Palermo,2-2,Sampdoria
+38,31/05/09,Reggina,1-1,AC Siena
+38,31/05/09,Roma,3-2,Torino

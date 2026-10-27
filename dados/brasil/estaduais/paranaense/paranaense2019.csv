@@ -1,0 +1,75 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,19/01/19,Athletico Paranaense,0-1,Cascavel
+B,20/01/19,Foz do Iguaçu,0-4,Coritiba
+B,20/01/19,FC Cascavel,0-0,Toledo
+B,20/01/19,Paraná,0-1,Operário Ferroviário
+B,20/01/19,Cianorte,0-0,Londrina
+B,20/01/19,Maringá,1-1,Rio Branco-PR
+B,23/01/19,FC Cascavel,0-0,Athletico Paranaense
+B,23/01/19,Cianorte,0-0,Operário Ferroviário
+B,23/01/19,Toledo,4-2,Rio Branco-PR
+B,23/01/19,Coritiba,1-1,Maringá
+B,24/01/19,Paraná,4-0,Foz do Iguaçu
+B,24/01/19,Cascavel,0-3,Londrina
+B,27/01/19,Maringá,0-0,Paraná
+B,27/01/19,Operário Ferroviário,2-0,Cascavel
+B,27/01/19,Rio Branco-PR,0-2,Athletico Paranaense
+B,27/01/19,Coritiba,0-0,Toledo
+B,27/01/19,Foz do Iguaçu,0-0,Cianorte
+B,27/01/19,Londrina,1-3,FC Cascavel
+B,30/01/19,Operário Ferroviário,0-1,FC Cascavel
+B,30/01/19,Toledo,0-0,Paraná
+B,30/01/19,Cianorte,1-0,Maringá
+B,30/01/19,Foz do Iguaçu,0-2,Cascavel
+B,30/01/19,Londrina,2-1,Rio Branco-PR
+B,30/01/19,Athletico Paranaense,1-2,Coritiba
+B,02/02/19,FC Cascavel,2-0,Foz do Iguaçu
+B,02/02/19,Coritiba,0-0,Londrina
+B,03/02/19,Paraná,1-1,Athletico Paranaense
+B,03/02/19,Toledo,0-0,Cianorte
+B,03/02/19,Cascavel,1-2,Maringá
+B,03/02/19,Rio Branco-PR,1-1,Operário Ferroviário
+B,10/02/19,Londrina,1-2,Paraná
+B,10/02/19,Athletico Paranaense,1-0,Cianorte
+B,10/02/19,Cascavel,1-2,Toledo
+B,10/02/19,Maringá,2-1,FC Cascavel
+B,10/02/19,Rio Branco-PR,1-0,Foz do Iguaçu
+B,10/02/19,Operário Ferroviário,2-2,Coritiba
+SF,17/02/19,FC Cascavel,0-0(3-5 Pen.),Coritiba
+SF,17/02/19,Toledo,1-1(3-1 Pen.),Operário Ferroviário
+F,24/02/19,Coritiba,1-1(2-3 Pen.),Toledo
+D,09/03/19,Paraná,2-1,FC Cascavel
+C,10/03/19,Operário Ferroviário,1-1,Londrina
+C,10/03/19,Athletico Paranaense,8-2,Toledo
+C,10/03/19,Foz do Iguaçu,1-0,Maringá
+D,10/03/19,Cianorte,0-4,Coritiba
+D,10/03/19,Cascavel,1-0,Rio Branco-PR
+C,17/03/19,Maringá,0-4,Athletico Paranaense
+C,17/03/19,Toledo,1-2,Operário Ferroviário
+C,17/03/19,Londrina,1-0,Foz do Iguaçu
+D,17/03/19,Coritiba,2-0,FC Cascavel
+D,17/03/19,Rio Branco-PR,1-0,Paraná
+D,17/03/19,Cianorte,1-0,Cascavel
+C,20/03/19,Maringá,1-2,Londrina
+C,20/03/19,Foz do Iguaçu,0-0,Toledo
+D,20/03/19,Cascavel,1-0,Coritiba
+C,20/03/19,Athletico Paranaense,3-0,Operário Ferroviário
+D,21/03/19,Paraná,1-2,Cianorte
+D,21/03/19,FC Cascavel,0-1,Rio Branco-PR
+C,23/03/19,Athletico Paranaense,2-1,Foz do Iguaçu
+C,24/03/19,Operário Ferroviário,2-0,Maringá
+C,24/03/19,Toledo,2-2,Londrina
+D,24/03/19,Coritiba,1-1,Rio Branco-PR
+D,24/03/19,Cianorte,0-2,FC Cascavel
+D,24/03/19,Paraná,4-1,Cascavel
+C,31/03/19,Maringá,3-0,Toledo
+C,31/03/19,Londrina,4-1,Athletico Paranaense
+C,31/03/19,Foz do Iguaçu,0-0,Operário Ferroviário
+D,31/03/19,Coritiba,1-0,Paraná
+D,31/03/19,FC Cascavel,1-1,Cascavel
+D,31/03/19,Rio Branco-PR,1-0,Cianorte
+SF,06/04/19,Athletico Paranaense,3-0,Rio Branco-PR
+SF,07/04/19,Coritiba,2-1,Londrina
+F,10/04/19,Athletico Paranaense,1-1(7-6 Pen.),Coritiba
+F,14/04/19,Toledo,1-0,Athletico Paranaense
+F,21/04/19,Athletico Paranaense,1-0(6-5 Pen.),Toledo

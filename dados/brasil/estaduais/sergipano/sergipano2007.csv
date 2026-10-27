@@ -1,0 +1,103 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,14/01/07,Pirambu,2-1,São Cristóvão-SE
+1F,14/01/07,Confiança,1-0,América-SE
+1F,14/01/07,Amadense,0-2,Sergipe
+1F,14/01/07,Itabaiana,2-0,Guarany-SE
+1F,14/01/07,Lagartense,1-3,Olímpico
+1F,17/01/07,Sergipe,2-2,Itabaiana
+1F,21/01/07,Olímpico,1-2,Pirambu
+1F,21/01/07,Guarany-SE,1-3,Lagartense
+1F,21/01/07,América-SE,3-0,Amadense
+1F,21/01/07,São Cristóvão-SE,0-3,Confiança
+1F,25/01/07,Confiança,2-2,Pirambu
+1F,25/01/07,Amadense,0-1,São Cristóvão-SE
+1F,25/01/07,Itabaiana,3-2,América-SE
+1F,25/01/07,Lagartense,1-1,Sergipe
+1F,25/01/07,Olímpico,2-1,Guarany-SE
+1F,28/01/07,Pirambu,4-1,Guarany-SE
+1F,28/01/07,Sergipe,3-3,Olímpico
+1F,28/01/07,América-SE,4-3,Lagartense
+1F,28/01/07,São Cristóvão-SE,1-1,Itabaiana
+1F,28/01/07,Amadense,2-0,Confiança
+1F,04/02/07,Pirambu,0-2,Sergipe
+1F,04/02/07,Guarany-SE,3-0,América-SE
+1F,04/02/07,Olímpico,2-0,São Cristóvão-SE
+1F,04/02/07,Confiança,2-2,Lagartense
+1F,04/02/07,Itabaiana,2-1,Amadense
+1F,08/02/07,América-SE,0-0,Pirambu
+1F,08/02/07,Sergipe,1-1,São Cristóvão-SE
+1F,08/02/07,Guarany-SE,1-2,Confiança
+1F,08/02/07,Amadense,1-1,Olímpico
+1F,08/02/07,Lagartense,0-1,Itabaiana
+1F,11/02/07,Pirambu,5-4,Itabaiana
+1F,11/02/07,Lagartense,1-2,Amadense
+1F,11/02/07,Confiança,3-2,Olímpico
+1F,11/02/07,São Cristóvão-SE,2-0,Guarany-SE
+1F,11/02/07,América-SE,2-1,Sergipe
+1F,24/02/07,Itabaiana,4-0,Confiança
+1F,25/02/07,Amadense,0-1,Pirambu
+1F,25/02/07,Lagartense,1-0,São Cristóvão-SE
+1F,25/02/07,Olímpico,0-0,América-SE
+1F,25/02/07,Sergipe,1-0,Guarany-SE
+1F,03/03/07,Confiança,0-0,Sergipe
+1F,03/03/07,São Cristóvão-SE,2-1,América-SE
+1F,04/03/07,Olímpico,1-0,Itabaiana
+1F,04/03/07,Guarany-SE,0-0,Amadense
+1F,05/03/07,Pirambu,1-2,Lagartense
+1F,08/03/07,São Cristóvão-SE,0-0,Pirambu
+1F,08/03/07,América-SE,0-0,Confiança
+1F,08/03/07,Sergipe,2-0,Amadense
+1F,08/03/07,Guarany-SE,2-1,Itabaiana
+1F,08/03/07,Olímpico,1-0,Lagartense
+1F,11/03/07,Pirambu,6-3,Olímpico
+1F,11/03/07,Lagartense,1-0,Guarany-SE
+1F,11/03/07,Itabaiana,0-2,Sergipe
+1F,11/03/07,Amadense,0-0,América-SE
+1F,11/03/07,Confiança,1-0,São Cristóvão-SE
+1F,15/03/07,Pirambu,2-3,Confiança
+1F,15/03/07,São Cristóvão-SE,1-1,Amadense
+1F,15/03/07,América-SE,1-0,Itabaiana
+1F,15/03/07,Sergipe,0-0,Lagartense
+1F,15/03/07,Guarany-SE,1-1,Olímpico
+1F,18/03/07,Guarany-SE,3-1,Pirambu
+1F,18/03/07,Olímpico,2-1,Sergipe
+1F,18/03/07,Lagartense,0-1,América-SE
+1F,18/03/07,Itabaiana,1-1,São Cristóvão-SE
+1F,18/03/07,Confiança,2-1,Amadense
+1F,22/03/07,Sergipe,3-2,Pirambu
+1F,22/03/07,América-SE,2-1,Guarany-SE
+1F,22/03/07,São Cristóvão-SE,7-1,Olímpico
+1F,22/03/07,Lagartense,0-1,Confiança
+1F,22/03/07,Amadense,0-1,Itabaiana
+1F,25/03/07,Pirambu,1-1,América-SE
+1F,25/03/07,São Cristóvão-SE,0-1,Sergipe
+1F,25/03/07,Confiança,2-1,Guarany-SE
+1F,25/03/07,Olímpico,1-0,Amadense
+1F,25/03/07,Itabaiana,3-0,Lagartense
+1F,29/03/07,Itabaiana,1-0,Pirambu
+1F,29/03/07,Amadense,0-0,Lagartense
+1F,29/03/07,Olímpico,1-1,Confiança
+1F,29/03/07,Guarany-SE,1-0,São Cristóvão-SE
+1F,29/03/07,Sergipe,0-1,América-SE
+1F,01/04/07,Pirambu,5-0,Amadense
+1F,01/04/07,Confiança,1-0,Itabaiana
+1F,01/04/07,São Cristóvão-SE,0-0,Lagartense
+1F,01/04/07,América-SE,2-0,Olímpico
+1F,01/04/07,Guarany-SE,2-1,Sergipe
+1F,08/04/07,Sergipe,4-1,Confiança
+1F,08/04/07,Lagartense,2-2,Pirambu
+1F,08/04/07,Itabaiana,3-1,Olímpico
+1F,08/04/07,Amadense,1-2,Guarany-SE
+1F,08/04/07,América-SE,2-0,São Cristóvão-SE
+QDF,12/04/07,América-SE,0-0,Itabaiana
+QDF,12/04/07,Confiança,0-3,Sergipe
+QDF,15/04/07,Sergipe,1-3,América-SE
+QDF,15/04/07,Itabaiana,0-1,Confiança
+QDF,18/04/07,Sergipe,3-2,Itabaiana
+QDF,19/04/07,Confiança,1-2,América-SE
+QDF,22/04/07,América-SE,2-3,Confiança
+QDF,22/04/07,Itabaiana,1-0,Sergipe
+QDF,25/04/07,Confiança,2-1,Itabaiana
+QDF,25/04/07,América-SE,2-1,Sergipe
+QDF,29/04/07,Sergipe,2-0,Confiança
+QDF,29/04/07,Itabaiana,1-1,América-SE

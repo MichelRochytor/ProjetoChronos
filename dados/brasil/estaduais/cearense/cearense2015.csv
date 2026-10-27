@@ -1,0 +1,77 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A1,14/01/15,Quixadá,0-0,Fortaleza
+A1,14/01/15,São Benedito,1-2,Horizonte
+A2,14/01/15,Maranguape,0-1,Guarany de Sobral
+A2,15/01/15,Ceará,3-0,Itapipoca
+A1,17/01/15,Horizonte,1-1,Icasa
+A2,18/01/15,Guarani de Juazeiro,1-2,Maranguape
+A2,18/01/15,Guarany de Sobral,2-1,Ceará
+A1,18/01/15,Fortaleza,3-2,São Benedito
+A2,21/01/15,Itapipoca,0-0,Guarany de Sobral
+A1,21/01/15,Quixadá,2-0,São Benedito
+A1,21/01/15,Icasa,2-0,Fortaleza
+A2,22/01/15,Ceará,1-0,Guarani de Juazeiro
+A1,24/01/15,Fortaleza,1-1,Horizonte
+A2,25/01/15,Itapipoca,0-2,Guarani de Juazeiro
+A1,25/01/15,Icasa,1-0,Quixadá
+A2,25/01/15,Maranguape,0-1,Ceará
+A1,27/01/15,Horizonte,1-0,São Benedito
+A1,28/01/15,Fortaleza,0-0,Quixadá
+A2,28/01/15,Guarany de Sobral,0-1,Maranguape
+A2,28/01/15,Itapipoca,0-2,Ceará
+A2,31/01/15,Ceará,4-0,Guarany de Sobral
+A1,01/02/15,Icasa,4-3,Horizonte
+A1,01/02/15,São Benedito,1-5,Fortaleza
+A2,01/02/15,Maranguape,2-1,Guarani de Juazeiro
+A1,04/02/15,São Benedito,3-1,Icasa
+A1,04/02/15,Horizonte,1-2,Quixadá
+A2,04/02/15,Maranguape,2-1,Itapipoca
+A2,04/02/15,Guarani de Juazeiro,2-0,Guarany de Sobral
+A2,07/02/15,Guarany de Sobral,1-0,Itapipoca
+A1,07/02/15,Fortaleza,1-0,Icasa
+A1,08/02/15,São Benedito,1-3,Quixadá
+A2,08/02/15,Guarani de Juazeiro,2-2,Ceará
+A2,10/02/15,Itapipoca,2-1,Maranguape
+A1,11/02/15,Quixadá,1-0,Horizonte
+A1,11/02/15,Icasa,2-1,São Benedito
+A2,11/02/15,Guarany de Sobral,1-3,Guarani de Juazeiro
+A1,14/02/15,Horizonte,1-3,Fortaleza
+A1,14/02/15,Quixadá,2-4,Icasa
+A2,14/02/15,Ceará,4-3,Maranguape
+A2,14/02/15,Guarani de Juazeiro,0-1,Itapipoca
+B2,21/02/15,Fortaleza,1-1,Maranguape
+B2,22/02/15,Icasa,2-2,Ceará
+Único,22/02/15,Itapipoca,2-1,Horizonte
+Único,22/02/15,São Benedito,1-1,Guarany de Sobral
+B2,22/02/15,Quixadá,0-2,Guarani de Juazeiro
+B2,25/02/15,Ceará,3-1,Quixadá
+Único,25/02/15,Guarany de Sobral,3-2,Itapipoca
+B2,25/02/15,Guarani de Juazeiro,0-1,Fortaleza
+B2,26/02/15,Maranguape,1-3,Icasa
+Único,26/02/15,Horizonte,3-1,São Benedito
+B2,28/02/15,Fortaleza,0-1,Ceará
+B2,01/03/15,Quixadá,4-1,Maranguape
+B2,01/03/15,Icasa,3-0,Guarani de Juazeiro
+Único,01/03/15,Itapipoca,4-4,São Benedito
+B2,04/03/15,Maranguape,1-2,Quixadá
+Único,04/03/15,Horizonte,3-4,Guarany de Sobral
+Único,05/03/15,São Benedito,1-3,Itapipoca
+Único,07/03/15,Guarany de Sobral,1-0,Horizonte
+B2,07/03/15,Ceará,1-2,Fortaleza
+B2,08/03/15,Guarani de Juazeiro,0-1,Icasa
+Único,11/03/15,São Benedito,1-1,Horizonte
+Único,11/03/15,Itapipoca,1-1,Guarany de Sobral
+B2,14/03/15,Guarani de Juazeiro,1-1,Quixadá
+B2,14/03/15,Ceará,2-0,Icasa
+B2,15/03/15,Maranguape,0-5,Fortaleza
+Único,15/03/15,Horizonte,5-2,Itapipoca
+Único,15/03/15,Guarany de Sobral,3-1,São Benedito
+B2,22/03/15,Fortaleza,2-0,Guarani de Juazeiro
+B2,22/03/15,Quixadá,3-1,Ceará
+B2,22/03/15,Icasa,2-3,Maranguape
+SF,04/04/15,Guarani de Juazeiro,0-1,Ceará
+SF,05/04/15,Icasa,1-2,Fortaleza
+SF,12/04/15,Fortaleza,0-0,Icasa
+SF,18/04/15,Ceará,3-0,Guarani de Juazeiro
+F,26/04/15,Fortaleza,2-1,Ceará
+F,03/05/15,Ceará,2-2,Fortaleza

@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/09/80,Bologna,1-0,Ascoli
+1,13/09/80,Brescia,1-2,Avellino
+1,13/09/80,Cagliari,1-1,Juventus
+1,13/09/80,Como 1907,0-1,Roma
+1,13/09/80,Fiorentina,1-0,Perugia
+1,13/09/80,Napoli,1-1,Catanzaro
+1,13/09/80,Torino,1-0,US Pistoiese
+1,13/09/80,Udinese,0-4,Internazionale
+2,20/09/80,Ascoli,3-2,Napoli
+2,20/09/80,Avellino,2-3,Fiorentina
+2,20/09/80,Catanzaro,1-0,Torino
+2,20/09/80,Internazionale,4-1,Cagliari
+2,20/09/80,Juventus,2-0,Como 1907
+2,20/09/80,Perugia,0-0,Bologna
+2,20/09/80,US Pistoiese,1-1,Udinese
+2,20/09/80,Roma,1-0,Brescia
+3,27/09/80,Bologna,1-1,Roma
+3,27/09/80,Brescia,1-1,Juventus
+3,27/09/80,Cagliari,2-0,Ascoli
+3,27/09/80,Como 1907,1-0,Internazionale
+3,27/09/80,Fiorentina,1-1,Catanzaro
+3,27/09/80,Napoli,1-0,US Pistoiese
+3,27/09/80,Torino,2-0,Avellino
+3,27/09/80,Udinese,1-1,Perugia
+4,04/10/80,Ascoli,0-3,Perugia
+4,04/10/80,Avellino,2-1,Cagliari
+4,04/10/80,Catanzaro,2-0,Como 1907
+4,04/10/80,Internazionale,3-0,Napoli
+4,04/10/80,Juventus,0-1,Bologna
+4,04/10/80,US Pistoiese,1-0,Brescia
+4,04/10/80,Roma,2-0,Torino
+4,04/10/80,Udinese,0-0,Fiorentina
+5,18/10/80,Ascoli,0-0,Juventus
+5,18/10/80,Bologna,2-0,US Pistoiese
+5,18/10/80,Brescia,1-1,Catanzaro
+5,18/10/80,Como 1907,2-0,Udinese
+5,18/10/80,Fiorentina,0-0,Internazionale
+5,18/10/80,Napoli,4-0,Roma
+5,18/10/80,Perugia,0-0,Avellino
+5,18/10/80,Torino,1-2,Cagliari
+6,25/10/80,Avellino,2-1,Como 1907
+6,25/10/80,Brescia,0-0,Fiorentina
+6,25/10/80,Cagliari,0-0,Napoli
+6,25/10/80,Catanzaro,0-1,Perugia
+6,25/10/80,Internazionale,2-4,Roma
+6,25/10/80,Juventus,1-2,Torino
+6,25/10/80,US Pistoiese,0-1,Ascoli
+6,25/10/80,Udinese,1-1,Bologna
+7,08/11/80,Ascoli,1-0,Udinese
+7,08/11/80,Bologna,0-1,Brescia
+7,08/11/80,Fiorentina,0-0,Cagliari
+7,08/11/80,Internazionale,2-0,US Pistoiese
+7,08/11/80,Napoli,1-0,Avellino
+7,08/11/80,Perugia,0-0,Juventus
+7,08/11/80,Roma,0-0,Catanzaro
+7,08/11/80,Torino,1-1,Como 1907
+8,22/11/80,Avellino,4-2,Ascoli
+8,22/11/80,Bologna,1-1,Napoli
+8,22/11/80,Brescia,1-1,Torino
+8,22/11/80,Cagliari,1-0,Roma
+8,22/11/80,Como 1907,2-1,Fiorentina
+8,22/11/80,Juventus,2-1,Internazionale
+8,22/11/80,US Pistoiese,1-0,Perugia
+8,22/11/80,Udinese,2-1,Catanzaro
+9,29/11/80,Ascoli,2-1,Como 1907
+9,29/11/80,Catanzaro,0-0,Juventus
+9,29/11/80,Internazionale,1-0,Bologna
+9,29/11/80,Napoli,1-1,Brescia
+9,29/11/80,Perugia,1-1,Cagliari
+9,29/11/80,US Pistoiese,2-1,Avellino
+9,29/11/80,Roma,3-1,Udinese
+9,29/11/80,Torino,1-1,Fiorentina
+10,13/12/80,Brescia,0-0,Internazionale
+10,13/12/80,Cagliari,0-0,Bologna
+10,13/12/80,Catanzaro,2-0,Ascoli
+10,13/12/80,Como 1907,1-0,Perugia
+10,13/12/80,Fiorentina,1-1,Roma
+10,13/12/80,Juventus,4-1,US Pistoiese
+10,13/12/80,Napoli,1-3,Torino
+10,13/12/80,Udinese,5-4,Avellino
+11,20/12/80,Avellino,1-0,Catanzaro
+11,20/12/80,Bologna,2-1,Fiorentina
+11,20/12/80,Cagliari,1-2,Brescia
+11,20/12/80,Internazionale,1-1,Torino
+11,20/12/80,Juventus,4-0,Udinese
+11,20/12/80,Perugia,0-0,Napoli
+11,20/12/80,US Pistoiese,2-0,Como 1907
+11,20/12/80,Roma,4-1,Ascoli
+12,27/12/80,Ascoli,0-1,Internazionale
+12,27/12/80,Avellino,1-1,Juventus
+12,27/12/80,Catanzaro,1-3,US Pistoiese
+12,27/12/80,Como 1907,3-1,Cagliari
+12,27/12/80,Fiorentina,0-1,Napoli
+12,27/12/80,Perugia,1-1,Roma
+12,27/12/80,Torino,1-2,Bologna
+12,27/12/80,Udinese,0-0,Brescia
+13,17/01/81,Bologna,0-0,Catanzaro
+13,17/01/81,Brescia,1-1,Perugia
+13,17/01/81,Cagliari,1-1,Udinese
+13,17/01/81,Fiorentina,1-2,US Pistoiese
+13,17/01/81,Internazionale,0-0,Avellino
+13,17/01/81,Napoli,2-0,Como 1907
+13,17/01/81,Roma,0-0,Juventus
+13,17/01/81,Torino,3-0,Ascoli
+14,24/01/81,Ascoli,1-0,Fiorentina
+14,24/01/81,Avellino,2-0,Bologna
+14,24/01/81,Catanzaro,0-0,Cagliari
+14,24/01/81,Como 1907,2-2,Brescia
+14,24/01/81,Juventus,1-1,Napoli
+14,24/01/81,Perugia,0-2,Internazionale
+14,24/01/81,US Pistoiese,0-4,Roma
+14,24/01/81,Udinese,0-0,Torino
+15,31/01/81,Bologna,1-1,Como 1907
+15,31/01/81,Brescia,0-1,Ascoli
+15,31/01/81,Cagliari,2-0,US Pistoiese
+15,31/01/81,Fiorentina,0-1,Juventus
+15,31/01/81,Internazionale,2-2,Catanzaro
+15,31/01/81,Napoli,1-0,Udinese
+15,31/01/81,Roma,1-1,Avellino
+15,31/01/81,Torino,2-0,Perugia
+16,07/02/81,Ascoli,1-1,Bologna
+16,07/02/81,Avellino,1-0,Brescia
+16,07/02/81,Catanzaro,0-0,Napoli
+16,07/02/81,Internazionale,2-0,Udinese
+16,07/02/81,Juventus,1-1,Cagliari
+16,07/02/81,Perugia,0-0,Fiorentina
+16,07/02/81,US Pistoiese,1-1,Torino
+16,07/02/81,Roma,1-1,Como 1907
+17,14/02/81,Bologna,4-0,Perugia
+17,14/02/81,Brescia,1-2,Roma
+17,14/02/81,Cagliari,1-1,Internazionale
+17,14/02/81,Como 1907,1-2,Juventus
+17,14/02/81,Fiorentina,2-1,Avellino
+17,14/02/81,Napoli,1-0,Ascoli
+17,14/02/81,Torino,2-0,Catanzaro
+17,14/02/81,Udinese,1-0,US Pistoiese
+18,21/02/81,Ascoli,0-0,Cagliari
+18,21/02/81,Avellino,3-0,Torino
+18,21/02/81,Catanzaro,2-2,Fiorentina
+18,21/02/81,Internazionale,2-1,Como 1907
+18,21/02/81,Juventus,2-0,Brescia
+18,21/02/81,Perugia,1-2,Udinese
+18,21/02/81,US Pistoiese,0-1,Napoli
+18,21/02/81,Roma,1-1,Bologna
+19,28/02/81,Bologna,1-5,Juventus
+19,28/02/81,Brescia,2-2,US Pistoiese
+19,28/02/81,Cagliari,1-0,Avellino
+19,28/02/81,Como 1907,0-0,Catanzaro
+19,28/02/81,Fiorentina,1-1,Udinese
+19,28/02/81,Napoli,1-0,Internazionale
+19,28/02/81,Perugia,0-0,Ascoli
+19,28/02/81,Torino,0-2,Roma
+20,07/03/81,Avellino,2-1,Perugia
+20,07/03/81,Cagliari,1-1,Torino
+20,07/03/81,Catanzaro,0-0,Brescia
+20,07/03/81,Internazionale,1-2,Fiorentina
+20,07/03/81,Juventus,3-0,Ascoli
+20,07/03/81,US Pistoiese,0-2,Bologna
+20,07/03/81,Roma,1-1,Napoli
+20,07/03/81,Udinese,2-0,Como 1907
+21,14/03/81,Ascoli,0-0,US Pistoiese
+21,14/03/81,Bologna,1-0,Udinese
+21,14/03/81,Como 1907,2-0,Avellino
+21,14/03/81,Fiorentina,1-0,Brescia
+21,14/03/81,Napoli,2-0,Cagliari
+21,14/03/81,Perugia,0-0,Catanzaro
+21,14/03/81,Roma,1-0,Internazionale
+21,14/03/81,Torino,0-2,Juventus
+22,21/03/81,Avellino,0-0,Napoli
+22,21/03/81,Brescia,0-0,Bologna
+22,21/03/81,Cagliari,0-0,Fiorentina
+22,21/03/81,Catanzaro,1-1,Roma
+22,21/03/81,Como 1907,0-2,Torino
+22,21/03/81,Juventus,2-1,Perugia
+22,21/03/81,US Pistoiese,1-2,Internazionale
+22,21/03/81,Udinese,0-0,Ascoli
+23,28/03/81,Ascoli,1-1,Avellino
+23,28/03/81,Catanzaro,2-1,Udinese
+23,28/03/81,Fiorentina,1-1,Como 1907
+23,28/03/81,Internazionale,1-0,Juventus
+23,28/03/81,Napoli,2-1,Bologna
+23,28/03/81,Perugia,3-0,US Pistoiese
+23,28/03/81,Roma,1-0,Cagliari
+23,28/03/81,Torino,1-1,Brescia
+24,04/04/81,Avellino,3-0,US Pistoiese
+24,04/04/81,Bologna,2-1,Internazionale
+24,04/04/81,Brescia,1-2,Napoli
+24,04/04/81,Cagliari,2-1,Perugia
+24,04/04/81,Como 1907,0-0,Ascoli
+24,04/04/81,Fiorentina,2-0,Torino
+24,04/04/81,Juventus,3-0,Catanzaro
+24,04/04/81,Udinese,0-2,Roma
+25,11/04/81,Ascoli,1-2,Catanzaro
+25,11/04/81,Avellino,0-0,Udinese
+25,11/04/81,Bologna,2-1,Cagliari
+25,11/04/81,Internazionale,0-0,Brescia
+25,11/04/81,Perugia,0-0,Como 1907
+25,11/04/81,US Pistoiese,1-3,Juventus
+25,11/04/81,Roma,1-1,Fiorentina
+25,11/04/81,Torino,0-1,Napoli
+26,25/04/81,Ascoli,0-0,Roma
+26,25/04/81,Brescia,1-0,Cagliari
+26,25/04/81,Catanzaro,1-1,Avellino
+26,25/04/81,Como 1907,1-0,US Pistoiese
+26,25/04/81,Fiorentina,2-1,Bologna
+26,25/04/81,Napoli,0-1,Perugia
+26,25/04/81,Torino,0-1,Internazionale
+26,25/04/81,Udinese,0-2,Juventus
+27,02/05/81,Bologna,1-0,Torino
+27,02/05/81,Brescia,1-1,Udinese
+27,02/05/81,Cagliari,1-1,Como 1907
+27,02/05/81,Internazionale,1-2,Ascoli
+27,02/05/81,Juventus,1-0,Avellino
+27,02/05/81,Napoli,1-1,Fiorentina
+27,02/05/81,US Pistoiese,0-1,Catanzaro
+27,02/05/81,Roma,5-0,Perugia
+28,09/05/81,Ascoli,0-0,Torino
+28,09/05/81,Avellino,1-3,Internazionale
+28,09/05/81,Catanzaro,2-2,Bologna
+28,09/05/81,Como 1907,0-1,Napoli
+28,09/05/81,Juventus,0-0,Roma
+28,09/05/81,Perugia,0-0,Brescia
+28,09/05/81,US Pistoiese,0-1,Fiorentina
+28,09/05/81,Udinese,2-2,Cagliari
+29,16/05/81,Bologna,0-0,Avellino
+29,16/05/81,Brescia,1-0,Como 1907
+29,16/05/81,Cagliari,2-1,Catanzaro
+29,16/05/81,Fiorentina,2-1,Ascoli
+29,16/05/81,Internazionale,3-1,Perugia
+29,16/05/81,Napoli,0-1,Juventus
+29,16/05/81,Roma,1-0,US Pistoiese
+29,16/05/81,Torino,0-0,Udinese
+30,23/05/81,Ascoli,0-0,Brescia
+30,23/05/81,Avellino,1-1,Roma
+30,23/05/81,Catanzaro,0-0,Internazionale
+30,23/05/81,Como 1907,2-1,Bologna
+30,23/05/81,Juventus,1-0,Fiorentina
+30,23/05/81,Perugia,1-0,Torino
+30,23/05/81,US Pistoiese,1-3,Cagliari
+30,23/05/81,Udinese,2-1,Napoli

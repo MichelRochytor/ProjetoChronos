@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/09/79,Ascoli,0-0,Napoli
+1,15/09/79,Avellino,0-0,Lazio
+1,15/09/79,Cagliari,0-0,Torino
+1,15/09/79,Fiorentina,1-1,Udinese
+1,15/09/79,Internazionale,2-0,Pescara
+1,15/09/79,Juventus,1-1,Bologna
+1,15/09/79,Perugia,0-0,Catanzaro
+1,15/09/79,Roma,0-0,AC Milan
+2,22/09/79,Bologna,1-1,Perugia
+2,22/09/79,Catanzaro,0-1,Juventus
+2,22/09/79,Lazio,2-0,Fiorentina
+2,22/09/79,AC Milan,1-0,Avellino
+2,22/09/79,Napoli,0-0,Cagliari
+2,22/09/79,Pescara,2-3,Roma
+2,22/09/79,Torino,1-0,Ascoli
+2,22/09/79,Udinese,1-1,Internazionale
+3,29/09/79,Ascoli,2-2,Catanzaro
+3,29/09/79,Avellino,0-2,Torino
+3,29/09/79,Cagliari,0-0,AC Milan
+3,29/09/79,Fiorentina,0-0,Napoli
+3,29/09/79,Internazionale,2-1,Lazio
+3,29/09/79,Juventus,3-0,Pescara
+3,29/09/79,Perugia,2-0,Udinese
+3,29/09/79,Roma,1-2,Bologna
+4,06/10/79,Bologna,1-2,Internazionale
+4,06/10/79,Catanzaro,0-0,Avellino
+4,06/10/79,Lazio,1-1,Perugia
+4,06/10/79,AC Milan,2-1,Juventus
+4,06/10/79,Napoli,3-0,Roma
+4,06/10/79,Pescara,0-0,Ascoli
+4,06/10/79,Torino,1-1,Fiorentina
+4,06/10/79,Udinese,1-1,Cagliari
+9,10/10/79,Ascoli,1-0,Fiorentina
+9,10/10/79,Bologna,4-1,Catanzaro
+9,10/10/79,Cagliari,1-1,Avellino
+9,10/10/79,Internazionale,4-0,Juventus
+9,10/10/79,Lazio,2-0,Pescara
+9,10/10/79,Napoli,1-0,Udinese
+9,10/10/79,Perugia,3-1,Roma
+9,10/10/79,Torino,0-1,AC Milan
+5,13/10/79,Ascoli,1-1,Lazio
+5,13/10/79,Avellino,1-0,Bologna
+5,13/10/79,Cagliari,1-0,Catanzaro
+5,13/10/79,Fiorentina,2-0,Pescara
+5,13/10/79,Internazionale,1-0,Napoli
+5,13/10/79,Juventus,1-1,Udinese
+5,13/10/79,Perugia,1-1,AC Milan
+5,13/10/79,Roma,1-1,Torino
+6,20/10/79,Bologna,2-1,Fiorentina
+6,20/10/79,Catanzaro,0-0,Internazionale
+6,20/10/79,Lazio,1-1,Cagliari
+6,20/10/79,AC Milan,3-0,Ascoli
+6,20/10/79,Napoli,1-1,Perugia
+6,20/10/79,Pescara,1-1,Avellino
+6,20/10/79,Torino,1-2,Juventus
+6,20/10/79,Udinese,0-0,Roma
+7,27/10/79,Ascoli,2-0,Bologna
+7,27/10/79,Avellino,0-0,Udinese
+7,27/10/79,Cagliari,1-0,Pescara
+7,27/10/79,Fiorentina,3-0,Catanzaro
+7,27/10/79,Internazionale,2-0,AC Milan
+7,27/10/79,Juventus,1-0,Napoli
+7,27/10/79,Perugia,0-2,Torino
+7,27/10/79,Roma,1-1,Lazio
+8,03/11/79,Bologna,0-1,Cagliari
+8,03/11/79,Catanzaro,2-2,Roma
+8,03/11/79,Lazio,1-0,Juventus
+8,03/11/79,AC Milan,2-0,Fiorentina
+8,03/11/79,Napoli,0-1,Avellino
+8,03/11/79,Pescara,1-1,Perugia
+8,03/11/79,Torino,0-0,Internazionale
+8,03/11/79,Udinese,3-1,Ascoli
+10,24/11/79,Avellino,0-0,Internazionale
+10,24/11/79,Catanzaro,2-1,Lazio
+10,24/11/79,Fiorentina,0-0,Perugia
+10,24/11/79,Juventus,1-0,Cagliari
+10,24/11/79,AC Milan,1-2,Napoli
+10,24/11/79,Pescara,0-0,Bologna
+10,24/11/79,Roma,1-0,Ascoli
+10,24/11/79,Udinese,0-1,Torino
+11,01/12/79,Avellino,1-0,Juventus
+11,01/12/79,Bologna,1-0,Lazio
+11,01/12/79,Cagliari,1-1,Internazionale
+11,01/12/79,AC Milan,0-0,Udinese
+11,01/12/79,Perugia,0-0,Ascoli
+11,01/12/79,Pescara,1-0,Napoli
+11,01/12/79,Roma,2-1,Fiorentina
+11,01/12/79,Torino,0-0,Catanzaro
+12,08/12/79,Ascoli,0-0,Avellino
+12,08/12/79,Bologna,0-1,AC Milan
+12,08/12/79,Cagliari,2-1,Fiorentina
+12,08/12/79,Catanzaro,1-1,Pescara
+12,08/12/79,Internazionale,3-2,Perugia
+12,08/12/79,Juventus,2-0,Roma
+12,08/12/79,Lazio,0-0,Udinese
+12,08/12/79,Napoli,1-0,Torino
+13,15/12/79,Ascoli,1-0,Cagliari
+13,15/12/79,Fiorentina,3-0,Avellino
+13,15/12/79,AC Milan,0-0,Catanzaro
+13,15/12/79,Napoli,0-0,Lazio
+13,15/12/79,Perugia,1-0,Juventus
+13,15/12/79,Roma,1-0,Internazionale
+13,15/12/79,Torino,2-0,Pescara
+13,15/12/79,Udinese,0-2,Bologna
+14,29/12/79,Avellino,2-2,Perugia
+14,29/12/79,Bologna,0-0,Napoli
+14,29/12/79,Cagliari,1-3,Roma
+14,29/12/79,Catanzaro,1-1,Udinese
+14,29/12/79,Internazionale,0-0,Fiorentina
+14,29/12/79,Juventus,2-3,Ascoli
+14,29/12/79,Lazio,2-1,Torino
+14,29/12/79,Pescara,2-1,AC Milan
+15,05/01/80,Ascoli,1-1,Internazionale
+15,05/01/80,Fiorentina,2-1,Juventus
+15,05/01/80,AC Milan,2-1,Lazio
+15,05/01/80,Napoli,1-1,Catanzaro
+15,05/01/80,Perugia,1-0,Cagliari
+15,05/01/80,Roma,1-1,Avellino
+15,05/01/80,Torino,0-0,Bologna
+15,05/01/80,Udinese,2-1,Pescara
+16,12/01/80,Bologna,1-1,Juventus
+16,12/01/80,Catanzaro,2-1,Perugia
+16,12/01/80,Lazio,1-1,Avellino
+16,12/01/80,AC Milan,0-0,Roma
+16,12/01/80,Napoli,1-0,Ascoli
+16,12/01/80,Pescara,0-2,Internazionale
+16,12/01/80,Torino,0-0,Cagliari
+16,12/01/80,Udinese,2-2,Fiorentina
+17,19/01/80,Ascoli,1-0,Torino
+17,19/01/80,Avellino,1-0,AC Milan
+17,19/01/80,Cagliari,1-0,Napoli
+17,19/01/80,Fiorentina,0-0,Lazio
+17,19/01/80,Internazionale,2-1,Udinese
+17,19/01/80,Juventus,1-0,Catanzaro
+17,19/01/80,Perugia,1-1,Bologna
+17,19/01/80,Roma,2-0,Pescara
+18,26/01/80,Bologna,1-1,Roma
+18,26/01/80,Catanzaro,1-1,Ascoli
+18,26/01/80,Lazio,0-0,Internazionale
+18,26/01/80,AC Milan,2-0,Cagliari
+18,26/01/80,Napoli,0-0,Fiorentina
+18,26/01/80,Pescara,0-2,Juventus
+18,26/01/80,Torino,2-2,Avellino
+18,26/01/80,Udinese,1-2,Perugia
+19,02/02/80,Ascoli,3-1,Pescara
+19,02/02/80,Avellino,2-0,Catanzaro
+19,02/02/80,Cagliari,3-1,Udinese
+19,02/02/80,Fiorentina,1-0,Torino
+19,02/02/80,Internazionale,0-0,Bologna
+19,02/02/80,Juventus,2-1,AC Milan
+19,02/02/80,Perugia,0-0,Lazio
+19,02/02/80,Roma,0-0,Napoli
+20,09/02/80,Bologna,1-0,Avellino
+20,09/02/80,Catanzaro,1-0,Cagliari
+20,09/02/80,Lazio,0-1,Ascoli
+20,09/02/80,AC Milan,1-0,Perugia
+20,09/02/80,Napoli,3-4,Internazionale
+20,09/02/80,Pescara,1-2,Fiorentina
+20,09/02/80,Torino,1-0,Roma
+20,09/02/80,Udinese,1-3,Juventus
+21,23/02/80,Ascoli,0-0,AC Milan
+21,23/02/80,Avellino,2-0,Pescara
+21,23/02/80,Cagliari,1-1,Lazio
+21,23/02/80,Fiorentina,0-0,Bologna
+21,23/02/80,Internazionale,3-1,Catanzaro
+21,23/02/80,Juventus,0-0,Torino
+21,23/02/80,Perugia,1-0,Napoli
+21,23/02/80,Roma,1-1,Udinese
+22,01/03/80,Bologna,0-0,Ascoli
+22,01/03/80,Catanzaro,0-1,Fiorentina
+22,01/03/80,Lazio,1-2,Roma
+22,01/03/80,AC Milan,0-1,Internazionale
+22,01/03/80,Napoli,0-0,Juventus
+22,01/03/80,Pescara,2-0,Cagliari
+22,01/03/80,Torino,2-0,Perugia
+22,01/03/80,Udinese,0-1,Avellino
+23,08/03/80,Ascoli,3-0,Udinese
+23,08/03/80,Avellino,2-3,Napoli
+23,08/03/80,Cagliari,1-0,Bologna
+23,08/03/80,Fiorentina,1-1,AC Milan
+23,08/03/80,Internazionale,1-1,Torino
+23,08/03/80,Juventus,0-0,Lazio
+23,08/03/80,Perugia,1-0,Pescara
+23,08/03/80,Roma,1-0,Catanzaro
+24,22/03/80,Avellino,2-2,Cagliari
+24,22/03/80,Catanzaro,0-0,Bologna
+24,22/03/80,Fiorentina,3-1,Ascoli
+24,22/03/80,Juventus,2-0,Internazionale
+24,22/03/80,AC Milan,0-2,Torino
+24,22/03/80,Pescara,2-0,Lazio
+24,22/03/80,Roma,4-0,Perugia
+24,22/03/80,Udinese,0-0,Napoli
+25,29/03/80,Ascoli,3-0,Roma
+25,29/03/80,Bologna,0-0,Pescara
+25,29/03/80,Cagliari,2-1,Juventus
+25,29/03/80,Internazionale,3-0,Avellino
+25,29/03/80,Lazio,2-0,Catanzaro
+25,29/03/80,Napoli,0-1,AC Milan
+25,29/03/80,Perugia,1-2,Fiorentina
+25,29/03/80,Torino,1-1,Udinese
+26,04/04/80,Ascoli,1-0,Perugia
+26,04/04/80,Catanzaro,0-0,Torino
+26,04/04/80,Fiorentina,3-1,Roma
+26,04/04/80,Internazionale,3-3,Cagliari
+26,04/04/80,Juventus,2-0,Avellino
+26,04/04/80,Lazio,0-1,Bologna
+26,04/04/80,Napoli,2-0,Pescara
+26,04/04/80,Udinese,2-1,AC Milan
+27,12/04/80,Avellino,2-2,Ascoli
+27,12/04/80,Fiorentina,1-1,Cagliari
+27,12/04/80,AC Milan,4-0,Bologna
+27,12/04/80,Perugia,0-0,Internazionale
+27,12/04/80,Pescara,1-1,Catanzaro
+27,12/04/80,Roma,1-3,Juventus
+27,12/04/80,Torino,0-0,Napoli
+27,12/04/80,Udinese,1-1,Lazio
+28,26/04/80,Avellino,0-2,Fiorentina
+28,26/04/80,Bologna,2-1,Udinese
+28,26/04/80,Cagliari,1-1,Ascoli
+28,26/04/80,Catanzaro,0-3,AC Milan
+28,26/04/80,Internazionale,2-2,Roma
+28,26/04/80,Juventus,3-0,Perugia
+28,26/04/80,Lazio,1-1,Napoli
+28,26/04/80,Pescara,0-2,Torino
+29,03/05/80,Ascoli,2-3,Juventus
+29,03/05/80,Fiorentina,0-2,Internazionale
+29,03/05/80,AC Milan,3-1,Pescara
+29,03/05/80,Napoli,1-1,Bologna
+29,03/05/80,Perugia,2-1,Avellino
+29,03/05/80,Roma,1-1,Cagliari
+29,03/05/80,Torino,1-0,Lazio
+29,03/05/80,Udinese,1-2,Catanzaro
+30,10/05/80,Avellino,0-1,Roma
+30,10/05/80,Bologna,1-2,Torino
+30,10/05/80,Cagliari,1-2,Perugia
+30,10/05/80,Catanzaro,2-0,Napoli
+30,10/05/80,Internazionale,2-4,Ascoli
+30,10/05/80,Juventus,3-0,Fiorentina
+30,10/05/80,Lazio,0-2,AC Milan
+30,10/05/80,Pescara,1-1,Udinese

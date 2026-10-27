@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/09/53,Bologna,2-1,Atalanta
+1,13/09/53,Internazionale,2-0,Lazio
+1,13/09/53,Juventus,3-1,Triestina
+1,13/09/53,Legnano,1-2,Fiorentina
+1,13/09/53,Napoli,3-0,Palermo
+1,13/09/53,Novara,4-2,SPAL
+1,13/09/53,Roma,4-0,Genoa
+1,13/09/53,Sampdoria,1-1,Torino
+1,13/09/53,Udinese,2-2,AC Milan
+2,20/09/53,Atalanta,0-2,Internazionale
+2,20/09/53,Fiorentina,2-0,Roma
+2,20/09/53,Genoa,1-3,Juventus
+2,20/09/53,Lazio,1-1,Legnano
+2,20/09/53,AC Milan,0-0,Novara
+2,20/09/53,Palermo,4-0,Udinese
+2,20/09/53,SPAL,2-1,Sampdoria
+2,20/09/53,Torino,0-2,Napoli
+2,20/09/53,Triestina,3-1,Bologna
+3,27/09/53,Bologna,2-0,Torino
+3,27/09/53,Internazionale,4-2,SPAL
+3,27/09/53,Juventus,0-0,Fiorentina
+3,27/09/53,Napoli,6-3,Atalanta
+3,27/09/53,Novara,2-1,Lazio
+3,27/09/53,Palermo,3-3,Legnano
+3,27/09/53,Roma,3-0,Udinese
+3,27/09/53,Sampdoria,2-1,AC Milan
+3,27/09/53,Triestina,1-1,Genoa
+4,04/10/53,Atalanta,1-1,Roma
+4,04/10/53,Fiorentina,3-1,Palermo
+4,04/10/53,Genoa,3-3,Bologna
+4,04/10/53,Lazio,2-1,Juventus
+4,04/10/53,Legnano,1-1,Internazionale
+4,04/10/53,AC Milan,4-0,Triestina
+4,04/10/53,SPAL,1-1,Napoli
+4,04/10/53,Torino,1-0,Novara
+4,04/10/53,Udinese,1-2,Sampdoria
+5,11/10/53,Bologna,1-0,Lazio
+5,11/10/53,Genoa,1-0,Atalanta
+5,11/10/53,Internazionale,2-1,Fiorentina
+5,11/10/53,Juventus,1-0,Sampdoria
+5,11/10/53,Legnano,1-3,SPAL
+5,11/10/53,Napoli,0-1,AC Milan
+5,11/10/53,Novara,0-0,Udinese
+5,11/10/53,Roma,2-2,Torino
+5,11/10/53,Triestina,1-0,Palermo
+6,18/10/53,Atalanta,1-1,Novara
+6,18/10/53,Fiorentina,1-0,Genoa
+6,18/10/53,Internazionale,3-2,Bologna
+6,18/10/53,Lazio,0-4,Napoli
+6,18/10/53,Palermo,1-4,AC Milan
+6,18/10/53,Sampdoria,3-1,Legnano
+6,18/10/53,SPAL,0-0,Roma
+6,18/10/53,Torino,2-4,Juventus
+6,18/10/53,Udinese,4-2,Triestina
+7,25/10/53,Bologna,1-1,Fiorentina
+7,25/10/53,Genoa,2-0,Novara
+7,25/10/53,Legnano,1-1,Juventus
+7,25/10/53,AC Milan,3-3,Atalanta
+7,25/10/53,Napoli,1-0,Triestina
+7,25/10/53,Palermo,2-1,Sampdoria
+7,25/10/53,Roma,1-1,Internazionale
+7,25/10/53,Torino,0-1,Lazio
+7,25/10/53,Udinese,1-1,SPAL
+8,01/11/53,Atalanta,4-1,Legnano
+8,01/11/53,Genoa,1-1,Torino
+8,01/11/53,Internazionale,3-0,AC Milan
+8,01/11/53,Juventus,1-0,Udinese
+8,01/11/53,Lazio,3-0,Palermo
+8,01/11/53,Napoli,1-1,Sampdoria
+8,01/11/53,Novara,0-0,Fiorentina
+8,01/11/53,SPAL,0-0,Bologna
+8,01/11/53,Triestina,2-2,Roma
+9,08/11/53,Atalanta,0-1,Palermo
+9,08/11/53,Bologna,0-1,Juventus
+9,08/11/53,Fiorentina,1-0,Napoli
+9,08/11/53,Legnano,2-1,Triestina
+9,08/11/53,AC Milan,3-0,Genoa
+9,08/11/53,Roma,3-0,Novara
+9,08/11/53,Sampdoria,0-0,Internazionale
+9,08/11/53,Torino,1-0,SPAL
+9,08/11/53,Udinese,1-1,Lazio
+10,22/11/53,Genoa,0-1,Sampdoria
+10,22/11/53,Juventus,2-2,Internazionale
+10,22/11/53,Lazio,2-3,Fiorentina
+10,22/11/53,AC Milan,3-1,Legnano
+10,22/11/53,Napoli,2-1,Udinese
+10,22/11/53,Novara,1-0,Bologna
+10,22/11/53,Palermo,1-3,Roma
+10,22/11/53,SPAL,3-2,Atalanta
+10,22/11/53,Triestina,2-1,Torino
+11,29/11/53,Fiorentina,1-0,Triestina
+11,29/11/53,Internazionale,2-0,Napoli
+11,29/11/53,Legnano,0-1,Bologna
+11,29/11/53,Palermo,2-1,Genoa
+11,29/11/53,Roma,1-1,Lazio
+11,29/11/53,Sampdoria,3-1,Novara
+11,29/11/53,SPAL,1-3,Juventus
+11,29/11/53,Torino,1-4,AC Milan
+11,29/11/53,Udinese,2-2,Atalanta
+12,06/12/53,Atalanta,1-1,Torino
+12,06/12/53,Bologna,0-0,Napoli
+12,06/12/53,Fiorentina,0-0,AC Milan
+12,06/12/53,Genoa,2-1,Legnano
+12,06/12/53,Internazionale,0-2,Udinese
+12,06/12/53,Juventus,3-0,Roma
+12,06/12/53,Lazio,2-1,SPAL
+12,06/12/53,Novara,3-0,Palermo
+12,06/12/53,Triestina,2-1,Sampdoria
+13,20/12/53,Atalanta,4-2,Triestina
+13,20/12/53,Lazio,3-0,Genoa
+13,20/12/53,AC Milan,1-0,Juventus
+13,20/12/53,Napoli,1-0,Legnano
+13,20/12/53,Novara,2-3,Internazionale
+13,20/12/53,Sampdoria,2-1,Roma
+13,20/12/53,SPAL,1-1,Fiorentina
+13,20/12/53,Torino,2-1,Palermo
+13,20/12/53,Udinese,3-2,Bologna
+14,27/12/53,Bologna,2-1,AC Milan
+14,27/12/53,Fiorentina,2-2,Torino
+14,27/12/53,Internazionale,1-0,Genoa
+14,27/12/53,Juventus,0-0,Novara
+14,27/12/53,Legnano,0-0,Udinese
+14,27/12/53,Palermo,1-0,SPAL
+14,27/12/53,Roma,0-0,Napoli
+14,27/12/53,Sampdoria,2-0,Atalanta
+14,27/12/53,Triestina,1-1,Lazio
+15,03/01/54,Bologna,1-2,Roma
+15,03/01/54,Fiorentina,2-0,Sampdoria
+15,03/01/54,Genoa,4-1,Udinese
+15,03/01/54,Internazionale,4-0,Palermo
+15,03/01/54,Juventus,2-0,Atalanta
+15,03/01/54,Lazio,1-1,AC Milan
+15,03/01/54,Legnano,0-0,Torino
+15,03/01/54,Novara,1-1,Napoli
+15,03/01/54,SPAL,0-0,Triestina
+16,10/01/54,Atalanta,1-0,Lazio
+16,10/01/54,AC Milan,6-1,SPAL
+16,10/01/54,Napoli,0-2,Genoa
+16,10/01/54,Novara,2-0,Triestina
+16,10/01/54,Palermo,1-3,Juventus
+16,10/01/54,Roma,5-3,Legnano
+16,10/01/54,Sampdoria,2-2,Bologna
+16,10/01/54,Torino,1-1,Internazionale
+16,10/01/54,Udinese,1-2,Fiorentina
+17,17/01/54,Fiorentina,3-0,Atalanta
+17,17/01/54,Genoa,1-0,SPAL
+17,17/01/54,Lazio,3-0,Sampdoria
+17,17/01/54,Legnano,5-1,Novara
+17,17/01/54,AC Milan,1-2,Roma
+17,17/01/54,Napoli,1-2,Juventus
+17,17/01/54,Palermo,3-1,Bologna
+17,17/01/54,Torino,1-0,Udinese
+17,17/01/54,Triestina,0-0,Internazionale
+18,31/01/54,Atalanta,1-3,Bologna
+18,31/01/54,Fiorentina,4-0,Legnano
+18,31/01/54,Genoa,1-0,Roma
+18,31/01/54,Lazio,0-1,Internazionale
+18,31/01/54,AC Milan,2-1,Udinese
+18,31/01/54,Palermo,2-2,Napoli
+18,31/01/54,SPAL,2-1,Novara
+18,31/01/54,Torino,2-0,Sampdoria
+18,31/01/54,Triestina,2-2,Juventus
+19,07/02/54,Bologna,4-0,Triestina
+19,07/02/54,Internazionale,3-1,Atalanta
+19,07/02/54,Juventus,3-1,Genoa
+19,07/02/54,Legnano,2-1,Lazio
+19,07/02/54,Napoli,2-2,Torino
+19,07/02/54,Novara,1-1,AC Milan
+19,07/02/54,Roma,1-2,Fiorentina
+19,07/02/54,Sampdoria,0-0,SPAL
+19,07/02/54,Udinese,1-0,Palermo
+20,14/02/54,Atalanta,1-1,Napoli
+20,14/02/54,Fiorentina,1-1,Juventus
+20,14/02/54,Genoa,1-0,Triestina
+20,14/02/54,Lazio,2-1,Novara
+20,14/02/54,Legnano,3-0,Palermo
+20,14/02/54,AC Milan,1-1,Sampdoria
+20,14/02/54,SPAL,2-2,Internazionale
+20,14/02/54,Torino,0-1,Bologna
+20,14/02/54,Udinese,2-1,Roma
+21,21/02/54,Bologna,1-1,Genoa
+21,21/02/54,Internazionale,2-2,Legnano
+21,21/02/54,Juventus,0-0,Lazio
+21,21/02/54,Napoli,3-1,SPAL
+21,21/02/54,Novara,1-1,Torino
+21,21/02/54,Palermo,0-1,Fiorentina
+21,21/02/54,Roma,0-0,Atalanta
+21,21/02/54,Sampdoria,1-1,Udinese
+21,21/02/54,Triestina,0-6,AC Milan
+22,28/02/54,Atalanta,1-0,Genoa
+22,28/02/54,Fiorentina,1-1,Internazionale
+22,28/02/54,Lazio,1-1,Bologna
+22,28/02/54,AC Milan,3-2,Napoli
+22,28/02/54,Palermo,1-1,Triestina
+22,28/02/54,Sampdoria,0-1,Juventus
+22,28/02/54,SPAL,1-0,Legnano
+22,28/02/54,Torino,1-1,Roma
+22,28/02/54,Udinese,1-1,Novara
+23,07/03/54,Bologna,0-1,Internazionale
+23,07/03/54,Genoa,1-3,Fiorentina
+23,07/03/54,Juventus,0-0,Torino
+23,07/03/54,Legnano,2-2,Sampdoria
+23,07/03/54,AC Milan,2-1,Palermo
+23,07/03/54,Napoli,2-1,Lazio
+23,07/03/54,Novara,0-4,Atalanta
+23,07/03/54,Roma,3-0,SPAL
+23,07/03/54,Triestina,2-1,Udinese
+24,14/03/54,Atalanta,3-1,AC Milan
+24,14/03/54,Fiorentina,1-3,Bologna
+24,14/03/54,Internazionale,1-1,Roma
+24,14/03/54,Juventus,2-1,Legnano
+24,14/03/54,Lazio,0-1,Torino
+24,14/03/54,Novara,2-0,Genoa
+24,14/03/54,Sampdoria,2-2,Palermo
+24,14/03/54,SPAL,2-1,Udinese
+24,14/03/54,Triestina,1-1,Napoli
+25,21/03/54,Bologna,2-1,SPAL
+25,21/03/54,Fiorentina,2-0,Novara
+25,21/03/54,Legnano,1-2,Atalanta
+25,21/03/54,AC Milan,2-0,Internazionale
+25,21/03/54,Palermo,2-0,Lazio
+25,21/03/54,Roma,3-1,Triestina
+25,21/03/54,Sampdoria,1-0,Napoli
+25,21/03/54,Torino,3-2,Genoa
+25,21/03/54,Udinese,0-2,Juventus
+26,28/03/54,Genoa,2-2,AC Milan
+26,28/03/54,Internazionale,2-1,Sampdoria
+26,28/03/54,Juventus,2-2,Bologna
+26,28/03/54,Lazio,0-1,Udinese
+26,28/03/54,Napoli,0-0,Fiorentina
+26,28/03/54,Novara,2-0,Roma
+26,28/03/54,Palermo,0-0,Atalanta
+26,28/03/54,SPAL,2-3,Torino
+26,28/03/54,Triestina,2-1,Legnano
+27,04/04/54,Atalanta,0-1,SPAL
+27,04/04/54,Bologna,2-0,Novara
+27,04/04/54,Fiorentina,0-1,Lazio
+27,04/04/54,Internazionale,6-0,Juventus
+27,04/04/54,Legnano,2-2,AC Milan
+27,04/04/54,Roma,3-1,Palermo
+27,04/04/54,Sampdoria,0-0,Genoa
+27,04/04/54,Torino,1-1,Triestina
+27,04/04/54,Udinese,3-3,Napoli
+28,18/04/54,Atalanta,6-0,Udinese
+28,18/04/54,Bologna,2-0,Legnano
+28,18/04/54,Genoa,1-0,Palermo
+28,18/04/54,Juventus,3-1,SPAL
+28,18/04/54,Lazio,1-2,Roma
+28,18/04/54,AC Milan,0-1,Torino
+28,18/04/54,Napoli,2-1,Internazionale
+28,18/04/54,Novara,3-0,Sampdoria
+28,18/04/54,Triestina,1-1,Fiorentina
+29,25/04/54,Legnano,1-1,Genoa
+29,25/04/54,AC Milan,2-1,Fiorentina
+29,25/04/54,Napoli,2-1,Bologna
+29,25/04/54,Palermo,1-1,Novara
+29,25/04/54,Roma,1-1,Juventus
+29,25/04/54,Sampdoria,2-1,Triestina
+29,25/04/54,SPAL,0-1,Lazio
+29,25/04/54,Torino,1-3,Atalanta
+29,25/04/54,Udinese,0-2,Internazionale
+30,02/05/54,Bologna,3-1,Udinese
+30,02/05/54,Fiorentina,1-1,SPAL
+30,02/05/54,Genoa,3-1,Lazio
+30,02/05/54,Internazionale,3-1,Novara
+30,02/05/54,Juventus,1-0,AC Milan
+30,02/05/54,Legnano,1-0,Napoli
+30,02/05/54,Palermo,1-1,Torino
+30,02/05/54,Roma,3-1,Sampdoria
+30,02/05/54,Triestina,3-2,Atalanta
+31,09/05/54,Atalanta,1-1,Sampdoria
+31,09/05/54,Genoa,1-3,Internazionale
+31,09/05/54,Lazio,5-1,Triestina
+31,09/05/54,AC Milan,2-1,Bologna
+31,09/05/54,Napoli,1-0,Roma
+31,09/05/54,Novara,0-1,Juventus
+31,09/05/54,SPAL,0-1,Palermo
+31,09/05/54,Torino,1-1,Fiorentina
+31,09/05/54,Udinese,1-2,Legnano
+32,16/05/54,Atalanta,3-2,Juventus
+32,16/05/54,AC Milan,3-2,Lazio
+32,16/05/54,Napoli,5-1,Novara
+32,16/05/54,Palermo,2-2,Internazionale
+32,16/05/54,Roma,1-3,Bologna
+32,16/05/54,Sampdoria,2-0,Fiorentina
+32,16/05/54,Torino,2-2,Legnano
+32,16/05/54,Triestina,3-0,SPAL
+32,16/05/54,Udinese,3-1,Genoa
+33,23/05/54,Bologna,0-2,Sampdoria
+33,23/05/54,Fiorentina,0-0,Udinese
+33,23/05/54,Genoa,1-1,Napoli
+33,23/05/54,Internazionale,2-0,Torino
+33,23/05/54,Juventus,4-1,Palermo
+33,23/05/54,Lazio,2-2,Atalanta
+33,23/05/54,Legnano,2-2,Roma
+33,23/05/54,SPAL,0-0,AC Milan
+33,23/05/54,Triestina,3-1,Novara
+34,30/05/54,Atalanta,1-1,Fiorentina
+34,30/05/54,Bologna,0-1,Palermo
+34,30/05/54,Internazionale,4-2,Triestina

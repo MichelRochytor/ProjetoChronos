@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,04/10/42,Genoa,6-1,Associazione del Calcio in Vic
+1,04/10/42,Triestina,0-0,Lazio
+1,04/10/42,Roma,1-0,Fiorentina
+1,04/10/42,Juventus-Cisitalia,1-1,AC Milan
+1,04/10/42,Bologna,2-0,Atalanta
+1,04/10/42,US Bari,2-0,AC Liguria
+1,04/10/42,Ambrosiana-Inter,1-0,Torino
+1,04/10/42,Livorno 1915,2-1,Venezia
+2,11/10/42,Associazione del Calcio in Vic,1-2,Roma
+2,11/10/42,Venezia,1-1,Juventus-Cisitalia
+2,11/10/42,Atalanta,2-0,US Bari
+2,11/10/42,Fiorentina,2-2,Triestina
+2,11/10/42,Lazio,2-1,Bologna
+2,11/10/42,AC Liguria,1-1,Ambrosiana-Inter
+2,11/10/42,Torino,1-2,Livorno 1915
+2,11/10/42,AC Milan,0-0,Genoa
+3,18/10/42,Fiorentina,4-2,Associazione del Calcio in Vic
+3,18/10/42,US Bari,2-1,Lazio
+3,18/10/42,Genoa,5-1,Venezia
+3,18/10/42,Juventus-Cisitalia,2-5,Torino
+3,18/10/42,Livorno 1915,3-1,AC Liguria
+3,18/10/42,Roma,1-1,AC Milan
+3,18/10/42,Triestina,0-0,Bologna
+3,18/10/42,Ambrosiana-Inter,1-0,Atalanta
+4,25/10/42,Associazione del Calcio in Vic,2-1,Triestina
+4,25/10/42,Venezia,0-0,Roma
+4,25/10/42,Torino,3-1,Genoa
+4,25/10/42,AC Milan,1-3,Fiorentina
+4,25/10/42,AC Liguria,1-0,Juventus-Cisitalia
+4,25/10/42,Lazio,3-1,Ambrosiana-Inter
+4,25/10/42,Bologna,4-0,US Bari
+4,25/10/42,Atalanta,0-2,Livorno 1915
+5,01/11/42,Fiorentina,2-1,Venezia
+5,01/11/42,Triestina,1-1,US Bari
+5,01/11/42,Associazione del Calcio in Vic,1-1,AC Milan
+5,01/11/42,Roma,0-4,Torino
+5,01/11/42,Livorno 1915,4-2,Lazio
+5,01/11/42,Genoa,3-0,AC Liguria
+5,01/11/42,Ambrosiana-Inter,1-0,Bologna
+5,01/11/42,Juventus-Cisitalia,5-1,Atalanta
+6,08/11/42,Venezia,0-1,Associazione del Calcio in Vic
+6,08/11/42,Torino,5-0,Fiorentina
+6,08/11/42,AC Milan,2-0,Triestina
+6,08/11/42,AC Liguria,3-0,Roma
+6,08/11/42,Lazio,5-3,Juventus-Cisitalia
+6,08/11/42,Atalanta,3-1,Genoa
+6,08/11/42,US Bari,1-0,Ambrosiana-Inter
+6,08/11/42,Bologna,1-2,Livorno 1915
+7,15/11/42,Associazione del Calcio in Vic,0-1,Torino
+7,15/11/42,Fiorentina,5-1,AC Liguria
+7,15/11/42,Genoa,6-5,Lazio
+7,15/11/42,Juventus-Cisitalia,3-1,Bologna
+7,15/11/42,Livorno 1915,1-1,US Bari
+7,15/11/42,AC Milan,1-2,Venezia
+7,15/11/42,Roma,2-1,Atalanta
+7,15/11/42,Triestina,0-0,Ambrosiana-Inter
+8,22/11/42,AC Liguria,3-1,Associazione del Calcio in Vic
+8,22/11/42,Venezia,1-1,Triestina
+8,22/11/42,Lazio,3-1,Roma
+8,22/11/42,Ambrosiana-Inter,0-1,Livorno 1915
+8,22/11/42,Torino,0-1,AC Milan
+8,22/11/42,Atalanta,1-0,Fiorentina
+8,22/11/42,US Bari,2-3,Juventus-Cisitalia
+8,22/11/42,Bologna,3-1,Genoa
+9,29/11/42,Venezia,0-3,Torino
+9,29/11/42,Associazione del Calcio in Vic,2-3,Atalanta
+9,29/11/42,Fiorentina,1-1,Lazio
+9,29/11/42,Genoa,3-2,US Bari
+9,29/11/42,Juventus-Cisitalia,4-2,Ambrosiana-Inter
+9,29/11/42,AC Milan,0-0,AC Liguria
+9,29/11/42,Roma,1-1,Bologna
+9,29/11/42,Triestina,1-1,Livorno 1915
+10,06/12/42,Livorno 1915,0-3,Juventus-Cisitalia
+10,06/12/42,AC Liguria,1-0,Venezia
+10,06/12/42,Lazio,2-1,Associazione del Calcio in Vic
+10,06/12/42,Bologna,3-1,Fiorentina
+10,06/12/42,Atalanta,0-0,AC Milan
+10,06/12/42,Torino,4-1,Triestina
+10,06/12/42,Ambrosiana-Inter,3-0,Genoa
+10,06/12/42,US Bari,2-2,Roma
+11,13/12/42,Torino,3-0,AC Liguria
+11,13/12/42,Associazione del Calcio in Vic,0-1,Bologna
+11,13/12/42,Venezia,1-1,Atalanta
+11,13/12/42,Triestina,1-1,Juventus-Cisitalia
+11,13/12/42,AC Milan,4-1,Lazio
+11,13/12/42,Fiorentina,1-0,US Bari
+11,13/12/42,Genoa,5-2,Livorno 1915
+11,13/12/42,Roma,1-3,Ambrosiana-Inter
+12,20/12/42,US Bari,0-0,Associazione del Calcio in Vic
+12,20/12/42,Livorno 1915,2-0,Roma
+12,20/12/42,AC Liguria,1-1,Triestina
+12,20/12/42,Lazio,1-1,Venezia
+12,20/12/42,Bologna,3-0,AC Milan
+12,20/12/42,Atalanta,1-0,Torino
+12,20/12/42,Ambrosiana-Inter,4-0,Fiorentina
+12,20/12/42,Juventus-Cisitalia,3-2,Genoa
+13,27/12/42,Associazione del Calcio in Vic,2-2,Ambrosiana-Inter
+13,27/12/42,Venezia,1-0,Bologna
+13,27/12/42,Fiorentina,4-3,Livorno 1915
+13,27/12/42,Triestina,0-1,Genoa
+13,27/12/42,Torino,2-2,Lazio
+13,27/12/42,AC Liguria,3-0,Atalanta
+13,27/12/42,Roma,1-2,Juventus-Cisitalia
+13,27/12/42,AC Milan,3-1,US Bari
+14,03/01/43,Livorno 1915,2-0,Associazione del Calcio in Vic
+14,03/01/43,Triestina,0-1,Atalanta
+14,03/01/43,Ambrosiana-Inter,3-1,AC Milan
+14,03/01/43,US Bari,2-1,Venezia
+14,03/01/43,Bologna,1-2,Torino
+14,03/01/43,Genoa,0-2,Roma
+14,03/01/43,Juventus-Cisitalia,5-2,Fiorentina
+14,03/01/43,Lazio,5-1,AC Liguria
+15,10/01/43,Associazione del Calcio in Vic,0-0,Juventus-Cisitalia
+15,10/01/43,Venezia,0-2,Ambrosiana-Inter
+15,10/01/43,Torino,3-0,US Bari
+15,10/01/43,Roma,1-2,Triestina
+15,10/01/43,AC Milan,1-1,Livorno 1915
+15,10/01/43,Fiorentina,3-2,Genoa
+15,10/01/43,Atalanta,2-0,Lazio
+15,10/01/43,AC Liguria,1-7,Bologna
+16,17/01/43,AC Milan,2-0,Juventus-Cisitalia
+16,17/01/43,Venezia,0-1,Livorno 1915
+16,17/01/43,Associazione del Calcio in Vic,0-1,Genoa
+16,17/01/43,Torino,1-3,Ambrosiana-Inter
+16,17/01/43,Lazio,3-1,Triestina
+16,17/01/43,Fiorentina,3-0,Roma
+16,17/01/43,Atalanta,1-0,Bologna
+16,17/01/43,AC Liguria,1-0,US Bari
+17,24/01/43,Bologna,4-0,Lazio
+17,24/01/43,Ambrosiana-Inter,5-1,AC Liguria
+17,24/01/43,Triestina,3-0,Fiorentina
+17,24/01/43,Roma,1-0,Associazione del Calcio in Vic
+17,24/01/43,Livorno 1915,0-0,Torino
+17,24/01/43,Genoa,4-2,AC Milan
+17,24/01/43,US Bari,0-0,Atalanta
+17,24/01/43,Juventus-Cisitalia,5-2,Venezia
+18,31/01/43,Lazio,0-0,US Bari
+18,31/01/43,Venezia,4-1,Genoa
+18,31/01/43,Torino,2-0,Juventus-Cisitalia
+18,31/01/43,Associazione del Calcio in Vic,3-0,Fiorentina
+18,31/01/43,Bologna,2-2,Triestina
+18,31/01/43,Atalanta,2-5,Ambrosiana-Inter
+18,31/01/43,AC Milan,4-1,Roma
+18,31/01/43,AC Liguria,1-2,Livorno 1915
+19,07/02/43,Fiorentina,3-0,AC Milan
+19,07/02/43,Triestina,2-0,Associazione del Calcio in Vic
+19,07/02/43,Roma,2-1,Venezia
+19,07/02/43,Livorno 1915,1-1,Atalanta
+19,07/02/43,Genoa,3-3,Torino
+19,07/02/43,US Bari,0-1,Bologna
+19,07/02/43,Ambrosiana-Inter,4-1,Lazio
+19,07/02/43,Juventus-Cisitalia,4-1,AC Liguria
+20,14/02/43,Lazio,0-1,Livorno 1915
+20,14/02/43,Torino,4-0,Roma
+20,14/02/43,Venezia,2-2,Fiorentina
+20,14/02/43,AC Liguria,1-2,Genoa
+20,14/02/43,US Bari,1-0,Triestina
+20,14/02/43,Atalanta,0-2,Juventus-Cisitalia
+20,14/02/43,AC Milan,1-1,Associazione del Calcio in Vic
+20,14/02/43,Bologna,3-1,Ambrosiana-Inter
+21,21/02/43,Triestina,0-1,AC Milan
+21,21/02/43,Associazione del Calcio in Vic,2-0,Venezia
+21,21/02/43,Roma,5-1,AC Liguria
+21,21/02/43,Livorno 1915,1-0,Bologna
+21,21/02/43,Genoa,1-0,Atalanta
+21,21/02/43,Fiorentina,2-3,Torino
+21,21/02/43,Ambrosiana-Inter,0-0,US Bari
+21,21/02/43,Juventus-Cisitalia,2-4,Lazio
+22,28/02/43,US Bari,1-1,Livorno 1915
+22,28/02/43,Venezia,1-3,AC Milan
+22,28/02/43,Torino,0-0,Associazione del Calcio in Vic
+22,28/02/43,AC Liguria,2-2,Fiorentina
+22,28/02/43,Ambrosiana-Inter,1-0,Triestina
+22,28/02/43,Bologna,2-2,Juventus-Cisitalia
+22,28/02/43,Atalanta,2-1,Roma
+22,28/02/43,Lazio,1-1,Genoa
+24,14/03/43,US Bari,0-0,Genoa
+24,14/03/43,Ambrosiana-Inter,3-1,Juventus-Cisitalia
+24,14/03/43,Torino,3-1,Venezia
+24,14/03/43,Livorno 1915,0-0,Triestina
+24,14/03/43,AC Liguria,2-2,AC Milan
+24,14/03/43,Bologna,4-2,Roma
+24,14/03/43,Atalanta,2-2,Associazione del Calcio in Vic
+24,14/03/43,Lazio,3-3,Fiorentina
+25,21/03/43,Juventus-Cisitalia,3-0,Livorno 1915
+25,21/03/43,Venezia,1-0,AC Liguria
+25,21/03/43,Triestina,2-3,Torino
+25,21/03/43,Associazione del Calcio in Vic,1-1,Lazio
+25,21/03/43,Genoa,1-0,Ambrosiana-Inter
+25,21/03/43,Fiorentina,0-1,Bologna
+25,21/03/43,Roma,1-0,US Bari
+25,21/03/43,AC Milan,0-1,Atalanta
+26,28/03/43,US Bari,4-2,Fiorentina
+26,28/03/43,Livorno 1915,3-1,Genoa
+26,28/03/43,AC Liguria,2-3,Torino
+26,28/03/43,Lazio,4-2,AC Milan
+26,28/03/43,Bologna,1-2,Associazione del Calcio in Vic
+26,28/03/43,Atalanta,1-2,Venezia
+26,28/03/43,Ambrosiana-Inter,0-2,Roma
+26,28/03/43,Juventus-Cisitalia,6-2,Triestina
+27,04/04/43,Associazione del Calcio in Vic,1-0,US Bari
+27,04/04/43,Venezia,2-1,Lazio
+27,04/04/43,Fiorentina,2-0,Ambrosiana-Inter
+27,04/04/43,Triestina,3-1,AC Liguria
+27,04/04/43,Torino,4-2,Atalanta
+27,04/04/43,Genoa,1-2,Juventus-Cisitalia
+27,04/04/43,Roma,1-0,Livorno 1915
+27,04/04/43,AC Milan,3-2,Bologna
+28,11/04/43,Lazio,2-3,Torino
+28,11/04/43,Livorno 1915,4-1,Fiorentina
+28,11/04/43,Juventus-Cisitalia,1-2,Roma
+28,11/04/43,Genoa,1-1,Triestina
+28,11/04/43,US Bari,2-0,AC Milan
+28,11/04/43,Atalanta,2-0,AC Liguria
+28,11/04/43,Ambrosiana-Inter,1-2,Associazione del Calcio in Vic
+28,11/04/43,Bologna,0-2,Venezia
+29,18/04/43,AC Liguria,2-0,Lazio
+29,18/04/43,Associazione del Calcio in Vic,1-3,Livorno 1915
+29,18/04/43,Venezia,0-0,US Bari
+29,18/04/43,Torino,2-1,Bologna
+29,18/04/43,Atalanta,2-2,Triestina
+29,18/04/43,AC Milan,0-3,Ambrosiana-Inter
+29,18/04/43,Fiorentina,3-4,Juventus-Cisitalia
+29,18/04/43,Roma,2-3,Genoa
+30,25/04/43,Genoa,0-2,Fiorentina
+30,25/04/43,Lazio,3-2,Atalanta
+30,25/04/43,Livorno 1915,3-1,AC Milan
+30,25/04/43,Juventus-Cisitalia,2-6,Associazione del Calcio in Vic
+30,25/04/43,US Bari,0-1,Torino
+30,25/04/43,Triestina,2-0,Roma
+30,25/04/43,Ambrosiana-Inter,1-4,Venezia
+30,25/04/43,Bologna,3-3,AC Liguria
+23,07/05/43,AC Milan,1-0,Torino
+23,07/05/43,Triestina,1-1,Venezia
+23,07/05/43,Associazione del Calcio in Vic,1-1,AC Liguria
+23,07/05/43,Roma,1-0,Lazio
+23,07/05/43,Juventus-Cisitalia,5-0,US Bari
+23,07/05/43,Genoa,3-1,Bologna
+23,07/05/43,Fiorentina,2-0,Atalanta
+23,07/05/43,Livorno 1915,4-2,Ambrosiana-Inter

@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,30/09/34,Lazio,6-1,Livorno 1915
+1,30/09/34,Torino,3-1,Triestina
+1,30/09/34,AC Sampierdarenese,2-1,Bologna
+1,30/09/34,Napoli,0-1,Alessandria
+1,30/09/34,Fiorentina,4-1,Roma
+1,30/09/34,Brescia,0-2,Juventus
+1,30/09/34,Ambrosiana-Inter,3-0,Palermo
+1,30/09/34,Pro Vercelli,1-2,AC Milan
+2,07/10/34,AC Milan,1-1,Fiorentina
+2,07/10/34,Livorno 1915,1-1,Ambrosiana-Inter
+2,07/10/34,Triestina,2-1,Lazio
+2,07/10/34,Roma,4-0,Brescia
+2,07/10/34,Alessandria,2-2,AC Sampierdarenese
+2,07/10/34,Juventus,2-1,Napoli
+2,07/10/34,Bologna,3-1,Torino
+2,07/10/34,Palermo,2-0,Pro Vercelli
+3,14/10/34,Lazio,2-1,Bologna
+3,14/10/34,Torino,2-1,Alessandria
+3,14/10/34,AC Sampierdarenese,0-1,Juventus
+3,14/10/34,Napoli,3-2,Roma
+3,14/10/34,Fiorentina,1-0,Pro Vercelli
+3,14/10/34,Brescia,2-0,AC Milan
+3,14/10/34,Ambrosiana-Inter,7-0,Triestina
+3,14/10/34,Palermo,2-2,Livorno 1915
+4,21/10/34,Juventus,1-1,Torino
+4,21/10/34,Livorno 1915,1-0,Triestina
+4,21/10/34,Roma,2-0,AC Sampierdarenese
+4,21/10/34,Pro Vercelli,1-1,Brescia
+4,21/10/34,Fiorentina,2-0,Palermo
+4,21/10/34,Bologna,0-0,Ambrosiana-Inter
+4,21/10/34,Alessandria,1-2,Lazio
+4,21/10/34,AC Milan,2-2,Napoli
+5,04/11/34,Livorno 1915,4-1,Bologna
+5,04/11/34,Triestina,1-1,Palermo
+5,04/11/34,Torino,2-3,Roma
+5,04/11/34,Napoli,1-0,Pro Vercelli
+5,04/11/34,Lazio,5-3,Juventus
+5,04/11/34,Brescia,1-1,Fiorentina
+5,04/11/34,Ambrosiana-Inter,0-0,Alessandria
+5,04/11/34,AC Sampierdarenese,0-0,AC Milan
+6,18/11/34,Fiorentina,3-2,Napoli
+6,18/11/34,Roma,1-1,Lazio
+6,18/11/34,Pro Vercelli,2-3,AC Sampierdarenese
+6,18/11/34,Palermo,0-0,Brescia
+6,18/11/34,Juventus,1-0,Ambrosiana-Inter
+6,18/11/34,Bologna,1-3,Triestina
+6,18/11/34,Alessandria,4-1,Livorno 1915
+6,18/11/34,AC Milan,0-0,Torino
+7,25/11/34,Napoli,2-0,Brescia
+7,25/11/34,Triestina,3-1,Alessandria
+7,25/11/34,Torino,2-0,Pro Vercelli
+7,25/11/34,Palermo,0-1,Bologna
+7,25/11/34,Livorno 1915,1-2,Juventus
+7,25/11/34,Lazio,1-4,AC Milan
+7,25/11/34,Ambrosiana-Inter,0-1,Roma
+7,25/11/34,AC Sampierdarenese,0-1,Fiorentina
+8,02/12/34,Fiorentina,4-0,Torino
+8,02/12/34,Pro Vercelli,1-0,Lazio
+8,02/12/34,Napoli,6-0,Palermo
+8,02/12/34,Roma,5-1,Livorno 1915
+8,02/12/34,Juventus,0-0,Triestina
+8,02/12/34,Brescia,1-0,AC Sampierdarenese
+8,02/12/34,Alessandria,2-0,Bologna
+8,02/12/34,AC Milan,2-2,Ambrosiana-Inter
+9,16/12/34,Alessandria,4-2,Palermo
+9,16/12/34,Ambrosiana-Inter,1-0,Pro Vercelli
+9,16/12/34,Bologna,2-0,Juventus
+9,16/12/34,Lazio,3-5,Fiorentina
+9,16/12/34,Livorno 1915,0-2,AC Milan
+9,16/12/34,AC Sampierdarenese,1-3,Napoli
+9,16/12/34,Torino,4-2,Brescia
+9,16/12/34,Triestina,0-2,Roma
+10,23/12/34,Palermo,1-0,AC Sampierdarenese
+10,23/12/34,Pro Vercelli,0-1,Livorno 1915
+10,23/12/34,Napoli,2-1,Torino
+10,23/12/34,Juventus,4-1,Alessandria
+10,23/12/34,Fiorentina,1-1,Ambrosiana-Inter
+10,23/12/34,Brescia,1-0,Lazio
+10,23/12/34,Roma,1-1,Bologna
+10,23/12/34,AC Milan,0-1,Triestina
+11,06/01/35,Bologna,6-3,AC Milan
+11,06/01/35,Triestina,3-1,Pro Vercelli
+11,06/01/35,Torino,5-2,AC Sampierdarenese
+11,06/01/35,Palermo,0-0,Juventus
+11,06/01/35,Lazio,3-1,Napoli
+11,06/01/35,Ambrosiana-Inter,5-1,Brescia
+11,06/01/35,Alessandria,1-6,Roma
+11,06/01/35,Livorno 1915,1-2,Fiorentina
+12,13/01/35,AC Milan,2-2,Alessandria
+12,13/01/35,Torino,0-0,Palermo
+12,13/01/35,AC Sampierdarenese,2-3,Lazio
+12,13/01/35,Roma,1-2,Juventus
+12,13/01/35,Fiorentina,1-0,Triestina
+12,13/01/35,Brescia,4-0,Livorno 1915
+12,13/01/35,Pro Vercelli,2-1,Bologna
+12,13/01/35,Napoli,0-1,Ambrosiana-Inter
+13,27/01/35,Juventus,1-0,AC Milan
+13,27/01/35,Triestina,3-0,Brescia
+13,27/01/35,Palermo,1-0,Roma
+13,27/01/35,Lazio,1-1,Torino
+13,27/01/35,Bologna,2-1,Fiorentina
+13,27/01/35,Ambrosiana-Inter,6-1,AC Sampierdarenese
+13,27/01/35,Alessandria,2-1,Pro Vercelli
+13,27/01/35,Livorno 1915,DA,Napoli
+14,10/02/35,Lazio,1-0,Palermo
+14,10/02/35,Torino,1-2,Ambrosiana-Inter
+14,10/02/35,AC Sampierdarenese,0-0,Livorno 1915
+14,10/02/35,Pro Vercelli,0-1,Juventus
+14,10/02/35,AC Milan,4-4,Roma
+14,10/02/35,Fiorentina,4-1,Alessandria
+14,10/02/35,Brescia,1-1,Bologna
+14,10/02/35,Napoli,2-1,Triestina
+15,10/02/35,Juventus,0-0,Fiorentina
+15,10/02/35,Triestina,2-1,AC Sampierdarenese
+15,10/02/35,Roma,3-2,Pro Vercelli
+15,10/02/35,Livorno 1915,1-1,Torino
+15,10/02/35,Bologna,3-0,Napoli
+15,10/02/35,Ambrosiana-Inter,1-0,Lazio
+15,10/02/35,Alessandria,1-0,Brescia
+15,10/02/35,Palermo,1-0,AC Milan
+16,17/02/35,Juventus,0-0,Brescia
+16,17/02/35,Roma,0-0,Fiorentina
+16,17/02/35,Palermo,1-1,Ambrosiana-Inter
+16,17/02/35,Triestina,1-0,Torino
+16,17/02/35,Livorno 1915,0-2,Lazio
+16,17/02/35,Bologna,0-1,AC Sampierdarenese
+16,17/02/35,Alessandria,4-2,Napoli
+16,17/02/35,AC Milan,1-0,Pro Vercelli
+17,24/02/35,Ambrosiana-Inter,5-1,Livorno 1915
+17,24/02/35,Brescia,2-1,Roma
+17,24/02/35,Fiorentina,1-0,AC Milan
+17,24/02/35,Lazio,0-0,Triestina
+17,24/02/35,Napoli,0-0,Juventus
+17,24/02/35,Pro Vercelli,0-0,Palermo
+17,24/02/35,AC Sampierdarenese,2-1,Alessandria
+17,24/02/35,Torino,0-1,Bologna
+18,03/03/35,AC Milan,0-1,Brescia
+18,03/03/35,Triestina,1-1,Ambrosiana-Inter
+18,03/03/35,Pro Vercelli,2-0,Fiorentina
+18,03/03/35,Juventus,4-0,AC Sampierdarenese
+18,03/03/35,Bologna,1-2,Lazio
+18,03/03/35,Alessandria,3-0,Torino
+18,03/03/35,Roma,4-0,Napoli
+18,03/03/35,Livorno 1915,0-3,Palermo
+19,10/03/35,Lazio,0-1,Alessandria
+19,10/03/35,Triestina,1-2,Livorno 1915
+19,10/03/35,Torino,1-3,Juventus
+19,10/03/35,AC Sampierdarenese,1-0,Roma
+19,10/03/35,Napoli,0-1,AC Milan
+19,10/03/35,Brescia,3-0,Pro Vercelli
+19,10/03/35,Ambrosiana-Inter,1-0,Bologna
+19,10/03/35,Palermo,0-0,Fiorentina
+20,17/03/35,Fiorentina,1-0,Brescia
+20,17/03/35,Roma,2-1,Torino
+20,17/03/35,Pro Vercelli,1-1,Napoli
+20,17/03/35,Palermo,2-0,Triestina
+20,17/03/35,Juventus,6-1,Lazio
+20,17/03/35,Bologna,4-0,Livorno 1915
+20,17/03/35,Alessandria,1-3,Ambrosiana-Inter
+20,17/03/35,AC Milan,2-1,AC Sampierdarenese
+21,31/03/35,Ambrosiana-Inter,0-0,Juventus
+21,31/03/35,Brescia,2-2,Palermo
+21,31/03/35,Lazio,0-0,Roma
+21,31/03/35,Livorno 1915,1-0,Alessandria
+21,31/03/35,Napoli,1-1,Fiorentina
+21,31/03/35,AC Sampierdarenese,0-0,Pro Vercelli
+21,31/03/35,Torino,1-1,AC Milan
+21,31/03/35,Triestina,1-3,Bologna
+22,07/04/35,Juventus,2-1,Livorno 1915
+22,07/04/35,Roma,3-4,Ambrosiana-Inter
+22,07/04/35,AC Milan,1-1,Lazio
+22,07/04/35,Brescia,0-1,Napoli
+22,07/04/35,Bologna,0-0,Palermo
+22,07/04/35,Alessandria,3-0,Triestina
+22,07/04/35,Pro Vercelli,0-3,Torino
+22,07/04/35,Fiorentina,0-0,AC Sampierdarenese
+23,14/04/35,Lazio,6-0,Pro Vercelli
+23,14/04/35,Triestina,2-1,Juventus
+23,14/04/35,Torino,1-0,Fiorentina
+23,14/04/35,AC Sampierdarenese,3-0,Brescia
+23,14/04/35,Livorno 1915,1-1,Roma
+23,14/04/35,Bologna,3-3,Alessandria
+23,14/04/35,Ambrosiana-Inter,2-0,AC Milan
+23,14/04/35,Palermo,2-0,Napoli
+24,21/04/35,Napoli,1-1,AC Sampierdarenese
+24,21/04/35,Roma,1-2,Triestina
+24,21/04/35,Palermo,2-0,Alessandria
+24,21/04/35,Juventus,1-0,Bologna
+24,21/04/35,Fiorentina,2-1,Lazio
+24,21/04/35,Brescia,2-1,Torino
+24,21/04/35,Pro Vercelli,1-1,Ambrosiana-Inter
+24,21/04/35,AC Milan,1-1,Livorno 1915
+25,28/04/35,Livorno 1915,1-0,Pro Vercelli
+25,28/04/35,Triestina,2-1,AC Milan
+25,28/04/35,AC Sampierdarenese,1-0,Palermo
+25,28/04/35,Lazio,4-0,Brescia
+25,28/04/35,Bologna,1-1,Roma
+25,28/04/35,Ambrosiana-Inter,1-1,Fiorentina
+25,28/04/35,Alessandria,0-0,Juventus
+25,28/04/35,Torino,0-0,Napoli
+26,05/05/35,AC Sampierdarenese,3-2,Torino
+26,05/05/35,Brescia,1-1,Ambrosiana-Inter
+26,05/05/35,Fiorentina,0-1,Livorno 1915
+26,05/05/35,Juventus,2-1,Palermo
+26,05/05/35,AC Milan,0-0,Bologna
+26,05/05/35,Napoli,3-0,Lazio
+26,05/05/35,Roma,3-0,Alessandria
+26,05/05/35,Pro Vercelli,4-2,Triestina
+27,13/05/35,Alessandria,2-1,AC Milan
+27,13/05/35,Ambrosiana-Inter,2-1,Napoli
+27,13/05/35,Bologna,5-0,Pro Vercelli
+27,13/05/35,Juventus,2-1,Roma
+27,13/05/35,Lazio,2-1,AC Sampierdarenese
+27,13/05/35,Livorno 1915,3-1,Brescia
+27,13/05/35,Palermo,0-0,Torino
+27,13/05/35,Triestina,0-1,Fiorentina
+28,20/05/35,Pro Vercelli,1-0,Alessandria
+28,20/05/35,Torino,2-2,Lazio
+28,20/05/35,Roma,5-1,Palermo
+28,20/05/35,Brescia,2-1,Triestina
+28,20/05/35,AC Milan,3-0,Juventus
+28,20/05/35,Fiorentina,1-0,Bologna
+28,20/05/35,Napoli,1-1,Livorno 1915
+28,20/05/35,AC Sampierdarenese,0-0,Ambrosiana-Inter
+29,27/05/35,Bologna,3-0,Brescia
+29,27/05/35,Triestina,0-0,Napoli
+29,27/05/35,Roma,1-0,AC Milan
+29,27/05/35,Palermo,2-1,Lazio
+29,27/05/35,Juventus,3-0,Pro Vercelli
+29,27/05/35,Ambrosiana-Inter,4-0,Torino
+29,27/05/35,Alessandria,2-0,Fiorentina
+29,27/05/35,Livorno 1915,0-0,AC Sampierdarenese
+30,02/06/35,Pro Vercelli,1-4,Roma
+30,02/06/35,Napoli,1-1,Bologna
+30,02/06/35,Torino,1-0,Livorno 1915
+30,02/06/35,Brescia,1-0,Alessandria
+30,02/06/35,Lazio,4-2,Ambrosiana-Inter
+30,02/06/35,AC Milan,2-1,Palermo
+30,02/06/35,Fiorentina,0-1,Juventus
+30,02/06/35,AC Sampierdarenese,1-0,Triestina

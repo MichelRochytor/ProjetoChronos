@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,14/10/45,Atalanta,0-0,Brescia
+1,14/10/45,Bologna,2-2,Modena
+1,14/10/45,Genoa,1-0,AC Milan
+1,14/10/45,Internazionale,2-0,Andrea Doria
+1,14/10/45,Juventus,2-1,Torino
+1,14/10/45,Triestina,0-0,Venezia
+1,14/10/45,Associazione del Calcio in Vic,1-1,Sampierdarenese
+1,21/10/45,Lazio,0-2,Livorno 1915
+1,21/10/45,Palermo,0-2,AS Bari
+1,21/10/45,Pescara,3-0,Fiorentina
+1,21/10/45,AC Siena,2-2,Salernitana
+1,21/10/45,US Anconitana,0-1,Roma
+2,21/10/45,Torino,6-0,Genoa
+2,21/10/45,Triestina,0-2,Associazione del Calcio in Vic
+2,21/10/45,AC Milan,1-1,Juventus
+2,21/10/45,Brescia,1-0,Modena
+2,21/10/45,Atalanta,0-1,Bologna
+2,21/10/45,Andrea Doria,0-1,Sampierdarenese
+2,21/10/45,Venezia,0-1,Internazionale
+2,28/10/45,AS Bari,2-1,Napoli
+2,28/10/45,Fiorentina,5-0,US Anconitana
+2,28/10/45,Livorno 1915,0-0,AC Siena
+2,28/10/45,Roma,0-0,Pescara
+2,28/10/45,Salernitana,2-0,Lazio
+3,28/10/45,Bologna,1-0,Andrea Doria
+3,28/10/45,Brescia,1-1,Triestina
+3,28/10/45,Genoa,0-0,Venezia
+3,28/10/45,Internazionale,1-0,Atalanta
+3,28/10/45,Juventus,1-0,Modena
+3,28/10/45,Sampierdarenese,0-5,Torino
+3,28/10/45,Associazione del Calcio in Vic,2-2,AC Milan
+3,04/11/45,US Anconitana,1-2,Palermo
+3,04/11/45,Roma,1-0,AC Siena
+3,04/11/45,Pescara,5-1,Salernitana
+3,04/11/45,AS Bari,1-0,Fiorentina
+3,04/11/45,Napoli,0-0,Lazio
+4,04/11/45,Torino,3-1,Venezia
+4,04/11/45,Atalanta,1-1,Juventus
+4,04/11/45,Associazione del Calcio in Vic,3-0,Bologna
+4,04/11/45,Sampierdarenese,0-6,Triestina
+4,04/11/45,AC Milan,1-3,Internazionale
+4,04/11/45,Andrea Doria,1-1,Brescia
+4,04/11/45,Modena,1-1,Genoa
+4,11/11/45,US Anconitana,0-3,Napoli
+4,11/11/45,Lazio,1-0,AS Bari
+4,11/11/45,Livorno 1915,1-1,Roma
+4,11/11/45,Pescara,0-0,Palermo
+4,11/11/45,Salernitana,1-0,Fiorentina
+5,18/11/45,Venezia,0-0,AC Milan
+5,18/11/45,Andrea Doria,1-1,Modena
+5,18/11/45,Bologna,3-2,Sampierdarenese
+5,18/11/45,Genoa,2-0,Associazione del Calcio in Vic
+5,18/11/45,Internazionale,2-2,Juventus
+5,18/11/45,Torino,2-2,Brescia
+5,18/11/45,Triestina,0-0,Atalanta
+5,18/11/45,Salernitana,2-3,AS Bari
+5,18/11/45,Fiorentina,4-3,Lazio
+5,18/11/45,AC Siena,1-0,US Anconitana
+5,18/11/45,Napoli,1-0,Pescara
+5,18/11/45,Palermo,1-0,Livorno 1915
+6,25/11/45,Associazione del Calcio in Vic,0-1,Venezia
+6,25/11/45,Sampierdarenese,1-3,Internazionale
+6,25/11/45,Modena,0-3,Torino
+6,25/11/45,AC Milan,2-0,Triestina
+6,25/11/45,Juventus,4-1,Genoa
+6,25/11/45,Atalanta,0-3,Andrea Doria
+6,25/11/45,Brescia,2-1,Bologna
+6,25/11/45,Napoli,1-0,Livorno 1915
+6,25/11/45,Palermo,0-1,Lazio
+6,25/11/45,Pescara,2-0,AC Siena
+6,25/11/45,Roma,1-0,Fiorentina
+6,25/11/45,Salernitana,1-0,US Anconitana
+7,02/12/45,Torino,4-0,AC Milan
+7,02/12/45,Modena,2-0,Associazione del Calcio in Vic
+7,02/12/45,Venezia,1-2,Brescia
+7,02/12/45,Internazionale,1-0,Bologna
+7,02/12/45,Andrea Doria,1-1,Juventus
+7,02/12/45,Triestina,2-1,Genoa
+7,02/12/45,Atalanta,3-0,Sampierdarenese
+7,02/12/45,Fiorentina,2-0,Palermo
+7,02/12/45,Lazio,0-0,AC Siena
+7,02/12/45,AS Bari,1-0,Roma
+7,02/12/45,US Anconitana,1-1,Pescara
+7,02/12/45,Livorno 1915,3-0,Salernitana
+8,09/12/45,AC Milan,1-2,Andrea Doria
+8,09/12/45,Associazione del Calcio in Vic,1-2,Torino
+8,09/12/45,Sampierdarenese,0-0,Modena
+8,09/12/45,Juventus,1-1,Triestina
+8,09/12/45,Genoa,1-0,Atalanta
+8,09/12/45,Brescia,1-2,Internazionale
+8,09/12/45,Bologna,3-0,Venezia
+8,09/12/45,Fiorentina,0-1,Napoli
+8,09/12/45,Lazio,1-2,US Anconitana
+8,09/12/45,Livorno 1915,4-1,AS Bari
+8,09/12/45,Salernitana,1-3,Roma
+8,09/12/45,AC Siena,1-0,Palermo
+9,16/12/45,Internazionale,4-2,Associazione del Calcio in Vic
+9,16/12/45,Modena,1-1,AC Milan
+9,16/12/45,Torino,2-0,Atalanta
+9,16/12/45,Triestina,1-0,Bologna
+9,16/12/45,Venezia,0-2,Juventus
+9,16/12/45,Brescia,1-0,Sampierdarenese
+9,16/12/45,Genoa,0-3,Andrea Doria
+9,16/12/45,Roma,0-0,Napoli
+9,16/12/45,US Anconitana,1-1,Livorno 1915
+9,16/12/45,AC Siena,1-1,AS Bari
+9,16/12/45,Palermo,1-0,Salernitana
+9,16/12/45,Pescara,2-2,Lazio
+10,23/12/45,Bologna,0-2,Torino
+10,23/12/45,Sampierdarenese,1-2,AC Milan
+10,23/12/45,Triestina,1-0,Modena
+10,23/12/45,Internazionale,9-1,Genoa
+10,23/12/45,Juventus,3-1,Brescia
+10,23/12/45,Atalanta,1-0,Venezia
+10,23/12/45,Andrea Doria,3-2,Associazione del Calcio in Vic
+10,23/12/45,AS Bari,1-0,Pescara
+10,23/12/45,Fiorentina,2-1,Livorno 1915
+10,23/12/45,Lazio,1-2,Roma
+10,23/12/45,Napoli,1-0,Salernitana
+10,23/12/45,Napoli,6-1,AC Siena
+11,30/12/45,Brescia,3-1,Genoa
+11,30/12/45,AC Milan,2-2,Bologna
+11,30/12/45,Modena,0-0,Internazionale
+11,30/12/45,Sampierdarenese,2-2,Juventus
+11,30/12/45,Torino,4-0,Triestina
+11,30/12/45,Venezia,2-2,Andrea Doria
+11,30/12/45,Associazione del Calcio in Vic,1-0,Atalanta
+11,30/12/45,Livorno 1915,1-0,Pescara
+11,30/12/45,AC Siena,1-1,Fiorentina
+11,30/12/45,Palermo,0-0,Napoli
+11,30/12/45,AS Bari,4-2,US Anconitana
+11,30/12/45,Roma,2-1,Palermo
+12,06/01/46,Genoa,0-2,Sampierdarenese
+12,06/01/46,Associazione del Calcio in Vic,1-0,Brescia
+12,06/01/46,Modena,0-0,Venezia
+12,06/01/46,Internazionale,1-1,Torino
+12,06/01/46,Atalanta,0-2,AC Milan
+12,06/01/46,Andrea Doria,0-0,Triestina
+12,06/01/46,Juventus,1-0,Bologna
+13,13/01/46,Venezia,3-1,Sampierdarenese
+13,13/01/46,Andrea Doria,2-3,Torino
+13,13/01/46,Atalanta,0-1,Modena
+13,13/01/46,Bologna,4-0,Genoa
+13,13/01/46,Juventus,2-1,Associazione del Calcio in Vic
+13,13/01/46,AC Milan,3-1,Brescia
+13,13/01/46,Triestina,1-3,Internazionale
+12,20/01/46,AS Bari,3-1,Palermo
+12,20/01/46,Fiorentina,3-1,Pescara
+12,20/01/46,Livorno 1915,1-0,Lazio
+12,20/01/46,Roma,3-0,US Anconitana
+12,20/01/46,Salernitana,3-0,AC Siena
+14,20/01/46,Torino,1-0,Juventus
+14,20/01/46,Andrea Doria,1-1,Internazionale
+14,20/01/46,Brescia,1-1,Atalanta
+14,20/01/46,AC Milan,1-0,Genoa
+14,20/01/46,Sampierdarenese,1-0,Associazione del Calcio in Vic
+14,20/01/46,Venezia,1-1,Triestina
+14,20/01/46,Modena,2-0,Bologna
+13,27/01/46,Lazio,2-1,Salernitana
+13,27/01/46,AC Siena,1-2,Livorno 1915
+13,27/01/46,US Anconitana,0-1,Fiorentina
+13,27/01/46,Pescara,2-2,Roma
+13,27/01/46,Napoli,2-1,AS Bari
+15,27/01/46,Bologna,2-0,Atalanta
+15,27/01/46,Genoa,0-1,Torino
+15,27/01/46,Internazionale,2-1,Venezia
+15,27/01/46,Juventus,2-2,AC Milan
+15,27/01/46,Modena,2-1,Brescia
+15,27/01/46,Sampierdarenese,1-0,Andrea Doria
+15,27/01/46,Associazione del Calcio in Vic,0-1,Triestina
+14,03/02/46,Fiorentina,2-0,AS Bari
+14,03/02/46,Lazio,0-0,Napoli
+14,03/02/46,Palermo,3-0,US Anconitana
+14,03/02/46,Salernitana,2-0,Pescara
+14,03/02/46,AC Siena,0-1,Roma
+16,03/02/46,AC Milan,2-4,Associazione del Calcio in Vic
+16,03/02/46,Modena,0-0,Juventus
+16,03/02/46,Torino,2-1,Sampierdarenese
+16,03/02/46,Triestina,1-0,Brescia
+16,03/02/46,Venezia,0-0,Genoa
+16,03/02/46,Andrea Doria,0-0,Bologna
+16,03/02/46,Atalanta,2-1,Internazionale
+15,10/02/46,Fiorentina,4-0,Salernitana
+15,10/02/46,Roma,2-2,Livorno 1915
+15,10/02/46,Napoli,2-0,US Anconitana
+15,10/02/46,AS Bari,1-0,Lazio
+15,10/02/46,Palermo,1-0,Pescara
+17,10/02/46,Juventus,2-0,Atalanta
+17,10/02/46,Triestina,0-1,Sampierdarenese
+17,10/02/46,Internazionale,2-0,AC Milan
+17,10/02/46,Genoa,0-0,Modena
+17,10/02/46,Brescia,2-0,Andrea Doria
+17,10/02/46,Bologna,2-1,Associazione del Calcio in Vic
+17,10/02/46,Venezia,2-1,Torino
+16,17/02/46,US Anconitana,1-1,AC Siena
+16,17/02/46,AS Bari,1-0,Salernitana
+16,17/02/46,Lazio,1-0,Fiorentina
+16,17/02/46,Livorno 1915,4-2,Palermo
+16,17/02/46,Pescara,2-1,Napoli
+18,17/02/46,Atalanta,2-1,Triestina
+18,17/02/46,Brescia,1-3,Torino
+18,17/02/46,Juventus,0-0,Internazionale
+18,17/02/46,AC Milan,2-1,Venezia
+18,17/02/46,Modena,1-0,Andrea Doria
+18,17/02/46,Sampierdarenese,0-2,Bologna
+18,17/02/46,Associazione del Calcio in Vic,0-0,Genoa
+17,24/02/46,AC Siena,1-1,Pescara
+17,24/02/46,Fiorentina,2-0,Roma
+17,24/02/46,US Anconitana,2-1,Salernitana
+17,24/02/46,Lazio,0-1,Palermo
+17,24/02/46,Livorno 1915,1-0,Napoli
+19,24/02/46,Venezia,1-0,Associazione del Calcio in Vic
+19,24/02/46,Bologna,0-0,Brescia
+19,24/02/46,Genoa,2-1,Juventus
+19,24/02/46,Internazionale,2-0,Sampierdarenese
+19,24/02/46,Torino,1-1,Modena
+19,24/02/46,Triestina,1-2,AC Milan
+19,24/02/46,Andrea Doria,1-0,Atalanta
+18,03/03/46,Palermo,0-0,Fiorentina
+18,03/03/46,Pescara,4-0,US Anconitana
+18,03/03/46,Roma,1-1,AS Bari
+18,03/03/46,Salernitana,0-0,Livorno 1915
+18,03/03/46,AC Siena,0-0,Lazio
+20,03/03/46,Genoa,0-1,Triestina
+20,03/03/46,Bologna,1-3,Internazionale
+20,03/03/46,Associazione del Calcio in Vic,1-0,Modena
+20,03/03/46,Sampierdarenese,1-3,Atalanta
+20,03/03/46,Juventus,6-1,Andrea Doria
+20,03/03/46,Brescia,3-1,Venezia
+20,03/03/46,AC Milan,2-3,Torino
+19,10/03/46,AS Bari,1-0,Livorno 1915
+19,10/03/46,Roma,4-2,Salernitana
+19,10/03/46,Napoli,1-0,Fiorentina
+19,10/03/46,US Anconitana,1-0,Lazio
+19,10/03/46,Palermo,2-2,AC Siena
+21,10/03/46,Triestina,0-3,Juventus
+21,10/03/46,Internazionale,4-1,Brescia
+21,10/03/46,Venezia,1-2,Bologna
+21,10/03/46,Modena,2-0,Sampierdarenese
+21,10/03/46,Atalanta,2-2,Genoa
+21,10/03/46,Andrea Doria,1-2,AC Milan
+21,10/03/46,Torino,4-0,Associazione del Calcio in Vic
+20,17/03/46,AS Bari,4-0,AC Siena
+20,17/03/46,Lazio,6-0,Pescara
+20,17/03/46,Livorno 1915,4-0,US Anconitana
+20,17/03/46,Napoli,1-1,Roma
+20,17/03/46,Salernitana,0-0,Palermo
+22,17/03/46,Andrea Doria,0-1,Genoa
+22,17/03/46,Atalanta,1-0,Torino
+22,17/03/46,Bologna,1-0,Triestina
+22,17/03/46,Juventus,5-0,Venezia
+22,17/03/46,AC Milan,1-0,Modena
+22,17/03/46,Sampierdarenese,1-2,Brescia
+22,17/03/46,Associazione del Calcio in Vic,1-0,Internazionale
+21,24/03/46,Salernitana,1-1,Napoli
+21,24/03/46,Roma,0-1,Lazio
+21,24/03/46,Pescara,3-1,AS Bari
+21,24/03/46,Livorno 1915,1-1,Fiorentina
+21,24/03/46,AC Siena,1-4,Napoli
+23,24/03/46,Venezia,0-0,Atalanta
+23,24/03/46,Brescia,2-1,Juventus
+23,24/03/46,Associazione del Calcio in Vic,1-0,Andrea Doria
+23,24/03/46,Modena,5-1,Triestina
+23,24/03/46,Genoa,1-2,Internazionale
+23,24/03/46,Torino,4-0,Bologna
+23,24/03/46,AC Milan,3-0,Sampierdarenese
+22,31/03/46,US Anconitana,1-2,AS Bari
+22,31/03/46,Fiorentina,5-0,AC Siena
+22,31/03/46,Napoli,2-0,Palermo
+22,31/03/46,Palermo,1-3,Roma
+22,31/03/46,Pescara,1-2,Livorno 1915
+24,31/03/46,Andrea Doria,2-0,Venezia
+24,31/03/46,Atalanta,2-2,Associazione del Calcio in Vic
+24,31/03/46,Bologna,1-2,AC Milan
+24,31/03/46,Genoa,2-3,Brescia
+24,31/03/46,Internazionale,2-0,Modena
+24,31/03/46,Juventus,6-0,Sampierdarenese
+24,31/03/46,Triestina,1-1,Torino
+25,07/04/46,Brescia,4-1,Associazione del Calcio in Vic
+25,07/04/46,Venezia,2-3,Modena
+25,07/04/46,Triestina,0-1,Andrea Doria
+25,07/04/46,Torino,1-0,Internazionale
+25,07/04/46,AC Milan,2-1,Atalanta
+25,07/04/46,Bologna,2-1,Juventus
+25,07/04/46,Sampierdarenese,1-1,Genoa
+26,14/04/46,Brescia,2-0,AC Milan
+26,14/04/46,Genoa,3-0,Bologna
+26,14/04/46,Internazionale,1-2,Triestina
+26,14/04/46,Modena,0-2,Atalanta
+26,14/04/46,Sampierdarenese,1-1,Venezia
+26,14/04/46,Torino,5-0,Andrea Doria
+26,14/04/46,Associazione del Calcio in Vic,1-2,Juventus
+1,28/04/46,Internazionale,6-2,Livorno 1915
+1,28/04/46,Juventus,6-1,AS Bari
+1,28/04/46,Napoli,1-0,AC Milan
+1,28/04/46,Roma,0-7,Torino
+2,05/05/46,AS Bari,2-2,Napoli
+2,05/05/46,Internazionale,1-0,Juventus
+2,05/05/46,Livorno 1915,1-1,Roma
+2,05/05/46,Torino,3-0,AC Milan

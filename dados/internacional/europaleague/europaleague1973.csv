@@ -1,0 +1,127 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,11/09/73,Vitória FC,2-0,K. Beerschot VAV
+1,12/09/73,Ards FC,3-2,Standard Liège
+1,17/09/73,Stuttgart,9-0,Olympiakos Nicosia
+1,18/09/73,US Luxembourg,0-5,Marseille
+1,19/09/73,Fredrikstad,0-1,Dynamo Kyiv
+1,19/09/73,Ruch Chorzów,4-1,Wuppertaler SV
+1,19/09/73,B1903 København,2-1,AIK
+1,19/09/73,FC Carl Zeiss Jena,3-0,MP Mikkelin
+1,19/09/73,Stromsgodset,1-1,Leeds United
+1,19/09/73,Osters IF,1-3,Feyenoord
+1,19/09/73,Hibernian,2-0,Keflavík
+1,19/09/73,Nice,3-0,Barcelona
+1,19/09/73,Fortuna Düsseldorf,1-0,Naestved
+1,19/09/73,Grasshoppers,1-5,Tottenham
+1,19/09/73,Aberdeen,4-1,Finn Harps
+1,19/09/73,Dundee FC,1-3,FC Twente
+1,19/09/73,Espanyol,0-3,RWD Molenbeek
+1,19/09/73,Ipswich Town,1-0,Real Madrid
+1,19/09/73,Lazio,3-0,FC Sion
+1,19/09/73,Sliema Wanderers,0-2,Lokomotiv Plovdiv
+1,19/09/73,Fiorentina,0-0,Universitatea Craiova
+1,19/09/73,Ferencváros,0-1,Gwardia
+1,19/09/73,Olympiakos Nicosia,0-4,Stuttgart
+1,19/09/73,Tatran Presov,4-2,Velez Mostar
+1,19/09/73,Dinamo Tbilisi,4-1,Slavia
+1,19/09/73,Panathinaikos,1-2,OFK Beograd
+1,19/09/73,FC Admira/Wacker,1-0,Internazionale
+1,19/09/73,Fenerbahçe,5-1,Arges Pitesti
+1,19/09/73,FC VSS Kosice,1-0,Budapest Honvéd
+1,19/09/73,Torino,1-2,Lokomotive Leipzig (1966)
+1,19/09/73,Eskisehirspor,0-0,FC Köln
+1,19/09/73,Standard Liège,6-1,Ards FC
+1,20/09/73,Panachaiki,2-1,Grazer AK
+1,25/09/73,Belenenses,0-2,Wolverhampton
+1,25/09/73,K. Beerschot VAV,0-2,Vitória FC
+1,02/10/73,Lokomotiv Plovdiv,1-0,Sliema Wanderers
+1,03/10/73,Dynamo Kyiv,4-0,Fredrikstad
+1,03/10/73,Wuppertaler SV,5-4,Ruch Chorzów
+1,03/10/73,AIK,1-1,B1903 København
+1,03/10/73,MP Mikkelin,0-3,FC Carl Zeiss Jena
+1,03/10/73,Leeds United,6-1,Stromsgodset
+1,03/10/73,Feyenoord,2-1,Osters IF
+1,03/10/73,Keflavík,1-1,Hibernian
+1,03/10/73,Barcelona,2-0,Nice
+1,03/10/73,Naestved,2-2,Fortuna Düsseldorf
+1,03/10/73,Tottenham,4-1,Grasshoppers
+1,03/10/73,Finn Harps,1-3,Aberdeen
+1,03/10/73,FC Twente,4-2,Dundee FC
+1,03/10/73,RWD Molenbeek,1-2,Espanyol
+1,03/10/73,Wolverhampton,2-1,Belenenses
+1,03/10/73,Marseille,7-1,US Luxembourg
+1,03/10/73,Real Madrid,0-0,Ipswich Town
+1,03/10/73,FC Sion,3-1,Lazio
+1,03/10/73,Universitatea Craiova,1-0,Fiorentina
+1,03/10/73,Gwardia,2-1,Ferencváros
+1,03/10/73,Velez Mostar,1-1,Tatran Presov
+1,03/10/73,Slavia,2-0,Dinamo Tbilisi
+1,03/10/73,OFK Beograd,0-1,Panathinaikos
+1,03/10/73,Internazionale,2-1,FC Admira/Wacker
+1,03/10/73,Arges Pitesti,1-1,Fenerbahçe
+1,03/10/73,Budapest Honvéd,5-2,FC VSS Kosice
+1,03/10/73,Lokomotive Leipzig (1966),2-1,Torino
+1,03/10/73,FC Köln,2-0,Eskisehirspor
+1,03/10/73,Grazer AK,0-1,Panachaiki
+2,15/10/73,Vitória FC,1-0,RWD Molenbeek
+2,23/10/73,Marseille,2-0,FC Köln
+2,24/10/73,FC Admira/Wacker,2-1,Fortuna Düsseldorf
+2,24/10/73,Aberdeen,1-1,Tottenham
+2,24/10/73,Dinamo Tbilisi,3-0,OFK Beograd
+2,24/10/73,Nice,4-0,Fenerbahçe
+2,24/10/73,Lokomotive Leipzig (1966),3-0,Wolverhampton
+2,24/10/73,Ipswich Town,4-0,Lazio
+2,24/10/73,Dynamo Kyiv,1-0,B1903 København
+2,24/10/73,Lokomotiv Plovdiv,3-4,Budapest Honvéd
+2,24/10/73,Ruch Chorzów,3-0,FC Carl Zeiss Jena
+2,24/10/73,Stuttgart,3-1,Tatran Presov
+2,24/10/73,Leeds United,0-0,Hibernian
+2,24/10/73,Feyenoord,3-1,Gwardia
+2,24/10/73,Standard Liège,2-0,Universitatea Craiova
+2,25/10/73,Panachaiki,1-1,FC Twente
+2,06/11/73,Fortuna Düsseldorf,3-0,FC Admira/Wacker
+2,06/11/73,FC Köln,6-0,Marseille
+2,06/11/73,Gwardia,1-0,Feyenoord
+2,06/11/73,RWD Molenbeek,2-1,Vitória FC
+2,07/11/73,Tottenham,4-1,Aberdeen
+2,07/11/73,OFK Beograd,1-5,Dinamo Tbilisi
+2,07/11/73,Fenerbahçe,2-0,Nice
+2,07/11/73,Wolverhampton,4-1,Lokomotive Leipzig (1966)
+2,07/11/73,Lazio,4-2,Ipswich Town
+2,07/11/73,B1903 København,1-2,Dynamo Kyiv
+2,07/11/73,Budapest Honvéd,3-2,Lokomotiv Plovdiv
+2,07/11/73,FC Carl Zeiss Jena,1-0,Ruch Chorzów
+2,07/11/73,Tatran Presov,3-5(Pro.),Stuttgart
+2,07/11/73,Hibernian,0-0(4-5 Pen.),Leeds United
+2,07/11/73,Universitatea Craiova,1-1,Standard Liège
+2,08/11/73,FC Twente,7-0,Panachaiki
+3,27/11/73,Dynamo Kyiv,2-0,Stuttgart
+3,28/11/73,Dinamo Tbilisi,1-1,Tottenham
+3,28/11/73,Ipswich Town,1-0,FC Twente
+3,28/11/73,Budapest Honvéd,2-0,Ruch Chorzów
+3,28/11/73,Fortuna Düsseldorf,2-1,Lokomotive Leipzig (1966)
+3,28/11/73,Nice,1-0,FC Köln
+3,28/11/73,Leeds United,1-0,Vitória FC
+3,11/12/73,Vitória FC,3-1,Leeds United
+3,12/12/73,Stuttgart,3-0,Dynamo Kyiv
+3,12/12/73,Tottenham,5-1,Dinamo Tbilisi
+3,12/12/73,FC Twente,1-2,Ipswich Town
+3,12/12/73,Ruch Chorzów,5-0,Budapest Honvéd
+3,12/12/73,Lokomotive Leipzig (1966),3-0,Fortuna Düsseldorf
+3,12/12/73,FC Köln,4-0,Nice
+3,12/12/73,Standard Liège,3-1,Feyenoord
+3,19/12/73,Feyenoord,2-0,Standard Liège
+QF,05/03/74,Stuttgart,1-0,Vitória FC
+QF,06/03/74,Ipswich Town,1-0,Lokomotive Leipzig (1966)
+QF,06/03/74,FC Köln,1-2,Tottenham
+QF,06/03/74,Ruch Chorzów,1-1,Feyenoord
+QF,19/03/74,Vitória FC,2-2,Stuttgart
+QF,20/03/74,Lokomotive Leipzig (1966),1-0(4-3 Pen.),Ipswich Town
+QF,20/03/74,Tottenham,3-0,FC Köln
+QF,20/03/74,Feyenoord,3-1(Pro.),Ruch Chorzów
+SF,10/04/74,Lokomotive Leipzig (1966),1-2,Tottenham
+SF,10/04/74,Feyenoord,2-1,Stuttgart
+SF,24/04/74,Tottenham,2-0,Lokomotive Leipzig (1966)
+SF,24/04/74,Stuttgart,2-2,Feyenoord
+F,21/05/74,Tottenham,2-2,Feyenoord
+F,29/05/74,Feyenoord,2-0,Tottenham

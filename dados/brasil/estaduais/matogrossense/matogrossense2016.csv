@@ -1,0 +1,79 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,31/01/16,CEOV Operário,1-1,Mixto
+B,31/01/16,Araguaia,1-0,Operário-MT
+B,31/01/16,Dom Bosco,0-2,Cuiabá
+A,31/01/16,Poconé,3-3,Cacerense
+A,31/01/16,Sinop,0-0,Luverdense
+B,03/02/16,Operário-MT,1-2,Dom Bosco
+A,04/02/16,Mixto,2-1,Poconé
+A,04/02/16,Cacerense,2-0,Sinop
+A,04/02/16,Luverdense,5-1,CEOV Operário
+B,04/02/16,União Rondonópolis,0-0,Cuiabá
+B,10/02/16,Araguaia,1-0,União Rondonópolis
+A,10/02/16,CEOV Operário,3-1,Poconé
+B,10/02/16,Cuiabá,3-0,Operário-MT
+A,11/02/16,Luverdense,4-0,Cacerense
+A,11/02/16,Sinop,2-0,Mixto
+A,14/02/16,CEOV Operário,1-0,Sinop
+A,14/02/16,Cacerense,1-2,Mixto
+B,14/02/16,Cuiabá,4-0,Araguaia
+B,14/02/16,União Rondonópolis,0-0,Dom Bosco
+A,15/02/16,Poconé,0-1,Luverdense
+B,20/02/16,Araguaia,2-1,Dom Bosco
+A,20/02/16,Cacerense,1-1,CEOV Operário
+A,20/02/16,Mixto,1-1,Luverdense
+B,20/02/16,Operário-MT,0-3,União Rondonópolis
+A,20/02/16,Sinop,2-1,Poconé
+B,24/02/16,Dom Bosco,1-1,Araguaia
+A,24/02/16,CEOV Operário,2-1,Cacerense
+A,24/02/16,Poconé,0-2,Sinop
+A,25/02/16,Luverdense,4-3,Mixto
+B,25/02/16,União Rondonópolis,1-1,Operário-MT
+B,28/02/16,Araguaia,0-0,Cuiabá
+A,28/02/16,Mixto,3-3,Cacerense
+B,28/02/16,Dom Bosco,3-2,União Rondonópolis
+A,28/02/16,Luverdense,0-0,Poconé
+A,28/02/16,Sinop,1-0,CEOV Operário
+A,06/03/16,Mixto,0-3,Sinop
+A,06/03/16,Poconé,2-0,CEOV Operário
+B,06/03/16,Operário-MT,0-6,Cuiabá
+A,06/03/16,Cacerense,1-0,Luverdense
+B,06/03/16,União Rondonópolis,1-0,Araguaia
+B,12/03/16,Cuiabá,4-0,União Rondonópolis
+A,12/03/16,CEOV Operário,2-0,Luverdense
+A,12/03/16,Poconé,3-2,Mixto
+A,12/03/16,Sinop,0-0,Cacerense
+B,15/03/16,Dom Bosco,5-1,Operário-MT
+B,19/03/16,Operário-MT,0-4,Araguaia
+A,20/03/16,Cacerense,2-1,Poconé
+A,20/03/16,Luverdense,0-0,Sinop
+A,20/03/16,Mixto,2-2,CEOV Operário
+B,20/03/16,Cuiabá,0-1,Dom Bosco
+B,27/03/16,CEOV Operário,1-2,Sinop
+A,27/03/16,Araguaia,0-0,Luverdense
+A,27/03/16,Dom Bosco,3-1,Cacerense
+B,27/03/16,União Rondonópolis,0-0,Cuiabá
+B,30/03/16,Sinop,1-0,União Rondonópolis
+B,30/03/16,Cuiabá,2-0,CEOV Operário
+A,31/03/16,Luverdense,3-1,Dom Bosco
+A,31/03/16,Cacerense,1-0,Araguaia
+B,02/04/16,Sinop,1-0,Cuiabá
+A,03/04/16,Dom Bosco,1-1,Araguaia
+B,03/04/16,CEOV Operário,3-2,União Rondonópolis
+A,03/04/16,Cacerense,0-0,Luverdense
+A,10/04/16,Araguaia,2-0,Dom Bosco
+A,10/04/16,Luverdense,3-0,Cacerense
+B,10/04/16,Cuiabá,0-3,Sinop
+B,10/04/16,União Rondonópolis,3-2,CEOV Operário
+A,17/04/16,Dom Bosco,1-2,Luverdense
+A,17/04/16,Araguaia,4-1,Cacerense
+B,17/04/16,União Rondonópolis,1-0,Sinop
+B,17/04/16,CEOV Operário,0-0,Cuiabá
+A,23/04/16,Luverdense,5-0,Araguaia
+A,23/04/16,Cacerense,2-0,Dom Bosco
+B,23/04/16,Cuiabá,2-1,União Rondonópolis
+B,23/04/16,Sinop,2-1,CEOV Operário
+SF,30/04/16,Luverdense,2-0,Cuiabá
+SF,30/04/16,Sinop,3-1,Araguaia
+F,04/05/16,Luverdense,0-0,Sinop
+F,08/05/16,Sinop,0-1,Luverdense

@@ -1,0 +1,75 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,13/02/05,Potiguar de Parnamirim,2-4,América-RN
+A,13/02/05,Potyguar Seridoense,2-2,São Gonçalo-RN
+A,13/02/05,Alecrim,1-3,ABC
+B,13/02/05,Pauferrense,2-2,Coríntians-RN
+B,13/02/05,ASSU,1-2,Baraúnas
+B,13/02/05,Potiguar,1-1,Santa Cruz-RN
+A,18/02/05,ABC,3-1,Potyguar Seridoense
+A,19/02/05,São Gonçalo-RN,1-1,Potiguar de Parnamirim
+A,19/02/05,América-RN,2-1,Alecrim
+B,19/02/05,Baraúnas,5-0,Pauferrense
+B,19/02/05,Coríntians-RN,1-2,Potiguar
+B,19/02/05,Santa Cruz-RN,1-1,ASSU
+A,27/02/05,ABC,2-2,São Gonçalo-RN
+A,27/02/05,Potyguar Seridoense,2-2,América-RN
+A,27/02/05,Potiguar de Parnamirim,2-1,Alecrim
+B,27/02/05,Potiguar,4-0,Pauferrense
+B,27/02/05,Santa Cruz-RN,3-0,Baraúnas
+B,27/02/05,ASSU,2-1,Coríntians-RN
+A,06/03/05,América-RN,2-2,ABC
+A,06/03/05,Alecrim,3-4,São Gonçalo-RN
+A,06/03/05,Potiguar de Parnamirim,1-1,Potyguar Seridoense
+B,06/03/05,Baraúnas,0-1,Potiguar
+B,06/03/05,Coríntians-RN,1-2,Santa Cruz-RN
+B,06/03/05,Pauferrense,2-1,ASSU
+A,12/03/05,São Gonçalo-RN,1-2,América-RN
+A,13/03/05,ABC,6-0,Potiguar de Parnamirim
+A,13/03/05,Potyguar Seridoense,1-3,Alecrim
+B,13/03/05,Santa Cruz-RN,3-0,Pauferrense
+B,13/03/05,Potiguar,1-2,ASSU
+B,13/03/05,Coríntians-RN,2-1,Baraúnas
+A,19/03/05,ABC,1-0,Alecrim
+A,20/03/05,São Gonçalo-RN,1-0,Potyguar Seridoense
+A,20/03/05,América-RN,7-0,Potiguar de Parnamirim
+B,20/03/05,Coríntians-RN,5-1,Pauferrense
+B,20/03/05,Santa Cruz-RN,1-0,Potiguar
+B,20/03/05,Baraúnas,1-3,ASSU
+A,26/03/05,Potiguar de Parnamirim,2-2,São Gonçalo-RN
+B,26/03/05,ASSU,1-0,Santa Cruz-RN
+B,26/03/05,Pauferrense,0-3,Baraúnas
+A,28/03/05,Alecrim,1-3,América-RN
+B,28/03/05,Potiguar,1-2,Coríntians-RN
+A,02/04/05,América-RN,1-0,Potyguar Seridoense
+A,03/04/05,Alecrim,0-1,Potiguar de Parnamirim
+A,03/04/05,ABC,2-0,São Gonçalo-RN
+B,03/04/05,Baraúnas,1-2,Santa Cruz-RN
+B,03/04/05,Pauferrense,2-6,Potiguar
+B,03/04/05,Coríntians-RN,1-3,ASSU
+A,10/04/05,Alecrim,1-1,São Gonçalo-RN
+A,10/04/05,ABC,2-0,América-RN
+B,10/04/05,Potiguar,1-3,Baraúnas
+B,10/04/05,ASSU,5-0,Pauferrense
+B,10/04/05,Santa Cruz-RN,1-1,Coríntians-RN
+A,10/04/05,Potyguar Seridoense,2-1,Potiguar de Parnamirim
+A,13/04/05,Potyguar Seridoense,0-3,ABC
+A,17/04/05,América-RN,0-1,São Gonçalo-RN
+A,17/04/05,Alecrim,3-2,Potyguar Seridoense
+A,17/04/05,Potiguar de Parnamirim,1-3,ABC
+B,17/04/05,ASSU,2-0,Potiguar
+B,17/04/05,Pauferrense,0-3,Santa Cruz-RN
+B,17/04/05,Baraúnas,2-1,Coríntians-RN
+QF,24/04/05,Potiguar de Parnamirim,0-1,ABC
+QF,24/04/05,São Gonçalo-RN,2-1,América-RN
+QF,24/04/05,Potiguar,1-1,ASSU
+QF,25/04/05,Baraúnas,0-1,Santa Cruz-RN
+QF,30/04/05,ABC,4-1,Potiguar de Parnamirim
+QF,01/05/05,América-RN,3-0,São Gonçalo-RN
+QF,01/05/05,ASSU,4-0,Potiguar
+QF,01/05/05,Santa Cruz-RN,0-1,Baraúnas
+SF,08/05/05,Santa Cruz-RN,1-0,ABC
+SF,08/05/05,América-RN,0-2,ASSU
+SF,15/05/05,ABC,3-1,Santa Cruz-RN
+SF,15/05/05,ASSU,0-3,América-RN
+F,22/05/05,América-RN,0-3,ABC
+F,29/05/05,ABC,2-1,América-RN

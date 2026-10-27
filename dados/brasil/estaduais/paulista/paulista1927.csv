@@ -1,0 +1,92 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,03/05/27,Americano-SP,0-0,Barra Funda
+1T,03/05/27,Palestra Itália,6-2,Comercial
+1T,03/05/27,Santos,12-1,Ypiranga-SP
+1T,08/05/27,Americano-SP,0-2,SPAlpargatas
+1T,08/05/27,Guarani,2-3,Primeiro de Maio-SP
+1T,08/05/27,Ypiranga-SP,2-1,Barra Funda
+1T,13/05/27,Portuguesa,5-1,Corinthians de Santo André
+1T,13/05/27,Santos,10-2,República
+1T,15/05/27,Palestra Itália,6-1,SPAlpargatas
+1T,15/05/27,Primeiro de Maio-SP,7-0,Americano-SP
+1T,22/05/27,Portuguesa,2-3,Barra Funda
+1T,22/05/27,Comercial,2-3,Guarani
+1T,22/05/27,Corinthians de Santo André,0-2,República
+1T,22/05/27,Santos,4-2,Primeiro de Maio-SP
+1T,29/05/27,Palestra Itália,5-0,Ypiranga-SP
+1T,29/05/27,Portuguesa,5-1,Americano-SP
+1T,29/05/27,Guarani,5-3,República
+1T,29/05/27,SPAlpargatas,1-1,Corinthians de Santo André
+1T,05/06/27,Palestra Itália,9-0,Primeiro de Maio-SP
+1T,05/06/27,Santos,11-2,Barra Funda
+1T,05/06/27,Ypiranga-SP,1-5,SPAlpargatas
+1T,12/06/27,Corinthians de Santo André,3-2,Americano-SP
+1T,12/06/27,SPAlpargatas,2-0,Barra Funda
+1T,12/06/27,Guarani,1-1,Palestra Itália
+1T,12/06/27,Portuguesa,1-3,República
+1T,19/06/27,República,3-1,Primeiro de Maio-SP
+1T,19/06/27,Ypiranga-SP,3-4,Portuguesa
+1T,20/06/27,Palestra Itália,5-1,Sílex
+1T,26/06/27,Santos,5-2,Portuguesa
+1T,26/06/27,Barra Funda,1-0,Corinthians de Santo André
+1T,26/06/27,Guarani,6-3,SPAlpargatas
+1T,03/07/27,Palestra Itália,9-0,Barra Funda
+1T,03/07/27,Santos,11-3,Americano-SP
+1T,03/07/27,Comercial,0-3,República
+1T,03/07/27,Ypiranga-SP,1-9,Primeiro de Maio-SP
+1T,10/07/27,SPAlpargatas,4-0,Primeiro de Maio-SP
+1T,10/07/27,Corinthians de Santo André,7-5,Ypiranga-SP
+1T,17/07/27,Ypiranga-SP,1-0,Americano-SP
+1T,17/07/27,Palestra Itália,11-2,Corinthians de Santo André
+1T,17/07/27,Primeiro de Maio-SP,3-6,Portuguesa
+1T,24/07/27,SPAlpargatas,5-2,República
+1T,24/07/27,Guarani,4-1,Corinthians de Santo André
+1T,24/07/27,Primeiro de Maio-SP,1-2,Barra Funda
+1T,31/07/27,Palestra Itália,9-2,República
+1T,31/07/27,Comercial,1-2,Portuguesa
+1T,31/07/27,Santos,9-3,SPAlpargatas
+1T,31/07/27,Corinthians,4-1,Corinthians de Santo André
+1T,07/08/27,Ypiranga-SP,1-4,República
+1T,14/08/27,Barra Funda,1-4,Corinthians
+1T,14/08/27,Sílex,1-1,República
+1T,14/08/27,Comercial,3-4,Santos
+1T,14/08/27,Portuguesa,1-5,Guarani
+1T,21/08/27,Primeiro de Maio-SP,1-2,Corinthians de Santo André
+1T,21/08/27,Comercial,2-1,SPAlpargatas
+1T,21/08/27,Santos,10-1,Guarani
+1T,21/08/27,Palestra Itália,3-1,Corinthians
+1T,21/08/27,Sílex,0-1,Portuguesa
+1T,29/08/27,Guarani,8-1,Ypiranga-SP
+1T,29/08/27,Santos,4-1,Corinthians de Santo André
+1T,29/08/27,Palestra Itália,6-2,Americano-SP
+1T,29/08/27,Sílex,5-1,Barra Funda
+1T,29/08/27,República,1-2,Corinthians
+1T,04/09/27,Comercial,2-1,Corinthians de Santo André
+1T,04/09/27,Corinthians,3-8,Santos
+1T,04/09/27,Americano-SP,4-2,República
+1T,04/09/27,Primeiro de Maio-SP,1-5,Sílex
+1T,18/09/27,Corinthians,7-0,Americano-SP
+1T,18/09/27,Palestra Itália,7-2,Portuguesa
+1T,18/09/27,Ypiranga-SP,1-6,Sílex
+1T,09/10/27,SPAlpargatas,5-2,Sílex
+1T,16/10/27,Sílex,1-0,Corinthians de Santo André
+1T,30/10/27,Guarani,4-1,Americano-SP
+1T,27/11/27,Corinthians,5-1,Primeiro de Maio-SP
+1T,27/11/27,Santos,4-1,Sílex
+1T,11/12/27,Corinthians,5-0,Sílex
+1T,18/12/27,Americano-SP,3-0,Sílex
+1T,18/12/27,Comercial,1-3,Corinthians
+1T,01/01/28,Corinthians,2-0,Guarani
+1T,15/01/28,Corinthians,5-1,SPAlpargatas
+1T,22/01/28,República,1-0,Barra Funda
+1T,22/01/28,Palestra Itália,4-1,Santos
+1T,22/01/28,Americano-SP,1-0,Comercial
+1T,22/01/28,Portuguesa,7-1,SPAlpargatas
+1T,25/01/28,Ypiranga-SP,2-4,Corinthians
+2T,05/02/28,Guarani,2-4,Santos
+1T,12/02/28,Corinthians,10-5,Portuguesa
+2T,26/02/28,Santos,1-0,Corinthians
+2T,26/02/28,Palestra Itália,4-2,Guarani
+2T,04/03/28,Guarani,6-2,Corinthians
+2T,04/03/28,Santos,2-3,Palestra Itália
+2T,11/03/28,Palestra Itália,1-3,Corinthians

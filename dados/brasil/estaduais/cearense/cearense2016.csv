@@ -1,0 +1,77 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A1,16/01/16,Itapipoca,0-1,Uniclinic
+A1,17/01/16,Maranguape,2-2,Icasa
+A1,23/01/16,Maranguape,1-2,Uniclinic
+A1,23/01/16,Fortaleza,3-0,Itapipoca
+A2,24/01/16,Tiradentes-CE,0-1,Ceará
+A2,27/01/16,Ceará,1-0,Guarani de Juazeiro
+A1,27/01/16,Itapipoca,0-1,Maranguape
+A1,27/01/16,Icasa,0-3,Fortaleza
+A2,30/01/16,Ceará,2-0,Quixadá
+A2,30/01/16,Tiradentes-CE,2-2,Guarani de Juazeiro
+A1,31/01/16,Uniclinic,2-3,Fortaleza
+A1,31/01/16,Icasa,2-1,Itapipoca
+A1,03/02/16,Uniclinic,3-2,Icasa
+A1,03/02/16,Fortaleza,3-1,Maranguape
+A2,03/02/16,Guarany de Sobral,0-2,Ceará
+A2,03/02/16,Guarani de Juazeiro,1-0,Quixadá
+A1,06/02/16,Itapipoca,1-1,Fortaleza
+A2,06/02/16,Guarani de Juazeiro,0-1,Guarany de Sobral
+A2,06/02/16,Ceará,2-0,Tiradentes-CE
+A1,10/02/16,Fortaleza,2-0,Icasa
+A2,10/02/16,Guarani de Juazeiro,2-1,Ceará
+A2,11/02/16,Tiradentes-CE,1-0,Guarany de Sobral
+A1,13/02/16,Uniclinic,0-1,Itapipoca
+A2,14/02/16,Quixadá,0-0,Tiradentes-CE
+A1,14/02/16,Icasa,1-2,Maranguape
+A2,14/02/16,Guarany de Sobral,1-1,Guarani de Juazeiro
+A1,17/02/16,Uniclinic,1-0,Maranguape
+A2,17/02/16,Quixadá,0-0,Guarany de Sobral
+A2,20/02/16,Guarany de Sobral,1-0,Tiradentes-CE
+A1,20/02/16,Fortaleza,1-2,Uniclinic
+A1,21/02/16,Itapipoca,0-0,Icasa
+A2,21/02/16,Quixadá,0-2,Ceará
+A2,24/02/16,Tiradentes-CE,2-2,Quixadá
+A1,25/02/16,Maranguape,2-0,Itapipoca
+A2,27/02/16,Quixadá,0-2,Guarani de Juazeiro
+A2,27/02/16,Ceará,3-1,Guarany de Sobral
+A1,28/02/16,Icasa,1-2,Uniclinic
+A1,28/02/16,Maranguape,2-3,Fortaleza
+A2,02/03/16,Guarany de Sobral,2-0,Quixadá
+A2,02/03/16,Guarani de Juazeiro,2-0,Tiradentes-CE
+,05/03/16,Itapipoca,0-2,Tiradentes-CE
+,05/03/16,Quixadá,2-0,Icasa
+B2,05/03/16,Guarani de Juazeiro,1-0,Uniclinic
+B2,05/03/16,Ceará,1-1,Maranguape
+B2,06/03/16,Guarany de Sobral,0-2,Fortaleza
+,08/03/16,Tiradentes-CE,1-0,Quixadá
+,09/03/16,Icasa,1-4,Itapipoca
+B2,12/03/16,Uniclinic,2-1,Guarany de Sobral
+,13/03/16,Quixadá,2-0,Itapipoca
+B2,13/03/16,Maranguape,0-0,Guarani de Juazeiro
+B2,13/03/16,Fortaleza,2-1,Ceará
+,14/03/16,Tiradentes-CE,4-1,Icasa
+B2,16/03/16,Ceará,0-0,Uniclinic
+B2,16/03/16,Guarany de Sobral,1-0,Maranguape
+B2,19/03/16,Fortaleza,2-0,Guarany de Sobral
+B2,19/03/16,Uniclinic,1-0,Guarani de Juazeiro
+,20/03/16,Icasa,0-2,Tiradentes-CE
+B2,20/03/16,Maranguape,0-4,Ceará
+,20/03/16,Itapipoca,2-2,Quixadá
+,23/03/16,Quixadá,0-3,Tiradentes-CE
+,25/03/16,Itapipoca,4-0,Icasa
+B2,26/03/16,Guarany de Sobral,2-0,Uniclinic
+B2,27/03/16,Guarani de Juazeiro,2-1,Maranguape
+B2,27/03/16,Ceará,1-1,Fortaleza
+,30/03/16,Tiradentes-CE,0-2,Itapipoca
+,30/03/16,Icasa,1-5,Quixadá
+B2,06/04/16,Guarani de Juazeiro,0-0,Fortaleza
+B2,10/04/16,Maranguape,0-1,Guarany de Sobral
+B2,10/04/16,Uniclinic,1-5,Ceará
+B2,10/04/16,Fortaleza,0-1,Guarani de Juazeiro
+SF,16/04/16,Guarany de Sobral,1-3,Fortaleza
+SF,17/04/16,Guarani de Juazeiro,0-2,Uniclinic
+SF,23/04/16,Uniclinic,0-2,Guarani de Juazeiro
+SF,24/04/16,Fortaleza,4-4,Guarany de Sobral
+F,01/05/16,Uniclinic,1-4,Fortaleza
+F,08/05/16,Fortaleza,1-0,Uniclinic

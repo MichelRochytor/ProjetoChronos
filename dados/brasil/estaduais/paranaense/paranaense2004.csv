@@ -1,0 +1,105 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,21/01/04,Rio Branco-PR,3-1,Malutrom
+A,21/01/04,Atlético Paranaense,2-0,Prudentópolis
+A,21/01/04,Francisco Beltrão,1-0,Paraná
+B,21/01/04,União Bandeirante,3-2,Roma Apucarana
+B,21/01/04,Paranavaí,0-2,ADAP
+A,22/01/04,Coritiba,1-2,Iraty
+B,22/01/04,Grêmio Maringá,1-1,Nacional-PR
+B,22/01/04,Londrina,0-3,Cianorte
+A,24/01/04,Atlético Paranaense,4-0,Francisco Beltrão
+A,25/01/04,Paraná,0-1,Coritiba
+A,25/01/04,Iraty,1-1,Rio Branco-PR
+A,25/01/04,Prudentópolis,0-1,Malutrom
+B,25/01/04,Cianorte,3-1,Grêmio Maringá
+B,25/01/04,Nacional-PR,1-2,Paranavaí
+B,25/01/04,ADAP,4-3,Roma Apucarana
+B,25/01/04,Londrina,3-2,União Bandeirante
+A,28/01/04,Iraty,0-0,Paraná
+A,28/01/04,Malutrom,1-3,Atlético Paranaense
+A,28/01/04,Rio Branco-PR,2-1,Francisco Beltrão
+B,28/01/04,Nacional-PR,2-0,Cianorte
+B,28/01/04,Paranavaí,3-1,União Bandeirante
+B,28/01/04,Roma Apucarana,2-1,Londrina
+A,29/01/04,Coritiba,2-1,Prudentópolis
+B,29/01/04,Grêmio Maringá,3-3,ADAP
+A,31/01/04,Paraná,0-1,Malutrom
+A,01/02/04,Prudentópolis,3-3,Rio Branco-PR
+A,01/02/04,Francisco Beltrão,3-0,Iraty
+A,01/02/04,Coritiba,1-1,Atlético Paranaense
+B,01/02/04,Roma Apucarana,4-0,Nacional-PR
+B,01/02/04,Grêmio Maringá,1-0,Londrina
+B,01/02/04,União Bandeirante,0-1,ADAP
+B,01/02/04,Cianorte,2-1,Paranavaí
+A,05/02/04,Rio Branco-PR,1-1,Coritiba
+A,07/02/04,Malutrom,2-1,Francisco Beltrão
+B,07/02/04,Londrina,1-1,Nacional-PR
+A,08/02/04,Atlético Paranaense,3-0,Paraná
+A,08/02/04,Iraty,2-2,Prudentópolis
+B,08/02/04,ADAP,3-1,Cianorte
+B,08/02/04,União Bandeirante,4-1,Grêmio Maringá
+B,08/02/04,Paranavaí,2-2,Roma Apucarana
+A,14/02/04,Coritiba,2-1,Malutrom
+A,15/02/04,Iraty,1-3,Atlético Paranaense
+A,15/02/04,Paraná,2-1,Rio Branco-PR
+A,15/02/04,Prudentópolis,1-1,Francisco Beltrão
+B,15/02/04,Nacional-PR,1-1,União Bandeirante
+B,15/02/04,Roma Apucarana,0-1,Cianorte
+B,15/02/04,Grêmio Maringá,1-2,Paranavaí
+B,15/02/04,Londrina,3-1,ADAP
+A,22/02/04,Atlético Paranaense,4-0,Rio Branco-PR
+A,22/02/04,Francisco Beltrão,1-2,Coritiba
+A,22/02/04,Malutrom,1-2,Iraty
+A,22/02/04,Prudentópolis,1-1,Paraná
+B,22/02/04,Paranavaí,1-1,Londrina
+B,22/02/04,Roma Apucarana,4-2,Grêmio Maringá
+B,22/02/04,ADAP,3-1,Nacional-PR
+B,22/02/04,Cianorte,2-1,União Bandeirante
+C,26/02/04,Malutrom,1-5,Roma Apucarana
+C,26/02/04,União Bandeirante,1-1,Iraty
+C,26/02/04,Atlético Paranaense,2-0,Cianorte
+D,26/02/04,Coritiba,3-1,ADAP
+D,26/02/04,Londrina,2-1,Rio Branco-PR
+D,26/02/04,Paranavaí,2-1,Francisco Beltrão
+,29/02/04,Nacional-PR,3-1,Paraná
+,29/02/04,Grêmio Maringá,0-1,Prudentópolis
+C,29/02/04,Roma Apucarana,1-2,Atlético Paranaense
+C,29/02/04,Iraty,4-1,Malutrom
+C,29/02/04,Cianorte,1-0,União Bandeirante
+D,29/02/04,Rio Branco-PR,1-2,Coritiba
+D,29/02/04,Francisco Beltrão,0-2,Londrina
+D,29/02/04,ADAP,2-3,Paranavaí
+,07/03/04,Paraná,6-1,Grêmio Maringá
+,07/03/04,Prudentópolis,0-0,Nacional-PR
+C,07/03/04,Atlético Paranaense,2-2,Iraty
+C,07/03/04,Cianorte,4-3,Roma Apucarana
+C,07/03/04,Malutrom,1-4,União Bandeirante
+D,07/03/04,Coritiba,3-1,Francisco Beltrão
+D,07/03/04,Paranavaí,1-1,Londrina
+D,07/03/04,ADAP,2-1,Rio Branco-PR
+,14/03/04,Nacional-PR,2-0,Grêmio Maringá
+C,14/03/04,Malutrom,1-5,Atlético Paranaense
+C,14/03/04,União Bandeirante,2-3,Roma Apucarana
+C,14/03/04,Iraty,1-1,Cianorte
+D,14/03/04,Londrina,1-1,Coritiba
+D,14/03/04,Francisco Beltrão,1-2,ADAP
+D,14/03/04,Paranavaí,3-1,Rio Branco-PR
+,15/03/04,Prudentópolis,1-2,Paraná
+,20/03/04,Paraná,2-1,Nacional-PR
+,21/03/04,Prudentópolis,0-4,Grêmio Maringá
+C,21/03/04,Atlético Paranaense,2-0,União Bandeirante
+C,21/03/04,Roma Apucarana,2-0,Iraty
+C,21/03/04,Cianorte,4-1,Malutrom
+D,21/03/04,Coritiba,2-0,Paranavaí
+D,21/03/04,Rio Branco-PR,0-0,Francisco Beltrão
+D,21/03/04,ADAP,1-2,Londrina
+,28/03/04,Grêmio Maringá,1-4,Paraná
+,28/03/04,Nacional-PR,3-1,Prudentópolis
+SF,28/03/04,Londrina,1-1,Atlético Paranaense
+SF,28/03/04,Cianorte,0-1,Coritiba
+SF,02/04/04,Coritiba,1-0,Cianorte
+,04/04/04,Paraná,4-3,Prudentópolis
+,04/04/04,Grêmio Maringá,1-0,Nacional-PR
+SF,04/04/04,Atlético Paranaense,3-1,Londrina
+F,10/04/04,Coritiba,2-1,Atlético Paranaense
+F,18/04/04,Atlético Paranaense,3-3,Coritiba

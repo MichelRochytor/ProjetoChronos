@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,28/09/30,Juventus,4-1,Pro Patria
+1,28/09/30,Napoli,1-0,Pro Vercelli
+1,28/09/30,Modena,1-1,Roma
+1,28/09/30,Livorno 1915,0-0,AC Milan
+1,28/09/30,Alessandria,4-0,Brescia
+1,28/09/30,Lazio,0-0,Torino
+1,28/09/30,Bologna,6-1,Triestina
+1,28/09/30,Ambrosiana,5-1,Casale
+1,28/09/30,Legnano,2-1,Genoa
+2,05/10/30,Genoa,4-2,Napoli
+2,05/10/30,Roma,2-0,Alessandria
+2,05/10/30,Pro Vercelli,1-1,Ambrosiana
+2,05/10/30,Torino,2-0,Triestina
+2,05/10/30,Casale,1-1,Legnano
+2,05/10/30,Brescia,1-2,Modena
+2,05/10/30,Bologna,5-0,Livorno 1915
+2,05/10/30,Pro Patria,3-1,Lazio
+2,05/10/30,AC Milan,0-3,Juventus
+3,12/10/30,Lazio,2-0,Bologna
+3,12/10/30,Napoli,1-0,Pro Patria
+3,12/10/30,Modena,2-0,Torino
+3,12/10/30,Legnano,2-2,Pro Vercelli
+3,12/10/30,Triestina,0-0,Roma
+3,12/10/30,Juventus,2-0,Casale
+3,12/10/30,Ambrosiana,3-3,Brescia
+3,12/10/30,Alessandria,3-0,AC Milan
+3,12/10/30,Livorno 1915,1-2,Genoa
+4,19/10/30,Pro Patria,3-2,Modena
+4,19/10/30,Roma,3-1,Napoli
+4,19/10/30,Torino,6-0,Ambrosiana
+4,19/10/30,Pro Vercelli,1-3,Juventus
+4,19/10/30,AC Milan,0-1,Lazio
+4,19/10/30,Livorno 1915,0-1,Brescia
+4,19/10/30,Legnano,0-2,Bologna
+4,19/10/30,Casale,2-3,Triestina
+4,19/10/30,Genoa,5-1,Alessandria
+13,21/10/30,Genoa,1-0,Pro Vercelli
+13,21/10/30,Triestina,1-0,Livorno 1915
+13,21/10/30,Torino,1-4,Roma
+13,21/10/30,AC Milan,2-3,Napoli
+13,21/10/30,Alessandria,4-1,Pro Patria
+13,21/10/30,Casale,3-1,Modena
+13,21/10/30,Bologna,7-1,Brescia
+13,21/10/30,Legnano,2-2,Ambrosiana
+5,26/10/30,Lazio,1-0,Casale
+5,26/10/30,Napoli,2-0,Livorno 1915
+5,26/10/30,Ambrosiana,1-1,AC Milan
+5,26/10/30,Modena,4-2,Genoa
+5,26/10/30,Pro Patria,2-1,Triestina
+5,26/10/30,Bologna,3-0,Torino
+5,26/10/30,Alessandria,0-1,Pro Vercelli
+5,26/10/30,Brescia,2-1,Legnano
+5,26/10/30,Juventus,3-2,Roma
+6,02/11/30,AC Milan,1-2,Bologna
+6,02/11/30,Torino,4-0,Livorno 1915
+6,02/11/30,Roma,2-0,Pro Patria
+6,02/11/30,Napoli,4-1,Modena
+6,02/11/30,Triestina,5-0,Ambrosiana
+6,02/11/30,Legnano,1-0,Alessandria
+6,02/11/30,Genoa,0-3,Juventus
+6,02/11/30,Brescia,2-0,Casale
+6,02/11/30,Pro Vercelli,3-0,Lazio
+7,09/11/30,Pro Patria,2-0,Legnano
+7,09/11/30,Triestina,0-0,Napoli
+7,09/11/30,Torino,1-1,Brescia
+7,09/11/30,Pro Vercelli,0-2,AC Milan
+7,09/11/30,Lazio,3-2,Livorno 1915
+7,09/11/30,Casale,1-0,Genoa
+7,09/11/30,Bologna,3-3,Roma
+7,09/11/30,Alessandria,2-3,Juventus
+7,09/11/30,Ambrosiana,0-0,Modena
+8,16/11/30,Napoli,2-0,Lazio
+8,16/11/30,Livorno 1915,3-1,Pro Vercelli
+8,16/11/30,Roma,3-1,Casale
+8,16/11/30,Pro Patria,1-2,Torino
+8,16/11/30,Alessandria,2-0,Ambrosiana
+8,16/11/30,Modena,2-0,Triestina
+8,16/11/30,Juventus,1-0,Legnano
+8,16/11/30,Genoa,3-1,Bologna
+8,16/11/30,AC Milan,1-0,Brescia
+9,23/11/30,Modena,3-0,AC Milan
+9,23/11/30,Triestina,0-1,Alessandria
+9,23/11/30,Livorno 1915,1-3,Roma
+9,23/11/30,Legnano,0-1,Torino
+9,23/11/30,Juventus,1-2,Napoli
+9,23/11/30,Casale,2-2,Pro Vercelli
+9,23/11/30,Brescia,3-1,Pro Patria
+9,23/11/30,Ambrosiana,0-1,Bologna
+9,23/11/30,Lazio,5-0,Genoa
+10,30/11/30,Livorno 1915,0-2,Ambrosiana
+10,30/11/30,Triestina,0-0,Juventus
+10,30/11/30,Torino,0-2,Genoa
+10,30/11/30,Pro Vercelli,0-3,Roma
+10,30/11/30,Bologna,2-0,Modena
+10,30/11/30,AC Milan,2-0,Legnano
+10,30/11/30,Lazio,3-1,Alessandria
+10,30/11/30,Casale,4-0,Pro Patria
+10,30/11/30,Napoli,3-1,Brescia
+11,07/12/30,Pro Patria,0-0,Livorno 1915
+11,07/12/30,Pro Vercelli,1-0,Torino
+11,07/12/30,Juventus,2-0,Bologna
+11,07/12/30,Modena,4-1,Legnano
+11,07/12/30,Brescia,1-0,Triestina
+11,07/12/30,Ambrosiana,2-1,Napoli
+11,07/12/30,Alessandria,2-0,Casale
+11,07/12/30,Genoa,2-1,AC Milan
+11,07/12/30,Roma,1-1,Lazio
+12,14/12/30,Napoli,3-2,Alessandria
+12,14/12/30,Roma,2-1,Ambrosiana
+12,14/12/30,Modena,1-3,Pro Vercelli
+12,14/12/30,AC Milan,2-0,Triestina
+12,14/12/30,Legnano,DA,Lazio
+12,14/12/30,Juventus,2-0,Torino
+12,14/12/30,Bologna,4-1,Pro Patria
+12,14/12/30,Brescia,1-2,Genoa
+12,14/12/30,Livorno 1915,5-0,Casale
+13,21/12/30,Lazio,2-1,Juventus
+14,04/01/31,Napoli,2-0,Bologna
+14,04/01/31,Pro Patria,2-1,AC Milan
+14,04/01/31,Pro Vercelli,2-2,Triestina
+14,04/01/31,Torino,1-0,Casale
+14,04/01/31,Brescia,2-0,Lazio
+14,04/01/31,Ambrosiana,2-0,Genoa
+14,04/01/31,Alessandria,2-2,Livorno 1915
+14,04/01/31,Roma,3-0,Legnano
+14,04/01/31,Modena,1-2,Juventus
+15,11/01/31,Juventus,3-0,Brescia
+15,11/01/31,Triestina,1-0,Legnano
+15,11/01/31,Pro Vercelli,2-1,Pro Patria
+15,11/01/31,AC Milan,1-1,Torino
+15,11/01/31,Lazio,1-0,Ambrosiana
+15,11/01/31,Genoa,0-0,Roma
+15,11/01/31,Casale,0-2,Napoli
+15,11/01/31,Bologna,0-0,Alessandria
+15,11/01/31,Livorno 1915,0-2,Modena
+16,18/01/31,Pro Patria,2-3,Genoa
+16,18/01/31,Brescia,2-2,Pro Vercelli
+16,18/01/31,Torino,3-1,Napoli
+16,18/01/31,Roma,1-2,AC Milan
+16,18/01/31,Triestina,2-1,Lazio
+16,18/01/31,Modena,3-2,Alessandria
+16,18/01/31,Casale,1-2,Bologna
+16,18/01/31,Ambrosiana,2-3,Juventus
+16,18/01/31,Legnano,3-0,Livorno 1915
+17,01/02/31,Roma,3-0,Brescia
+17,01/02/31,Alessandria,1-1,Torino
+17,01/02/31,Bologna,3-0,Pro Vercelli
+17,01/02/31,Genoa,1-0,Triestina
+17,01/02/31,Juventus,4-1,Livorno 1915
+17,01/02/31,AC Milan,4-0,Casale
+17,01/02/31,Modena,3-0,Lazio
+17,01/02/31,Napoli,2-1,Legnano
+17,01/02/31,Pro Patria,1-1,Ambrosiana
+18,08/02/31,Casale,1-0,Ambrosiana
+18,08/02/31,Genoa,5-0,Legnano
+18,08/02/31,AC Milan,5-0,Livorno 1915
+18,08/02/31,Pro Patria,1-3,Juventus
+18,08/02/31,Pro Vercelli,6-3,Napoli
+18,08/02/31,Roma,4-0,Modena
+18,08/02/31,Torino,2-0,Lazio
+18,08/02/31,Triestina,1-1,Bologna
+18,08/02/31,Brescia,7-3,Alessandria
+19,15/02/31,Modena,3-2,Brescia
+19,15/02/31,Napoli,0-1,Genoa
+19,15/02/31,Livorno 1915,0-2,Bologna
+19,15/02/31,Legnano,1-0,Casale
+19,15/02/31,Juventus,3-3,AC Milan
+19,15/02/31,Alessandria,0-2,Roma
+19,15/02/31,Ambrosiana,6-1,Pro Vercelli
+19,15/02/31,Triestina,1-0,Torino
+19,15/02/31,Lazio,1-1,Pro Patria
+20,01/03/31,Genoa,3-2,Livorno 1915
+20,01/03/31,Torino,1-1,Modena
+20,01/03/31,Roma,3-0,Triestina
+20,01/03/31,Pro Vercelli,8-0,Legnano
+20,01/03/31,AC Milan,1-1,Alessandria
+20,01/03/31,Casale,0-1,Juventus
+20,01/03/31,Brescia,0-0,Ambrosiana
+20,01/03/31,Bologna,4-0,Lazio
+20,01/03/31,Pro Patria,3-2,Napoli
+21,08/03/31,Lazio,1-2,AC Milan
+21,08/03/31,Ambrosiana,3-0,Torino
+21,08/03/31,Triestina,1-2,Casale
+21,08/03/31,Napoli,3-0,Roma
+21,08/03/31,Modena,3-1,Pro Patria
+21,08/03/31,Alessandria,0-1,Genoa
+21,08/03/31,Bologna,2-1,Legnano
+21,08/03/31,Brescia,1-1,Livorno 1915
+21,08/03/31,Juventus,5-1,Pro Vercelli
+22,15/03/31,Livorno 1915,1-2,Napoli
+22,15/03/31,Torino,1-1,Bologna
+22,15/03/31,Roma,5-0,Juventus
+22,15/03/31,AC Milan,1-4,Ambrosiana
+22,15/03/31,Triestina,0-0,Pro Patria
+22,15/03/31,Legnano,2-2,Brescia
+22,15/03/31,Genoa,5-3,Modena
+22,15/03/31,Casale,0-2,Lazio
+22,15/03/31,Pro Vercelli,6-2,Alessandria
+23,22/03/31,Lazio,1-2,Pro Vercelli
+23,22/03/31,Modena,2-0,Napoli
+23,22/03/31,Pro Patria,0-4,Roma
+23,22/03/31,Livorno 1915,1-1,Torino
+23,22/03/31,Juventus,4-1,Genoa
+23,22/03/31,Casale,0-0,Brescia
+23,22/03/31,Bologna,2-2,AC Milan
+23,22/03/31,Alessandria,5-0,Legnano
+23,22/03/31,Ambrosiana,1-0,Triestina
+24,05/04/31,Genoa,1-0,Casale
+24,05/04/31,AC Milan,2-1,Pro Vercelli
+24,05/04/31,Roma,2-1,Bologna
+24,05/04/31,Napoli,5-1,Triestina
+24,05/04/31,Modena,2-5,Ambrosiana
+24,05/04/31,Brescia,2-1,Torino
+24,05/04/31,Juventus,4-1,Alessandria
+24,05/04/31,Legnano,0-0,Pro Patria
+24,05/04/31,Livorno 1915,0-0,Lazio
+25,26/04/31,Casale,0-3,Roma
+25,26/04/31,Torino,3-1,Pro Patria
+25,26/04/31,Pro Vercelli,3-1,Livorno 1915
+25,26/04/31,Lazio,0-1,Napoli
+25,26/04/31,Triestina,1-1,Modena
+25,26/04/31,Brescia,3-0,AC Milan
+25,26/04/31,Bologna,1-1,Genoa
+25,26/04/31,Ambrosiana,2-0,Alessandria
+25,26/04/31,Legnano,1-2,Juventus
+26,03/05/31,Pro Patria,3-0,Brescia
+26,03/05/31,Torino,5-0,Legnano
+26,03/05/31,Roma,7-1,Livorno 1915
+26,03/05/31,Pro Vercelli,1-1,Casale
+26,03/05/31,Napoli,1-2,Juventus
+26,03/05/31,AC Milan,3-1,Modena
+26,03/05/31,Genoa,2-0,Lazio
+26,03/05/31,Alessandria,4-1,Triestina
+26,03/05/31,Bologna,4-1,Ambrosiana
+27,10/05/31,Genoa,3-2,Torino
+27,10/05/31,Pro Patria,1-0,Casale
+27,10/05/31,Modena,0-2,Bologna
+27,10/05/31,Roma,5-0,Pro Vercelli
+27,10/05/31,Brescia,0-1,Napoli
+27,10/05/31,Ambrosiana,1-1,Livorno 1915
+27,10/05/31,Alessandria,1-3,Lazio
+27,10/05/31,Legnano,1-2,AC Milan
+27,10/05/31,Juventus,4-0,Triestina
+28,24/05/31,Torino,1-0,Pro Vercelli
+28,24/05/31,Triestina,0-4,Brescia
+28,24/05/31,Napoli,DA,Ambrosiana
+28,24/05/31,AC Milan,1-2,Genoa
+28,24/05/31,Legnano,6-2,Modena
+28,24/05/31,Lazio,2-2,Roma
+28,24/05/31,Casale,0-0,Alessandria
+28,24/05/31,Bologna,4-0,Juventus
+28,24/05/31,Livorno 1915,1-0,Pro Patria
+29,31/05/31,Genoa,1-2,Brescia
+29,31/05/31,Triestina,3-1,AC Milan
+29,31/05/31,Torino,1-1,Juventus
+29,31/05/31,Pro Vercelli,3-0,Modena
+29,31/05/31,Alessandria,4-3,Napoli
+29,31/05/31,Lazio,4-0,Legnano
+29,31/05/31,Casale,3-2,Livorno 1915
+29,31/05/31,Ambrosiana,5-0,Roma
+29,31/05/31,Pro Patria,1-2,Bologna
+30,04/06/31,Napoli,0-1,AC Milan
+30,04/06/31,Roma,5-1,Torino
+30,04/06/31,Modena,5-1,Casale
+30,04/06/31,Pro Patria,0-1,Alessandria
+30,04/06/31,Pro Vercelli,0-1,Genoa
+30,04/06/31,Juventus,3-1,Lazio
+30,04/06/31,Brescia,2-0,Bologna
+30,04/06/31,Ambrosiana,3-0,Legnano
+30,04/06/31,Livorno 1915,3-2,Triestina
+31,07/06/31,AC Milan,1-1,Pro Patria
+31,07/06/31,Triestina,3-1,Pro Vercelli
+31,07/06/31,Livorno 1915,1-0,Alessandria
+31,07/06/31,Legnano,0-0,Roma
+31,07/06/31,Juventus,4-1,Modena
+31,07/06/31,Genoa,1-0,Ambrosiana
+31,07/06/31,Bologna,2-0,Napoli
+31,07/06/31,Casale,3-1,Torino
+31,07/06/31,Lazio,2-1,Brescia
+32,14/06/31,Legnano,1-1,Triestina
+32,14/06/31,Torino,3-1,AC Milan
+32,14/06/31,Roma,5-0,Genoa
+32,14/06/31,Pro Patria,2-2,Pro Vercelli
+32,14/06/31,Alessandria,1-6,Bologna
+32,14/06/31,Modena,4-1,Livorno 1915
+32,14/06/31,Brescia,1-1,Juventus
+32,14/06/31,Ambrosiana,3-2,Lazio
+32,14/06/31,Napoli,1-0,Casale
+33,21/06/31,AC Milan,0-2,Roma
+33,21/06/31,Juventus,1-0,Ambrosiana
+33,21/06/31,Pro Vercelli,2-0,Brescia
+33,21/06/31,Napoli,DA,Torino
+33,21/06/31,Alessandria,1-1,Modena
+33,21/06/31,Livorno 1915,2-1,Legnano
+33,21/06/31,Genoa,1-0,Pro Patria
+33,21/06/31,Bologna,6-1,Casale
+33,21/06/31,Lazio,1-0,Triestina
+34,28/06/31,Torino,4-1,Alessandria
+34,28/06/31,Triestina,1-1,Genoa
+34,28/06/31,Pro Vercelli,2-0,Bologna

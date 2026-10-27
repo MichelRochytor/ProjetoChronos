@@ -1,0 +1,105 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,17/01/09,Avaí,2-2,Brusque
+1F,18/01/09,Metropolitano,1-1,Marcílio Dias
+1F,18/01/09,Hermann Aichinger,2-1,Chapecoense
+1F,18/01/09,Joinville,3-2,Criciúma
+1F,19/01/09,Figueirense,4-0,Atlético Tubarão
+1F,21/01/09,Criciúma,2-1,Hermann Aichinger
+1F,21/01/09,Chapecoense,0-0,Metropolitano
+1F,21/01/09,Marcílio Dias,0-2,Avaí
+1F,22/01/09,Atlético Tubarão,0-2,Joinville
+1F,22/01/09,Brusque,1-0,Figueirense
+1F,24/01/09,Avaí,1-0,Chapecoense
+1F,24/01/09,Metropolitano,2-3,Criciúma
+1F,25/01/09,Marcílio Dias,2-0,Brusque
+1F,25/01/09,Hermann Aichinger,2-0,Atlético Tubarão
+1F,25/01/09,Joinville,3-0,Figueirense
+1F,28/01/09,Atlético Tubarão,4-3,Metropolitano
+1F,28/01/09,Chapecoense,4-2,Marcílio Dias
+1F,28/01/09,Criciúma,4-2,Avaí
+1F,29/01/09,Brusque,3-0,Joinville
+1F,29/01/09,Figueirense,1-1,Hermann Aichinger
+1F,31/01/09,Avaí,0-0,Atlético Tubarão
+1F,31/01/09,Marcílio Dias,2-0,Criciúma
+1F,01/02/09,Chapecoense,4-1,Brusque
+1F,01/02/09,Metropolitano,0-0,Figueirense
+1F,02/02/09,Hermann Aichinger,2-1,Joinville
+1F,04/02/09,Atlético Tubarão,0-2,Marcílio Dias
+1F,04/02/09,Criciúma,5-2,Chapecoense
+1F,05/02/09,Joinville,4-1,Metropolitano
+1F,05/02/09,Brusque,1-1,Hermann Aichinger
+1F,05/02/09,Figueirense,1-1,Avaí
+1F,08/02/09,Marcílio Dias,0-1,Figueirense
+1F,08/02/09,Chapecoense,5-2,Atlético Tubarão
+1F,08/02/09,Metropolitano,1-1,Hermann Aichinger
+1F,08/02/09,Criciúma,1-1,Brusque
+1F,08/02/09,Avaí,0-0,Joinville
+1F,11/02/09,Joinville,3-0,Marcílio Dias
+1F,11/02/09,Hermann Aichinger,4-2,Avaí
+1F,11/02/09,Atlético Tubarão,2-3,Criciúma
+1F,11/02/09,Figueirense,3-2,Chapecoense
+1F,12/02/09,Brusque,1-0,Metropolitano
+1F,15/02/09,Marcílio Dias,0-2,Hermann Aichinger
+1F,15/02/09,Chapecoense,1-0,Joinville
+1F,15/02/09,Criciúma,4-1,Figueirense
+1F,15/02/09,Atlético Tubarão,0-3,Brusque
+1F,15/02/09,Avaí,2-0,Metropolitano
+2F,19/02/09,Brusque,0-1,Avaí
+2F,21/02/09,Marcílio Dias,0-3,Metropolitano
+2F,21/02/09,Chapecoense,2-0,Hermann Aichinger
+2F,21/02/09,Criciúma,2-3,Joinville
+2F,22/02/09,Atlético Tubarão,1-2,Figueirense
+2F,25/02/09,Avaí,3-1,Marcílio Dias
+2F,25/02/09,Hermann Aichinger,1-0,Criciúma
+2F,25/02/09,Metropolitano,2-1,Chapecoense
+2F,26/02/09,Joinville,4-0,Atlético Tubarão
+2F,26/02/09,Figueirense,0-0,Brusque
+2F,28/02/09,Criciúma,2-2,Metropolitano
+2F,01/03/09,Brusque,1-1,Marcílio Dias
+2F,01/03/09,Chapecoense,5-1,Avaí
+2F,01/03/09,Figueirense,2-4,Joinville
+2F,01/03/09,Atlético Tubarão,1-1,Hermann Aichinger
+2F,08/03/09,Joinville,2-0,Brusque
+2F,08/03/09,Hermann Aichinger,1-0,Figueirense
+2F,08/03/09,Avaí,4-0,Criciúma
+2F,08/03/09,Metropolitano,3-0,Atlético Tubarão
+2F,08/03/09,Marcílio Dias,0-2,Chapecoense
+2F,11/03/09,Brusque,3-3,Chapecoense
+2F,11/03/09,Criciúma,6-1,Marcílio Dias
+2F,11/03/09,Atlético Tubarão,0-2,Avaí
+2F,11/03/09,Figueirense,2-1,Metropolitano
+2F,12/03/09,Joinville,4-1,Hermann Aichinger
+2F,14/03/09,Chapecoense,3-0,Criciúma
+2F,15/03/09,Metropolitano,1-1,Joinville
+2F,15/03/09,Marcílio Dias,3-0,Atlético Tubarão
+2F,15/03/09,Hermann Aichinger,1-1,Brusque
+2F,15/03/09,Avaí,1-1,Figueirense
+2F,18/03/09,Brusque,4-3,Criciúma
+2F,18/03/09,Atlético Tubarão,0-1,Chapecoense
+2F,18/03/09,Joinville,0-1,Avaí
+2F,18/03/09,Hermann Aichinger,1-4,Metropolitano
+2F,19/03/09,Figueirense,2-1,Marcílio Dias
+2F,21/03/09,Criciúma,4-1,Atlético Tubarão
+2F,22/03/09,Metropolitano,3-1,Brusque
+2F,22/03/09,Avaí,3-1,Hermann Aichinger
+2F,22/03/09,Marcílio Dias,4-1,Joinville
+2F,22/03/09,Chapecoense,2-2,Figueirense
+2F,25/03/09,Brusque,4-1,Atlético Tubarão
+2F,25/03/09,Figueirense,5-4,Criciúma
+2F,25/03/09,Joinville,0-1,Chapecoense
+2F,25/03/09,Hermann Aichinger,1-1,Marcílio Dias
+2F,25/03/09,Metropolitano,1-2,Avaí
+3F,28/03/09,Chapecoense,1-1,Avaí
+3F,28/03/09,Joinville,1-1,Criciúma
+3F,31/03/09,Avaí,3-1,Joinville
+3F,31/03/09,Criciúma,0-0,Chapecoense
+3F,04/04/09,Avaí,2-1,Criciúma
+3F,05/04/09,Chapecoense,2-0,Joinville
+3F,08/04/09,Criciúma,2-3,Avaí
+3F,09/04/09,Joinville,3-0,Chapecoense
+3F,12/04/09,Joinville,1-0,Avaí
+3F,12/04/09,Chapecoense,2-1,Criciúma
+3F,19/04/09,Criciúma,1-2,Joinville
+3F,19/04/09,Avaí,0-1,Chapecoense
+F,26/04/09,Chapecoense,3-1,Avaí
+F,03/05/09,Avaí,6-1(Pro.),Chapecoense

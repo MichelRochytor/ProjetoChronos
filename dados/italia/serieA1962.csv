@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,16/09/62,Atalanta,1-1,Sampdoria
+1,16/09/62,Bologna,2-1,Lanerossi Vicenza
+1,16/09/62,Fiorentina,1-2,Modena
+1,16/09/62,Genoa,0-0,Juventus
+1,16/09/62,AC Mantova,0-0,Internazionale
+1,16/09/62,AC Milan,3-3,Venezia
+1,16/09/62,Palermo,0-1,SPAL
+1,16/09/62,Roma,3-0,Napoli
+1,16/09/62,Torino,1-1,SS Catania
+2,23/09/62,Internazionale,1-0,Lanerossi Vicenza
+2,23/09/62,Juventus,2-3,Atalanta
+2,23/09/62,AC Mantova,1-0,Roma
+2,23/09/62,Modena,1-1,Genoa
+2,23/09/62,Napoli,1-5,AC Milan
+2,23/09/62,Palermo,0-1,Torino
+2,23/09/62,Sampdoria,1-0,Fiorentina
+2,23/09/62,SPAL,2-2,SS Catania
+2,23/09/62,Venezia,0-3,Bologna
+3,30/09/62,Bologna,4-0,Palermo
+3,30/09/62,SS Catania,1-0,Internazionale
+3,30/09/62,Fiorentina,1-0,Juventus
+3,30/09/62,Genoa,2-0,Venezia
+3,30/09/62,Lanerossi Vicenza,3-0,Sampdoria
+3,30/09/62,AC Milan,0-0,Atalanta
+3,30/09/62,Roma,2-0,Modena
+3,30/09/62,SPAL,4-2,Napoli
+3,30/09/62,Torino,1-0,AC Mantova
+4,07/10/62,Atalanta,2-2,Venezia
+4,07/10/62,SS Catania,0-0,Roma
+4,07/10/62,Juventus,3-1,Bologna
+4,07/10/62,AC Mantova,0-0,Lanerossi Vicenza
+4,07/10/62,AC Milan,0-0,Fiorentina
+4,07/10/62,Modena,1-0,Torino
+4,07/10/62,Napoli,1-0,Genoa
+4,07/10/62,Palermo,1-1,Internazionale
+4,07/10/62,Sampdoria,0-1,SPAL
+5,14/10/62,Bologna,7-1,Modena
+5,14/10/62,Fiorentina,2-0,Atalanta
+5,14/10/62,Genoa,2-1,Sampdoria
+5,14/10/62,Internazionale,1-0,Napoli
+5,14/10/62,Lanerossi Vicenza,2-0,AC Milan
+5,14/10/62,Palermo,1-1,SS Catania
+5,14/10/62,Roma,1-1,Juventus
+5,14/10/62,Torino,2-1,SPAL
+5,14/10/62,Venezia,4-1,AC Mantova
+6,21/10/62,Atalanta,1-3,Bologna
+6,21/10/62,SS Catania,3-2,Venezia
+6,21/10/62,Genoa,1-0,Torino
+6,21/10/62,Juventus,3-0,Sampdoria
+6,21/10/62,Lanerossi Vicenza,1-0,Palermo
+6,21/10/62,AC Milan,1-1,Internazionale
+6,21/10/62,Modena,0-0,AC Mantova
+6,21/10/62,Napoli,2-0,Fiorentina
+6,21/10/62,SPAL,3-0,Roma
+7,28/10/62,Bologna,4-1,SPAL
+7,28/10/62,SS Catania,3-1,Genoa
+7,28/10/62,Fiorentina,3-1,Palermo
+7,28/10/62,Internazionale,1-2,Atalanta
+7,28/10/62,AC Mantova,2-1,Napoli
+7,28/10/62,Roma,0-1,Lanerossi Vicenza
+7,28/10/62,Sampdoria,2-1,AC Milan
+7,28/10/62,Torino,0-1,Juventus
+7,28/10/62,Venezia,4-1,Modena
+8,01/11/62,Atalanta,2-2,AC Mantova
+8,01/11/62,Genoa,1-3,Internazionale
+8,01/11/62,Lanerossi Vicenza,1-3,Juventus
+8,01/11/62,AC Milan,3-1,Bologna
+8,01/11/62,Modena,1-0,Sampdoria
+8,01/11/62,Napoli,3-2,SS Catania
+8,01/11/62,Palermo,0-4,Roma
+8,01/11/62,SPAL,3-1,Fiorentina
+8,01/11/62,Torino,1-0,Venezia
+9,08/11/62,Atalanta,0-0,Torino
+9,08/11/62,Fiorentina,5-0,Genoa
+9,08/11/62,Internazionale,2-0,Venezia
+9,08/11/62,Juventus,1-0,Napoli
+9,08/11/62,Modena,2-2,AC Milan
+9,08/11/62,Palermo,1-0,AC Mantova
+9,08/11/62,Roma,3-1,Bologna
+9,08/11/62,Sampdoria,4-0,SS Catania
+9,08/11/62,SPAL,1-1,Lanerossi Vicenza
+10,18/11/62,Bologna,1-0,Torino
+10,18/11/62,SS Catania,3-2,Modena
+10,18/11/62,Genoa,5-0,Palermo
+10,18/11/62,Internazionale,4-0,Sampdoria
+10,18/11/62,Juventus,1-0,AC Milan
+10,18/11/62,Lanerossi Vicenza,2-2,Atalanta
+10,18/11/62,AC Mantova,0-1,SPAL
+10,18/11/62,Roma,2-2,Fiorentina
+10,18/11/62,Venezia,1-1,Napoli
+11,25/11/62,Atalanta,1-1,Genoa
+11,25/11/62,SS Catania,1-5,Juventus
+11,25/11/62,Fiorentina,1-1,Internazionale
+11,25/11/62,AC Milan,2-2,AC Mantova
+11,25/11/62,Napoli,1-0,Lanerossi Vicenza
+11,25/11/62,Sampdoria,2-3,Bologna
+11,25/11/62,SPAL,1-0,Modena
+11,25/11/62,Torino,2-2,Roma
+11,25/11/62,Venezia,0-1,Palermo
+12,09/12/62,Bologna,5-0,SS Catania
+12,09/12/62,Internazionale,3-2,SPAL
+12,09/12/62,Lanerossi Vicenza,0-0,Venezia
+12,09/12/62,AC Mantova,2-0,Genoa
+12,09/12/62,Modena,0-2,Atalanta
+12,09/12/62,Palermo,1-1,Juventus
+12,09/12/62,Roma,0-1,AC Milan
+12,09/12/62,Sampdoria,3-0,Napoli
+12,09/12/62,Torino,0-4,Fiorentina
+13,16/12/62,Bologna,0-4,Internazionale
+13,16/12/62,Genoa,2-2,Roma
+13,16/12/62,Juventus,2-1,Modena
+13,16/12/62,Lanerossi Vicenza,3-1,SS Catania
+13,16/12/62,AC Mantova,1-1,Fiorentina
+13,16/12/62,AC Milan,2-1,Torino
+13,16/12/62,Napoli,3-0,Palermo
+13,16/12/62,SPAL,2-5,Atalanta
+13,16/12/62,Venezia,2-0,Sampdoria
+14,23/12/62,Atalanta,1-0,Palermo
+14,23/12/62,SS Catania,1-1,AC Mantova
+14,23/12/62,Fiorentina,3-1,Bologna
+14,23/12/62,Genoa,0-1,AC Milan
+14,23/12/62,Internazionale,1-0,Juventus
+14,23/12/62,Modena,4-0,Napoli
+14,23/12/62,Roma,2-0,Sampdoria
+14,23/12/62,Torino,1-2,Lanerossi Vicenza
+14,23/12/62,Venezia,0-1,SPAL
+15,30/12/62,Bologna,4-2,Napoli
+15,30/12/62,SS Catania,2-0,Atalanta
+15,30/12/62,Internazionale,2-0,Roma
+15,30/12/62,Juventus,2-0,AC Mantova
+15,30/12/62,Lanerossi Vicenza,1-0,Genoa
+15,30/12/62,Palermo,2-2,Modena
+15,30/12/62,Sampdoria,1-3,Torino
+15,30/12/62,SPAL,0-0,AC Milan
+15,30/12/62,Venezia,0-3,Fiorentina
+16,06/01/63,Atalanta,3-1,Roma
+16,06/01/63,Genoa,0-0,SPAL
+16,06/01/63,Juventus,2-1,Venezia
+16,06/01/63,Lanerossi Vicenza,1-0,Fiorentina
+16,06/01/63,AC Mantova,0-1,Bologna
+16,06/01/63,AC Milan,0-0,SS Catania
+16,06/01/63,Modena,0-0,Internazionale
+16,06/01/63,Napoli,2-2,Torino
+16,06/01/63,Palermo,1-1,Sampdoria
+17,13/01/63,Bologna,1-1,Genoa
+17,13/01/63,Fiorentina,3-0,SS Catania
+17,13/01/63,AC Milan,2-0,Palermo
+17,13/01/63,Modena,0-0,Lanerossi Vicenza
+17,13/01/63,Napoli,2-1,Atalanta
+17,13/01/63,Roma,2-2,Venezia
+17,13/01/63,Sampdoria,2-2,AC Mantova
+17,13/01/63,SPAL,0-2,Juventus
+17,13/01/63,Torino,1-1,Internazionale
+18,20/01/63,SS Catania,3-0,Torino
+18,20/01/63,Internazionale,1-0,AC Mantova
+18,20/01/63,Juventus,2-0,Genoa
+18,20/01/63,Lanerossi Vicenza,0-0,Bologna
+18,20/01/63,Modena,3-0,Fiorentina
+18,20/01/63,Napoli,3-3,Roma
+18,20/01/63,Sampdoria,2-0,Atalanta
+18,20/01/63,SPAL,1-0,Palermo
+18,20/01/63,Venezia,0-2,AC Milan
+19,27/01/63,Atalanta,3-6,Juventus
+19,27/01/63,Bologna,0-0,Venezia
+19,27/01/63,SS Catania,0-0,SPAL
+19,27/01/63,Fiorentina,1-1,Sampdoria
+19,27/01/63,Genoa,1-1,Modena
+19,27/01/63,Lanerossi Vicenza,1-2,Internazionale
+19,27/01/63,AC Milan,0-1,Napoli
+19,27/01/63,Roma,7-1,AC Mantova
+19,27/01/63,Torino,3-0,Palermo
+20,03/02/63,Atalanta,2-2,AC Milan
+20,03/02/63,Internazionale,2-1,SS Catania
+20,03/02/63,Juventus,0-0,Fiorentina
+20,03/02/63,AC Mantova,1-1,Torino
+20,03/02/63,Modena,1-3,Roma
+20,03/02/63,Napoli,2-0,SPAL
+20,03/02/63,Palermo,0-0,Bologna
+20,03/02/63,Sampdoria,1-3,Lanerossi Vicenza
+20,03/02/63,Venezia,0-0,Genoa
+21,10/02/63,Bologna,1-2,Juventus
+21,10/02/63,Fiorentina,0-1,AC Milan
+21,10/02/63,Genoa,3-2,Napoli
+21,10/02/63,Internazionale,4-0,Palermo
+21,10/02/63,Lanerossi Vicenza,4-2,AC Mantova
+21,10/02/63,Roma,5-1,SS Catania
+21,10/02/63,SPAL,1-0,Sampdoria
+21,10/02/63,Torino,2-0,Modena
+21,10/02/63,Venezia,1-0,Atalanta
+22,17/02/63,Atalanta,0-1,Fiorentina
+22,17/02/63,SS Catania,0-0,Palermo
+22,17/02/63,Juventus,2-0,Roma
+22,17/02/63,AC Mantova,2-0,Venezia
+22,17/02/63,AC Milan,6-1,Lanerossi Vicenza
+22,17/02/63,Modena,0-1,Bologna
+22,17/02/63,Napoli,1-5,Internazionale
+22,17/02/63,Sampdoria,3-1,Genoa
+22,17/02/63,SPAL,2-0,Torino
+23,24/02/63,Bologna,1-0,Atalanta
+23,24/02/63,Fiorentina,5-1,Napoli
+23,24/02/63,Internazionale,1-1,AC Milan
+23,24/02/63,AC Mantova,3-0,Modena
+23,24/02/63,Palermo,1-1,Lanerossi Vicenza
+23,24/02/63,Roma,0-0,SPAL
+23,24/02/63,Sampdoria,2-1,Juventus
+23,24/02/63,Torino,2-0,Genoa
+23,24/02/63,Venezia,2-1,SS Catania
+24,03/03/63,Atalanta,1-0,Internazionale
+24,03/03/63,Genoa,4-1,SS Catania
+24,03/03/63,Lanerossi Vicenza,0-0,Roma
+24,03/03/63,AC Milan,1-1,Sampdoria
+24,03/03/63,Modena,2-1,Venezia
+24,03/03/63,Napoli,0-0,AC Mantova
+24,03/03/63,Palermo,1-0,Fiorentina
+24,03/03/63,SPAL,0-1,Bologna
+24,03/03/63,Juventus,0-1,Torino
+25,10/03/63,Bologna,1-2,AC Milan
+25,10/03/63,SS Catania,1-0,Napoli
+25,10/03/63,Fiorentina,2-0,SPAL
+25,10/03/63,Internazionale,6-0,Genoa
+25,10/03/63,Juventus,2-0,Lanerossi Vicenza
+25,10/03/63,AC Mantova,0-1,Atalanta
+25,10/03/63,Roma,2-0,Palermo
+25,10/03/63,Sampdoria,1-1,Modena
+25,10/03/63,Venezia,1-1,Torino
+26,17/03/63,Bologna,0-0,Roma
+26,17/03/63,SS Catania,0-1,Sampdoria
+26,17/03/63,Genoa,1-2,Fiorentina
+26,17/03/63,Lanerossi Vicenza,1-0,SPAL
+26,17/03/63,AC Mantova,1-0,Palermo
+26,17/03/63,AC Milan,4-0,Modena
+26,17/03/63,Napoli,0-0,Juventus
+26,17/03/63,Torino,1-0,Atalanta
+26,17/03/63,Venezia,0-2,Internazionale
+27,31/03/63,Atalanta,3-1,Lanerossi Vicenza
+27,31/03/63,Fiorentina,1-1,Roma
+27,31/03/63,AC Milan,0-0,Juventus
+27,31/03/63,Modena,4-1,SS Catania
+27,31/03/63,Napoli,1-0,Venezia
+27,31/03/63,Palermo,0-0,Genoa
+27,31/03/63,Sampdoria,0-0,Internazionale
+27,31/03/63,SPAL,1-1,AC Mantova
+27,31/03/63,Torino,0-1,Bologna
+28,07/04/63,Bologna,4-1,Sampdoria
+28,07/04/63,Genoa,2-1,Atalanta
+28,07/04/63,Internazionale,1-0,Fiorentina
+28,07/04/63,Juventus,0-1,SS Catania
+28,07/04/63,Lanerossi Vicenza,0-0,Napoli
+28,07/04/63,AC Mantova,1-3,AC Milan
+28,07/04/63,Modena,1-0,SPAL
+28,07/04/63,Palermo,2-1,Venezia
+28,07/04/63,Roma,5-0,Torino
+29,14/04/63,Atalanta,2-1,Modena
+29,14/04/63,SS Catania,1-1,Bologna
+29,14/04/63,Fiorentina,1-0,Torino
+29,14/04/63,Genoa,0-0,AC Mantova
+29,14/04/63,Juventus,2-1,Palermo
+29,14/04/63,AC Milan,0-1,Roma
+29,14/04/63,Napoli,0-2,Sampdoria
+29,14/04/63,SPAL,0-0,Internazionale
+29,14/04/63,Venezia,1-2,Lanerossi Vicenza
+30,21/04/63,Atalanta,1-0,SPAL
+30,21/04/63,SS Catania,1-0,Lanerossi Vicenza
+30,21/04/63,Fiorentina,5-0,AC Mantova
+30,21/04/63,Internazionale,4-1,Bologna
+30,21/04/63,Modena,0-0,Juventus
+30,21/04/63,Palermo,1-1,Napoli
+30,21/04/63,Roma,1-0,Genoa
+30,21/04/63,Sampdoria,3-1,Venezia
+30,21/04/63,Torino,0-0,AC Milan
+31,28/04/63,Bologna,2-1,Fiorentina
+31,28/04/63,Juventus,0-1,Internazionale
+31,28/04/63,Lanerossi Vicenza,0-1,Torino
+31,28/04/63,AC Mantova,3-1,SS Catania
+31,28/04/63,AC Milan,1-0,Genoa
+31,28/04/63,Napoli,0-2,Modena
+31,28/04/63,Palermo,1-0,Atalanta
+31,28/04/63,Sampdoria,0-0,Roma
+31,28/04/63,SPAL,1-1,Venezia
+32,05/05/63,Atalanta,0-0,SS Catania
+32,05/05/63,Fiorentina,1-4,Venezia
+32,05/05/63,Genoa,2-0,Lanerossi Vicenza
+32,05/05/63,AC Mantova,0-0,Juventus
+32,05/05/63,AC Milan,4-0,SPAL
+32,05/05/63,Modena,2-0,Palermo
+32,05/05/63,Napoli,0-0,Bologna
+32,05/05/63,Roma,3-0,Internazionale
+32,05/05/63,Torino,4-2,Sampdoria
+33,19/05/63,Bologna,2-2,AC Mantova
+33,19/05/63,SS Catania,1-0,AC Milan
+33,19/05/63,Fiorentina,1-1,Lanerossi Vicenza
+33,19/05/63,Internazionale,0-0,Modena
+33,19/05/63,Roma,1-1,Atalanta
+33,19/05/63,Sampdoria,2-0,Palermo
+33,19/05/63,SPAL,4-0,Genoa
+33,19/05/63,Torino,1-1,Napoli
+33,19/05/63,Venezia,1-2,Juventus
+34,26/05/63,Atalanta,2-1,Napoli
+34,26/05/63,SS Catania,0-1,Fiorentina
+34,26/05/63,Genoa,1-0,Bologna

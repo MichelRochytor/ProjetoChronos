@@ -1,0 +1,105 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,14/01/12,ASA,2-1,CEO
+1T,14/01/12,CRB,3-0,CSA
+1T,15/01/12,Corinthians-AL,2-0,Penedense
+1T,15/01/12,CSE,2-0,Coruripe
+1T,15/01/12,Murici,2-0,Sport Atalaia
+1T,18/01/12,CEO,0-1,CRB
+1T,18/01/12,Penedense,0-3,Sport Atalaia
+1T,18/01/12,Corinthians-AL,4-1,ASA
+1T,18/01/12,Coruripe,1-1,Murici
+1T,18/01/12,CSA,2-1,CSE
+1T,21/01/12,Murici,2-1,CSA
+1T,21/01/12,CRB,0-1,Corinthians-AL
+1T,21/01/12,ASA,2-2,Penedense
+1T,22/01/12,Sport Atalaia,3-3,Coruripe
+1T,22/01/12,CSE,4-2,CEO
+1T,24/01/12,ASA,1-0,CSE
+1T,25/01/12,Penedense,0-1,CRB
+1T,25/01/12,CEO,2-1,Sport Atalaia
+1T,25/01/12,CSA,2-0,Coruripe
+1T,26/01/12,Corinthians-AL,4-4,Murici
+1T,28/01/12,Sport Atalaia,1-0,CSA
+1T,28/01/12,CRB,0-1,ASA
+1T,29/01/12,CSE,2-1,Corinthians-AL
+1T,29/01/12,Coruripe,0-2,Penedense
+1T,29/01/12,Murici,3-0,CEO
+1T,01/02/12,Penedense,1-0,Murici
+1T,01/02/12,Corinthians-AL,9-1,CEO
+1T,01/02/12,ASA,0-0,CSA
+1T,01/02/12,CSE,2-4,Sport Atalaia
+1T,01/02/12,CRB,1-1,Coruripe
+1T,04/02/12,Sport Atalaia,0-2,CRB
+1T,04/02/12,Murici,2-0,CSE
+1T,04/02/12,Coruripe,2-1,ASA
+1T,05/02/12,CEO,4-2,Penedense
+1T,05/02/12,CSA,4-0,Corinthians-AL
+1T,08/02/12,Penedense,0-2,CSA
+1T,08/02/12,CEO,1-1,Coruripe
+1T,08/02/12,ASA,2-1,Murici
+1T,08/02/12,CRB,2-1,CSE
+1T,09/02/12,Corinthians-AL,3-2,Sport Atalaia
+1T,12/02/12,Coruripe,3-0,Corinthians-AL
+1T,12/02/12,CSA,0-0,CEO
+1T,12/02/12,Sport Atalaia,0-0,ASA
+1T,12/02/12,Murici,0-2,CRB
+1T,12/02/12,CSE,2-2,Penedense
+SF,15/02/12,Murici,1-1,CRB
+SF,16/02/12,ASA,5-0,Corinthians-AL
+SF,25/02/12,Corinthians-AL,1-1,ASA
+SF,26/02/12,CRB,5-0,Murici
+F,29/02/12,ASA,2-2,CRB
+F,04/03/12,CRB,2-2(4-2 Pen.),ASA
+2T,07/03/12,Penedense,0-4,CSE
+2T,07/03/12,CRB,1-2,Murici
+2T,07/03/12,ASA,3-1,Sport Atalaia
+2T,07/03/12,CEO,2-1,CSA
+2T,08/03/12,Corinthians-AL,1-1,Coruripe
+2T,10/03/12,CSE,4-1,CRB
+2T,11/03/12,Murici,0-2,ASA
+2T,11/03/12,Sport Atalaia,1-2,Corinthians-AL
+2T,11/03/12,Coruripe,2-0,CEO
+2T,11/03/12,CSA,4-0,Penedense
+2T,17/03/12,Corinthians-AL,1-2,CSA
+2T,17/03/12,CRB,2-2,Sport Atalaia
+2T,18/03/12,Penedense,1-1,CEO
+2T,18/03/12,ASA,2-0,Coruripe
+2T,18/03/12,CSE,1-1,Murici
+2T,24/03/12,Coruripe,1-5,CRB
+2T,25/03/12,Sport Atalaia,1-1,CSE
+2T,25/03/12,CEO,1-1,Corinthians-AL
+2T,25/03/12,Murici,2-2,Penedense
+2T,25/03/12,CSA,3-2,ASA
+2T,28/03/12,CEO,2-1,Murici
+2T,28/03/12,Penedense,1-0,Coruripe
+2T,28/03/12,CSA,2-0,Sport Atalaia
+2T,28/03/12,ASA,2-1,CRB
+2T,29/03/12,Corinthians-AL,2-0,CSE
+2T,31/03/12,Coruripe,0-1,CSA
+2T,31/03/12,CRB,1-3,Penedense
+2T,01/04/12,Sport Atalaia,4-2,CEO
+2T,01/04/12,Murici,2-2,Corinthians-AL
+2T,01/04/12,CSE,2-2,ASA
+2T,07/04/12,Penedense,1-2,ASA
+2T,07/04/12,Corinthians-AL,0-1,CRB
+2T,07/04/12,Coruripe,0-1,Sport Atalaia
+2T,08/04/12,CEO,0-5,CSE
+2T,08/04/12,CSA,2-1,Murici
+2T,14/04/12,CSE,0-5,CSA
+2T,14/04/12,CRB,3-1,CEO
+2T,15/04/12,Murici,1-0,Coruripe
+2T,15/04/12,Sport Atalaia,3-2,Penedense
+2T,15/04/12,ASA,4-0,Corinthians-AL
+2T,21/04/12,Penedense,2-2,Corinthians-AL
+2T,21/04/12,CEO,3-1,ASA
+2T,21/04/12,Sport Atalaia,0-0,Murici
+2T,21/04/12,CSA,2-2,CRB
+2T,21/04/12,Coruripe,2-1,CSE
+SF,25/04/12,Sport Atalaia,0-0,CSA
+SF,25/04/12,CSE,2-2,ASA
+SF,28/04/12,ASA,4-1,CSE
+SF,29/04/12,CSA,3-2,Sport Atalaia
+F,01/05/12,ASA,2-0,CSA
+F,05/05/12,CSA,0-0,ASA
+F,09/05/12,CRB,2-1,ASA
+F,12/05/12,ASA,0-0,CRB

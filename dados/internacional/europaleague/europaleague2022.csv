@@ -1,0 +1,142 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+D,08/09/22,Malmö,0-2,SC Braga
+D,08/09/22,1. FC Union Berlin,0-1,Union St. Gilloise
+A,08/09/22,FC Zurich,1-2,Arsenal
+A,08/09/22,PSV,1-1,Bodo/Glimt
+B,08/09/22,AEK Larnaca,1-2,Rennes
+B,08/09/22,Fenerbahçe,2-1,Dynamo Kyiv
+C,08/09/22,Ludogorets Razgrad,2-1,Roma
+C,08/09/22,HJK,0-2,Real Betis
+E,08/09/22,Manchester United,0-1,Real Sociedad
+E,08/09/22,Omonia,0-3,Sheriff
+F,08/09/22,Lazio,4-2,Feyenoord
+F,08/09/22,Sturm Graz,1-0,Midtjylland
+G,08/09/22,SC Freiburg,2-1,Qarabag
+G,08/09/22,Nantes,2-1,Olympiacos
+H,08/09/22,Crvena Zvezda,0-1,Monaco
+H,08/09/22,Ferencváros,3-2,Trabzonspor
+H,15/09/22,Trabzonspor,2-1,Crvena Zvezda
+H,15/09/22,Monaco,0-1,Ferencváros
+E,15/09/22,Real Sociedad,2-1,Omonia
+E,15/09/22,Sheriff,0-2,Manchester United
+F,15/09/22,Midtjylland,5-1,Lazio
+F,15/09/22,Feyenoord,6-0,Sturm Graz
+G,15/09/22,Olympiacos,0-3,SC Freiburg
+G,15/09/22,Qarabag,3-0,Nantes
+D,15/09/22,SC Braga,1-0,1. FC Union Berlin
+D,15/09/22,Union St. Gilloise,3-2,Malmö
+A,15/09/22,Bodo/Glimt,2-1,FC Zurich
+B,15/09/22,Dynamo Kyiv,0-1,AEK Larnaca
+B,15/09/22,Rennes,2-2,Fenerbahçe
+C,15/09/22,Real Betis,3-2,Ludogorets Razgrad
+C,15/09/22,Roma,3-0,HJK
+D,06/10/22,Malmö,0-1,1. FC Union Berlin
+C,06/10/22,HJK,1-1,Ludogorets Razgrad
+A,06/10/22,FC Zurich,1-5,PSV
+H,06/10/22,Crvena Zvezda,4-1,Ferencváros
+H,06/10/22,Monaco,3-1,Trabzonspor
+E,06/10/22,Sheriff,0-2,Real Sociedad
+E,06/10/22,Omonia,2-3,Manchester United
+F,06/10/22,Sturm Graz,0-0,Lazio
+D,06/10/22,SC Braga,1-2,Union St. Gilloise
+C,06/10/22,Roma,1-2,Real Betis
+A,06/10/22,Arsenal,3-0,Bodo/Glimt
+B,06/10/22,Rennes,2-1,Dynamo Kyiv
+B,06/10/22,Fenerbahçe,2-0,AEK Larnaca
+F,06/10/22,Midtjylland,2-2,Feyenoord
+G,06/10/22,SC Freiburg,2-0,Nantes
+G,06/10/22,Olympiacos,0-3,Qarabag
+D,13/10/22,Union St. Gilloise,3-3,SC Braga
+A,13/10/22,Bodo/Glimt,0-1,Arsenal
+B,13/10/22,AEK Larnaca,1-2,Fenerbahçe
+B,13/10/22,Dynamo Kyiv,0-1,Rennes
+C,13/10/22,Real Betis,1-1,Roma
+F,13/10/22,Feyenoord,2-2,Midtjylland
+G,13/10/22,Nantes,0-4,SC Freiburg
+G,13/10/22,Qarabag,0-0,Olympiacos
+D,13/10/22,1. FC Union Berlin,1-0,Malmö
+A,13/10/22,PSV,5-0,FC Zurich
+C,13/10/22,Ludogorets Razgrad,2-0,HJK
+E,13/10/22,Manchester United,1-0,Omonia
+E,13/10/22,Real Sociedad,3-0,Sheriff
+F,13/10/22,Lazio,2-2,Sturm Graz
+H,13/10/22,Trabzonspor,4-0,Monaco
+H,13/10/22,Ferencváros,2-1,Crvena Zvezda
+A,20/10/22,Arsenal,1-0,PSV
+D,27/10/22,Malmö,0-2,Union St. Gilloise
+D,27/10/22,1. FC Union Berlin,1-0,SC Braga
+A,27/10/22,FC Zurich,2-1,Bodo/Glimt
+A,27/10/22,PSV,2-0,Arsenal
+B,27/10/22,AEK Larnaca,3-3,Dynamo Kyiv
+B,27/10/22,Fenerbahçe,3-3,Rennes
+C,27/10/22,Ludogorets Razgrad,0-1,Real Betis
+F,27/10/22,Lazio,2-1,Midtjylland
+C,27/10/22,HJK,1-2,Roma
+E,27/10/22,Manchester United,3-0,Sheriff
+E,27/10/22,Omonia,0-2,Real Sociedad
+F,27/10/22,Sturm Graz,1-0,Feyenoord
+G,27/10/22,SC Freiburg,1-1,Olympiacos
+G,27/10/22,Nantes,2-1,Qarabag
+H,27/10/22,Crvena Zvezda,2-1,Trabzonspor
+H,27/10/22,Ferencváros,1-1,Monaco
+E,03/11/22,Real Sociedad,0-1,Manchester United
+E,03/11/22,Sheriff,1-0,Omonia
+F,03/11/22,Midtjylland,2-0,Sturm Graz
+F,03/11/22,Feyenoord,1-0,Lazio
+G,03/11/22,Olympiacos,0-2,Nantes
+G,03/11/22,Qarabag,1-1,SC Freiburg
+H,03/11/22,Trabzonspor,1-0,Ferencváros
+H,03/11/22,Monaco,4-1,Crvena Zvezda
+D,03/11/22,Union St. Gilloise,0-1,1. FC Union Berlin
+D,03/11/22,SC Braga,2-1,Malmö
+A,03/11/22,Arsenal,1-0,FC Zurich
+A,03/11/22,Bodo/Glimt,1-2,PSV
+B,03/11/22,Dynamo Kyiv,0-2,Fenerbahçe
+B,03/11/22,Rennes,1-1,AEK Larnaca
+C,03/11/22,Real Betis,3-0,HJK
+C,03/11/22,Roma,3-1,Ludogorets Razgrad
+POff,16/02/23,Ajax,0-0,1. FC Union Berlin
+POff,16/02/23,Barcelona,2-2,Manchester United
+POff,16/02/23,Red Bull Salzburg,1-0,Roma
+POff,16/02/23,Shakhtar Donetsk,2-1,Rennes
+POff,16/02/23,Bayer Leverkusen,2-3,Monaco
+POff,16/02/23,Sporting,1-1,Midtjylland
+POff,16/02/23,Sevilla FC,3-0,PSV
+POff,16/02/23,Juventus,1-1,Nantes
+POff,23/02/23,PSV,2-0,Sevilla FC
+POff,23/02/23,Midtjylland,0-4,Sporting
+POff,23/02/23,Nantes,0-3,Juventus
+POff,23/02/23,Monaco,2-3(3-5 Pen.),Bayer Leverkusen
+POff,23/02/23,Rennes,2-1(4-5 Pen.),Shakhtar Donetsk
+POff,23/02/23,Roma,2-0,Red Bull Salzburg
+POff,23/02/23,1. FC Union Berlin,3-1,Ajax
+POff,23/02/23,Manchester United,2-1,Barcelona
+1/8,09/03/23,Sporting,2-2,Arsenal
+1/8,09/03/23,Roma,2-0,Real Sociedad
+1/8,09/03/23,Bayer Leverkusen,2-0,Ferencváros
+1/8,09/03/23,1. FC Union Berlin,3-3,Union St. Gilloise
+1/8,09/03/23,Manchester United,4-1,Real Betis
+1/8,09/03/23,Sevilla FC,2-0,Fenerbahçe
+1/8,09/03/23,Juventus,1-0,SC Freiburg
+1/8,09/03/23,Shakhtar Donetsk,1-1,Feyenoord
+1/8,16/03/23,Real Betis,0-1,Manchester United
+1/8,16/03/23,Feyenoord,7-1,Shakhtar Donetsk
+1/8,16/03/23,Fenerbahçe,1-0,Sevilla FC
+1/8,16/03/23,SC Freiburg,0-2,Juventus
+1/8,16/03/23,Arsenal,1-1(3-5 Pen.),Sporting
+1/8,16/03/23,Real Sociedad,0-0,Roma
+1/8,16/03/23,Ferencváros,0-2,Bayer Leverkusen
+1/8,16/03/23,Union St. Gilloise,3-0,1. FC Union Berlin
+QF,13/04/23,Feyenoord,1-0,Roma
+QF,13/04/23,Manchester United,2-2,Sevilla FC
+QF,13/04/23,Juventus,1-0,Sporting
+QF,13/04/23,Bayer Leverkusen,1-1,Union St. Gilloise
+QF,20/04/23,Sevilla FC,3-0,Manchester United
+QF,20/04/23,Sporting,1-1,Juventus
+QF,20/04/23,Union St. Gilloise,1-4,Bayer Leverkusen
+QF,20/04/23,Roma,4-1(Pro.),Feyenoord
+SF,11/05/23,Juventus,1-1,Sevilla FC
+SF,11/05/23,Roma,1-0,Bayer Leverkusen
+SF,18/05/23,Sevilla FC,2-1(Pro.),Juventus
+SF,18/05/23,Bayer Leverkusen,0-0,Roma
+F,31/05/23,Sevilla FC,1-1(4-1 Pen.),Roma

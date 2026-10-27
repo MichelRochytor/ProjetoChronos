@@ -1,0 +1,61 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,05/01/20,Horizonte,0-1,Guarany de Sobral
+1F,05/01/20,Ferroviário,1-1,Atlético Cearense
+1F,05/01/20,Barbalha,5-0,Floresta-CE
+1F,05/01/20,Caucaia,0-0,Pacajus
+1F,08/01/20,Atlético Cearense,1-0,Horizonte
+1F,08/01/20,Floresta-CE,2-4,Caucaia
+1F,08/01/20,Pacajus,0-1,Barbalha
+1F,08/01/20,Guarany de Sobral,2-0,Ferroviário
+1F,11/01/20,Atlético Cearense,1-1,Floresta-CE
+1F,12/01/20,Guarany de Sobral,2-0,Pacajus
+1F,12/01/20,Barbalha,2-0,Horizonte
+1F,12/01/20,Caucaia,1-1,Ferroviário
+1F,15/01/20,Pacajus,2-1,Atlético Cearense
+1F,15/01/20,Horizonte,1-1,Caucaia
+1F,15/01/20,Barbalha,0-0,Guarany de Sobral
+1F,15/01/20,Ferroviário,1-0,Floresta-CE
+1F,18/01/20,Floresta-CE,1-1,Pacajus
+1F,18/01/20,Atlético Cearense,1-2,Guarany de Sobral
+1F,19/01/20,Ferroviário,2-0,Horizonte
+1F,19/01/20,Caucaia,1-1,Barbalha
+1F,22/01/20,Horizonte,1-4,Floresta-CE
+1F,22/01/20,Pacajus,0-0,Ferroviário
+1F,22/01/20,Barbalha,2-1,Atlético Cearense
+1F,22/01/20,Guarany de Sobral,1-1,Caucaia
+1F,25/01/20,Atlético Cearense,2-1,Caucaia
+1F,25/01/20,Pacajus,1-1,Horizonte
+1F,26/01/20,Ferroviário,1-0,Barbalha
+1F,26/01/20,Floresta-CE,1-1,Guarany de Sobral
+2F,28/01/20,Caucaia,0-1,Fortaleza
+2F,29/01/20,Pacajus,3-2,Barbalha
+2F,29/01/20,Ceará,1-1,Ferroviário
+2F,29/01/20,Guarany de Sobral,2-1,Atlético Cearense
+2F,01/02/20,Barbalha,2-1,Caucaia
+2F,02/02/20,Ferroviário,1-0,Guarany de Sobral
+2F,05/02/20,Fortaleza,5-0,Atlético Cearense
+2F,05/02/20,Pacajus,0-1,Ceará
+2F,09/02/20,Ferroviário,2-4,Atlético Cearense
+2F,12/02/20,Barbalha,0-1,Ferroviário
+2F,16/02/20,Caucaia,0-1,Guarany de Sobral
+2F,19/02/20,Guarany de Sobral,2-0,Pacajus
+2F,22/02/20,Atlético Cearense,3-0,Barbalha
+2F,22/02/20,Ceará,1-0,Caucaia
+2F,29/02/20,Pacajus,2-3,Caucaia
+2F,29/02/20,Ceará,0-0,Guarany de Sobral
+2F,01/03/20,Fortaleza,4-2,Barbalha
+2F,04/03/20,Ferroviário,1-0,Fortaleza
+2F,08/03/20,Atlético Cearense,0-1,Ceará
+2F,11/03/20,Fortaleza,3-0,Pacajus
+2F,15/03/20,Pacajus,0-1,Ferroviário
+2F,13/07/20,Barbalha,0-5,Ceará
+2F,13/07/20,Caucaia,0-3,Atlético Cearense
+2F,13/07/20,Guarany de Sobral,0-5,Fortaleza
+2F,15/07/20,Ferroviário,0-0,Caucaia
+2F,15/07/20,Ceará,1-2,Fortaleza
+2F,16/07/20,Barbalha,0-2,Guarany de Sobral
+2F,16/07/20,Atlético Cearense,2-2,Pacajus
+SF,18/07/20,Fortaleza,1-0,Guarany de Sobral
+SF,19/07/20,Ceará,1-0,Ferroviário
+F,30/09/20,Ceará,1-2,Fortaleza
+F,21/10/20,Fortaleza,1-0,Ceará

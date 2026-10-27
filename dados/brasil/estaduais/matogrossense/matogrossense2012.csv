@@ -1,0 +1,97 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,21/01/12,Rondonópolis,3-2,Mixto
+1F,22/01/12,Barra,0-0,Sorriso EC
+1F,22/01/12,Cuiabá,3-0,União Rondonópolis
+1F,22/01/12,Vila Aurora,2-0,Luverdense
+1F,22/01/12,CRAC-MT,1-0,Palmeiras-MT
+1F,24/01/12,Mixto,2-0,Vila Aurora
+1F,25/01/12,União Rondonópolis,1-1,Luverdense
+1F,25/01/12,Barra,2-2,Cuiabá
+1F,25/01/12,CRAC-MT,2-2,Sorriso EC
+1F,26/01/12,Palmeiras-MT,2-1,Rondonópolis
+1F,29/01/12,União Rondonópolis,0-0,Mixto
+1F,29/01/12,Cuiabá,1-0,CRAC-MT
+1F,29/01/12,Luverdense,1-0,Barra
+1F,29/01/12,Sorriso EC,1-0,Rondonópolis
+1F,01/02/12,Rondonópolis,1-2,Cuiabá
+1F,01/02/12,Sorriso EC,0-2,Vila Aurora
+1F,01/02/12,CRAC-MT,0-0,Luverdense
+1F,01/02/12,Mixto,0-1,Barra
+1F,02/02/12,Palmeiras-MT,1-2,União Rondonópolis
+1F,04/02/12,Cuiabá,3-2,Vila Aurora
+1F,05/02/12,União Rondonópolis,0-1,Sorriso EC
+1F,05/02/12,Mixto,3-2,CRAC-MT
+1F,05/02/12,Luverdense,1-1,Rondonópolis
+1F,05/02/12,Barra,0-1,Palmeiras-MT
+1F,08/02/12,Cuiabá,2-0,Palmeiras-MT
+1F,08/02/12,Vila Aurora,1-0,CRAC-MT
+1F,08/02/12,Luverdense,4-1,Sorriso EC
+1F,09/02/12,União Rondonópolis,0-0,Barra
+1F,11/02/12,Rondonópolis,1-1,Barra
+1F,12/02/12,União Rondonópolis,1-0,Vila Aurora
+1F,12/02/12,Mixto,2-1,Palmeiras-MT
+1F,12/02/12,Sorriso EC,0-1,Cuiabá
+1F,15/02/12,Rondonópolis,2-2,União Rondonópolis
+1F,15/02/12,Barra,3-0,CRAC-MT
+1F,15/02/12,Cuiabá,0-1,Mixto
+1F,16/02/12,Palmeiras-MT,2-2,Luverdense
+1F,18/02/12,Vila Aurora,2-1,Rondonópolis
+1F,18/02/12,CRAC-MT,0-1,União Rondonópolis
+1F,18/02/12,Sorriso EC,1-1,Mixto
+1F,19/02/12,Luverdense,0-1,Cuiabá
+1F,22/02/12,Rondonópolis,1-2,CRAC-MT
+1F,22/02/12,Barra,1-1,Vila Aurora
+1F,22/02/12,Luverdense,1-0,Mixto
+1F,22/02/12,Palmeiras-MT,3-1,Sorriso EC
+1F,25/02/12,Palmeiras-MT,1-0,Barra
+1F,26/02/12,Luverdense,0-0,Vila Aurora
+1F,26/02/12,União Rondonópolis,2-1,Cuiabá
+1F,26/02/12,Sorriso EC,3-1,CRAC-MT
+1F,26/02/12,Mixto,1-0,Rondonópolis
+1F,29/02/12,CRAC-MT,1-1,Vila Aurora
+1F,29/02/12,Sorriso EC,5-1,Barra
+1F,29/02/12,Luverdense,3-1,União Rondonópolis
+1F,29/02/12,Palmeiras-MT,0-4,Mixto
+1F,01/03/12,Cuiabá,1-0,Rondonópolis
+1F,03/03/12,Mixto,2-1,Sorriso EC
+1F,03/03/12,Vila Aurora,3-1,Barra
+1F,04/03/12,Rondonópolis,2-0,Palmeiras-MT
+1F,04/03/12,Cuiabá,2-0,Luverdense
+1F,07/03/12,Vila Aurora,1-0,Palmeiras-MT
+1F,08/03/12,União Rondonópolis,1-2,CRAC-MT
+1F,10/03/12,Rondonópolis,2-1,Sorriso EC
+1F,11/03/12,Vila Aurora,0-0,Mixto
+1F,11/03/12,Barra,1-1,União Rondonópolis
+1F,11/03/12,Palmeiras-MT,0-3,Cuiabá
+1F,11/03/12,Luverdense,3-1,CRAC-MT
+1F,18/03/12,Mixto,1-1,União Rondonópolis
+1F,18/03/12,Rondonópolis,2-2,Vila Aurora
+1F,18/03/12,Sorriso EC,0-2,Palmeiras-MT
+1F,18/03/12,CRAC-MT,0-0,Cuiabá
+1F,18/03/12,Barra,1-2,Luverdense
+1F,22/03/12,Palmeiras-MT,0-1,Vila Aurora
+1F,24/03/12,Cuiabá,1-0,Sorriso EC
+1F,25/03/12,União Rondonópolis,1-2,Rondonópolis
+1F,25/03/12,CRAC-MT,4-1,Barra
+1F,25/03/12,Mixto,3-3,Luverdense
+1F,30/03/12,União Rondonópolis,4-1,Palmeiras-MT
+1F,31/03/12,Vila Aurora,0-1,Sorriso EC
+1F,31/03/12,Cuiabá,3-1,Barra
+1F,31/03/12,CRAC-MT,1-1,Mixto
+1F,01/04/12,Rondonópolis,2-4,Luverdense
+1F,07/04/12,CRAC-MT,3-2,Rondonópolis
+1F,08/04/12,Barra,1-1,Mixto
+1F,08/04/12,Sorriso EC,0-1,União Rondonópolis
+1F,08/04/12,Vila Aurora,2-0,Cuiabá
+1F,08/04/12,Luverdense,3-1,Palmeiras-MT
+1F,15/04/12,Palmeiras-MT,2-0,CRAC-MT
+1F,15/04/12,Mixto,0-0,Cuiabá
+1F,15/04/12,Sorriso EC,4-4,Luverdense
+1F,15/04/12,Vila Aurora,0-3,União Rondonópolis
+1F,15/04/12,Barra,1-1,Rondonópolis
+SF,15/04/12,Vila Aurora,3-3,Luverdense
+SF,18/04/12,Luverdense,3-0,Vila Aurora
+SF,22/04/12,Mixto,0-2,Cuiabá
+SF,25/04/12,Cuiabá,1-1,Mixto
+F,29/04/12,Luverdense,1-0,Cuiabá
+F,02/05/12,Cuiabá,1-0(0-3 Pen.),Luverdense

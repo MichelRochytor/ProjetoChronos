@@ -1,0 +1,203 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,12/02/95,CSA,1-2,Sete de Setembro-AL
+1T,12/02/95,Comercial-AL,1-1,CRB
+1T,12/02/95,Cruzeiro-AL,0-2,Capela
+1T,12/02/95,Bom Jesus,0-1,ASA
+1T,12/02/95,Batalhense,2-0,CSE
+1T,19/02/95,Sete de Setembro-AL,1-0,Cruzeiro-AL
+1T,19/02/95,CRB,4-1,Bom Jesus
+1T,19/02/95,Comercial-AL,0-1,Capela
+1T,19/02/95,ASA,4-1,CSE
+1T,19/02/95,Batalhense,0-2,CSA
+1T,22/02/95,Capela,0-0,CSA
+1T,22/02/95,Cruzeiro-AL,0-1,Batalhense
+1T,22/02/95,CSE,0-1,Bom Jesus
+1T,22/02/95,CRB,1-0,ASA
+1T,05/03/95,Capela,1-0,ASA
+1T,05/03/95,Sete de Setembro-AL,0-1,CSE
+1T,05/03/95,Bom Jesus,0-0,Batalhense
+1T,05/03/95,CSA,1-0,Comercial-AL
+1T,05/03/95,Cruzeiro-AL,0-2,CRB
+1T,08/03/95,CSA,1-0,CSE
+1T,08/03/95,ASA,1-1,Sete de Setembro-AL
+1T,08/03/95,Capela,2-1,Comercial-AL
+1T,12/03/95,Cruzeiro-AL,2-1,ASA
+1T,12/03/95,Comercial-AL,0-0,CSE
+1T,12/03/95,Bom Jesus,1-1,Capela
+1T,12/03/95,Batalhense,2-0,Sete de Setembro-AL
+1T,12/03/95,CRB,2-0,CSA
+1T,15/03/95,Sete de Setembro-AL,2-1,Comercial-AL
+1T,15/03/95,CSE,2-0,Capela
+1T,15/03/95,Cruzeiro-AL,2-3,Bom Jesus
+1T,15/03/95,CRB,7-0,Batalhense
+1T,19/03/95,CRB,1-0,Capela
+1T,19/03/95,ASA,0-5,CSA
+1T,19/03/95,CSE,0-0,Cruzeiro-AL
+1T,19/03/95,Batalhense,2-0,Comercial-AL
+1T,19/03/95,Bom Jesus,0-0,Sete de Setembro-AL
+1T,22/03/95,Batalhense,1-0,ASA
+1T,22/03/95,Comercial-AL,3-0,Cruzeiro-AL
+1T,22/03/95,Sete de Setembro-AL,1-0,CRB
+1T,23/03/95,Bom Jesus,1-2,CSA
+1T,26/03/95,CSE,1-5,CRB
+1T,26/03/95,ASA,2-2,Comercial-AL
+1T,26/03/95,Capela,2-0,Batalhense
+1T,26/03/95,Sete de Setembro-AL,1-0,Bom Jesus
+1T,26/03/95,CSA,3-5,Cruzeiro-AL
+1T,02/04/95,ASA,1-0,Cruzeiro-AL
+1T,02/04/95,CSE,1-1,Batalhense
+1T,02/04/95,Capela,1-0,Sete de Setembro-AL
+1T,02/04/95,Comercial-AL,1-0,Bom Jesus
+1T,02/04/95,CSA,0-1,CRB
+SF,05/04/95,Sete de Setembro-AL,1-0,Capela
+SF,05/04/95,Batalhense,0-0,CRB
+SF,09/04/95,Capela,2-2,Sete de Setembro-AL
+SF,09/04/95,CRB,1-0,Batalhense
+F,12/04/95,Sete de Setembro-AL,1-3,CRB
+F,16/04/95,CRB,2-1,Sete de Setembro-AL
+2T,23/04/95,CRB,1-0,Sete de Setembro-AL
+2T,23/04/95,Comercial-AL,0-1,CSA
+2T,23/04/95,ASA,0-1,Bom Jesus
+2T,23/04/95,Batalhense,3-0,Cruzeiro-AL
+2T,23/04/95,Capela,3-2,CSE
+2T,30/04/95,Bom Jesus,1-5,CRB
+2T,30/04/95,Cruzeiro-AL,3-0,CSE
+2T,30/04/95,Sete de Setembro-AL,1-1,ASA
+2T,30/04/95,Capela,2-1,Comercial-AL
+2T,30/04/95,CSA,2-1,Batalhense
+2T,03/05/95,CSA,2-0,Capela
+2T,03/05/95,ASA,0-2,CRB
+2T,03/05/95,CSE,1-0,Sete de Setembro-AL
+2T,04/05/95,Bom Jesus,3-0,Cruzeiro-AL
+2T,07/05/95,Sete de Setembro-AL,1-1,CSA
+2T,07/05/95,CRB,6-0,CSE
+2T,07/05/95,ASA,3-0,Cruzeiro-AL
+2T,07/05/95,Capela,1-2,Bom Jesus
+2T,07/05/95,Comercial-AL,0-1,Batalhense
+2T,10/05/95,Cruzeiro-AL,1-1,CSA
+2T,10/05/95,Comercial-AL,2-1,Sete de Setembro-AL
+2T,10/05/95,Batalhense,0-2,CSE
+2T,14/05/95,CSA,0-2,CRB
+2T,14/05/95,CSE,4-0,ASA
+2T,14/05/95,Cruzeiro-AL,1-1,Comercial-AL
+2T,14/05/95,Batalhense,1-1,Bom Jesus
+2T,14/05/95,Sete de Setembro-AL,1-2,Capela
+2T,17/05/95,Sete de Setembro-AL,2-1,Batalhense
+2T,17/05/95,CRB,4-1,Comercial-AL
+2T,17/05/95,ASA,2-1,Capela
+2T,18/05/95,Bom Jesus,0-1,CSE
+2T,21/05/95,CSA,2-1,ASA
+2T,21/05/95,Capela,0-1,CRB
+2T,21/05/95,Cruzeiro-AL,1-3,Sete de Setembro-AL
+2T,21/05/95,CSE,0-0,Batalhense
+2T,21/05/95,Bom Jesus,4-1,Comercial-AL
+2T,24/05/95,Capela,1-0,Cruzeiro-AL
+2T,25/05/95,CSA,4-1,Bom Jesus
+2T,25/05/95,Batalhense,1-3,CRB
+2T,25/05/95,Comercial-AL,3-1,ASA
+2T,28/05/95,CRB,5-1,Cruzeiro-AL
+2T,28/05/95,CSE,1-0,CSA
+2T,28/05/95,ASA,1-1,Batalhense
+2T,28/05/95,Comercial-AL,2-2,Capela
+2T,28/05/95,Sete de Setembro-AL,1-1,Bom Jesus
+2T,04/06/95,Cruzeiro-AL,1-2,ASA
+2T,04/06/95,Batalhense,0-3,Capela
+2T,04/06/95,CSE,5-2,Comercial-AL
+2T,04/06/95,Bom Jesus,2-1,Sete de Setembro-AL
+2T,04/06/95,CRB,1-0,CSA
+SF,07/06/95,CSA,4-3,CSE
+SF,08/06/95,Bom Jesus,1-1,CRB
+SF,11/06/95,CSE,1-1,CSA
+SF,11/06/95,CRB,1-0,Bom Jesus
+F,14/06/95,CSA,1-2,CRB
+F,18/06/95,CRB,0-0,CSA
+,25/06/95,CSE,1-2,Capela
+,25/06/95,CRB,5-0,Comercial-AL
+,25/06/95,ASA,0-2,CSA
+,25/06/95,Sete de Setembro-AL,1-0,Cruzeiro-AL
+,25/06/95,Bom Jesus,2-1,Batalhense
+,02/07/95,CSA,4-1,Capela
+,02/07/95,Sete de Setembro-AL,4-1,Bom Jesus
+,02/07/95,Batalhense,0-1,CRB
+,02/07/95,ASA,0-2,CSE
+,02/07/95,Comercial-AL,1-2,Cruzeiro-AL
+,05/07/95,CRB,3-2,Sete de Setembro-AL
+,05/07/95,Cruzeiro-AL,4-0,Bom Jesus
+,05/07/95,Capela,1-1,ASA
+,05/07/95,CSE,2-2,Batalhense
+,08/07/95,CSA,7-2,CSE
+,08/07/95,Cruzeiro-AL,1-1,CRB
+,08/07/95,Capela,3-2,Comercial-AL
+,09/07/95,Bom Jesus,1-2,Sete de Setembro-AL
+,09/07/95,Batalhense,2-1,ASA
+,12/07/95,CRB,7-1,Bom Jesus
+,12/07/95,Sete de Setembro-AL,3-3,CSE
+,12/07/95,Capela,0-1,Batalhense
+,12/07/95,Comercial-AL,0-3,CSA
+,15/07/95,CRB,1-1,CSA
+,16/07/95,Cruzeiro-AL,3-1,ASA
+,16/07/95,CSE,3-0,Bom Jesus
+,16/07/95,Comercial-AL,0-1,Capela
+,16/07/95,Batalhense,3-1,Sete de Setembro-AL
+,18/07/95,CSE,1-0,CRB
+,19/07/95,ASA,2-1,Comercial-AL
+,19/07/95,CSA,4-0,Cruzeiro-AL
+,22/07/95,CRB,3-2,ASA
+,22/07/95,Bom Jesus,1-3,CSA
+,22/07/95,Cruzeiro-AL,3-2,Batalhense
+,22/07/95,Comercial-AL,1-3,CSE
+,22/07/95,Capela,1-1,Sete de Setembro-AL
+,26/07/95,Cruzeiro-AL,0-1,Capela
+,26/07/95,Batalhense,4-2,Comercial-AL
+,26/07/95,Sete de Setembro-AL,0-1,CSA
+,27/07/95,Bom Jesus,2-1,ASA
+,29/07/95,CSA,3-3,Batalhense
+,29/07/95,Capela,1-3,CRB
+,29/07/95,ASA,2-0,Sete de Setembro-AL
+,29/07/95,CSE,3-1,Cruzeiro-AL
+,29/07/95,Comercial-AL,1-2,Bom Jesus
+,01/08/95,CSA,1-1,CRB
+,01/08/95,ASA,0-1,Cruzeiro-AL
+,01/08/95,Sete de Setembro-AL,3-2,Comercial-AL
+,01/08/95,Batalhense,1-1,CSE
+,01/08/95,Bom Jesus,1-2,Capela
+SF,03/08/95,Capela,1-1,CSA
+SF,03/08/95,CSE,0-0,CRB
+SF,05/08/95,CSA,5-1,Capela
+SF,05/08/95,CRB,2-1,CSE
+F,08/08/95,CRB,1-0,CSA
+F,10/08/95,CSA,1-1,CRB
+,15/08/95,CSA,1-1,CRB
+B,17/08/95,Batalhense,1-2,Capela
+B,18/08/95,CSA,3-1,Bom Jesus
+B,20/08/95,Capela,3-1,Bom Jesus
+A,23/08/95,CSE,2-1,ASA
+B,23/08/95,CSA,2-0,Capela
+B,23/08/95,Bom Jesus,1-0,Batalhense
+A,29/08/95,CSE,2-2,Sete de Setembro-AL
+B,31/08/95,Batalhense,1-0,Bom Jesus
+A,03/09/95,CRB,4-0,ASA
+A,05/09/95,ASA,0-3,Sete de Setembro-AL
+A,07/09/95,Sete de Setembro-AL,1-0,CRB
+B,07/09/95,Bom Jesus,0-1,CSA
+B,07/09/95,Capela,1-0,Batalhense
+A,10/09/95,ASA,0-1,CRB
+B,10/09/95,Bom Jesus,0-3,Capela
+A,17/09/95,ASA,0-2,CSE
+A,20/09/95,Sete de Setembro-AL,1-0,CSE
+B,20/09/95,CSA,3-0,Batalhense
+A,24/09/95,Sete de Setembro-AL,2-0,ASA
+A,28/09/95,CRB,3-0,CSE
+B,28/09/95,Batalhense,0-0,CSA
+A,30/09/95,CSE,0-5,CRB
+A,04/10/95,CRB,2-0,Sete de Setembro-AL
+B,08/10/95,Capela,1-1,CSA
+SF,15/10/95,Capela,0-0,CRB
+SF,15/10/95,Sete de Setembro-AL,0-3,CSA
+SF,21/10/95,CSA,3-1,Sete de Setembro-AL
+SF,22/10/95,CRB,1-0,Capela
+F,29/10/95,CRB,0-0,CSA
+F,05/11/95,CSA,3-1,CRB
+F,12/11/95,CSA,1-1,CRB
+F,15/11/95,CRB,2-1,CSA
+F,19/11/95,CRB,3-2,CSA

@@ -1,0 +1,91 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+,13/03/03,Caiçara,2-0,Comercial-PI
+,16/03/03,River-PI,0-1,Piauí
+,16/03/03,Flamengo-PI,2-1,Picos
+,16/03/03,Parnahyba,1-0,Caiçara
+,16/03/03,Corisabbá,0-1,Oeiras AC
+,19/03/03,Parnahyba,2-0,Corisabbá
+,19/03/03,Oeiras AC,2-3,Flamengo-PI
+,20/03/03,River-PI,1-0,4 de Julho
+,20/03/03,Picos,1-2,Piauí
+,22/03/03,Flamengo-PI,3-0,Caiçara
+,22/03/03,Comercial-PI,3-3,River-PI
+,22/03/03,Oeiras AC,0-0,Picos
+,22/03/03,Corisabbá,2-3,Piauí
+,23/03/03,4 de Julho,3-1,Parnahyba
+,26/03/03,4 de Julho,4-2,Comercial-PI
+,29/03/03,Picos,1-0,Corisabbá
+,30/03/03,River-PI,2-1,Oeiras AC
+,30/03/03,Piauí,0-1,Comercial-PI
+,30/03/03,Parnahyba,2-3,Flamengo-PI
+,30/03/03,Caiçara,2-0,4 de Julho
+,02/04/03,Oeiras AC,2-1,Caiçara
+,02/04/03,Corisabbá,1-3,River-PI
+,02/04/03,Parnahyba,2-1,Comercial-PI
+,02/04/03,Picos,2-0,4 de Julho
+,04/04/03,Corisabbá,1-1,Caiçara
+,05/04/03,Picos,1-1,Parnahyba
+,06/04/03,River-PI,2-2,Flamengo-PI
+,06/04/03,Comercial-PI,4-1,Oeiras AC
+,06/04/03,4 de Julho,2-1,Piauí
+,09/04/03,Flamengo-PI,2-1,Piauí
+,09/04/03,River-PI,1-1,Caiçara
+,12/04/03,Flamengo-PI,1-0,Corisabbá
+,13/04/03,Piauí,2-1,Parnahyba
+,13/04/03,Oeiras AC,3-0,4 de Julho
+,13/04/03,Comercial-PI,2-0,Picos
+,19/04/03,Caiçara,2-0,Piauí
+,19/04/03,Picos,0-3,River-PI
+,19/04/03,Oeiras AC,1-1,Parnahyba
+,20/04/03,Comercial-PI,0-1,Flamengo-PI
+,20/04/03,4 de Julho,0-0,Corisabbá
+,27/04/03,Piauí,4-3,Oeiras AC
+,27/04/03,Parnahyba,1-1,River-PI
+,27/04/03,Corisabbá,0-1,Comercial-PI
+,27/04/03,Caiçara,1-1,Picos
+,27/04/03,4 de Julho,1-2,Flamengo-PI
+SF,01/05/03,Piauí,1-1,River-PI
+SF,01/05/03,Comercial-PI,2-1,Flamengo-PI
+SF,03/05/03,River-PI,4-3,Piauí
+SF,04/05/03,Flamengo-PI,4-1,Comercial-PI
+F,08/05/03,River-PI,0-1,Flamengo-PI
+F,11/05/03,Flamengo-PI,2-1,River-PI
+,14/05/03,River-PI,3-1,Caiçara
+,14/05/03,Parnahyba,1-0,Piauí
+,15/05/03,Flamengo-PI,3-1,Comercial-PI
+,17/05/03,Comercial-PI,2-1,River-PI
+,18/05/03,Piauí,2-1,Flamengo-PI
+,18/05/03,Caiçara,3-0,Parnahyba
+,21/05/03,Parnahyba,1-0,River-PI
+,22/05/03,Piauí,2-2,Comercial-PI
+,22/05/03,Flamengo-PI,4-1,Caiçara
+,25/05/03,Parnahyba,1-0,Flamengo-PI
+,25/05/03,Comercial-PI,1-1,Caiçara
+,25/05/03,River-PI,3-0,Piauí
+,31/05/03,Caiçara,3-2,Piauí
+,01/06/03,Comercial-PI,1-3,Parnahyba
+,01/06/03,River-PI,2-1,Flamengo-PI
+,07/06/03,Piauí,1-3,River-PI
+,07/06/03,Caiçara,2-2,Comercial-PI
+,08/06/03,Flamengo-PI,2-2,Parnahyba
+,11/06/03,Piauí,0-1,Parnahyba
+,15/06/03,Caiçara,0-0,Flamengo-PI
+,15/06/03,River-PI,6-2,Comercial-PI
+,18/06/03,Parnahyba,3-1,Caiçara
+,19/06/03,Comercial-PI,3-1,Piauí
+,19/06/03,Flamengo-PI,3-1,River-PI
+,22/06/03,Comercial-PI,0-3,Flamengo-PI
+,22/06/03,Piauí,1-2,Caiçara
+,23/06/03,River-PI,2-0,Parnahyba
+,29/06/03,Caiçara,3-2,River-PI
+,29/06/03,Parnahyba,3-1,Comercial-PI
+,29/06/03,Flamengo-PI,2-0,Piauí
+SF,06/07/03,Caiçara,1-0,Parnahyba
+SF,06/07/03,Flamengo-PI,2-0,River-PI
+SF,09/07/03,Parnahyba,4-0,Caiçara
+SF,09/07/03,River-PI,2-3,Flamengo-PI
+F,13/07/03,Flamengo-PI,1-0,Parnahyba
+F,20/07/03,Parnahyba,2-0,Flamengo-PI
+F,24/07/03,Flamengo-PI,1-1,Parnahyba
+F,27/07/03,Parnahyba,1-1,Flamengo-PI
+F,30/07/03,Flamengo-PI,4-2,Parnahyba

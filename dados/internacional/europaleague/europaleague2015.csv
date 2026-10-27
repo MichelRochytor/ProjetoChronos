@@ -1,0 +1,206 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,17/09/15,Fenerbahçe,1-3,Molde
+A,17/09/15,Ajax,2-2,Celtic
+B,17/09/15,Bordeaux,1-1,Liverpool
+B,17/09/15,FC Sion,2-1,Rubin Kazan
+C,17/09/15,FK Qabala,0-0,PAOK
+C,17/09/15,Borussia Dortmund,2-1,FK Krasnodar
+D,17/09/15,Midtjylland,1-0,Legia Warszawa
+D,17/09/15,Napoli,5-0,Club Brugge
+E,17/09/15,Rapid Wien,2-1,Villarreal CF
+E,17/09/15,Viktoria Plzeň,2-0,Dinamo Minsk
+F,17/09/15,Slovan Liberec,0-1,SC Braga
+F,17/09/15,FC Groningen,0-3,Marseille
+G,17/09/15,Dnipro,1-1,Lazio
+G,17/09/15,Saint-Étienne,2-2,Rosenborg
+H,17/09/15,Sporting,1-3,Lokomotiv
+H,17/09/15,Skenderbeu,0-1,Besiktas
+I,17/09/15,Fiorentina,1-2,FC Basel
+I,17/09/15,Lech Poznan,0-0,Belenenses
+J,17/09/15,Anderlecht,1-1,Monaco
+J,17/09/15,Tottenham,3-1,Qarabag
+K,17/09/15,APOEL,0-3,Schalke 04
+K,17/09/15,Asteras Tripolis,1-1,Sparta Praha
+L,17/09/15,Partizan,3-2,AZ Alkmaar
+L,17/09/15,Athletic Bilbao,3-1,FC Augsburg
+G,01/10/15,Lazio,3-2,Saint-Étienne
+G,01/10/15,Rosenborg,0-1,Dnipro
+H,01/10/15,Lokomotiv,2-0,Skenderbeu
+H,01/10/15,Besiktas,1-1,Sporting
+I,01/10/15,FC Basel,2-0,Lech Poznan
+I,01/10/15,Belenenses,0-4,Fiorentina
+J,01/10/15,Monaco,1-1,Tottenham
+J,01/10/15,Qarabag,1-0,Anderlecht
+K,01/10/15,Schalke 04,4-0,Asteras Tripolis
+K,01/10/15,Sparta Praha,2-0,APOEL
+L,01/10/15,AZ Alkmaar,2-1,Athletic Bilbao
+L,01/10/15,FC Augsburg,1-3,Partizan
+A,01/10/15,Molde,1-1,Ajax
+A,01/10/15,Celtic,2-2,Fenerbahçe
+B,01/10/15,Liverpool,1-1,FC Sion
+B,01/10/15,Rubin Kazan,0-0,Bordeaux
+C,01/10/15,PAOK,1-1,Borussia Dortmund
+C,01/10/15,FK Krasnodar,2-1,FK Qabala
+D,01/10/15,Legia Warszawa,0-2,Napoli
+D,01/10/15,Club Brugge,1-3,Midtjylland
+E,01/10/15,Villarreal CF,1-0,Viktoria Plzeň
+E,01/10/15,Dinamo Minsk,0-1,Rapid Wien
+F,01/10/15,SC Braga,1-0,FC Groningen
+F,01/10/15,Marseille,0-1,Slovan Liberec
+C,22/10/15,FK Qabala,1-3,Borussia Dortmund
+G,22/10/15,Lazio,3-1,Rosenborg
+G,22/10/15,Dnipro,0-1,Saint-Étienne
+H,22/10/15,Lokomotiv,1-1,Besiktas
+H,22/10/15,Sporting,5-1,Skenderbeu
+I,22/10/15,FC Basel,1-2,Belenenses
+I,22/10/15,Fiorentina,1-2,Lech Poznan
+J,22/10/15,Monaco,1-0,Qarabag
+J,22/10/15,Anderlecht,2-1,Tottenham
+K,22/10/15,Schalke 04,2-2,Sparta Praha
+K,22/10/15,APOEL,2-1,Asteras Tripolis
+L,22/10/15,AZ Alkmaar,0-1,FC Augsburg
+L,22/10/15,Partizan,0-2,Athletic Bilbao
+A,22/10/15,Molde,3-1,Celtic
+A,22/10/15,Fenerbahçe,1-0,Ajax
+B,22/10/15,Liverpool,1-1,Rubin Kazan
+B,22/10/15,Bordeaux,0-1,FC Sion
+C,22/10/15,PAOK,0-0,FK Krasnodar
+D,22/10/15,Legia Warszawa,1-1,Club Brugge
+D,22/10/15,Midtjylland,1-4,Napoli
+E,22/10/15,Villarreal CF,4-0,Dinamo Minsk
+E,22/10/15,Rapid Wien,3-2,Viktoria Plzeň
+F,22/10/15,SC Braga,3-2,Marseille
+F,22/10/15,Slovan Liberec,1-1,FC Groningen
+H,05/11/15,Besiktas,1-1,Lokomotiv
+J,05/11/15,Qarabag,1-1,Monaco
+A,05/11/15,Celtic,1-2,Molde
+A,05/11/15,Ajax,0-0,Fenerbahçe
+B,05/11/15,Rubin Kazan,0-1,Liverpool
+B,05/11/15,FC Sion,1-1,Bordeaux
+C,05/11/15,FK Krasnodar,2-1,PAOK
+C,05/11/15,Borussia Dortmund,4-0,FK Qabala
+D,05/11/15,Club Brugge,1-0,Legia Warszawa
+D,05/11/15,Napoli,5-0,Midtjylland
+E,05/11/15,Dinamo Minsk,1-2,Villarreal CF
+E,05/11/15,Viktoria Plzeň,1-2,Rapid Wien
+F,05/11/15,Marseille,1-0,SC Braga
+F,05/11/15,FC Groningen,0-1,Slovan Liberec
+G,05/11/15,Rosenborg,0-2,Lazio
+G,05/11/15,Saint-Étienne,3-0,Dnipro
+H,05/11/15,Skenderbeu,3-0,Sporting
+I,05/11/15,Belenenses,0-2,FC Basel
+I,05/11/15,Lech Poznan,0-2,Fiorentina
+J,05/11/15,Tottenham,2-1,Anderlecht
+K,05/11/15,Sparta Praha,1-1,Schalke 04
+K,05/11/15,Asteras Tripolis,2-0,APOEL
+L,05/11/15,FC Augsburg,4-1,AZ Alkmaar
+L,05/11/15,Athletic Bilbao,5-1,Partizan
+B,26/11/15,Rubin Kazan,2-0,FC Sion
+C,26/11/15,FK Krasnodar,1-0,Borussia Dortmund
+E,26/11/15,Dinamo Minsk,1-0,Viktoria Plzeň
+G,26/11/15,Lazio,3-1,Dnipro
+G,26/11/15,Rosenborg,1-1,Saint-Étienne
+H,26/11/15,Lokomotiv,2-4,Sporting
+H,26/11/15,Besiktas,2-0,Skenderbeu
+I,26/11/15,FC Basel,2-2,Fiorentina
+I,26/11/15,Belenenses,0-0,Lech Poznan
+J,26/11/15,Monaco,0-2,Anderlecht
+J,26/11/15,Qarabag,0-1,Tottenham
+K,26/11/15,Schalke 04,1-0,APOEL
+K,26/11/15,Sparta Praha,1-0,Asteras Tripolis
+L,26/11/15,AZ Alkmaar,1-2,Partizan
+L,26/11/15,FC Augsburg,2-3,Athletic Bilbao
+A,26/11/15,Molde,0-2,Fenerbahçe
+A,26/11/15,Celtic,1-2,Ajax
+B,26/11/15,Liverpool,2-1,Bordeaux
+C,26/11/15,PAOK,0-0,FK Qabala
+D,26/11/15,Legia Warszawa,1-0,Midtjylland
+D,26/11/15,Club Brugge,0-1,Napoli
+E,26/11/15,Villarreal CF,1-0,Rapid Wien
+F,26/11/15,SC Braga,2-1,Slovan Liberec
+F,26/11/15,Marseille,2-1,FC Groningen
+A,10/12/15,Ajax,1-1,Molde
+A,10/12/15,Fenerbahçe,1-1,Celtic
+B,10/12/15,FC Sion,0-0,Liverpool
+B,10/12/15,Bordeaux,2-2,Rubin Kazan
+C,10/12/15,Borussia Dortmund,0-1,PAOK
+C,10/12/15,FK Qabala,0-3,FK Krasnodar
+D,10/12/15,Napoli,5-2,Legia Warszawa
+E,10/12/15,Viktoria Plzeň,3-3,Villarreal CF
+F,10/12/15,FC Groningen,0-0,SC Braga
+E,10/12/15,Rapid Wien,2-1,Dinamo Minsk
+D,10/12/15,Midtjylland,1-1,Club Brugge
+F,10/12/15,Slovan Liberec,2-4,Marseille
+G,10/12/15,Saint-Étienne,1-1,Lazio
+G,10/12/15,Dnipro,3-0,Rosenborg
+H,10/12/15,Skenderbeu,0-3,Lokomotiv
+H,10/12/15,Sporting,3-1,Besiktas
+I,10/12/15,Lech Poznan,0-1,FC Basel
+I,10/12/15,Fiorentina,1-0,Belenenses
+J,10/12/15,Tottenham,4-1,Monaco
+J,10/12/15,Anderlecht,2-1,Qarabag
+K,10/12/15,Asteras Tripolis,0-4,Schalke 04
+K,10/12/15,APOEL,1-3,Sparta Praha
+L,10/12/15,Athletic Bilbao,2-2,AZ Alkmaar
+L,10/12/15,Partizan,1-3,FC Augsburg
+1/16,16/02/16,Fenerbahçe,2-0,Lokomotiv
+1/16,18/02/16,Fiorentina,1-1,Tottenham
+1/16,18/02/16,Borussia Dortmund,2-0,FC Porto
+1/16,18/02/16,Anderlecht,1-0,Olympiacos
+1/16,18/02/16,Midtjylland,2-1,Manchester United
+1/16,18/02/16,Sevilla FC,3-0,Molde
+1/16,18/02/16,Villarreal CF,1-0,Napoli
+1/16,18/02/16,Saint-Étienne,3-2,FC Basel
+1/16,18/02/16,Valencia CF,6-0,Rapid Wien
+1/16,18/02/16,FC Augsburg,0-0,Liverpool
+1/16,18/02/16,Sparta Praha,1-0,FK Krasnodar
+1/16,18/02/16,Galatasaray,1-1,Lazio
+1/16,18/02/16,FC Sion,1-2,SC Braga
+1/16,18/02/16,Shakhtar Donetsk,0-0,Schalke 04
+1/16,18/02/16,Marseille,0-1,Athletic Bilbao
+1/16,18/02/16,Sporting,0-1,Bayer Leverkusen
+1/16,24/02/16,SC Braga,2-2,FC Sion
+1/16,25/02/16,Lokomotiv,1-1,Fenerbahçe
+1/16,25/02/16,Rapid Wien,0-4,Valencia CF
+1/16,25/02/16,Liverpool,1-0,FC Augsburg
+1/16,25/02/16,FK Krasnodar,0-3,Sparta Praha
+1/16,25/02/16,Lazio,3-1,Galatasaray
+1/16,25/02/16,Schalke 04,0-3,Shakhtar Donetsk
+1/16,25/02/16,Athletic Bilbao,1-1,Marseille
+1/16,25/02/16,Bayer Leverkusen,3-1,Sporting
+1/16,25/02/16,Tottenham,3-0,Fiorentina
+1/16,25/02/16,FC Porto,0-1,Borussia Dortmund
+1/16,25/02/16,Olympiacos,1-2(Pro.),Anderlecht
+1/16,25/02/16,Manchester United,5-1,Midtjylland
+1/16,25/02/16,Molde,1-0,Sevilla FC
+1/16,25/02/16,Napoli,1-1,Villarreal CF
+1/16,25/02/16,FC Basel,2-1,Saint-Étienne
+1/8,10/03/16,Shakhtar Donetsk,3-1,Anderlecht
+1/8,10/03/16,FC Basel,0-0,Sevilla FC
+1/8,10/03/16,Borussia Dortmund,3-0,Tottenham
+1/8,10/03/16,Fenerbahçe,1-0,SC Braga
+1/8,10/03/16,Villarreal CF,2-0,Bayer Leverkusen
+1/8,10/03/16,Athletic Bilbao,1-0,Valencia CF
+1/8,10/03/16,Liverpool,2-0,Manchester United
+1/8,10/03/16,Sparta Praha,1-1,Lazio
+1/8,17/03/16,Bayer Leverkusen,0-0,Villarreal CF
+1/8,17/03/16,Valencia CF,2-1,Athletic Bilbao
+1/8,17/03/16,Lazio,0-3,Sparta Praha
+1/8,17/03/16,Anderlecht,0-1,Shakhtar Donetsk
+1/8,17/03/16,Sevilla FC,3-0,FC Basel
+1/8,17/03/16,Manchester United,1-1,Liverpool
+1/8,17/03/16,Tottenham,1-2,Borussia Dortmund
+1/8,17/03/16,SC Braga,4-1,Fenerbahçe
+QF,07/04/16,SC Braga,1-2,Shakhtar Donetsk
+QF,07/04/16,Villarreal CF,2-1,Sparta Praha
+QF,07/04/16,Athletic Bilbao,1-2,Sevilla FC
+QF,07/04/16,Borussia Dortmund,1-1,Liverpool
+QF,14/04/16,Shakhtar Donetsk,4-0,SC Braga
+QF,14/04/16,Sparta Praha,2-4,Villarreal CF
+QF,14/04/16,Sevilla FC,1-2(5-4 Pen.),Athletic Bilbao
+QF,14/04/16,Liverpool,4-3,Borussia Dortmund
+SF,28/04/16,Villarreal CF,1-0,Liverpool
+SF,28/04/16,Shakhtar Donetsk,2-2,Sevilla FC
+SF,05/05/16,Liverpool,3-0,Villarreal CF
+SF,05/05/16,Sevilla FC,3-1,Shakhtar Donetsk
+F,18/05/16,Liverpool,1-3,Sevilla FC

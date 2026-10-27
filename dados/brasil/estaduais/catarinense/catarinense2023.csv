@@ -1,0 +1,81 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,14/01/23,Chapecoense,2-0,Avaí
+1F,14/01/23,Figueirense,1-0,Atlético Catarinense
+1F,14/01/23,Camboriú,0-0,Joinville
+1F,15/01/23,Marcílio Dias,0-2,Hercílio Luz
+1F,15/01/23,Criciúma,0-0,Concórdia
+1F,15/01/23,Brusque,2-0,Barra-SC
+1F,18/01/23,Concórdia,0-0,Figueirense
+1F,18/01/23,Hercílio Luz,1-0,Chapecoense
+1F,18/01/23,Avaí,3-0,Camboriú
+1F,18/01/23,Joinville,0-0,Marcílio Dias
+1F,19/01/23,Barra-SC,0-1,Criciúma
+1F,19/01/23,Atlético Catarinense,0-0,Brusque
+1F,21/01/23,Marcílio Dias,1-2,Avaí
+1F,21/01/23,Figueirense,1-1,Joinville
+1F,22/01/23,Concórdia,0-0,Barra-SC
+1F,22/01/23,Chapecoense,1-1,Criciúma
+1F,22/01/23,Brusque,2-1,Hercílio Luz
+1F,22/01/23,Camboriú,1-0,Atlético Catarinense
+1F,25/01/23,Hercílio Luz,1-0,Avaí
+1F,25/01/23,Figueirense,0-1,Chapecoense
+1F,25/01/23,Camboriú,1-1,Concórdia
+1F,26/01/23,Barra-SC,1-0,Atlético Catarinense
+1F,26/01/23,Criciúma,0-1,Marcílio Dias
+1F,26/01/23,Joinville,0-1,Brusque
+1F,04/02/23,Concórdia,2-2,Chapecoense
+1F,04/02/23,Avaí,4-0,Figueirense
+1F,05/02/23,Marcílio Dias,1-0,Camboriú
+1F,05/02/23,Joinville,0-0,Barra-SC
+1F,05/02/23,Brusque,1-1,Criciúma
+1F,05/02/23,Atlético Catarinense,0-1,Hercílio Luz
+1F,08/02/23,Barra-SC,4-3,Avaí
+1F,08/02/23,Brusque,0-0,Concórdia
+1F,08/02/23,Figueirense,2-1,Marcílio Dias
+1F,08/02/23,Hercílio Luz,0-0,Criciúma
+1F,09/02/23,Atlético Catarinense,0-4,Joinville
+1F,09/02/23,Chapecoense,3-1,Camboriú
+1F,11/02/23,Hercílio Luz,1-0,Barra-SC
+1F,11/02/23,Avaí,1-1,Brusque
+1F,12/02/23,Concórdia,3-0,Atlético Catarinense
+1F,12/02/23,Camboriú,1-0,Figueirense
+1F,12/02/23,Criciúma,1-1,Joinville
+1F,12/02/23,Chapecoense,3-0,Marcílio Dias
+1F,15/02/23,Camboriú,0-3,Criciúma
+1F,15/02/23,Figueirense,4-0,Barra-SC
+1F,16/02/23,Concórdia,0-0,Hercílio Luz
+1F,16/02/23,Atlético Catarinense,0-2,Avaí
+1F,18/02/23,Marcílio Dias,0-0,Brusque
+1F,18/02/23,Joinville,1-1,Chapecoense
+1F,25/02/23,Criciúma,1-0,Figueirense
+1F,25/02/23,Avaí,1-0,Concórdia
+1F,25/02/23,Barra-SC,3-1,Marcílio Dias
+1F,26/02/23,Chapecoense,3-1,Atlético Catarinense
+1F,26/02/23,Hercílio Luz,1-0,Joinville
+1F,26/02/23,Brusque,1-1,Camboriú
+1F,04/03/23,Chapecoense,0-0,Brusque
+1F,04/03/23,Marcílio Dias,1-2,Concórdia
+1F,05/03/23,Joinville,3-0,Avaí
+1F,05/03/23,Figueirense,1-1,Hercílio Luz
+1F,05/03/23,Camboriú,2-2,Barra-SC
+1F,07/03/23,Criciúma,2-0,Atlético Catarinense
+1F,11/03/23,Avaí,2-2,Criciúma
+1F,11/03/23,Brusque,3-2,Figueirense
+1F,11/03/23,Concórdia,1-0,Joinville
+1F,11/03/23,Barra-SC,0-0,Chapecoense
+1F,11/03/23,Atlético Catarinense,1-2,Marcílio Dias
+1F,11/03/23,Hercílio Luz,0-0,Camboriú
+QF,18/03/23,Avaí,0-0,Criciúma
+QF,18/03/23,Barra-SC,2-0,Chapecoense
+QF,19/03/23,Concórdia,0-0,Brusque
+QF,19/03/23,Figueirense,0-1,Hercílio Luz
+QF,21/03/23,Criciúma,0-0(14-13 Pen.),Avaí
+QF,22/03/23,Hercílio Luz,0-0,Figueirense
+QF,23/03/23,Brusque,2-0,Concórdia
+QF,23/03/23,Chapecoense,1-2,Barra-SC
+SF,25/03/23,Criciúma,2-0,Hercílio Luz
+SF,26/03/23,Barra-SC,1-2,Brusque
+SF,29/03/23,Brusque,3-1,Barra-SC
+SF,29/03/23,Hercílio Luz,2-1,Criciúma
+F,01/04/23,Criciúma,1-0,Brusque
+F,08/04/23,Brusque,0-1,Criciúma

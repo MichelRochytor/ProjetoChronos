@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/09/63,Atalanta,3-0,SS Catania
+1,15/09/63,AS Bari,1-3,Roma
+1,15/09/63,Bologna,1-1,Genoa
+1,15/09/63,Internazionale,2-1,Modena
+1,15/09/63,Juventus,3-1,SPAL
+1,15/09/63,Lanerossi Vicenza,1-1,Torino
+1,15/09/63,Lazio,1-1,Fiorentina
+1,15/09/63,AC Mantova,1-4,AC Milan
+1,15/09/63,Sampdoria,3-1,A.C. Riunite Messina
+2,22/09/63,AS Bari,0-0,AC Mantova
+2,22/09/63,Fiorentina,4-0,Atalanta
+2,22/09/63,Genoa,DA,SS Catania
+2,22/09/63,Lanerossi Vicenza,1-0,Internazionale
+2,22/09/63,AC Milan,3-0,A.C. Riunite Messina
+2,22/09/63,Modena,1-0,Juventus
+2,22/09/63,Roma,6-1,Sampdoria
+2,22/09/63,SPAL,0-1,Lazio
+2,22/09/63,Torino,0-0,Bologna
+3,25/09/63,Bologna,2-0,Atalanta
+3,25/09/63,SS Catania,0-0,SPAL
+3,25/09/63,Fiorentina,3-0,Sampdoria
+3,25/09/63,Genoa,3-0,Roma
+3,25/09/63,Internazionale,3-1,Torino
+3,25/09/63,Juventus,4-0,AS Bari
+3,25/09/63,Lazio,1-1,AC Milan
+3,25/09/63,AC Mantova,3-0,Modena
+3,25/09/63,A.C. Riunite Messina,2-0,Lanerossi Vicenza
+4,29/09/63,Atalanta,1-0,Roma
+4,29/09/63,AS Bari,0-0,Modena
+4,29/09/63,Bologna,2-0,Fiorentina
+4,29/09/63,SS Catania,0-1,Lanerossi Vicenza
+4,29/09/63,Internazionale,2-0,AC Mantova
+4,29/09/63,Lazio,1-0,Genoa
+4,29/09/63,A.C. Riunite Messina,0-0,SPAL
+4,29/09/63,Sampdoria,0-2,Juventus
+4,29/09/63,Torino,0-0,AC Milan
+5,06/10/63,Atalanta,3-0,A.C. Riunite Messina
+5,06/10/63,Juventus,1-1,Fiorentina
+5,06/10/63,Lanerossi Vicenza,2-1,AS Bari
+5,06/10/63,AC Mantova,0-0,Torino
+5,06/10/63,AC Milan,3-1,Genoa
+5,06/10/63,Modena,1-4,Bologna
+5,06/10/63,Roma,0-0,Lazio
+5,06/10/63,Sampdoria,4-1,SS Catania
+5,06/10/63,SPAL,0-1,Internazionale
+6,20/10/63,Bologna,2-2,AC Milan
+6,20/10/63,SS Catania,1-0,Torino
+6,20/10/63,Fiorentina,1-0,SPAL
+6,20/10/63,Genoa,2-2,Modena
+6,20/10/63,Internazionale,1-0,Sampdoria
+6,20/10/63,Juventus,3-1,Roma
+6,20/10/63,Lazio,0-1,Lanerossi Vicenza
+6,20/10/63,AC Mantova,1-1,Atalanta
+6,20/10/63,A.C. Riunite Messina,1-1,AS Bari
+7,27/10/63,Atalanta,3-0,Juventus
+7,27/10/63,AS Bari,1-1,Internazionale
+7,27/10/63,Lanerossi Vicenza,1-0,Fiorentina
+7,27/10/63,AC Milan,3-1,SS Catania
+7,27/10/63,Modena,2-1,Lazio
+7,27/10/63,Roma,2-0,A.C. Riunite Messina
+7,27/10/63,Sampdoria,2-0,Bologna
+7,27/10/63,SPAL,5-2,AC Mantova
+7,27/10/63,Torino,2-1,Genoa
+8,10/11/63,AS Bari,0-0,SS Catania
+8,10/11/63,Genoa,2-1,Fiorentina
+8,10/11/63,Juventus,3-1,Torino
+8,10/11/63,Lanerossi Vicenza,3-0,Atalanta
+8,10/11/63,AC Mantova,2-0,Sampdoria
+8,10/11/63,A.C. Riunite Messina,DA,Lazio
+8,10/11/63,AC Milan,3-0,Modena
+8,10/11/63,Roma,0-1,Internazionale
+8,10/11/63,SPAL,0-0,Bologna
+9,24/11/63,Atalanta,0-0,SPAL
+9,24/11/63,Bologna,4-0,Roma
+9,24/11/63,SS Catania,2-0,A.C. Riunite Messina
+9,24/11/63,Fiorentina,0-1,AC Mantova
+9,24/11/63,Internazionale,0-2,AC Milan
+9,24/11/63,Lazio,0-2,Juventus
+9,24/11/63,Modena,2-3,Lanerossi Vicenza
+9,24/11/63,Sampdoria,0-1,Genoa
+9,24/11/63,Torino,1-2,AS Bari
+10,01/12/63,AS Bari,0-2,Lazio
+10,01/12/63,Genoa,0-0,Atalanta
+10,01/12/63,Internazionale,0-0,Bologna
+10,01/12/63,Juventus,2-2,AC Mantova
+10,01/12/63,Lanerossi Vicenza,0-1,AC Milan
+10,01/12/63,A.C. Riunite Messina,0-3,Fiorentina
+10,01/12/63,Modena,0-0,SS Catania
+10,01/12/63,Roma,3-0,Torino
+10,01/12/63,SPAL,3-1,Sampdoria
+11,08/12/63,Atalanta,1-1,Modena
+11,08/12/63,Bologna,3-0,Lanerossi Vicenza
+11,08/12/63,Fiorentina,0-0,Roma
+11,08/12/63,Lazio,0-0,SS Catania
+11,08/12/63,AC Mantova,0-0,Genoa
+11,08/12/63,A.C. Riunite Messina,0-1,Internazionale
+11,08/12/63,AC Milan,2-2,Juventus
+11,08/12/63,Sampdoria,2-0,AS Bari
+11,08/12/63,Torino,2-0,SPAL
+12,22/12/63,AS Bari,0-1,Bologna
+12,22/12/63,SS Catania,1-2,Internazionale
+12,22/12/63,Fiorentina,1-1,Torino
+12,22/12/63,Genoa,0-0,Lanerossi Vicenza
+12,22/12/63,Juventus,2-1,A.C. Riunite Messina
+12,22/12/63,Lazio,2-0,AC Mantova
+12,22/12/63,AC Milan,2-0,Atalanta
+12,22/12/63,Modena,3-0,Sampdoria
+12,22/12/63,SPAL,2-0,Roma
+13,29/12/63,Atalanta,1-0,AS Bari
+13,29/12/63,SS Catania,1-3,Bologna
+13,29/12/63,Internazionale,1-1,Fiorentina
+13,29/12/63,Lanerossi Vicenza,0-1,Juventus
+13,29/12/63,AC Mantova,2-2,A.C. Riunite Messina
+13,29/12/63,Roma,2-0,Modena
+13,29/12/63,Sampdoria,1-2,AC Milan
+13,29/12/63,SPAL,0-0,Genoa
+13,29/12/63,Torino,2-0,Lazio
+14,05/01/64,Bologna,2-1,AC Mantova
+14,05/01/64,Fiorentina,1-1,SS Catania
+14,05/01/64,Genoa,0-0,AS Bari
+14,05/01/64,Juventus,4-1,Internazionale
+14,05/01/64,Lanerossi Vicenza,1-3,Sampdoria
+14,05/01/64,Lazio,0-1,Atalanta
+14,05/01/64,A.C. Riunite Messina,1-1,Torino
+14,05/01/64,AC Milan,2-1,Roma
+14,05/01/64,Modena,4-3,SPAL
+15,12/01/64,Atalanta,0-0,Sampdoria
+15,12/01/64,AS Bari,1-0,SPAL
+15,12/01/64,Bologna,2-1,Juventus
+15,12/01/64,Fiorentina,2-1,AC Milan
+15,12/01/64,Genoa,3-0,A.C. Riunite Messina
+15,12/01/64,Internazionale,1-0,Lazio
+15,12/01/64,AC Mantova,1-0,SS Catania
+15,12/01/64,Roma,1-1,Lanerossi Vicenza
+15,12/01/64,Torino,0-0,Modena
+16,19/01/64,AS Bari,0-2,AC Milan
+16,19/01/64,SS Catania,2-0,Juventus
+16,19/01/64,Internazionale,1-0,Genoa
+16,19/01/64,A.C. Riunite Messina,0-2,Bologna
+16,19/01/64,Modena,0-1,Fiorentina
+16,19/01/64,Roma,2-1,AC Mantova
+16,19/01/64,Sampdoria,1-0,Lazio
+16,19/01/64,SPAL,1-0,Lanerossi Vicenza
+16,19/01/64,Torino,3-0,Atalanta
+17,26/01/64,Atalanta,1-3,Internazionale
+17,26/01/64,SS Catania,0-0,Roma
+17,26/01/64,Fiorentina,1-0,AS Bari
+17,26/01/64,Juventus,0-0,Genoa
+17,26/01/64,Lanerossi Vicenza,1-1,AC Mantova
+17,26/01/64,Lazio,1-2,Bologna
+17,26/01/64,A.C. Riunite Messina,2-0,Modena
+17,26/01/64,AC Milan,1-1,SPAL
+17,26/01/64,Sampdoria,0-0,Torino
+18,02/02/64,SS Catania,0-0,Atalanta
+18,02/02/64,Fiorentina,1-0,Lazio
+18,02/02/64,Genoa,0-2,Bologna
+18,02/02/64,A.C. Riunite Messina,4-3,Sampdoria
+18,02/02/64,AC Milan,1-0,AC Mantova
+18,02/02/64,Modena,0-1,Internazionale
+18,02/02/64,Roma,0-0,AS Bari
+18,02/02/64,SPAL,1-3,Juventus
+18,02/02/64,Torino,0-0,Lanerossi Vicenza
+19,05/02/64,Atalanta,1-7,Fiorentina
+19,05/02/64,Bologna,4-1,Torino
+19,05/02/64,SS Catania,5-3,Genoa
+19,05/02/64,Internazionale,0-0,Lanerossi Vicenza
+19,05/02/64,Juventus,0-0,Modena
+19,05/02/64,Lazio,0-0,SPAL
+19,05/02/64,AC Mantova,0-0,AS Bari
+19,05/02/64,A.C. Riunite Messina,1-2,AC Milan
+19,05/02/64,Sampdoria,0-2,Roma
+20,09/02/64,Atalanta,1-1,Bologna
+20,09/02/64,AS Bari,1-1,Juventus
+20,09/02/64,Lanerossi Vicenza,1-1,A.C. Riunite Messina
+20,09/02/64,AC Milan,0-1,Lazio
+20,09/02/64,Modena,1-1,AC Mantova
+20,09/02/64,Roma,1-0,Genoa
+20,09/02/64,Sampdoria,0-1,Fiorentina
+20,09/02/64,SPAL,3-1,SS Catania
+20,09/02/64,Torino,0-2,Internazionale
+21,16/02/64,Fiorentina,0-0,Bologna
+21,16/02/64,Genoa,4-1,Lazio
+21,16/02/64,Juventus,1-0,Sampdoria
+21,16/02/64,Lanerossi Vicenza,1-1,SS Catania
+21,16/02/64,AC Mantova,2-2,Internazionale
+21,16/02/64,AC Milan,1-1,Torino
+21,16/02/64,Modena,1-1,AS Bari
+21,16/02/64,Roma,1-1,Atalanta
+21,16/02/64,SPAL,1-1,A.C. Riunite Messina
+22,23/02/64,AS Bari,1-0,Lanerossi Vicenza
+22,23/02/64,Bologna,0-0,Modena
+22,23/02/64,SS Catania,1-5,Sampdoria
+22,23/02/64,Fiorentina,2-1,Juventus
+22,23/02/64,Genoa,1-1,AC Milan
+22,23/02/64,Internazionale,0-0,SPAL
+22,23/02/64,Lazio,1-1,Roma
+22,23/02/64,A.C. Riunite Messina,1-1,Atalanta
+22,23/02/64,Torino,5-2,AC Mantova
+23,01/03/64,Atalanta,0-0,AC Mantova
+23,01/03/64,AS Bari,0-1,A.C. Riunite Messina
+23,01/03/64,Lanerossi Vicenza,1-0,Lazio
+23,01/03/64,AC Milan,1-2,Bologna
+23,01/03/64,Modena,2-1,Genoa
+23,01/03/64,Roma,1-2,Juventus
+23,01/03/64,Sampdoria,1-5,Internazionale
+23,01/03/64,SPAL,0-0,Fiorentina
+23,01/03/64,Torino,0-0,SS Catania
+24,08/03/64,Bologna,1-0,Sampdoria
+24,08/03/64,SS Catania,0-1,AC Milan
+24,08/03/64,Fiorentina,0-2,Lanerossi Vicenza
+24,08/03/64,Genoa,0-0,Torino
+24,08/03/64,Internazionale,3-0,AS Bari
+24,08/03/64,Juventus,0-0,Atalanta
+24,08/03/64,Lazio,1-0,Modena
+24,08/03/64,AC Mantova,2-0,SPAL
+24,08/03/64,A.C. Riunite Messina,2-1,Roma
+25,15/03/64,Atalanta,2-1,Lanerossi Vicenza
+25,15/03/64,Bologna,2-1,SPAL
+25,15/03/64,SS Catania,1-0,AS Bari
+25,15/03/64,Fiorentina,2-0,Genoa
+25,15/03/64,Internazionale,1-0,Roma
+25,15/03/64,Lazio,0-0,A.C. Riunite Messina
+25,15/03/64,Modena,0-1,AC Milan
+25,15/03/64,Sampdoria,1-1,AC Mantova
+25,15/03/64,Torino,0-0,Juventus
+26,22/03/64,AS Bari,0-3,Torino
+26,22/03/64,Genoa,0-1,Sampdoria
+26,22/03/64,Juventus,0-3,Lazio
+26,22/03/64,Lanerossi Vicenza,4-3,Modena
+26,22/03/64,AC Mantova,0-3,Fiorentina
+26,22/03/64,A.C. Riunite Messina,0-0,SS Catania
+26,22/03/64,AC Milan,1-1,Internazionale
+26,22/03/64,Roma,0-1,Bologna
+26,22/03/64,SPAL,0-0,Atalanta
+27,29/03/64,Atalanta,1-3,Genoa
+27,29/03/64,Bologna,1-2,Internazionale
+27,29/03/64,SS Catania,1-0,Modena
+27,29/03/64,Fiorentina,0-1,A.C. Riunite Messina
+27,29/03/64,Lazio,1-0,AS Bari
+27,29/03/64,AC Mantova,1-1,Juventus
+27,29/03/64,AC Milan,2-1,Lanerossi Vicenza
+27,29/03/64,Sampdoria,3-1,SPAL
+27,29/03/64,Torino,2-2,Roma
+28,05/04/64,AS Bari,2-1,Sampdoria
+28,05/04/64,SS Catania,1-0,Lazio
+28,05/04/64,Genoa,1-0,AC Mantova
+28,05/04/64,Internazionale,4-0,A.C. Riunite Messina
+28,05/04/64,Juventus,1-2,AC Milan
+28,05/04/64,Lanerossi Vicenza,1-3,Bologna
+28,05/04/64,Modena,1-0,Atalanta
+28,05/04/64,Roma,1-1,Fiorentina
+28,05/04/64,SPAL,0-1,Torino
+29,19/04/64,Atalanta,0-0,AC Milan
+29,19/04/64,Bologna,3-1,AS Bari
+29,19/04/64,Internazionale,4-1,SS Catania
+29,19/04/64,Lanerossi Vicenza,1-0,Genoa
+29,19/04/64,AC Mantova,0-0,Lazio
+29,19/04/64,A.C. Riunite Messina,1-0,Juventus
+29,19/04/64,Roma,2-0,SPAL
+29,19/04/64,Sampdoria,1-1,Modena
+29,19/04/64,Torino,0-3,Fiorentina
+30,26/04/64,AS Bari,4-0,Atalanta
+30,26/04/64,Bologna,1-0,SS Catania
+30,26/04/64,Fiorentina,1-3,Internazionale
+30,26/04/64,Genoa,1-0,SPAL
+30,26/04/64,Juventus,4-1,Lanerossi Vicenza
+30,26/04/64,Lazio,0-0,Torino
+30,26/04/64,A.C. Riunite Messina,1-0,AC Mantova
+30,26/04/64,AC Milan,0-1,Sampdoria
+30,26/04/64,Modena,3-3,Roma
+31,03/05/64,Atalanta,1-1,Lazio
+31,03/05/64,AS Bari,1-2,Genoa
+31,03/05/64,SS Catania,2-0,Fiorentina
+31,03/05/64,Internazionale,1-0,Juventus
+31,03/05/64,AC Mantova,0-0,Bologna
+31,03/05/64,Roma,2-3,AC Milan
+31,03/05/64,Sampdoria,1-1,Lanerossi Vicenza
+31,03/05/64,SPAL,0-0,Modena
+31,03/05/64,Torino,1-0,A.C. Riunite Messina
+32,17/05/64,SS Catania,0-0,AC Mantova
+32,17/05/64,Juventus,0-0,Bologna
+32,17/05/64,Lanerossi Vicenza,2-1,Roma
+32,17/05/64,Lazio,0-0,Internazionale
+32,17/05/64,A.C. Riunite Messina,1-0,Genoa
+32,17/05/64,AC Milan,2-1,Fiorentina
+32,17/05/64,Modena,0-0,Torino
+32,17/05/64,Sampdoria,1-1,Atalanta
+32,17/05/64,SPAL,3-1,AS Bari
+33,24/05/64,Atalanta,1-1,Torino
+33,24/05/64,Bologna,2-0,A.C. Riunite Messina
+33,24/05/64,Fiorentina,0-0,Modena
+33,24/05/64,Genoa,0-2,Internazionale
+33,24/05/64,Juventus,4-2,SS Catania
+33,24/05/64,Lanerossi Vicenza,1-0,SPAL
+33,24/05/64,Lazio,0-0,Sampdoria
+33,24/05/64,AC Mantova,1-0,Roma
+33,24/05/64,AC Milan,2-0,AS Bari
+34,31/05/64,AS Bari,2-0,Fiorentina
+34,31/05/64,Bologna,1-0,Lazio
+34,31/05/64,Genoa,3-1,Juventus

@@ -1,0 +1,127 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/09/92,Hibernian,2-2,Anderlecht
+1,15/09/92,Valencia CF,1-5,Napoli
+1,15/09/92,Neuchâtel Xamax,2-2,Frem
+1,15/09/92,Casino Salzburg,0-3,Ajax
+1,15/09/92,Caen,3-2,Real Zaragoza
+1,15/09/92,Fram Reykjavik,0-3,Kaiserslautern
+1,15/09/92,FC Köln,2-0,Celtic
+1,15/09/92,Sigma Olomouc,1-0,FC Universitatea 1948
+1,15/09/92,Floriana,0-1,Borussia Dortmund
+1,15/09/92,Sheffield Wed.,8-1,Spora
+1,15/09/92,Benfica,3-0,Belvedur Izola
+1,16/09/92,Vitesse,3-0,Derry City
+1,16/09/92,PSG,2-0,PAOK
+1,16/09/92,KV Mechelen,2-1,Orebro SK
+1,16/09/92,Dunakanyar-Vác FC,1-0,FC Groningen
+1,16/09/92,Standard Liège,5-0,Portadown
+1,16/09/92,FC Kobenhavn,5-0,MP Mikkelin
+1,16/09/92,Widzew Lodz,2-2,Eintracht Frankfurt
+1,16/09/92,IFK Norrköping,1-0,Torino
+1,16/09/92,Slavia Praha,1-0,Hearts
+1,16/09/92,Dynamo Moskva,5-1,Rosenborg
+1,16/09/92,Juventus,6-1,Anorthosis
+1,16/09/92,Lokomotiv Plovdiv,2-2,Auxerre
+1,16/09/92,Dynamo Kyiv,1-0,Rapid Wien
+1,16/09/92,FC Extensiv Craiova,0-6,Panathinaikos
+1,16/09/92,Wacker Innsbruck 1915,1-4,Roma
+1,16/09/92,GKS Katowice,0-0,Galatasaray
+1,16/09/92,Poli Timisoara,1-1,Real Madrid
+1,16/09/92,Fenerbahçe,3-1,Botev Plovdiv
+1,16/09/92,Grasshoppers,1-2,Sporting
+1,16/09/92,Manchester United,0-0,Torpedo
+1,17/09/92,Vitória SC,3-0,Real Sociedad
+1,28/09/92,Torpedo,0-0(4-3 Pen.),Manchester United
+1,29/09/92,Anderlecht,1-1,Hibernian
+1,29/09/92,Napoli,1-0,Valencia CF
+1,29/09/92,Derry City,1-2,Vitesse
+1,29/09/92,Frem,4-1,Neuchâtel Xamax
+1,29/09/92,Kaiserslautern,4-0,Fram Reykjavik
+1,29/09/92,Portadown,0-0,Standard Liège
+1,29/09/92,Anorthosis,0-4,Juventus
+1,29/09/92,Auxerre,7-1,Lokomotiv Plovdiv
+1,29/09/92,Panathinaikos,4-0,FC Extensiv Craiova
+1,29/09/92,FC Universitatea 1948,1-2,Sigma Olomouc
+1,29/09/92,Galatasaray,2-1,GKS Katowice
+1,29/09/92,Borussia Dortmund,7-2,Floriana
+1,29/09/92,Real Madrid,4-0,Poli Timisoara
+1,30/09/92,Ajax,3-1,Casino Salzburg
+1,30/09/92,Orebro SK,0-0,KV Mechelen
+1,30/09/92,FC Groningen,1-1,Dunakanyar-Vác FC
+1,30/09/92,Celtic,3-0,FC Köln
+1,30/09/92,MP Mikkelin,1-5,FC Kobenhavn
+1,30/09/92,Eintracht Frankfurt,9-0,Widzew Lodz
+1,30/09/92,Hearts,4-2,Slavia Praha
+1,30/09/92,Rosenborg,2-0,Dynamo Moskva
+1,30/09/92,Rapid Wien,3-2,Dynamo Kyiv
+1,30/09/92,Belvedur Izola,0-5,Benfica
+1,30/09/92,Roma,1-0,Wacker Innsbruck 1915
+1,30/09/92,Botev Plovdiv,2-2,Fenerbahçe
+1,30/09/92,Sporting,1-3(Pro.),Grasshoppers
+1,30/09/92,Real Sociedad,2-0,Vitória SC
+1,01/10/92,Spora,1-2,Sheffield Wed.
+1,01/10/92,PAOK,0-2,PSG
+1,01/10/92,Real Zaragoza,2-0,Caen
+1,01/10/92,Torino,3-0,IFK Norrköping
+2,20/10/92,Kaiserslautern,3-1,Sheffield Wed.
+2,20/10/92,Borussia Dortmund,1-0,Celtic
+2,20/10/92,Panathinaikos,0-1,Juventus
+2,20/10/92,Vitória SC,0-3,Ajax
+2,20/10/92,Benfica,5-1,Dunakanyar-Vác FC
+2,21/10/92,Napoli,0-2,PSG
+2,21/10/92,Vitesse,1-0,KV Mechelen
+2,21/10/92,Roma,3-0,Grasshoppers
+2,21/10/92,Fenerbahçe,1-0,Sigma Olomouc
+2,21/10/92,Eintracht Frankfurt,0-0,Galatasaray
+2,21/10/92,Anderlecht,4-2,Dynamo Kyiv
+2,21/10/92,Hearts,0-1,Standard Liège
+2,21/10/92,Auxerre,5-0,FC Kobenhavn
+2,21/10/92,Real Madrid,5-2,Torpedo
+2,22/10/92,Frem,0-1,Real Zaragoza
+2,22/10/92,Torino,1-2,Dynamo Moskva
+2,03/11/92,Real Zaragoza,5-1,Frem
+2,03/11/92,Celtic,1-2,Borussia Dortmund
+2,03/11/92,KV Mechelen,0-1,Vitesse
+2,03/11/92,Grasshoppers,4-3,Roma
+2,03/11/92,Dunakanyar-Vác FC,0-1,Benfica
+2,03/11/92,Sheffield Wed.,2-2,Kaiserslautern
+2,04/11/92,Ajax,2-1,Vitória SC
+2,04/11/92,PSG,0-0,Napoli
+2,04/11/92,Sigma Olomouc,7-1,Fenerbahçe
+2,04/11/92,Galatasaray,1-0,Eintracht Frankfurt
+2,04/11/92,Dynamo Kyiv,0-3,Anderlecht
+2,04/11/92,Juventus,0-0,Panathinaikos
+2,04/11/92,Standard Liège,1-0,Hearts
+2,04/11/92,FC Kobenhavn,0-2,Auxerre
+2,04/11/92,Torpedo,3-2,Real Madrid
+2,05/11/92,Dynamo Moskva,0-0,Torino
+3,24/11/92,Ajax,2-0,Kaiserslautern
+3,24/11/92,Borussia Dortmund,3-1,Real Zaragoza
+3,24/11/92,PSG,0-0,Anderlecht
+3,24/11/92,Standard Liège,2-2,Auxerre
+3,24/11/92,Dynamo Moskva,2-2,Benfica
+3,25/11/92,Roma,3-1,Galatasaray
+3,25/11/92,Sigma Olomouc,1-2,Juventus
+3,26/11/92,Vitesse,0-1,Real Madrid
+3,07/12/92,Benfica,2-0,Dynamo Moskva
+3,08/12/92,Kaiserslautern,0-1,Ajax
+3,08/12/92,Real Zaragoza,2-1,Borussia Dortmund
+3,08/12/92,Anderlecht,1-1,PSG
+3,08/12/92,Auxerre,2-1,Standard Liège
+3,09/12/92,Galatasaray,3-2,Roma
+3,10/12/92,Real Madrid,1-0,Vitesse
+3,10/12/92,Juventus,5-0,Sigma Olomouc
+QF,02/03/93,Real Madrid,3-1,PSG
+QF,02/03/93,Roma,1-0,Borussia Dortmund
+QF,03/03/93,Auxerre,4-2,Ajax
+QF,03/03/93,Benfica,2-1,Juventus
+QF,16/03/93,Ajax,1-0,Auxerre
+QF,16/03/93,Juventus,3-0,Benfica
+QF,18/03/93,PSG,4-1,Real Madrid
+QF,18/03/93,Borussia Dortmund,2-0,Roma
+SF,06/04/93,Juventus,2-1,PSG
+SF,06/04/93,Borussia Dortmund,2-0,Auxerre
+SF,20/04/93,Auxerre,2-0(5-6 Pen.),Borussia Dortmund
+SF,22/04/93,PSG,0-1,Juventus
+F,05/05/93,Borussia Dortmund,1-3,Juventus
+F,19/05/93,Juventus,3-0,Borussia Dortmund

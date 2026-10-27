@@ -1,0 +1,90 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,25/01/14,Figueirense,1-0,Brusque
+1F,25/01/14,Juventus Jaraguá,2-0,Chapecoense
+1F,26/01/14,Joinville,1-1,Criciúma
+1F,26/01/14,Marcílio Dias,1-2,Metropolitano
+1F,26/01/14,Hermann Aichinger,2-1,Avaí
+1F,29/01/14,Avaí,4-0,Juventus Jaraguá
+1F,29/01/14,Chapecoense,2-2,Marcílio Dias
+1F,29/01/14,Criciúma,1-0,Figueirense
+1F,30/01/14,Metropolitano,2-1,Joinville
+1F,01/02/14,Criciúma,1-0,Brusque
+1F,01/02/14,Marcílio Dias,3-2,Avaí
+1F,02/02/14,Joinville,0-0,Chapecoense
+1F,02/02/14,Juventus Jaraguá,5-1,Hermann Aichinger
+1F,02/02/14,Figueirense,3-2,Metropolitano
+1F,05/02/14,Avaí,0-2,Joinville
+1F,05/02/14,Brusque,3-1,Juventus Jaraguá
+1F,05/02/14,Hermann Aichinger,2-0,Marcílio Dias
+1F,05/02/14,Chapecoense,0-0,Figueirense
+1F,06/02/14,Metropolitano,3-0,Criciúma
+1F,08/02/14,Juventus Jaraguá,0-1,Joinville
+1F,09/02/14,Brusque,0-0,Marcílio Dias
+1F,09/02/14,Hermann Aichinger,1-1,Figueirense
+1F,09/02/14,Avaí,0-0,Criciúma
+1F,09/02/14,Chapecoense,2-0,Metropolitano
+1F,12/02/14,Chapecoense,3-2,Hermann Aichinger
+1F,12/02/14,Figueirense,3-0,Joinville
+1F,13/02/14,Avaí,0-2,Brusque
+1F,15/02/14,Joinville,4-1,Hermann Aichinger
+1F,16/02/14,Metropolitano,1-4,Brusque
+1F,16/02/14,Criciúma,2-1,Chapecoense
+1F,16/02/14,Figueirense,1-2,Avaí
+1F,16/02/14,Marcílio Dias,4-0,Juventus Jaraguá
+1F,19/02/14,Brusque,2-0,Hermann Aichinger
+1F,19/02/14,Metropolitano,4-0,Juventus Jaraguá
+1F,19/02/14,Criciúma,1-1,Marcílio Dias
+1F,22/02/14,Brusque,1-1,Joinville
+1F,23/02/14,Marcílio Dias,0-0,Figueirense
+1F,23/02/14,Hermann Aichinger,0-1,Metropolitano
+1F,23/02/14,Juventus Jaraguá,1-1,Criciúma
+1F,23/02/14,Avaí,1-2,Chapecoense
+1F,26/02/14,Metropolitano,2-1,Avaí
+1F,26/02/14,Chapecoense,2-1,Brusque
+1F,26/02/14,Criciúma,3-0,Hermann Aichinger
+1F,26/02/14,Figueirense,3-1,Juventus Jaraguá
+1F,26/02/14,Joinville,4-0,Marcílio Dias
+QDF,05/03/14,Figueirense,2-0,Criciúma
+,05/03/14,Juventus Jaraguá,0-0,Brusque
+,05/03/14,Hermann Aichinger,1-2,Marcílio Dias
+QDF,05/03/14,Joinville,0-0,Metropolitano
+,06/03/14,Avaí,0-2,Chapecoense
+,09/03/14,Marcílio Dias,3-1,Avaí
+,09/03/14,Brusque,1-0,Hermann Aichinger
+,09/03/14,Chapecoense,0-1,Juventus Jaraguá
+QDF,09/03/14,Criciúma,0-0,Joinville
+QDF,09/03/14,Metropolitano,1-1,Figueirense
+QDF,12/03/14,Criciúma,1-0,Metropolitano
+,12/03/14,Avaí,3-0,Juventus Jaraguá
+,12/03/14,Hermann Aichinger,1-0,Chapecoense
+,12/03/14,Marcílio Dias,1-2,Brusque
+QDF,12/03/14,Joinville,1-1,Figueirense
+,16/03/14,Brusque,1-1,Avaí
+,16/03/14,Chapecoense,2-1,Marcílio Dias
+,16/03/14,Juventus Jaraguá,3-1,Hermann Aichinger
+QDF,16/03/14,Metropolitano,0-4,Criciúma
+QDF,16/03/14,Figueirense,1-2,Joinville
+,19/03/14,Avaí,2-0,Hermann Aichinger
+,19/03/14,Marcílio Dias,6-1,Juventus Jaraguá
+,19/03/14,Brusque,1-2,Chapecoense
+QDF,22/03/14,Figueirense,2-1,Metropolitano
+QDF,23/03/14,Joinville,1-0,Criciúma
+,23/03/14,Hermann Aichinger,0-4,Avaí
+,23/03/14,Juventus Jaraguá,1-2,Marcílio Dias
+,23/03/14,Chapecoense,2-0,Brusque
+,26/03/14,Avaí,3-1,Brusque
+,26/03/14,Marcílio Dias,1-1,Chapecoense
+,26/03/14,Hermann Aichinger,3-1,Juventus Jaraguá
+QDF,30/03/14,Metropolitano,0-0,Joinville
+QDF,30/03/14,Criciúma,2-3,Figueirense
+,30/03/14,Juventus Jaraguá,0-2,Avaí
+,30/03/14,Chapecoense,1-0,Hermann Aichinger
+,30/03/14,Brusque,0-0,Marcílio Dias
+,05/04/14,Avaí,2-2,Marcílio Dias
+,05/04/14,Hermann Aichinger,3-1,Brusque
+,05/04/14,Juventus Jaraguá,1-1,Chapecoense
+F,06/04/14,Joinville,2-1,Figueirense
+,12/04/14,Chapecoense,4-1,Avaí
+,12/04/14,Brusque,3-2,Juventus Jaraguá
+,12/04/14,Marcílio Dias,0-1,Hermann Aichinger
+F,13/04/14,Figueirense,2-1,Joinville

@@ -1,0 +1,145 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+FL,08/09/26,Club Brugge,2-3,Aston Villa
+FL,08/09/26,AEK,1-0,LASK Linz
+FL,08/09/26,Real Madrid,2-1,Internazionale
+FL,08/09/26,FC Porto,0-2,Manchester City
+FL,08/09/26,Borussia Dortmund,3-2,Villarreal CF
+FL,08/09/26,Lille,2-3,Real Betis
+FL,09/09/26,Barcelona,5-1,Feyenoord
+FL,09/09/26,Stuttgart,3-1,Viking
+FL,09/09/26,Liverpool,2-1,Atlético de Madrid
+FL,09/09/26,PSG,6-1,Slovan Bratislava
+FL,09/09/26,Napoli,0-1,Arsenal
+FL,09/09/26,Sporting,3-1,Galatasaray
+FL,10/09/26,Fenerbahçe,1-1,Roma
+FL,10/09/26,PSV,1-1,Shakhtar Donetsk
+FL,10/09/26,Bayern München,5-0,Bodo/Glimt
+FL,10/09/26,Manchester United,4-0,Sabah
+FL,10/09/26,Como 1907,4-1,RB Leipzig
+FL,10/09/26,Slavia Praha,2-3,Lens
+FL,13/10/26,Lens,vs,Sporting
+FL,13/10/26,Sabah,vs,Slavia Praha
+FL,13/10/26,Internazionale,vs,Club Brugge
+FL,13/10/26,Galatasaray,vs,Barcelona
+FL,13/10/26,Atlético de Madrid,vs,Manchester United
+FL,13/10/26,Arsenal,vs,Lille
+FL,13/10/26,Viking,vs,Bayern München
+FL,13/10/26,RB Leipzig,vs,PSV
+FL,13/10/26,Villarreal CF,vs,Napoli
+FL,14/10/26,LASK Linz,vs,Liverpool
+FL,14/10/26,Feyenoord,vs,Como 1907
+FL,14/10/26,Roma,vs,Real Madrid
+FL,14/10/26,Manchester City,vs,PSG
+FL,14/10/26,Bodo/Glimt,vs,Borussia Dortmund
+FL,14/10/26,Real Betis,vs,FC Porto
+FL,14/10/26,Aston Villa,vs,Fenerbahçe
+FL,14/10/26,Shakhtar Donetsk,vs,AEK
+FL,14/10/26,Slovan Bratislava,vs,Stuttgart
+FL,20/10/26,Sabah,vs,Borussia Dortmund
+FL,20/10/26,Fenerbahçe,vs,Slavia Praha
+FL,20/10/26,Manchester City,vs,AEK
+FL,20/10/26,PSG,vs,Barcelona
+FL,20/10/26,Stuttgart,vs,Atlético de Madrid
+FL,20/10/26,Liverpool,vs,Villarreal CF
+FL,20/10/26,FC Porto,vs,PSV
+FL,20/10/26,Roma,vs,Slovan Bratislava
+FL,20/10/26,Napoli,vs,Bodo/Glimt
+FL,21/10/26,Como 1907,vs,Manchester United
+FL,21/10/26,Lille,vs,Galatasaray
+FL,21/10/26,Real Madrid,vs,RB Leipzig
+FL,21/10/26,Internazionale,vs,Shakhtar Donetsk
+FL,21/10/26,Bayern München,vs,Arsenal
+FL,21/10/26,Club Brugge,vs,Lens
+FL,21/10/26,Aston Villa,vs,Viking
+FL,21/10/26,Real Betis,vs,Feyenoord
+FL,21/10/26,Sporting,vs,LASK Linz
+FL,03/11/26,Shakhtar Donetsk,vs,Sporting
+FL,03/11/26,Galatasaray,vs,Stuttgart
+FL,03/11/26,Feyenoord,vs,Internazionale
+FL,03/11/26,Barcelona,vs,Aston Villa
+FL,03/11/26,Atlético de Madrid,vs,Bayern München
+FL,03/11/26,Villarreal CF,vs,PSG
+FL,03/11/26,Manchester United,vs,Roma
+FL,03/11/26,Bodo/Glimt,vs,Lille
+FL,03/11/26,LASK Linz,vs,Slovan Bratislava
+FL,04/11/26,AEK,vs,Real Madrid
+FL,04/11/26,Fenerbahçe,vs,Liverpool
+FL,04/11/26,RB Leipzig,vs,Manchester City
+FL,04/11/26,Slavia Praha,vs,Arsenal
+FL,04/11/26,PSV,vs,Club Brugge
+FL,04/11/26,Borussia Dortmund,vs,Real Betis
+FL,04/11/26,FC Porto,vs,Napoli
+FL,04/11/26,Lens,vs,Como 1907
+FL,04/11/26,Viking,vs,Sabah
+FL,24/11/26,Galatasaray,vs,Aston Villa
+FL,24/11/26,Bodo/Glimt,vs,LASK Linz
+FL,24/11/26,Real Madrid,vs,PSV
+FL,24/11/26,Manchester City,vs,Napoli
+FL,24/11/26,Arsenal,vs,Borussia Dortmund
+FL,24/11/26,Feyenoord,vs,FC Porto
+FL,24/11/26,Slovan Bratislava,vs,Real Betis
+FL,24/11/26,RB Leipzig,vs,Lens
+FL,24/11/26,Como 1907,vs,AEK
+FL,25/11/26,Sabah,vs,Barcelona
+FL,25/11/26,Slavia Praha,vs,Villarreal CF
+FL,25/11/26,Internazionale,vs,Stuttgart
+FL,25/11/26,Atlético de Madrid,vs,Viking
+FL,25/11/26,PSG,vs,Roma
+FL,25/11/26,Club Brugge,vs,Liverpool
+FL,25/11/26,Lille,vs,Bayern München
+FL,25/11/26,Sporting,vs,Manchester United
+FL,25/11/26,Shakhtar Donetsk,vs,Fenerbahçe
+FL,08/12/26,Villarreal CF,vs,Sabah
+FL,08/12/26,Viking,vs,Feyenoord
+FL,08/12/26,Barcelona,vs,Manchester City
+FL,08/12/26,Aston Villa,vs,PSG
+FL,08/12/26,Bayern München,vs,Slavia Praha
+FL,08/12/26,Napoli,vs,Club Brugge
+FL,08/12/26,Roma,vs,Sporting
+FL,08/12/26,Manchester United,vs,RB Leipzig
+FL,08/12/26,AEK,vs,Galatasaray
+FL,09/12/26,Real Betis,vs,Como 1907
+FL,09/12/26,Slovan Bratislava,vs,Shakhtar Donetsk
+FL,09/12/26,Arsenal,vs,Real Madrid
+FL,09/12/26,Borussia Dortmund,vs,Internazionale
+FL,09/12/26,PSV,vs,Atlético de Madrid
+FL,09/12/26,Liverpool,vs,FC Porto
+FL,09/12/26,Lens,vs,Bodo/Glimt
+FL,09/12/26,LASK Linz,vs,Fenerbahçe
+FL,09/12/26,Stuttgart,vs,Lille
+FL,19/01/27,Bodo/Glimt,vs,Atlético de Madrid
+FL,19/01/27,Galatasaray,vs,Feyenoord
+FL,19/01/27,Real Madrid,vs,LASK Linz
+FL,19/01/27,Internazionale,vs,Liverpool
+FL,19/01/27,Stuttgart,vs,Club Brugge
+FL,19/01/27,Aston Villa,vs,Borussia Dortmund
+FL,19/01/27,FC Porto,vs,Slavia Praha
+FL,19/01/27,AEK,vs,Roma
+FL,19/01/27,Lille,vs,Slovan Bratislava
+FL,20/01/27,Fenerbahçe,vs,Villarreal CF
+FL,20/01/27,Sabah,vs,Napoli
+FL,20/01/27,Lens,vs,Manchester City
+FL,20/01/27,Sporting,vs,Barcelona
+FL,20/01/27,Como 1907,vs,PSG
+FL,20/01/27,Real Betis,vs,Arsenal
+FL,20/01/27,Manchester United,vs,Bayern München
+FL,20/01/27,Viking,vs,PSV
+FL,20/01/27,RB Leipzig,vs,Shakhtar Donetsk
+FL,27/01/27,Shakhtar Donetsk,vs,Real Madrid
+FL,27/01/27,Manchester City,vs,Sporting
+FL,27/01/27,Slovan Bratislava,vs,Internazionale
+FL,27/01/27,Barcelona,vs,Como 1907
+FL,27/01/27,Atlético de Madrid,vs,Fenerbahçe
+FL,27/01/27,PSG,vs,Galatasaray
+FL,27/01/27,Liverpool,vs,Lens
+FL,27/01/27,Arsenal,vs,Sabah
+FL,27/01/27,Bayern München,vs,Real Betis
+FL,27/01/27,Club Brugge,vs,Bodo/Glimt
+FL,27/01/27,Borussia Dortmund,vs,AEK
+FL,27/01/27,LASK Linz,vs,FC Porto
+FL,27/01/27,Slavia Praha,vs,Aston Villa
+FL,27/01/27,Roma,vs,Lille
+FL,27/01/27,Villarreal CF,vs,Manchester United
+FL,27/01/27,PSV,vs,Stuttgart
+FL,27/01/27,Feyenoord,vs,RB Leipzig
+FL,27/01/27,Napoli,vs,Viking

@@ -1,0 +1,73 @@
+time,região,serie
+ABC,RN,A
+ASA,AL,B
+America-RJ,RJ,A
+América Mineiro,MG,B
+América-RN,RN,B
+Anapolina,GO,A
+Atlético Mineiro,MG,A
+Atlético Paranaense,PR,A
+Atlético-BA,BA,B
+Auto Esporte-PI,PI,A
+Avaí,SC,B
+Bahia,BA,A
+Bangu,RJ,A
+Botafogo,RJ,A
+Botafogo-PB,PB,B
+Brasília,DF,A
+CRB,AL,A
+Campo Grande-RJ,RJ,B
+Catuense,BA,A
+Ceará,CE,B
+Central,PE,B
+Comercial-MS,MS,B
+Confiança,SE,A
+Corinthians,SP,A
+Coritiba,PR,A
+Cruzeiro,MG,A
+Desportiva Ferroviária,ES,B
+Ferroviário,CE,A
+Flamengo,RJ,A
+Fluminense,RJ,A
+Fortaleza,CE,A
+GE Brasil,RS,A
+Goiás,GO,A
+Goytacaz,RJ,B
+Grêmio,RS,A
+Guarani,SP,B
+Icasa,CE,B
+Inter SM,RS,B
+Internacional,RS,A
+Itabuna,BA,B
+Itumbiara,GO,B
+Joinville,SC,A
+Maranhão,MA,B
+Moto Club,MA,A
+Nacional-AM,AM,A
+Nacional-GO,GO,B
+Novo Hamburgo,RS,B
+Náutico,PE,A
+Operário-MS,MS,A
+Operário-MT,MT,A
+Palmeiras,SP,A
+Pinheiros-PR,PR,B
+Portuguesa,SP,A
+Remo,PA,B
+Rio Branco-ES,ES,A
+Rio Negro-AM,AM,B
+Santa Cruz,PE,A
+Santo André,SP,A
+Santos,SP,A
+Sergipe,SE,B
+Sport,PE,B
+São Paulo,SP,A
+Tiradentes-DF,DF,B
+Tiradentes-PI,PI,B
+Treze,PB,A
+Tuna Luso,PA,A
+Uberlândia,MG,A
+União Bandeirante,SP,B
+União Rondonópolis,MT,B
+Vasco,RJ,A
+Volta Redonda,RJ,B
+XV de Piracicaba,SP,B

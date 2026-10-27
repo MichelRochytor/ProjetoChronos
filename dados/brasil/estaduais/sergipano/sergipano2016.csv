@@ -1,0 +1,90 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,24/01/16,Sergipe,1-0,Socorrense
+1F,24/01/16,Estanciano,0-0,Amadense
+1F,24/01/16,Dorense,3-1,Lagarto-SE
+1F,24/01/16,Itabaiana,0-0,Boca Júnior-SE
+1F,25/01/16,Confiança,3-0,Guarany-SE
+1F,27/01/16,Boca Júnior-SE,2-1,Dorense
+1F,27/01/16,Amadense,1-0,Itabaiana
+1F,27/01/16,Lagarto-SE,0-1,Estanciano
+1F,28/01/16,Socorrense,0-3,Confiança
+1F,31/01/16,Guarany-SE,3-0,Socorrense
+1F,31/01/16,Confiança,1-1,Sergipe
+1F,31/01/16,Lagarto-SE,1-2,Itabaiana
+1F,31/01/16,Estanciano,0-1,Boca Júnior-SE
+1F,03/02/16,Confiança,2-1,Boca Júnior-SE
+1F,03/02/16,Itabaiana,3-0,Estanciano
+1F,03/02/16,Socorrense,1-1,Lagarto-SE
+1F,03/02/16,Amadense,0-3,Dorense
+1F,04/02/16,Guarany-SE,1-6,Sergipe
+1F,06/02/16,Amadense,1-3,Confiança
+1F,06/02/16,Estanciano,3-1,Socorrense
+1F,06/02/16,Dorense,2-1,Itabaiana
+1F,10/02/16,Sergipe,1-2,Estanciano
+1F,10/02/16,Lagarto-SE,1-1,Amadense
+1F,10/02/16,Boca Júnior-SE,1-0,Guarany-SE
+1F,10/02/16,Socorrense,1-1,Dorense
+1F,11/02/16,Confiança,1-2,Itabaiana
+1F,14/02/16,Guarany-SE,1-1,Amadense
+1F,14/02/16,Dorense,0-0,Sergipe
+1F,17/02/16,Lagarto-SE,2-1,Guarany-SE
+1F,17/02/16,Boca Júnior-SE,1-2,Sergipe
+1F,21/02/16,Estanciano,0-1,Confiança
+1F,21/02/16,Sergipe,2-1,Lagarto-SE
+1F,21/02/16,Itabaiana,3-0,Socorrense
+1F,21/02/16,Amadense,1-2,Boca Júnior-SE
+1F,21/02/16,Dorense,0-0,Guarany-SE
+1F,27/02/16,Amadense,0-1,Socorrense
+1F,27/02/16,Estanciano,1-1,Guarany-SE
+1F,28/02/16,Boca Júnior-SE,2-1,Lagarto-SE
+1F,28/02/16,Confiança,4-1,Dorense
+1F,28/02/16,Itabaiana,1-0,Sergipe
+1F,06/03/16,Guarany-SE,1-1,Itabaiana
+1F,06/03/16,Sergipe,1-1,Amadense
+1F,06/03/16,Lagarto-SE,2-2,Confiança
+1F,06/03/16,Socorrense,3-0,Boca Júnior-SE
+1F,06/03/16,Dorense,2-0,Estanciano
+HXF,12/03/16,Boca Júnior-SE,0-0,Sergipe
+,12/03/16,Socorrense,1-1,Guarany-SE
+HXF,12/03/16,Dorense,0-0,Itabaiana
+,12/03/16,Amadense,1-1,Lagarto-SE
+HXF,12/03/16,Confiança,3-0,Estanciano
+HXF,19/03/16,Estanciano,0-0,Dorense
+,19/03/16,Guarany-SE,1-2,Amadense
+,19/03/16,Lagarto-SE,1-1,Socorrense
+HXF,20/03/16,Itabaiana,4-2,Boca Júnior-SE
+HXF,20/03/16,Sergipe,2-1,Confiança
+HXF,26/03/16,Estanciano,1-2,Sergipe
+HXF,26/03/16,Dorense,1-0,Boca Júnior-SE
+,26/03/16,Amadense,4-0,Socorrense
+HXF,27/03/16,Confiança,0-2,Itabaiana
+,27/03/16,Lagarto-SE,1-2,Guarany-SE
+HXF,30/03/16,Boca Júnior-SE,4-2,Confiança
+HXF,30/03/16,Sergipe,4-3,Dorense
+HXF,30/03/16,Itabaiana,1-0,Estanciano
+HXF,01/04/16,Estanciano,0-2,Boca Júnior-SE
+HXF,02/04/16,Dorense,0-3,Confiança
+,02/04/16,Guarany-SE,0-0,Lagarto-SE
+,02/04/16,Socorrense,3-0,Amadense
+HXF,03/04/16,Itabaiana,1-1,Sergipe
+HXF,09/04/16,Boca Júnior-SE,2-1,Estanciano
+,09/04/16,Socorrense,0-3,Lagarto-SE
+,10/04/16,Amadense,1-0,Guarany-SE
+HXF,10/04/16,Sergipe,1-1,Itabaiana
+HXF,11/04/16,Confiança,3-1,Dorense
+HXF,16/04/16,Dorense,2-3,Sergipe
+,16/04/16,Guarany-SE,2-1,Socorrense
+,16/04/16,Lagarto-SE,4-0,Amadense
+HXF,16/04/16,Confiança,2-1,Boca Júnior-SE
+HXF,16/04/16,Estanciano,0-2,Itabaiana
+HXF,23/04/16,Boca Júnior-SE,1-3,Dorense
+HXF,24/04/16,Itabaiana,3-2,Confiança
+HXF,24/04/16,Sergipe,1-2,Estanciano
+HXF,27/04/16,Boca Júnior-SE,1-2,Itabaiana
+HXF,27/04/16,Confiança,0-0,Sergipe
+HXF,27/04/16,Dorense,5-3,Estanciano
+HXF,30/04/16,Itabaiana,0-0,Dorense
+HXF,30/04/16,Sergipe,0-0,Boca Júnior-SE
+HXF,30/04/16,Estanciano,1-3,Confiança
+F,04/05/16,Sergipe,1-0,Itabaiana
+F,07/05/16,Itabaiana,1-1,Sergipe

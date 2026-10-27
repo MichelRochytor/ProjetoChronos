@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,25/08/07,Lazio,2-2,Torino
+1,25/08/07,Juventus,5-1,Livorno 1915
+1,26/08/07,Fiorentina,3-1,Empoli
+1,26/08/07,Genoa,0-3,AC Milan
+1,26/08/07,Internazionale,1-1,Udinese
+1,26/08/07,Napoli,0-2,Cagliari
+1,26/08/07,Parma,2-2,Catania
+1,26/08/07,Reggina,1-1,Atalanta
+1,26/08/07,AC Siena,1-2,Sampdoria
+1,26/08/07,Palermo,0-2,Roma
+2,01/09/07,Empoli,0-2,Internazionale
+2,02/09/07,Atalanta,2-0,Parma
+2,02/09/07,Cagliari,2-3,Juventus
+2,02/09/07,Catania,0-0,Genoa
+2,02/09/07,Livorno 1915,2-4,Palermo
+2,02/09/07,Roma,3-0,AC Siena
+2,02/09/07,Torino,2-2,Reggina
+2,02/09/07,Udinese,0-5,Napoli
+2,02/09/07,Sampdoria,0-0,Lazio
+2,03/09/07,AC Milan,1-1,Fiorentina
+3,15/09/07,AC Siena,1-1,AC Milan
+3,15/09/07,Lazio,0-0,Empoli
+3,16/09/07,Fiorentina,2-2,Atalanta
+3,16/09/07,Genoa,1-1,Livorno 1915
+3,16/09/07,Internazionale,2-0,Catania
+3,16/09/07,Juventus,0-1,Udinese
+3,16/09/07,Napoli,2-0,Sampdoria
+3,16/09/07,Palermo,1-1,Torino
+3,16/09/07,Reggina,0-2,Roma
+3,16/09/07,Parma,1-1,Cagliari
+4,22/09/07,Udinese,2-0,Reggina
+4,22/09/07,AC Milan,1-1,Parma
+4,23/09/07,Atalanta,2-1,Lazio
+4,23/09/07,Cagliari,0-1,Palermo
+4,23/09/07,Catania,0-1,Fiorentina
+4,23/09/07,Empoli,0-0,Napoli
+4,23/09/07,Livorno 1915,2-2,Internazionale
+4,23/09/07,Roma,2-2,Juventus
+4,23/09/07,Torino,1-1,AC Siena
+4,23/09/07,Sampdoria,0-0,Genoa
+5,26/09/07,Catania,1-0,Empoli
+5,26/09/07,Fiorentina,2-2,Roma
+5,26/09/07,Genoa,3-2,Udinese
+5,26/09/07,Internazionale,3-0,Sampdoria
+5,26/09/07,Juventus,4-0,Reggina
+5,26/09/07,Lazio,3-1,Cagliari
+5,26/09/07,Napoli,1-0,Livorno 1915
+5,26/09/07,Palermo,2-1,AC Milan
+5,26/09/07,Parma,2-0,Torino
+5,26/09/07,AC Siena,1-1,Atalanta
+6,29/09/07,Roma,1-4,Internazionale
+6,29/09/07,Livorno 1915,0-3,Fiorentina
+6,30/09/07,Cagliari,1-0,AC Siena
+6,30/09/07,Empoli,3-1,Palermo
+6,30/09/07,AC Milan,1-1,Catania
+6,30/09/07,Napoli,1-2,Genoa
+6,30/09/07,Reggina,1-1,Lazio
+6,30/09/07,Sampdoria,3-0,Atalanta
+6,30/09/07,Udinese,2-1,Parma
+6,30/09/07,Torino,0-1,Juventus
+7,06/10/07,Atalanta,0-0,Udinese
+7,06/10/07,Internazionale,2-1,Napoli
+7,07/10/07,Catania,1-0,Livorno 1915
+7,07/10/07,Fiorentina,1-1,Juventus
+7,07/10/07,Genoa,2-0,Cagliari
+7,07/10/07,Palermo,1-1,Reggina
+7,07/10/07,Parma,0-3,Roma
+7,07/10/07,AC Siena,3-0,Empoli
+7,07/10/07,Torino,1-0,Sampdoria
+7,07/10/07,Lazio,1-5,AC Milan
+8,20/10/07,Roma,4-4,Napoli
+8,20/10/07,Reggina,0-1,Internazionale
+8,21/10/07,Atalanta,2-2,Torino
+8,21/10/07,Cagliari,1-1,Catania
+8,21/10/07,Fiorentina,3-0,AC Siena
+8,21/10/07,Livorno 1915,0-1,Lazio
+8,21/10/07,AC Milan,0-1,Empoli
+8,21/10/07,Sampdoria,3-0,Parma
+8,21/10/07,Udinese,1-1,Palermo
+8,21/10/07,Juventus,1-0,Genoa
+9,27/10/07,Torino,2-0,Cagliari
+9,27/10/07,Napoli,3-1,Juventus
+9,28/10/07,Catania,2-0,Sampdoria
+9,28/10/07,Empoli,0-1,Atalanta
+9,28/10/07,Lazio,0-1,Udinese
+9,28/10/07,AC Milan,0-1,Roma
+9,28/10/07,Palermo,0-0,Internazionale
+9,28/10/07,Parma,3-2,Livorno 1915
+9,28/10/07,AC Siena,0-0,Reggina
+9,28/10/07,Genoa,0-0,Fiorentina
+10,31/10/07,Atalanta,2-2,Cagliari
+10,31/10/07,Fiorentina,1-0,Napoli
+10,31/10/07,Internazionale,4-1,Genoa
+10,31/10/07,Juventus,3-0,Empoli
+10,31/10/07,Palermo,1-1,Parma
+10,31/10/07,Reggina,1-3,Livorno 1915
+10,31/10/07,Roma,3-2,Lazio
+10,31/10/07,Sampdoria,0-5,AC Milan
+10,31/10/07,AC Siena,1-1,Catania
+10,31/10/07,Udinese,2-1,Torino
+11,03/11/07,Lazio,0-1,Fiorentina
+11,03/11/07,AC Milan,0-0,Torino
+11,04/11/07,Cagliari,0-3,Sampdoria
+11,04/11/07,Catania,1-2,Atalanta
+11,04/11/07,Empoli,2-2,Roma
+11,04/11/07,Genoa,3-3,Palermo
+11,04/11/07,Livorno 1915,0-0,Udinese
+11,04/11/07,Napoli,1-1,Reggina
+11,04/11/07,Parma,2-2,AC Siena
+11,04/11/07,Juventus,1-1,Internazionale
+12,10/11/07,Sampdoria,3-0,Empoli
+12,10/11/07,Palermo,2-1,Napoli
+12,11/11/07,Fiorentina,1-2,Udinese
+12,11/11/07,Parma,2-2,Juventus
+12,11/11/07,Reggina,2-0,Genoa
+12,11/11/07,AC Siena,2-3,Livorno 1915
+12,11/11/07,Torino,1-1,Catania
+13,24/11/07,Genoa,0-1,Roma
+13,24/11/07,Internazionale,2-1,Atalanta
+13,25/11/07,Cagliari,1-2,AC Milan
+13,25/11/07,Empoli,0-0,Torino
+13,25/11/07,Lazio,1-0,Parma
+13,25/11/07,Livorno 1915,3-1,Sampdoria
+13,25/11/07,Napoli,2-0,Catania
+13,25/11/07,Reggina,0-0,Fiorentina
+13,25/11/07,Udinese,2-0,AC Siena
+13,25/11/07,Juventus,5-0,Palermo
+14,01/12/07,Sampdoria,3-0,Reggina
+14,01/12/07,AC Milan,0-0,Juventus
+14,02/12/07,Atalanta,5-1,Napoli
+14,02/12/07,Cagliari,0-0,Livorno 1915
+14,02/12/07,Catania,3-1,Palermo
+14,02/12/07,Fiorentina,0-2,Internazionale
+14,02/12/07,Parma,1-0,Empoli
+14,02/12/07,Roma,2-1,Udinese
+14,02/12/07,AC Siena,1-1,Lazio
+14,02/12/07,Torino,1-1,Genoa
+12,05/12/07,Internazionale,3-0,Lazio
+12,05/12/07,Roma,2-0,Cagliari
+15,08/12/07,Lazio,2-0,Catania
+15,08/12/07,Palermo,2-0,Fiorentina
+15,09/12/07,Empoli,4-1,Cagliari
+15,09/12/07,Genoa,1-3,AC Siena
+15,09/12/07,Internazionale,4-0,Torino
+15,09/12/07,Juventus,1-0,Atalanta
+15,09/12/07,Livorno 1915,1-1,Roma
+15,09/12/07,Udinese,3-2,Sampdoria
+15,09/12/07,Napoli,1-0,Parma
+16,15/12/07,Catania,2-0,Udinese
+16,15/12/07,Lazio,2-3,Juventus
+16,16/12/07,Atalanta,1-3,Palermo
+16,16/12/07,Empoli,1-1,Genoa
+16,16/12/07,Parma,3-0,Reggina
+16,16/12/07,Sampdoria,2-2,Fiorentina
+16,16/12/07,AC Siena,1-1,Napoli
+16,16/12/07,Torino,0-0,Roma
+16,16/12/07,Cagliari,0-2,Internazionale
+17,22/12/07,Genoa,1-0,Parma
+17,22/12/07,Roma,2-0,Sampdoria
+17,23/12/07,Fiorentina,5-1,Cagliari
+17,23/12/07,Internazionale,2-1,AC Milan
+17,23/12/07,Juventus,2-0,AC Siena
+17,23/12/07,Livorno 1915,1-1,Atalanta
+17,23/12/07,Napoli,1-1,Torino
+17,23/12/07,Palermo,2-2,Lazio
+17,23/12/07,Reggina,3-1,Catania
+17,23/12/07,Udinese,2-2,Empoli
+18,12/01/08,Empoli,1-1,Reggina
+18,12/01/08,Catania,1-1,Juventus
+18,13/01/08,Atalanta,1-2,Roma
+18,13/01/08,Cagliari,0-1,Udinese
+18,13/01/08,Lazio,1-2,Genoa
+18,13/01/08,Parma,1-2,Fiorentina
+18,13/01/08,Sampdoria,3-0,Palermo
+18,13/01/08,AC Siena,2-3,Internazionale
+18,13/01/08,Torino,1-2,Livorno 1915
+18,13/01/08,AC Milan,5-2,Napoli
+19,19/01/08,Genoa,2-1,Atalanta
+19,19/01/08,Fiorentina,2-1,Torino
+19,20/01/08,Juventus,0-0,Sampdoria
+19,20/01/08,Livorno 1915,1-0,Empoli
+19,20/01/08,Napoli,2-2,Lazio
+19,20/01/08,Palermo,2-3,AC Siena
+19,20/01/08,Reggina,2-0,Cagliari
+19,20/01/08,Roma,2-0,Catania
+19,20/01/08,Udinese,0-1,AC Milan
+19,20/01/08,Internazionale,3-2,Parma
+12,23/01/08,Atalanta,2-1,AC Milan
+20,26/01/08,Sampdoria,1-0,AC Siena
+20,26/01/08,Roma,1-0,Palermo
+20,27/01/08,Empoli,0-2,Fiorentina
+20,27/01/08,AC Milan,2-0,Genoa
+20,27/01/08,Udinese,0-0,Internazionale
+20,27/01/08,Torino,0-0,Lazio
+20,27/01/08,Cagliari,2-1,Napoli
+20,27/01/08,Catania,0-0,Parma
+20,27/01/08,Atalanta,2-2,Reggina
+20,27/01/08,Livorno 1915,1-3,Juventus
+15,30/01/08,Reggina,0-1,AC Milan
+21,02/02/08,Palermo,1-0,Livorno 1915
+21,02/02/08,Napoli,3-1,Udinese
+21,03/02/08,Parma,2-3,Atalanta
+21,03/02/08,Juventus,1-1,Cagliari
+21,03/02/08,Genoa,2-1,Catania
+21,03/02/08,Internazionale,1-0,Empoli
+21,03/02/08,AC Siena,3-0,Roma
+21,03/02/08,Lazio,2-1,Sampdoria
+21,03/02/08,Reggina,1-3,Torino
+21,03/02/08,Fiorentina,0-1,AC Milan
+22,09/02/08,Atalanta,2-2,Fiorentina
+22,09/02/08,Roma,2-0,Reggina
+22,10/02/08,Livorno 1915,1-1,Genoa
+22,10/02/08,Udinese,1-2,Juventus
+22,10/02/08,Empoli,1-0,Lazio
+22,10/02/08,Sampdoria,2-0,Napoli
+22,10/02/08,Torino,3-1,Palermo
+22,10/02/08,Cagliari,1-1,Parma
+22,10/02/08,AC Milan,1-0,AC Siena
+22,10/02/08,Catania,0-2,Internazionale
+16,13/02/08,AC Milan,1-1,Livorno 1915
+23,16/02/08,Internazionale,2-0,Livorno 1915
+23,16/02/08,Parma,0-0,AC Milan
+23,16/02/08,Juventus,1-0,Roma
+23,17/02/08,Lazio,3-0,Atalanta
+23,17/02/08,Palermo,2-1,Cagliari
+23,17/02/08,Fiorentina,2-1,Catania
+23,17/02/08,Napoli,1-3,Empoli
+23,17/02/08,Genoa,0-1,Sampdoria
+23,17/02/08,AC Siena,0-0,Torino
+23,17/02/08,Reggina,1-3,Udinese
+24,23/02/08,Torino,4-4,Parma
+24,23/02/08,Reggina,2-1,Juventus
+24,24/02/08,Empoli,2-0,Catania
+24,24/02/08,Roma,1-0,Fiorentina
+24,24/02/08,Udinese,3-5,Genoa
+24,24/02/08,Sampdoria,1-1,Internazionale
+24,24/02/08,Cagliari,1-0,Lazio
+24,24/02/08,Livorno 1915,1-2,Napoli
+24,24/02/08,Atalanta,2-2,AC Siena
+24,24/02/08,AC Milan,2-1,Palermo
+25,26/02/08,Juventus,0-0,Torino
+25,27/02/08,AC Siena,1-0,Cagliari
+25,27/02/08,Palermo,2-0,Empoli
+25,27/02/08,Fiorentina,1-0,Livorno 1915
+25,27/02/08,Catania,1-1,AC Milan
+25,27/02/08,Genoa,2-0,Napoli
+25,27/02/08,Lazio,1-0,Reggina
+25,27/02/08,Internazionale,1-1,Roma
+25,27/02/08,Atalanta,4-1,Sampdoria
+25,27/02/08,Parma,2-0,Udinese
+26,01/03/08,Roma,4-0,Parma
+26,01/03/08,AC Milan,1-1,Lazio
+26,02/03/08,Udinese,2-0,Atalanta
+26,02/03/08,Livorno 1915,1-0,Catania
+26,02/03/08,Juventus,2-3,Fiorentina
+26,02/03/08,Cagliari,2-1,Genoa
+26,02/03/08,Reggina,0-0,Palermo
+26,02/03/08,Empoli,0-2,AC Siena
+26,02/03/08,Sampdoria,2-2,Torino
+26,02/03/08,Napoli,1-0,Internazionale
+27,08/03/08,Internazionale,2-0,Reggina
+27,08/03/08,Palermo,1-1,Udinese
+27,09/03/08,Torino,1-0,Atalanta
+27,09/03/08,Catania,2-1,Cagliari
+27,09/03/08,AC Siena,1-0,Fiorentina
+27,09/03/08,Lazio,2-0,Livorno 1915
+27,09/03/08,Empoli,1-3,AC Milan
+27,09/03/08,Napoli,0-2,Roma
+27,09/03/08,Parma,1-2,Sampdoria
+27,09/03/08,Genoa,0-2,Juventus
+28,15/03/08,Udinese,2-2,Lazio
+28,15/03/08,Roma,2-1,AC Milan
+28,16/03/08,Sampdoria,3-1,Catania
+28,16/03/08,Atalanta,4-1,Empoli
+28,16/03/08,Fiorentina,3-1,Genoa
+28,16/03/08,Internazionale,2-1,Palermo
+28,16/03/08,Livorno 1915,1-1,Parma
+28,16/03/08,Reggina,4-0,AC Siena
+28,16/03/08,Cagliari,3-0,Torino
+28,16/03/08,Juventus,1-0,Napoli
+29,19/03/08,Cagliari,1-0,Atalanta
+29,19/03/08,Napoli,2-0,Fiorentina
+29,19/03/08,Genoa,1-1,Internazionale
+29,19/03/08,Empoli,0-0,Juventus
+29,19/03/08,Parma,2-1,Palermo
+29,19/03/08,Livorno 1915,1-1,Reggina
+29,19/03/08,AC Milan,1-2,Sampdoria
+29,19/03/08,Catania,0-0,AC Siena
+29,19/03/08,Torino,0-1,Udinese
+29,19/03/08,Lazio,3-2,Roma
+30,22/03/08,Sampdoria,1-1,Cagliari
+30,22/03/08,Atalanta,0-0,Catania
+30,22/03/08,Roma,2-1,Empoli
+30,22/03/08,Palermo,2-3,Genoa
+30,22/03/08,Fiorentina,1-0,Lazio
+30,22/03/08,Udinese,2-0,Livorno 1915
+30,22/03/08,Torino,0-1,AC Milan
+30,22/03/08,Reggina,1-1,Napoli
+30,22/03/08,AC Siena,2-0,Parma
+30,22/03/08,Internazionale,1-2,Juventus
+31,29/03/08,Cagliari,1-1,Roma
+31,29/03/08,Lazio,1-1,Internazionale
+31,30/03/08,AC Milan,1-2,Atalanta
+31,30/03/08,Udinese,3-1,Fiorentina
+31,30/03/08,Genoa,2-0,Reggina
+31,30/03/08,Empoli,0-2,Sampdoria
+31,30/03/08,Livorno 1915,0-0,AC Siena
+31,30/03/08,Catania,1-2,Torino
+31,30/03/08,Napoli,1-0,Palermo
+32,05/04/08,Roma,3-2,Genoa
+32,05/04/08,AC Milan,3-1,Cagliari
+32,06/04/08,Torino,0-1,Empoli
+32,06/04/08,Atalanta,0-2,Internazionale
+32,06/04/08,Parma,2-2,Lazio
+32,06/04/08,Sampdoria,2-0,Livorno 1915
+32,06/04/08,Catania,3-0,Napoli
+32,06/04/08,Fiorentina,2-0,Reggina
+32,06/04/08,AC Siena,1-1,Udinese
+32,06/04/08,Palermo,3-2,Juventus
+33,12/04/08,Palermo,1-0,Catania
+33,12/04/08,Juventus,3-2,AC Milan
+33,13/04/08,Napoli,2-0,Atalanta
+33,13/04/08,Livorno 1915,1-2,Cagliari
+33,13/04/08,Empoli,1-1,Parma
+33,13/04/08,Udinese,1-3,Roma
+33,13/04/08,Reggina,1-0,Sampdoria
+33,13/04/08,Lazio,1-1,AC Siena
+33,13/04/08,Genoa,3-0,Torino
+33,13/04/08,Internazionale,2-0,Fiorentina
+31,16/04/08,Juventus,3-0,Parma
+34,19/04/08,Roma,1-1,Livorno 1915
+34,19/04/08,Fiorentina,1-0,Palermo
+34,20/04/08,Cagliari,2-0,Empoli
+34,20/04/08,AC Siena,0-1,Genoa
+34,20/04/08,Atalanta,0-4,Juventus
+34,20/04/08,Catania,1-0,Lazio
+34,20/04/08,Parma,1-2,Napoli
+34,20/04/08,AC Milan,5-1,Reggina
+34,20/04/08,Sampdoria,3-0,Udinese
+34,20/04/08,Torino,0-1,Internazionale
+35,27/04/08,Palermo,0-0,Atalanta
+35,27/04/08,Internazionale,2-1,Cagliari
+35,27/04/08,Udinese,2-1,Catania
+35,27/04/08,Genoa,0-1,Empoli
+35,27/04/08,Juventus,5-2,Lazio
+35,27/04/08,Livorno 1915,1-4,AC Milan
+35,27/04/08,Reggina,2-1,Parma
+35,27/04/08,Fiorentina,2-2,Sampdoria
+35,27/04/08,Napoli,0-0,AC Siena
+35,27/04/08,Roma,4-1,Torino
+36,04/05/08,Cagliari,2-1,Fiorentina
+36,04/05/08,Parma,1-0,Genoa
+36,04/05/08,AC Milan,2-1,Internazionale
+36,04/05/08,AC Siena,1-0,Juventus
+36,04/05/08,Atalanta,3-2,Livorno 1915
+36,04/05/08,Torino,2-1,Napoli
+36,04/05/08,Lazio,1-2,Palermo
+36,04/05/08,Catania,1-2,Reggina
+36,04/05/08,Sampdoria,0-3,Roma
+36,04/05/08,Empoli,0-1,Udinese
+37,11/05/08,Roma,2-1,Atalanta
+37,11/05/08,Udinese,0-2,Cagliari
+37,11/05/08,Juventus,1-1,Catania
+37,11/05/08,Reggina,2-0,Empoli
+37,11/05/08,Genoa,0-2,Lazio
+37,11/05/08,Napoli,3-1,AC Milan
+37,11/05/08,Fiorentina,3-1,Parma
+37,11/05/08,Palermo,0-2,Sampdoria
+37,11/05/08,Internazionale,2-2,AC Siena
+37,11/05/08,Livorno 1915,0-1,Torino
+38,17/05/08,Sampdoria,3-3,Juventus
+38,18/05/08,Torino,0-1,Fiorentina
+38,18/05/08,Atalanta,2-0,Genoa
+38,18/05/08,Parma,0-2,Internazionale
+38,18/05/08,Empoli,2-1,Livorno 1915
+38,18/05/08,Lazio,2-1,Napoli
+38,18/05/08,AC Siena,2-2,Palermo
+38,18/05/08,Cagliari,2-2,Reggina
+38,18/05/08,Catania,1-1,Roma
+38,18/05/08,AC Milan,4-1,Udinese

@@ -1,0 +1,85 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,06/03/10,Piauí,2-1,Comercial-PI
+1T,06/03/10,Picos,1-0,Corisabbá
+1T,07/03/10,4 de Julho,0-0,Flamengo-PI
+1T,07/03/10,River-PI,2-2,Parnahyba
+1T,10/03/10,Parnahyba,0-0,4 de Julho
+1T,10/03/10,Piauí,2-0,Corisabbá
+1T,10/03/10,Flamengo-PI,3-1,Picos
+1T,10/03/10,Parnahyba,1-2,Barras
+1T,10/03/10,4 de Julho,2-1,River-PI
+1T,10/03/10,Flamengo-PI,1-1,Comercial-PI
+1T,11/03/10,Piauí,0-3,Barras
+1T,11/03/10,Corisabbá,1-2,River-PI
+1T,13/03/10,Barras,2-0,Flamengo-PI
+1T,13/03/10,Picos,4-4,Parnahyba
+1T,14/03/10,Comercial-PI,2-0,4 de Julho
+1T,14/03/10,River-PI,4-3,Piauí
+1T,21/03/10,Comercial-PI,1-0,Picos
+1T,21/03/10,Corisabbá,1-3,Barras
+1T,21/03/10,4 de Julho,4-2,Piauí
+1T,21/03/10,Flamengo-PI,1-1,River-PI
+1T,24/03/10,Barras,1-1,Comercial-PI
+1T,24/03/10,Parnahyba,2-1,Piauí
+1T,24/03/10,Corisabbá,0-0,4 de Julho
+1T,24/03/10,Picos,0-0,River-PI
+1T,28/03/10,Comercial-PI,5-1,Corisabbá
+1T,28/03/10,Parnahyba,2-1,Flamengo-PI
+1T,28/03/10,4 de Julho,3-2,Picos
+1T,28/03/10,River-PI,0-1,Barras
+1T,04/04/10,Barras,0-0,Picos
+1T,04/04/10,Corisabbá,0-1,Parnahyba
+1T,04/04/10,Piauí,2-1,Flamengo-PI
+1T,04/04/10,River-PI,2-1,Comercial-PI
+SF,07/04/10,Parnahyba,0-1,Barras
+SF,07/04/10,4 de Julho,1-1,Comercial-PI
+1T,08/04/10,Comercial-PI,2-1,Parnahyba
+1T,08/04/10,Barras,0-0,4 de Julho
+1T,08/04/10,Picos,2-1,Piauí
+1T,08/04/10,Flamengo-PI,1-1,Corisabbá
+SF,11/04/10,Barras,1-2,Parnahyba
+SF,12/04/10,Comercial-PI,1-0,4 de Julho
+F,15/04/10,Comercial-PI,2-0,Barras
+F,18/04/10,Barras,2-3,Comercial-PI
+2T,21/04/10,Comercial-PI,1-1,Piauí
+2T,21/04/10,Corisabbá,2-2,Picos
+2T,25/04/10,Flamengo-PI,2-1,4 de Julho
+2T,25/04/10,Parnahyba,0-1,River-PI
+2T,28/04/10,Barras,0-0,Piauí
+2T,28/04/10,4 de Julho,0-0,Parnahyba
+2T,28/04/10,Picos,1-1,Flamengo-PI
+2T,28/04/10,River-PI,2-1,Corisabbá
+2T,01/05/10,Parnahyba,3-1,Picos
+2T,01/05/10,Flamengo-PI,3-1,Barras
+2T,01/05/10,4 de Julho,1-3,Comercial-PI
+2T,01/05/10,Piauí,0-2,River-PI
+2T,04/05/10,River-PI,0-3,4 de Julho
+2T,05/05/10,Corisabbá,1-3,Piauí
+2T,05/05/10,Comercial-PI,2-1,Flamengo-PI
+2T,05/05/10,Barras,2-0,Parnahyba
+2T,08/05/10,Piauí,2-0,4 de Julho
+2T,08/05/10,Picos,1-3,Comercial-PI
+2T,08/05/10,Barras,2-0,Corisabbá
+2T,09/05/10,River-PI,0-4,Flamengo-PI
+2T,11/05/10,4 de Julho,4-0,Corisabbá
+2T,12/05/10,Comercial-PI,1-1,Barras
+2T,12/05/10,River-PI,1-2,Picos
+2T,13/05/10,Piauí,1-1,Parnahyba
+2T,15/05/10,Barras,2-1,River-PI
+2T,15/05/10,Picos,1-0,4 de Julho
+2T,15/05/10,Corisabbá,2-0,Comercial-PI
+2T,17/05/10,Flamengo-PI,2-2,Parnahyba
+2T,19/05/10,Flamengo-PI,0-0,Piauí
+2T,19/05/10,Comercial-PI,3-1,River-PI
+2T,19/05/10,Parnahyba,4-0,Corisabbá
+2T,19/05/10,Picos,1-0,Barras
+2T,23/05/10,Corisabbá,1-3,Flamengo-PI
+2T,23/05/10,Parnahyba,0-0,Comercial-PI
+2T,23/05/10,Piauí,0-1,Picos
+2T,23/05/10,4 de Julho,0-2,Barras
+SF,26/05/10,Picos,3-0,Flamengo-PI
+SF,26/05/10,Barras,2-2,Comercial-PI
+SF,30/05/10,Flamengo-PI,4-1,Picos
+SF,30/05/10,Comercial-PI,3-2,Barras
+F,03/06/10,Flamengo-PI,2-2,Comercial-PI
+F,06/06/10,Comercial-PI,2-1,Flamengo-PI

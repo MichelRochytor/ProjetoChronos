@@ -1,0 +1,144 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,03/01/07,Tuna Luso,2-1,Sport Belém
+1F,03/01/07,Pedreira-PA,0-1,Vênus-PA
+1F,03/01/07,Bragantino-PA,0-0,Abaeté
+1F,03/01/07,Águia,6-1,Tiradentes-PA
+1F,04/01/07,São Raimundo-PA,2-2,Vila Rica
+1F,07/01/07,Tiradentes-PA,2-1,Vila Rica
+1F,07/01/07,Vênus-PA,2-1,São Raimundo-PA
+1F,07/01/07,Águia,3-2,Tuna Luso
+1F,07/01/07,Bragantino-PA,2-1,Sport Belém
+1F,07/01/07,Abaeté,2-0,Pedreira-PA
+2F,14/01/07,Ananindeua,3-2,Pedreira-PA
+2F,14/01/07,Paysandu,1-0,Águia
+2F,14/01/07,Remo,5-0,Vênus-PA
+2F,14/01/07,Castanhal,1-1,Abaeté
+2F,14/01/07,Bragantino-PA,1-0,Tuna Luso
+2F,17/01/07,Tuna Luso,1-0,Castanhal
+2F,17/01/07,Vênus-PA,1-2,Bragantino-PA
+2F,17/01/07,Pedreira-PA,0-2,Paysandu
+2F,18/01/07,Ananindeua,1-0,Águia
+2F,18/01/07,Abaeté,0-0,Remo
+2F,21/01/07,Paysandu,2-2,Vênus-PA
+2F,21/01/07,Tuna Luso,2-1,Águia
+2F,21/01/07,Abaeté,1-3,Ananindeua
+2F,21/01/07,Castanhal,0-0,Bragantino-PA
+2F,21/01/07,Remo,2-0,Pedreira-PA
+2F,23/01/07,Paysandu,2-3,Abaeté
+2F,24/01/07,Ananindeua,5-1,Vênus-PA
+2F,24/01/07,Pedreira-PA,1-2,Castanhal
+2F,24/01/07,Tuna Luso,1-0,Remo
+2F,24/01/07,Águia,2-0,Bragantino-PA
+2F,27/01/07,Abaeté,0-0,Tuna Luso
+2F,27/01/07,Bragantino-PA,0-1,Pedreira-PA
+2F,28/01/07,Castanhal,0-1,Ananindeua
+2F,28/01/07,Águia,1-0,Vênus-PA
+2F,28/01/07,Paysandu,1-1,Remo
+2F,31/01/07,Bragantino-PA,0-1,Ananindeua
+2F,31/01/07,Vênus-PA,1-2,Abaeté
+2F,31/01/07,Águia,2-0,Pedreira-PA
+2F,31/01/07,Paysandu,0-2,Tuna Luso
+2F,01/02/07,Remo,1-2,Castanhal
+2F,04/02/07,Ananindeua,0-1,Paysandu
+2F,04/02/07,Castanhal,2-1,Vênus-PA
+2F,04/02/07,Remo,3-1,Águia
+2F,04/02/07,Bragantino-PA,1-1,Abaeté
+2F,04/02/07,Pedreira-PA,0-0,Tuna Luso
+2F,07/02/07,Tuna Luso,1-1,Ananindeua
+2F,07/02/07,Castanhal,2-2,Paysandu
+2F,07/02/07,Remo,4-1,Bragantino-PA
+2F,07/02/07,Abaeté,1-1,Águia
+2F,08/02/07,Vênus-PA,2-2,Pedreira-PA
+2F,11/02/07,Vênus-PA,1-3,Tuna Luso
+2F,11/02/07,Ananindeua,0-4,Remo
+2F,12/02/07,Bragantino-PA,1-4,Paysandu
+2F,12/02/07,Águia,4-1,Castanhal
+2F,12/02/07,Pedreira-PA,0-1,Abaeté
+SF,14/02/07,Tuna Luso,1-1,Remo
+SF,15/02/07,Ananindeua,1-0,Paysandu
+F,25/02/07,Ananindeua,0-1,Tuna Luso
+2F,04/03/07,Pedreira-PA,0-5,Ananindeua
+2F,04/03/07,Tuna Luso,0-0,Bragantino-PA
+2F,04/03/07,Vênus-PA,2-3,Remo
+2F,04/03/07,Águia,1-0,Paysandu
+2F,04/03/07,Abaeté,2-0,Castanhal
+2F,07/03/07,Bragantino-PA,0-1,Vênus-PA
+2F,07/03/07,Remo,3-1,Abaeté
+2F,07/03/07,Águia,2-2,Ananindeua
+2F,07/03/07,Castanhal,2-0,Tuna Luso
+2F,08/03/07,Paysandu,3-1,Pedreira-PA
+2F,11/03/07,Vênus-PA,2-1,Paysandu
+2F,11/03/07,Ananindeua,1-1,Abaeté
+2F,11/03/07,Bragantino-PA,1-1,Castanhal
+2F,11/03/07,Águia,1-1,Tuna Luso
+2F,11/03/07,Pedreira-PA,1-2,Remo
+2F,18/03/07,Abaeté,1-2,Paysandu
+2F,18/03/07,Vênus-PA,1-1,Ananindeua
+2F,18/03/07,Bragantino-PA,2-2,Águia
+2F,18/03/07,Castanhal,3-1,Pedreira-PA
+2F,18/03/07,Remo,4-0,Tuna Luso
+2F,24/03/07,Ananindeua,2-1,Castanhal
+2F,25/03/07,Vênus-PA,0-0,Águia
+2F,25/03/07,Tuna Luso,1-1,Abaeté
+2F,25/03/07,Remo,0-0,Paysandu
+2F,28/03/07,Pedreira-PA,0-0,Bragantino-PA
+2F,28/03/07,Tuna Luso,0-2,Paysandu
+2F,28/03/07,Castanhal,1-3,Remo
+2F,28/03/07,Abaeté,2-1,Vênus-PA
+2F,01/04/07,Paysandu,1-2,Ananindeua
+2F,01/04/07,Vênus-PA,4-2,Castanhal
+2F,01/04/07,Águia,2-3,Remo
+2F,01/04/07,Abaeté,3-2,Bragantino-PA
+2F,01/04/07,Tuna Luso,1-1,Pedreira-PA
+2F,04/04/07,Ananindeua,2-1,Bragantino-PA
+2F,04/04/07,Pedreira-PA,0-4,Águia
+2F,07/04/07,Pedreira-PA,1-1,Vênus-PA
+2F,08/04/07,Bragantino-PA,1-3,Remo
+2F,08/04/07,Águia,2-1,Abaeté
+2F,09/04/07,Ananindeua,1-1,Tuna Luso
+2F,09/04/07,Paysandu,3-2,Castanhal
+2F,14/04/07,Remo,2-2,Ananindeua
+2F,15/04/07,Paysandu,2-1,Bragantino-PA
+2F,15/04/07,Castanhal,3-0,Águia
+2F,15/04/07,Tuna Luso,3-3,Vênus-PA
+2F,15/04/07,Abaeté,3-1,Pedreira-PA
+SF,18/04/07,Remo,1-0,Abaeté
+SF,19/04/07,Ananindeua,1-6,Paysandu
+F,22/04/07,Remo,2-0,Paysandu
+F,29/04/07,Remo,4-1,Tuna Luso
+F,06/05/07,Tuna Luso,1-1,Remo
+1F,02/12/07,Vila Rica,1-1,Bragantino-PA
+1F,03/12/07,Tiradentes-PA,1-0,Tuna Luso
+1F,03/12/07,São Raimundo-PA,1-0,Sport Belém
+1F,03/12/07,Águia,2-0,Pedreira-PA
+1F,03/12/07,Abaeté,0-0,Vênus-PA
+1F,05/12/07,São Raimundo-PA,1-0,Tiradentes-PA
+1F,06/12/07,Sport Belém,4-1,Abaeté
+1F,06/12/07,Bragantino-PA,2-1,Pedreira-PA
+1F,06/12/07,Vila Rica,0-0,Águia
+1F,06/12/07,Vênus-PA,0-0,Tuna Luso
+1F,09/12/07,São Raimundo-PA,1-0,Águia
+1F,09/12/07,Pedreira-PA,0-1,Vila Rica
+1F,09/12/07,Vênus-PA,1-0,Sport Belém
+1F,10/12/07,Tuna Luso,2-1,Bragantino-PA
+1F,10/12/07,Abaeté,2-1,Tiradentes-PA
+1F,13/12/07,Pedreira-PA,2-0,Tuna Luso
+1F,13/12/07,Bragantino-PA,1-1,Tiradentes-PA
+1F,13/12/07,Sport Belém,2-1,Águia
+1F,13/12/07,Abaeté,2-0,São Raimundo-PA
+1F,14/12/07,Vila Rica,0-0,Vênus-PA
+1F,17/12/07,Vila Rica,2-5,Tuna Luso
+1F,17/12/07,Pedreira-PA,2-0,São Raimundo-PA
+1F,17/12/07,Tiradentes-PA,1-0,Sport Belém
+1F,17/12/07,Vênus-PA,0-2,Bragantino-PA
+1F,17/12/07,Águia,2-2,Abaeté
+1F,20/12/07,Tiradentes-PA,1-1,Vênus-PA
+1F,20/12/07,Tuna Luso,1-0,São Raimundo-PA
+1F,20/12/07,Sport Belém,0-1,Pedreira-PA
+1F,20/12/07,Abaeté,4-0,Vila Rica
+1F,20/12/07,Águia,0-1,Bragantino-PA
+1F,23/12/07,Tuna Luso,1-0,Abaeté
+1F,23/12/07,Vênus-PA,1-1,Águia
+1F,23/12/07,Pedreira-PA,2-1,Tiradentes-PA
+1F,23/12/07,São Raimundo-PA,0-3,Bragantino-PA
+1F,23/12/07,Sport Belém,1-0,Vila Rica

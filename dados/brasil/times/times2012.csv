@@ -1,0 +1,103 @@
+time,região,serie
+0-0,OUTRO,B
+0-1,OUTRO,B
+1-0,OUTRO,B
+1-3,OUTRO,B
+2-2,OUTRO,B
+ABC,RN,B
+ASA,AL,B
+América Mineiro,MG,B
+América-MG,MG,B
+América-RN,RN,B
+Aparecidense,GO,D
+Aracruz,ES,D
+Araguaína,TO,D
+Arapongas,SP,D
+Athletico-PR,PR,B
+Atlético Paranaense,PR,B
+Atlético-AC,AC,D
+Atlético-GO,GO,A
+Atlético-MG,MG,A
+Avaí,SC,B
+Bahia,BA,A
+Baraúnas,RN,C
+Boa Esporte,MG,B
+Botafogo,RJ,A
+Bragantino,SP,B
+Brasiliense,DF,C
+CENE,MT,D
+CRAC,GO,C
+CRB,AL,B
+CSA,AL,D
+Campinense,PB,D
+Caxias,RS,C
+Ceará,CE,B
+Ceilândia,DF,D
+Cerâmica,SP,D
+Cianorte,PR,D
+Comercial-PI,PI,D
+Concórdia,SC,D
+Corinthians,SP,A
+Coritiba,PR,A
+Criciúma,SC,B
+Cruzeiro,MG,A
+Cuiabá,MT,C
+Duque de Caxias,RJ,C
+EC Vitória,OUTRO,B
+Feirense,BA,D
+Figueirense,SC,A
+Flamengo,RJ,A
+Fluminense,RJ,A
+Fortaleza,CE,C
+Friburguense,RJ,D
+GE Brasil,RS,D
+Goiás,GO,B
+Grêmio,RS,A
+Grêmio Barueri,SP,B
+Guarani,SP,B
+Guarani-MG,MG,D
+Guaratinguetá,SP,B
+Horizonte,CE,D
+Internacional,RS,A
+Ipatinga,MG,B
+Itabaiana,SE,D
+Joinville,SC,B
+Juventude,RS,D
+Luverdense,MT,C
+Macaé,RJ,C
+Madureira,RJ,C
+Marília,SP,D
+Metropolitano,SC,D
+Mirassol,SP,D
+Mixto,MT,D
+Mogi Mirim,SP,C
+Nacional N. Serrana,SC,D
+Nautico,OUTRO,A
+Náutico-RR,RR,D
+Palmeiras,SP,A
+Paraná,PR,B
+Penarol-AM,AM,D
+Petrolina,PE,D
+Ponte Preta,SP,A
+Portuguesa,SP,A
+Remo,PA,D
+Rio Branco-AC,AC,C
+Sampaio Corrêa,MA,C
+Santa Cruz,PE,C
+Santos,SP,A
+Santos-AP,AP,D
+Sobradinho,DF,D
+Sousa,PB,D
+Sport,PE,A
+São Caetano,SP,B
+São Paulo,SP,A
+Treze,PB,C
+Vasco,RJ,A
+Vila Nova,GO,C
+Vilhena,RO,D
+Vitória,BA,B
+Vitória da Conquista,BA,D
+Volta Redonda,RJ,D
+Ypiranga-PE,PE,D
+,OUTRO,B
+Águia,PA,C

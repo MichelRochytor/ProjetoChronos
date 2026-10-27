@@ -1,0 +1,121 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+,03/02/01,Carajás,1-0,Bragantino-PA
+,03/02/01,São Francisco-PA,1-1,Santa Rosa
+,03/02/01,Vênus-PA,1-3,Tiradentes-PA
+,04/02/01,Sport Belém,0-0,Pedreira-PA
+,07/02/01,Santa Rosa,0-2,Pedreira-PA
+,07/02/01,Bragantino-PA,2-1,São Francisco-PA
+,07/02/01,Tiradentes-PA,2-2,Carajás
+,08/02/01,Vênus-PA,2-1,Sport Belém
+,10/02/01,São Francisco-PA,1-1,Tiradentes-PA
+,10/02/01,Santa Rosa,0-2,Carajás
+,11/02/01,Sport Belém,1-2,Bragantino-PA
+,11/02/01,Pedreira-PA,2-0,Vênus-PA
+,13/02/01,Santa Rosa,1-2,Tiradentes-PA
+,14/02/01,Carajás,2-1,Sport Belém
+,14/02/01,Pedreira-PA,1-0,São Francisco-PA
+,14/02/01,Vênus-PA,1-0,Bragantino-PA
+,17/02/01,Carajás,2-1,Vênus-PA
+,17/02/01,São Francisco-PA,2-3,Sport Belém
+,17/02/01,Tiradentes-PA,0-2,Pedreira-PA
+,17/02/01,Bragantino-PA,5-0,Santa Rosa
+,20/02/01,Sport Belém,5-2,Santa Rosa
+,20/02/01,São Francisco-PA,2-1,Vênus-PA
+,20/02/01,Pedreira-PA,2-0,Carajás
+,20/02/01,Tiradentes-PA,3-1,Bragantino-PA
+,23/02/01,Sport Belém,0-2,Tiradentes-PA
+,23/02/01,Bragantino-PA,2-1,Pedreira-PA
+,23/02/01,Vênus-PA,7-2,Santa Rosa
+,23/02/01,Carajás,5-0,São Francisco-PA
+1F,17/03/01,Castanhal,1-2,Tiradentes-PA
+1F,17/03/01,Águia,2-2,Carajás
+1F,17/03/01,São Raimundo-PA,0-3,Tuna Luso
+1F,17/03/01,Remo,4-2,Bragantino-PA
+1F,24/03/01,Pedreira-PA,3-2,Bragantino-PA
+1F,24/03/01,Tiradentes-PA,1-2,Remo
+1F,24/03/01,São Raimundo-PA,3-2,Castanhal
+1F,24/03/01,Carajás,1-3,Paysandu
+1F,29/03/01,Paysandu,1-0,Pedreira-PA
+1F,01/04/01,Bragantino-PA,1-1,Tiradentes-PA
+1F,01/04/01,Águia,0-0,Pedreira-PA
+1F,01/04/01,Remo,2-1,Tuna Luso
+1F,01/04/01,São Raimundo-PA,0-6,Paysandu
+1F,08/04/01,Bragantino-PA,0-1,Tuna Luso
+1F,08/04/01,Pedreira-PA,0-2,Tiradentes-PA
+1F,08/04/01,Castanhal,2-2,Remo
+1F,08/04/01,São Raimundo-PA,1-1,Carajás
+1F,09/04/01,Paysandu,3-0,Águia
+1F,12/04/01,Tuna Luso,3-2,Águia
+1F,14/04/01,Pedreira-PA,1-1,Tuna Luso
+1F,15/04/01,Bragantino-PA,0-1,São Raimundo-PA
+1F,15/04/01,Águia,0-1,Remo
+1F,15/04/01,Tiradentes-PA,1-0,Carajás
+1F,15/04/01,Paysandu,2-0,Castanhal
+1F,18/04/01,Carajás,2-2,Castanhal
+1F,22/04/01,Bragantino-PA,2-2,Castanhal
+1F,22/04/01,Tuna Luso,2-5,Paysandu
+1F,22/04/01,Remo,5-2,Carajás
+1F,22/04/01,Pedreira-PA,2-0,São Raimundo-PA
+1F,22/04/01,Tiradentes-PA,2-2,Águia
+1F,28/04/01,Tuna Luso,5-1,Carajás
+1F,28/04/01,Castanhal,2-1,Águia
+1F,29/04/01,Bragantino-PA,0-1,Paysandu
+1F,29/04/01,Tiradentes-PA,0-0,São Raimundo-PA
+1F,29/04/01,Remo,2-0,Pedreira-PA
+1F,01/05/01,Castanhal,2-2,Tuna Luso
+1F,02/05/01,Carajás,1-2,Pedreira-PA
+1F,02/05/01,Bragantino-PA,1-2,Águia
+1F,02/05/01,Remo,2-2,São Raimundo-PA
+1F,03/05/01,Tiradentes-PA,1-3,Paysandu
+1F,06/05/01,Tuna Luso,3-1,Tiradentes-PA
+1F,06/05/01,Carajás,2-1,Bragantino-PA
+1F,06/05/01,Pedreira-PA,1-1,Castanhal
+1F,06/05/01,Paysandu,1-1,Remo
+1F,06/05/01,Águia,1-0,São Raimundo-PA
+2F,12/05/01,Tuna Luso,3-1,Bragantino-PA
+2F,12/05/01,Tiradentes-PA,1-1,Pedreira-PA
+2F,13/05/01,Águia,2-1,Castanhal
+2F,13/05/01,Paysandu,2-0,São Raimundo-PA
+2F,13/05/01,Carajás,1-3,Remo
+2F,16/05/01,Bragantino-PA,4-2,São Raimundo-PA
+2F,16/05/01,Águia,1-1,Tiradentes-PA
+2F,16/05/01,Castanhal,3-0,Paysandu
+2F,17/05/01,Carajás,1-2,Tuna Luso
+2F,17/05/01,Pedreira-PA,0-1,Remo
+2F,19/05/01,Castanhal,1-1,São Raimundo-PA
+2F,20/05/01,Carajás,1-1,Tiradentes-PA
+2F,20/05/01,Bragantino-PA,1-1,Pedreira-PA
+2F,20/05/01,Paysandu,4-0,Tuna Luso
+2F,21/05/01,Remo,1-1,Águia
+2F,23/05/01,Carajás,1-0,São Raimundo-PA
+2F,23/05/01,Paysandu,0-1,Tiradentes-PA
+2F,24/05/01,Tuna Luso,1-1,Castanhal
+2F,24/05/01,Pedreira-PA,1-0,Águia
+2F,24/05/01,Bragantino-PA,0-3,Remo
+2F,26/05/01,Tuna Luso,0-1,São Raimundo-PA
+2F,27/05/01,Carajás,3-0,Águia
+2F,27/05/01,Tiradentes-PA,2-1,Bragantino-PA
+2F,28/05/01,Remo,6-1,Castanhal
+2F,29/05/01,Pedreira-PA,1-1,Paysandu
+2F,30/05/01,São Raimundo-PA,1-1,Águia
+2F,02/06/01,Tiradentes-PA,1-0,Castanhal
+2F,02/06/01,Tuna Luso,1-1,Remo
+2F,04/06/01,Paysandu,1-0,Bragantino-PA
+2F,06/06/01,Pedreira-PA,1-2,Carajás
+2F,10/06/01,Bragantino-PA,4-2,Carajás
+2F,10/06/01,Castanhal,1-2,Pedreira-PA
+2F,10/06/01,Águia,0-3,Paysandu
+2F,10/06/01,São Raimundo-PA,0-3,Remo
+2F,11/06/01,Tiradentes-PA,5-4,Tuna Luso
+2F,14/06/01,Paysandu,5-0,Carajás
+2F,16/06/01,Castanhal,1-3,Bragantino-PA
+2F,16/06/01,Águia,1-0,Tuna Luso
+2F,17/06/01,Remo,4-1,Tiradentes-PA
+2F,17/06/01,São Raimundo-PA,4-2,Pedreira-PA
+2F,19/06/01,Águia,4-1,Bragantino-PA
+2F,20/06/01,Tuna Luso,1-0,Pedreira-PA
+2F,23/06/01,Castanhal,0-1,Carajás
+2F,24/06/01,Remo,1-1,Paysandu
+2F,24/06/01,São Raimundo-PA,1-4,Tiradentes-PA
+F,30/06/01,Paysandu,4-0,Remo
+F,04/07/01,Remo,0-0,Paysandu

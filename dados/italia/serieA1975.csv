@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,04/10/75,Ascoli,1-0,Fiorentina
+1,04/10/75,Bologna,1-0,Torino
+1,04/10/75,Internazionale,0-0,AC Cesena
+1,04/10/75,Juventus,2-1,Hellas Verona
+1,04/10/75,Napoli,1-0,Como 1907
+1,04/10/75,Perugia,0-0,AC Milan
+1,04/10/75,Roma,1-1,Cagliari
+1,04/10/75,Sampdoria,0-1,Lazio
+2,11/10/75,Cagliari,0-0,Ascoli
+2,11/10/75,AC Cesena,2-0,Roma
+2,11/10/75,Como 1907,2-2,Juventus
+2,11/10/75,Fiorentina,1-1,Napoli
+2,11/10/75,Hellas Verona,1-0,Bologna
+2,11/10/75,Lazio,1-1,Internazionale
+2,11/10/75,AC Milan,1-0,Sampdoria
+2,11/10/75,Torino,3-0,Perugia
+3,18/10/75,Ascoli,1-1,Torino
+3,18/10/75,Bologna,1-1,AC Milan
+3,18/10/75,Internazionale,1-0,Cagliari
+3,18/10/75,Juventus,4-2,Fiorentina
+3,18/10/75,Napoli,2-0,AC Cesena
+3,18/10/75,Perugia,2-0,Lazio
+3,18/10/75,Roma,2-0,Hellas Verona
+3,18/10/75,Sampdoria,1-0,Como 1907
+4,01/11/75,Cagliari,0-1,Juventus
+4,01/11/75,AC Cesena,1-1,Sampdoria
+4,01/11/75,Como 1907,0-0,Roma
+4,01/11/75,Fiorentina,3-1,Perugia
+4,01/11/75,Hellas Verona,2-4,Napoli
+4,01/11/75,Lazio,1-1,Bologna
+4,01/11/75,AC Milan,4-0,Ascoli
+4,01/11/75,Torino,2-1,Internazionale
+5,08/11/75,Ascoli,0-0,AC Cesena
+5,08/11/75,Bologna,1-1,Fiorentina
+5,08/11/75,Internazionale,3-0,Hellas Verona
+5,08/11/75,Juventus,2-0,Lazio
+5,08/11/75,Napoli,3-1,Cagliari
+5,08/11/75,Perugia,2-0,Como 1907
+5,08/11/75,Roma,0-0,AC Milan
+5,08/11/75,Sampdoria,0-0,Torino
+6,15/11/75,Cagliari,1-2,Bologna
+6,15/11/75,AC Cesena,2-1,Perugia
+6,15/11/75,Como 1907,3-0,Internazionale
+6,15/11/75,Fiorentina,0-1,Sampdoria
+6,15/11/75,Hellas Verona,1-0,Ascoli
+6,15/11/75,Lazio,1-1,Roma
+6,15/11/75,AC Milan,0-1,Juventus
+6,15/11/75,Torino,3-1,Napoli
+7,29/11/75,Ascoli,2-1,Lazio
+7,29/11/75,Bologna,1-1,Como 1907
+7,29/11/75,Cagliari,0-0,Perugia
+7,29/11/75,Hellas Verona,4-1,Sampdoria
+7,29/11/75,Internazionale,1-0,Fiorentina
+7,29/11/75,Juventus,3-3,AC Cesena
+7,29/11/75,Napoli,1-0,AC Milan
+7,29/11/75,Roma,1-1,Torino
+8,06/12/75,AC Cesena,0-0,Bologna
+8,06/12/75,Como 1907,0-0,Ascoli
+8,06/12/75,Fiorentina,2-0,Roma
+8,06/12/75,Lazio,0-1,Napoli
+8,06/12/75,AC Milan,2-1,Internazionale
+8,06/12/75,Perugia,1-0,Hellas Verona
+8,06/12/75,Sampdoria,2-1,Cagliari
+8,06/12/75,Torino,2-0,Juventus
+9,13/12/75,Bologna,1-1,Perugia
+9,13/12/75,Cagliari,1-2,AC Cesena
+9,13/12/75,Como 1907,0-1,Fiorentina
+9,13/12/75,Hellas Verona,2-2,Lazio
+9,13/12/75,Juventus,2-0,Internazionale
+9,13/12/75,AC Milan,1-2,Torino
+9,13/12/75,Napoli,0-0,Ascoli
+9,13/12/75,Roma,1-0,Sampdoria
+10,20/12/75,Ascoli,0-3,Juventus
+10,20/12/75,AC Cesena,3-0,Hellas Verona
+10,20/12/75,Fiorentina,0-1,AC Milan
+10,20/12/75,Internazionale,2-1,Napoli
+10,20/12/75,Lazio,3-0,Cagliari
+10,20/12/75,Perugia,0-1,Roma
+10,20/12/75,Sampdoria,0-1,Bologna
+10,20/12/75,Torino,1-0,Como 1907
+11,29/12/75,Bologna,2-1,Roma
+11,29/12/75,Como 1907,1-4,AC Milan
+11,29/12/75,Fiorentina,0-1,Torino
+11,29/12/75,Hellas Verona,2-1,Cagliari
+11,29/12/75,Internazionale,3-0,Ascoli
+11,29/12/75,Juventus,2-1,Napoli
+11,29/12/75,Lazio,2-2,AC Cesena
+11,29/12/75,Perugia,0-0,Sampdoria
+12,11/01/76,Ascoli,1-2,Perugia
+12,11/01/76,Cagliari,1-0,Como 1907
+12,11/01/76,AC Cesena,1-1,Fiorentina
+12,11/01/76,AC Milan,1-0,Hellas Verona
+12,11/01/76,Napoli,2-2,Bologna
+12,11/01/76,Roma,0-1,Juventus
+12,11/01/76,Sampdoria,DA,Internazionale
+12,11/01/76,Torino,2-1,Lazio
+13,17/01/76,Ascoli,1-1,Sampdoria
+13,17/01/76,Cagliari,0-0,Torino
+13,17/01/76,AC Cesena,2-1,AC Milan
+13,17/01/76,Hellas Verona,3-2,Como 1907
+13,17/01/76,Internazionale,2-2,Perugia
+13,17/01/76,Juventus,1-0,Bologna
+13,17/01/76,Lazio,1-2,Fiorentina
+13,17/01/76,Napoli,2-1,Roma
+14,24/01/76,Bologna,1-1,Ascoli
+14,24/01/76,Como 1907,0-0,AC Cesena
+14,24/01/76,Fiorentina,3-0,Cagliari
+14,24/01/76,AC Milan,3-0,Lazio
+14,24/01/76,Perugia,2-2,Napoli
+14,24/01/76,Roma,1-1,Internazionale
+14,24/01/76,Sampdoria,0-2,Juventus
+14,24/01/76,Torino,4-2,Hellas Verona
+15,01/02/76,Ascoli,0-0,Roma
+15,01/02/76,Cagliari,1-3,AC Milan
+15,01/02/76,AC Cesena,1-1,Torino
+15,01/02/76,Hellas Verona,1-2,Fiorentina
+15,01/02/76,Internazionale,1-1,Bologna
+15,01/02/76,Juventus,1-0,Perugia
+15,01/02/76,Lazio,3-2,Como 1907
+15,01/02/76,Napoli,0-0,Sampdoria
+16,08/02/76,Cagliari,1-5,Roma
+16,08/02/76,AC Cesena,2-3,Internazionale
+16,08/02/76,Como 1907,0-1,Napoli
+16,08/02/76,Fiorentina,0-0,Ascoli
+16,08/02/76,Hellas Verona,1-2,Juventus
+16,08/02/76,Lazio,1-1,Sampdoria
+16,08/02/76,AC Milan,0-0,Perugia
+16,08/02/76,Torino,3-1,Bologna
+17,14/02/76,Ascoli,1-1,Cagliari
+17,14/02/76,Bologna,0-0,Hellas Verona
+17,14/02/76,Internazionale,1-0,Lazio
+17,14/02/76,Juventus,1-1,Como 1907
+17,14/02/76,Napoli,1-2,Fiorentina
+17,14/02/76,Perugia,2-1,Torino
+17,14/02/76,Roma,2-2,AC Cesena
+17,14/02/76,Sampdoria,0-1,AC Milan
+18,21/02/76,Cagliari,0-0,Internazionale
+18,21/02/76,AC Cesena,0-1,Napoli
+18,21/02/76,Como 1907,0-0,Sampdoria
+18,21/02/76,Fiorentina,1-1,Juventus
+18,21/02/76,Hellas Verona,0-1,Roma
+18,21/02/76,Lazio,1-0,Perugia
+18,21/02/76,AC Milan,3-1,Bologna
+18,21/02/76,Torino,3-1,Ascoli
+19,27/02/76,Ascoli,0-1,AC Milan
+19,27/02/76,Bologna,1-0,Lazio
+19,27/02/76,Internazionale,1-0,Torino
+19,27/02/76,Juventus,1-0,Cagliari
+19,27/02/76,Napoli,0-1,Hellas Verona
+19,27/02/76,Perugia,2-1,Fiorentina
+19,27/02/76,Roma,2-1,Como 1907
+19,27/02/76,Sampdoria,0-1,AC Cesena
+20,06/03/76,Cagliari,1-1,Napoli
+20,06/03/76,AC Cesena,3-1,Ascoli
+20,06/03/76,Como 1907,0-0,Perugia
+20,06/03/76,Fiorentina,1-2,Bologna
+20,06/03/76,Hellas Verona,1-1,Internazionale
+20,06/03/76,Lazio,1-2,Juventus
+20,06/03/76,AC Milan,1-0,Roma
+20,06/03/76,Torino,2-0,Sampdoria
+21,13/03/76,Ascoli,2-0,Hellas Verona
+21,13/03/76,Bologna,0-0,Cagliari
+21,13/03/76,Internazionale,2-1,Como 1907
+21,13/03/76,Juventus,1-1,AC Milan
+21,13/03/76,Napoli,0-0,Torino
+21,13/03/76,Perugia,1-0,AC Cesena
+21,13/03/76,Roma,0-0,Lazio
+21,13/03/76,Sampdoria,0-0,Fiorentina
+22,20/03/76,AC Cesena,2-1,Juventus
+22,20/03/76,Como 1907,2-1,Bologna
+22,20/03/76,Fiorentina,0-0,Internazionale
+22,20/03/76,Lazio,3-1,Ascoli
+22,20/03/76,AC Milan,1-1,Napoli
+22,20/03/76,Perugia,4-1,Cagliari
+22,20/03/76,Sampdoria,2-0,Hellas Verona
+22,20/03/76,Torino,1-0,Roma
+23,27/03/76,Ascoli,1-1,Como 1907
+23,27/03/76,Bologna,5-3,AC Cesena
+23,27/03/76,Cagliari,5-3,Sampdoria
+23,27/03/76,Hellas Verona,3-1,Perugia
+23,27/03/76,Internazionale,0-1,AC Milan
+23,27/03/76,Juventus,DA,Torino
+23,27/03/76,Napoli,1-0,Lazio
+23,27/03/76,Roma,2-2,Fiorentina
+24,03/04/76,Ascoli,0-0,Napoli
+24,03/04/76,AC Cesena,0-0,Cagliari
+24,03/04/76,Fiorentina,DA,Como 1907
+24,03/04/76,Internazionale,1-0,Juventus
+24,03/04/76,Lazio,1-1,Hellas Verona
+24,03/04/76,Perugia,1-1,Bologna
+24,03/04/76,Sampdoria,1-0,Roma
+24,03/04/76,Torino,2-1,AC Milan
+25,10/04/76,Bologna,1-0,Sampdoria
+25,10/04/76,Cagliari,2-1,Lazio
+25,10/04/76,Como 1907,0-1,Torino
+25,10/04/76,Hellas Verona,2-2,AC Cesena
+25,10/04/76,Juventus,2-1,Ascoli
+25,10/04/76,AC Milan,2-1,Fiorentina
+25,10/04/76,Napoli,3-1,Internazionale
+25,10/04/76,Roma,1-2,Perugia
+26,17/04/76,Ascoli,2-0,Internazionale
+26,17/04/76,Cagliari,0-2,Hellas Verona
+26,17/04/76,AC Cesena,0-0,Lazio
+26,17/04/76,AC Milan,2-2,Como 1907
+26,17/04/76,Napoli,1-1,Juventus
+26,17/04/76,Roma,0-0,Bologna
+26,17/04/76,Sampdoria,3-1,Perugia
+26,17/04/76,Torino,4-3,Fiorentina
+27,24/04/76,Bologna,2-0,Napoli
+27,24/04/76,Como 1907,3-0,Cagliari
+27,24/04/76,Fiorentina,3-1,AC Cesena
+27,24/04/76,Hellas Verona,2-2,AC Milan
+27,24/04/76,Internazionale,2-1,Sampdoria
+27,24/04/76,Juventus,1-1,Roma
+27,24/04/76,Lazio,1-1,Torino
+27,24/04/76,Perugia,1-1,Ascoli
+28,01/05/76,Bologna,1-4,Juventus
+28,01/05/76,Como 1907,2-1,Hellas Verona
+28,01/05/76,Fiorentina,4-3,Lazio
+28,01/05/76,AC Milan,2-1,AC Cesena
+28,01/05/76,Perugia,1-1,Internazionale
+28,01/05/76,Roma,0-3,Napoli
+28,01/05/76,Sampdoria,1-0,Ascoli
+28,01/05/76,Torino,5-1,Cagliari
+29,08/05/76,Ascoli,0-0,Bologna
+29,08/05/76,Cagliari,2-1,Fiorentina
+29,08/05/76,AC Cesena,2-0,Como 1907
+29,08/05/76,Hellas Verona,0-0,Torino
+29,08/05/76,Internazionale,2-0,Roma
+29,08/05/76,Juventus,2-0,Sampdoria
+29,08/05/76,Lazio,4-0,AC Milan
+29,08/05/76,Napoli,4-0,Perugia
+30,15/05/76,Bologna,1-2,Internazionale
+30,15/05/76,Como 1907,2-2,Lazio
+30,15/05/76,Fiorentina,2-2,Hellas Verona
+30,15/05/76,AC Milan,2-3,Cagliari
+30,15/05/76,Perugia,1-0,Juventus
+30,15/05/76,Roma,1-1,Ascoli
+30,15/05/76,Sampdoria,2-1,Napoli
+30,15/05/76,Torino,1-1,AC Cesena

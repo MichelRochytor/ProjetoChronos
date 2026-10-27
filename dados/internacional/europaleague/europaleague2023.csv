@@ -1,0 +1,142 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+E,21/09/23,Union St. Gilloise,1-1,Toulouse
+E,21/09/23,LASK Linz,1-3,Liverpool
+F,21/09/23,Panathinaikos,2-0,Villarreal CF
+F,21/09/23,Rennes,3-0,Maccabi Haifa
+G,21/09/23,Servette,0-2,Slavia Praha
+G,21/09/23,Sheriff,1-2,Roma
+H,21/09/23,Qarabag,1-0,Molde
+H,21/09/23,Bayer Leverkusen,4-0,BK Hacken
+A,21/09/23,Olympiacos,2-3,SC Freiburg
+A,21/09/23,West Ham,3-1,TSC Backa Topola
+B,21/09/23,Brighton & Hove Albion,2-3,AEK
+B,21/09/23,Ajax,3-3,Marseille
+C,21/09/23,Rangers,1-0,Real Betis
+C,21/09/23,Sparta Praha,3-2,Aris Limassol
+D,21/09/23,Sturm Graz,1-2,Sporting
+D,21/09/23,Atalanta,2-0,RKS Raków
+A,05/10/23,TSC Backa Topola,2-2,Olympiacos
+A,05/10/23,SC Freiburg,1-2,West Ham
+B,05/10/23,AEK,1-1,Ajax
+B,05/10/23,Marseille,2-2,Brighton & Hove Albion
+C,05/10/23,Aris Limassol,2-1,Rangers
+C,05/10/23,Real Betis,2-1,Sparta Praha
+D,05/10/23,RKS Raków,0-1,Sturm Graz
+D,05/10/23,Sporting,1-2,Atalanta
+E,05/10/23,Toulouse,1-0,LASK Linz
+E,05/10/23,Liverpool,2-0,Union St. Gilloise
+F,05/10/23,Maccabi Haifa,0-0,Panathinaikos
+F,05/10/23,Villarreal CF,1-0,Rennes
+G,05/10/23,Slavia Praha,6-0,Sheriff
+G,05/10/23,Roma,4-0,Servette
+H,05/10/23,BK Hacken,0-1,Qarabag
+H,05/10/23,Molde,1-2,Bayer Leverkusen
+A,26/10/23,TSC Backa Topola,1-3,SC Freiburg
+A,26/10/23,Olympiacos,2-1,West Ham
+B,26/10/23,Marseille,3-1,AEK
+C,26/10/23,Aris Limassol,0-1,Real Betis
+C,26/10/23,Sparta Praha,0-0,Rangers
+D,26/10/23,Sturm Graz,2-2,Atalanta
+D,26/10/23,RKS Raków,1-1,Sporting
+H,26/10/23,Molde,5-1,BK Hacken
+B,26/10/23,Brighton & Hove Albion,2-0,Ajax
+E,26/10/23,Liverpool,5-1,Toulouse
+E,26/10/23,Union St. Gilloise,2-1,LASK Linz
+F,26/10/23,Panathinaikos,1-2,Rennes
+G,26/10/23,Sheriff,1-1,Servette
+G,26/10/23,Roma,2-0,Slavia Praha
+H,26/10/23,Bayer Leverkusen,5-1,Qarabag
+B,09/11/23,Ajax,0-2,Brighton & Hove Albion
+E,09/11/23,Toulouse,3-2,Liverpool
+E,09/11/23,LASK Linz,3-0,Union St. Gilloise
+F,09/11/23,Maccabi Haifa,1-2,Villarreal CF
+F,09/11/23,Rennes,3-1,Panathinaikos
+G,09/11/23,Slavia Praha,2-0,Roma
+G,09/11/23,Servette,2-1,Sheriff
+H,09/11/23,Qarabag,0-1,Bayer Leverkusen
+A,09/11/23,West Ham,1-0,Olympiacos
+A,09/11/23,SC Freiburg,5-0,TSC Backa Topola
+B,09/11/23,AEK,0-2,Marseille
+C,09/11/23,Rangers,2-1,Sparta Praha
+C,09/11/23,Real Betis,4-1,Aris Limassol
+D,09/11/23,Sporting,2-1,RKS Raków
+D,09/11/23,Atalanta,1-0,Sturm Graz
+H,09/11/23,BK Hacken,1-3,Molde
+A,30/11/23,TSC Backa Topola,0-1,West Ham
+A,30/11/23,SC Freiburg,5-0,Olympiacos
+B,30/11/23,AEK,0-1,Brighton & Hove Albion
+C,30/11/23,Sparta Praha,1-0,Real Betis
+D,30/11/23,Sturm Graz,0-1,RKS Raków
+D,30/11/23,Atalanta,1-1,Sporting
+F,30/11/23,Maccabi Haifa,0-3,Rennes
+B,30/11/23,Marseille,4-3,Ajax
+C,30/11/23,Rangers,1-1,Aris Limassol
+E,30/11/23,Liverpool,4-0,LASK Linz
+E,30/11/23,Toulouse,0-0,Union St. Gilloise
+F,30/11/23,Villarreal CF,3-2,Panathinaikos
+G,30/11/23,Sheriff,2-3,Slavia Praha
+G,30/11/23,Servette,1-1,Roma
+H,30/11/23,BK Hacken,0-2,Bayer Leverkusen
+H,30/11/23,Molde,2-2,Qarabag
+F,06/12/23,Villarreal CF,0-0,Maccabi Haifa
+E,14/12/23,LASK Linz,1-2,Toulouse
+E,14/12/23,Union St. Gilloise,2-1,Liverpool
+F,14/12/23,Panathinaikos,1-2,Maccabi Haifa
+F,14/12/23,Rennes,2-3,Villarreal CF
+G,14/12/23,Slavia Praha,4-0,Servette
+G,14/12/23,Roma,3-0,Sheriff
+H,14/12/23,Qarabag,2-1,BK Hacken
+H,14/12/23,Bayer Leverkusen,5-1,Molde
+A,14/12/23,Olympiacos,5-2,TSC Backa Topola
+A,14/12/23,West Ham,2-0,SC Freiburg
+B,14/12/23,Brighton & Hove Albion,1-0,Marseille
+B,14/12/23,Ajax,3-1,AEK
+C,14/12/23,Aris Limassol,1-3,Sparta Praha
+C,14/12/23,Real Betis,2-3,Rangers
+D,14/12/23,RKS Raków,0-4,Atalanta
+D,14/12/23,Sporting,3-0,Sturm Graz
+POff,15/02/24,Feyenoord,1-1,Roma
+POff,15/02/24,Young Boys,1-3,Sporting
+POff,15/02/24,Shakhtar Donetsk,2-2,Marseille
+POff,15/02/24,Galatasaray,3-2,Sparta Praha
+POff,15/02/24,AC Milan,3-0,Rennes
+POff,15/02/24,Lens,0-0,SC Freiburg
+POff,15/02/24,Benfica,2-1,Toulouse
+POff,15/02/24,SC Braga,2-4,Qarabag
+POff,22/02/24,Rennes,3-2,AC Milan
+POff,22/02/24,SC Freiburg,3-2(Pro.),Lens
+POff,22/02/24,Toulouse,0-0,Benfica
+POff,22/02/24,Qarabag,2-3(Pro.),SC Braga
+POff,22/02/24,Roma,1-1(4-2 Pen.),Feyenoord
+POff,22/02/24,Sporting,1-1,Young Boys
+POff,22/02/24,Marseille,3-1,Shakhtar Donetsk
+POff,22/02/24,Sparta Praha,4-1,Galatasaray
+1/8,06/03/24,Sporting,1-1,Atalanta
+1/8,07/03/24,Roma,4-0,Brighton & Hove Albion
+1/8,07/03/24,Sparta Praha,1-5,Liverpool
+1/8,07/03/24,Qarabag,2-2,Bayer Leverkusen
+1/8,07/03/24,Benfica,2-2,Rangers
+1/8,07/03/24,SC Freiburg,1-0,West Ham
+1/8,07/03/24,AC Milan,4-2,Slavia Praha
+1/8,07/03/24,Marseille,4-0,Villarreal CF
+1/8,14/03/24,Rangers,0-1,Benfica
+1/8,14/03/24,West Ham,5-0,SC Freiburg
+1/8,14/03/24,Slavia Praha,1-3,AC Milan
+1/8,14/03/24,Villarreal CF,3-1,Marseille
+1/8,14/03/24,Atalanta,2-1,Sporting
+1/8,14/03/24,Brighton & Hove Albion,1-0,Roma
+1/8,14/03/24,Liverpool,6-1,Sparta Praha
+1/8,14/03/24,Bayer Leverkusen,3-2,Qarabag
+QF,11/04/24,AC Milan,0-1,Roma
+QF,11/04/24,Liverpool,0-3,Atalanta
+QF,11/04/24,Bayer Leverkusen,2-0,West Ham
+QF,11/04/24,Benfica,2-1,Marseille
+QF,18/04/24,Roma,2-1,AC Milan
+QF,18/04/24,Atalanta,0-1,Liverpool
+QF,18/04/24,West Ham,1-1,Bayer Leverkusen
+QF,18/04/24,Marseille,1-0(4-2 Pen.),Benfica
+SF,02/05/24,Marseille,1-1,Atalanta
+SF,02/05/24,Roma,0-2,Bayer Leverkusen
+SF,09/05/24,Atalanta,3-0,Marseille
+SF,09/05/24,Bayer Leverkusen,2-2,Roma
+F,22/05/24,Atalanta,3-0,Bayer Leverkusen

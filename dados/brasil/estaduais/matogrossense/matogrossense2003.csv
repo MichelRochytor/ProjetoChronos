@@ -1,0 +1,73 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,08/02/03,Sinop,2-1,Cuiabá
+A,09/02/03,Santa Cruz-MT,1-2,Operário-MT
+A,09/02/03,Dom Bosco,4-1,Mixto
+B,09/02/03,Nova Xavantina,2-0,Juventude-MT
+B,09/02/03,Barra,4-0,Grêmio Jaciara
+A,15/02/03,Operário-MT,0-3,Sinop
+A,15/02/03,Cuiabá,2-1,Dom Bosco
+A,16/02/03,Santa Cruz-MT,3-2,Mixto
+B,16/02/03,União Rondonópolis,2-0,Vila Aurora
+B,16/02/03,Juventude-MT,1-1,Barra
+A,22/02/03,Mixto,0-5,Cuiabá
+A,22/02/03,Sinop,0-0,Santa Cruz-MT
+A,23/02/03,Operário-MT,1-1,Dom Bosco
+B,23/02/03,Nova Xavantina,2-0,União Rondonópolis
+B,23/02/03,Juventude-MT,1-3,Grêmio Jaciara
+B,23/02/03,Barra,4-0,Vila Aurora
+A,27/02/03,Cuiabá,1-0,Operário-MT
+A,01/03/03,Sinop,3-2,Mixto
+B,01/03/03,Vila Aurora,0-5,Juventude-MT
+A,02/03/03,Santa Cruz-MT,1-1,Dom Bosco
+B,02/03/03,Nova Xavantina,1-0,Grêmio Jaciara
+B,02/03/03,União Rondonópolis,3-1,Barra
+B,06/03/03,Vila Aurora,2-2,Nova Xavantina
+B,09/03/03,Grêmio Jaciara,3-1,Vila Aurora
+B,09/03/03,Juventude-MT,8-4,União Rondonópolis
+B,09/03/03,Nova Xavantina,1-1,Barra
+A,12/03/03,Dom Bosco,4-1,Sinop
+A,12/03/03,Cuiabá,0-1,Santa Cruz-MT
+B,12/03/03,Grêmio Jaciara,1-0,União Rondonópolis
+A,15/03/03,Cuiabá,3-2,Sinop
+A,16/03/03,Mixto,1-1,Operário-MT
+B,16/03/03,Grêmio Jaciara,1-0,Barra
+B,16/03/03,Juventude-MT,3-0,Nova Xavantina
+B,16/03/03,Vila Aurora,1-3,União Rondonópolis
+A,19/03/03,Operário-MT,2-1,Santa Cruz-MT
+A,19/03/03,Mixto,2-4,Dom Bosco
+A,23/03/03,Dom Bosco,1-2,Cuiabá
+A,23/03/03,Sinop,3-1,Operário-MT
+A,23/03/03,Mixto,1-2,Santa Cruz-MT
+B,23/03/03,Barra,4-0,Juventude-MT
+B,23/03/03,Nova Xavantina,3-1,Vila Aurora
+B,23/03/03,União Rondonópolis,3-3,Grêmio Jaciara
+A,30/03/03,Cuiabá,2-0,Mixto
+A,30/03/03,Santa Cruz-MT,3-1,Sinop
+A,30/03/03,Dom Bosco,1-1,Operário-MT
+B,30/03/03,Vila Aurora,2-2,Barra
+B,30/03/03,Grêmio Jaciara,0-0,Juventude-MT
+B,30/03/03,União Rondonópolis,5-2,Nova Xavantina
+A,03/04/03,Mixto,1-1,Sinop
+A,06/04/03,Operário-MT,3-4,Cuiabá
+B,06/04/03,Grêmio Jaciara,2-0,Nova Xavantina
+B,06/04/03,Barra,2-0,União Rondonópolis
+B,06/04/03,Juventude-MT,4-0,Vila Aurora
+A,08/04/03,Dom Bosco,2-1,Santa Cruz-MT
+A,08/04/03,Operário-MT,3-2,Mixto
+B,12/04/03,Vila Aurora,0-0,Grêmio Jaciara
+A,13/04/03,Sinop,0-0,Dom Bosco
+A,13/04/03,Santa Cruz-MT,2-0,Cuiabá
+B,13/04/03,Barra,2-1,Nova Xavantina
+B,13/04/03,União Rondonópolis,1-0,Juventude-MT
+2F,19/04/03,Santa Cruz-MT,2-1,Grêmio Jaciara
+2F,20/04/03,União Rondonópolis,3-3,Cuiabá
+2F,20/04/03,Dom Bosco,2-1,Barra
+SF,20/04/03,Barra,1-1,Santa Cruz-MT
+F,20/04/03,Barra,1-1,Cuiabá
+2F,27/04/03,Grêmio Jaciara,2-1,Santa Cruz-MT
+2F,27/04/03,Cuiabá,1-0,União Rondonópolis
+2F,27/04/03,Barra,2-0,Dom Bosco
+SF,27/04/03,Cuiabá,3-2,Grêmio Jaciara
+F,27/04/03,Cuiabá,3-2,Barra
+SF,04/05/03,Santa Cruz-MT,0-0,Barra
+SF,04/05/03,Grêmio Jaciara,2-2,Cuiabá

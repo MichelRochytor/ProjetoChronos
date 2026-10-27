@@ -1,0 +1,125 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/09/71,FC Den Haag,5-0,Aris Bonnevoie
+1,13/09/71,Vitória FC,1-0,Nimes
+1,14/09/71,Glentoran,0-1,Eintracht Braunschweig
+1,14/09/71,Keflavík,1-6,Tottenham
+1,14/09/71,FC Basel,1-2,Real Madrid
+1,15/09/71,Hertha BSC,3-1,Elfsborg
+1,15/09/71,Dundee FC,4-2,AB
+1,15/09/71,Rosenborg,3-0,HIFK Helsinki
+1,15/09/71,Vasas SC,1-0,Shelbourne
+1,15/09/71,Celta de Vigo,0-2,Aberdeen
+1,15/09/71,Wolverhampton,3-0,Académica OAF
+1,15/09/71,Saint-Étienne,1-1,FC Köln
+1,15/09/71,FC Lugano,1-3,Legia Warszawa
+1,15/09/71,FC Porto,0-2,Nantes
+1,15/09/71,Hamburger SV,2-1,St. Johnstone
+1,15/09/71,Southampton,2-1,Athletic Bilbao
+1,15/09/71,Bologna,1-1,Anderlecht
+1,15/09/71,Napoli,1-0,Rapid București
+1,15/09/71,FC Carl Zeiss Jena,3-0,Lokomotiv Plovdiv
+1,15/09/71,Marsa,0-6,Juventus
+1,15/09/71,Dinamo Zagreb,6-1,Botev Vratsa
+1,15/09/71,UTA Arad,4-1,Casino Salzburg
+1,15/09/71,Fenerbahçe,1-1,Ferencváros
+1,15/09/71,Spartak Moskva,2-0,FC VSS Kosice
+1,15/09/71,OFK Beograd,4-1,Djurgarden
+1,15/09/71,Zeljeznicar,3-0,Club Brugge
+1,15/09/71,Hallescher FC,0-0,PSV
+1,15/09/71,Zaglebie Walbrzych,1-0,Teplice
+1,15/09/71,Lierse,0-2,Leeds United
+1,16/09/71,Atlético de Madrid,2-1,Panionios
+1,22/09/71,AC Milan,4-0,Digenis Morphou
+1,28/09/71,Eintracht Braunschweig,6-1,Glentoran
+1,28/09/71,Tottenham,9-0,Keflavík
+1,28/09/71,Aris Bonnevoie,2-2,FC Den Haag
+1,28/09/71,FC Köln,2-1,Saint-Étienne
+1,28/09/71,Anderlecht,0-2,Bologna
+1,28/09/71,Juventus,5-0,Marsa
+1,28/09/71,Académica OAF,1-4,Wolverhampton
+1,28/09/71,Nantes,1-1,FC Porto
+1,28/09/71,Nimes,2-1,Vitória FC
+1,29/09/71,PSV,ANU,Hallescher FC
+1,29/09/71,Elfsborg,1-4,Hertha BSC
+1,29/09/71,AB,0-1,Dundee FC
+1,29/09/71,HIFK Helsinki,0-1,Rosenborg
+1,29/09/71,Shelbourne,1-1,Vasas SC
+1,29/09/71,Aberdeen,1-0,Celta de Vigo
+1,29/09/71,Legia Warszawa,0-0,FC Lugano
+1,29/09/71,St. Johnstone,3-0,Hamburger SV
+1,29/09/71,Athletic Bilbao,2-0,Southampton
+1,29/09/71,Lokomotiv Plovdiv,3-1,FC Carl Zeiss Jena
+1,29/09/71,Real Madrid,2-1,FC Basel
+1,29/09/71,Botev Vratsa,1-2,Dinamo Zagreb
+1,29/09/71,Casino Salzburg,3-1,UTA Arad
+1,29/09/71,Ferencváros,3-1,Fenerbahçe
+1,29/09/71,Digenis Morphou,0-3,AC Milan
+1,29/09/71,FC VSS Kosice,2-1,Spartak Moskva
+1,29/09/71,Djurgarden,2-2,OFK Beograd
+1,29/09/71,Club Brugge,3-1,Zeljeznicar
+1,29/09/71,Teplice,2-3,Zaglebie Walbrzych
+1,29/09/71,Leeds United,0-4,Lierse
+1,30/09/71,Rapid București,2-0,Napoli
+1,06/10/71,Panionios,1-0,Atlético de Madrid
+2,19/10/71,Rapid București,4-0,Legia Warszawa
+2,19/10/71,FC Köln,2-1,Dundee FC
+2,20/10/71,Rosenborg,4-1,Lierse
+2,20/10/71,FC Den Haag,1-3,Wolverhampton
+2,20/10/71,Zeljeznicar,1-1,Bologna
+2,20/10/71,Nantes,0-0,Tottenham
+2,20/10/71,Eintracht Braunschweig,2-1,Athletic Bilbao
+2,20/10/71,St. Johnstone,2-0,Vasas SC
+2,20/10/71,AC Milan,4-2,Hertha BSC
+2,20/10/71,OFK Beograd,1-1,FC Carl Zeiss Jena
+2,20/10/71,Zaglebie Walbrzych,1-1,UTA Arad
+2,20/10/71,Dinamo Zagreb,2-2,Rapid Wien
+2,20/10/71,Real Madrid,3-1,PSV
+2,20/10/71,Ferencváros,6-0,Panionios
+2,20/10/71,Spartak Moskva,0-0,Vitória FC
+2,27/10/71,Juventus,2-0,Aberdeen
+2,02/11/71,Tottenham,1-0,Nantes
+2,02/11/71,Vasas SC,1-0,St. Johnstone
+2,03/11/71,Panionios,ANU,Ferencváros
+2,03/11/71,Lierse,3-0,Rosenborg
+2,03/11/71,Legia Warszawa,2-0,Rapid București
+2,03/11/71,Dundee FC,4-2,FC Köln
+2,03/11/71,Wolverhampton,4-0,FC Den Haag
+2,03/11/71,Bologna,2-2,Zeljeznicar
+2,03/11/71,Athletic Bilbao,2-2,Eintracht Braunschweig
+2,03/11/71,Hertha BSC,2-1,AC Milan
+2,03/11/71,FC Carl Zeiss Jena,4-0,OFK Beograd
+2,03/11/71,UTA Arad,2-1(Pro.),Zaglebie Walbrzych
+2,03/11/71,Rapid Wien,0-0,Dinamo Zagreb
+2,03/11/71,Vitória FC,4-0,Spartak Moskva
+2,13/11/71,PSV,2-0,Real Madrid
+2,17/11/71,Aberdeen,1-1,Juventus
+3,23/11/71,UTA Arad,3-0,Vitória FC
+3,24/11/71,AC Milan,3-0,Dundee FC
+3,24/11/71,FC Carl Zeiss Jena,0-1,Wolverhampton
+3,24/11/71,Eintracht Braunschweig,1-1,Ferencváros
+3,24/11/71,PSV,1-0,Lierse
+3,24/11/71,Rapid Wien,0-1,Juventus
+3,24/11/71,St. Johnstone,1-0,Zeljeznicar
+3,07/12/71,Vitória FC,1-0,UTA Arad
+3,08/12/71,Dundee FC,2-0,AC Milan
+3,08/12/71,Wolverhampton,3-0,FC Carl Zeiss Jena
+3,08/12/71,Ferencváros,5-2,Eintracht Braunschweig
+3,08/12/71,Lierse,4-0,PSV
+3,08/12/71,Juventus,4-1,Rapid Wien
+3,08/12/71,Zeljeznicar,5-1,St. Johnstone
+3,08/12/71,Tottenham,3-0,Rapid București
+3,15/12/71,Rapid București,0-2,Tottenham
+QF,23/02/72,AC Milan,2-0,Lierse
+QF,05/03/72,Juventus,1-1,Wolverhampton
+QF,07/03/72,Lierse,1-1,AC Milan
+QF,07/03/72,UTA Arad,0-2,Tottenham
+QF,07/03/72,Ferencváros,1-2,Zeljeznicar
+QF,21/03/72,Tottenham,1-1,UTA Arad
+QF,22/03/72,Zeljeznicar,1-2(4-5 Pen.),Ferencváros
+QF,22/03/72,Wolverhampton,2-1,Juventus
+SF,05/04/72,Tottenham,2-1,AC Milan
+SF,05/04/72,Ferencváros,2-2,Wolverhampton
+SF,19/04/72,AC Milan,1-1,Tottenham
+SF,19/04/72,Wolverhampton,2-1,Ferencváros
+F,03/05/72,Wolverhampton,1-2,Tottenham
+F,17/05/72,Tottenham,1-1,Wolverhampton

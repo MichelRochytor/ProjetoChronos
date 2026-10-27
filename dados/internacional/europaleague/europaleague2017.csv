@@ -1,0 +1,206 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,14/09/17,Villarreal CF,3-1,Astana
+A,14/09/17,Slavia Praha,1-0,Maccabi Tel Aviv
+B,14/09/17,Dynamo Kyiv,3-1,Skenderbeu
+B,14/09/17,Young Boys,1-1,Partizan
+C,14/09/17,TSG Hoffenheim,1-2,SC Braga
+C,14/09/17,Basaksehir,0-0,Ludogorets Razgrad
+D,14/09/17,Austria Wien,1-5,AC Milan
+D,14/09/17,HNK Rijeka,1-2,AEK
+E,14/09/17,Atalanta,3-0,Everton
+E,14/09/17,Apollon Limassol,1-1,Lyon
+F,14/09/17,FC Fastav Zlín,0-0,Sheriff
+F,14/09/17,FC Kobenhavn,0-0,Lokomotiv
+G,14/09/17,Hapoel Beer Sheva,2-1,FC Lugano
+G,14/09/17,FCSB,3-0,Viktoria Plzeň
+I,14/09/17,Marseille,1-0,Konyaspor
+I,14/09/17,Vitória SC,1-1,Red Bull Salzburg
+J,14/09/17,Zorya,0-2,Ostersunds FK
+J,14/09/17,Hertha BSC,0-0,Athletic Bilbao
+K,14/09/17,Zulte Waregem,1-5,Nice
+K,14/09/17,Vitesse,2-3,Lazio
+L,14/09/17,Vardar,0-5,Zenit
+L,14/09/17,Real Sociedad,4-0,Rosenborg
+H,14/09/17,Crvena Zvezda,1-1,BATE Borisov
+H,14/09/17,Arsenal,3-1,FC Köln
+A,28/09/17,Astana,1-1,Slavia Praha
+G,28/09/17,Viktoria Plzeň,3-1,Hapoel Beer Sheva
+G,28/09/17,FC Lugano,1-2,FCSB
+I,28/09/17,Red Bull Salzburg,1-0,Marseille
+I,28/09/17,Konyaspor,2-1,Vitória SC
+J,28/09/17,Athletic Bilbao,0-1,Zorya
+J,28/09/17,Ostersunds FK,1-0,Hertha BSC
+K,28/09/17,Lazio,2-0,Zulte Waregem
+K,28/09/17,Nice,3-0,Vitesse
+L,28/09/17,Rosenborg,3-1,Vardar
+L,28/09/17,Zenit,3-1,Real Sociedad
+H,28/09/17,FC Köln,0-1,Crvena Zvezda
+H,28/09/17,BATE Borisov,2-4,Arsenal
+A,28/09/17,Maccabi Tel Aviv,0-0,Villarreal CF
+B,28/09/17,Partizan,2-3,Dynamo Kyiv
+B,28/09/17,Skenderbeu,1-1,Young Boys
+C,28/09/17,Ludogorets Razgrad,2-1,TSG Hoffenheim
+C,28/09/17,SC Braga,2-1,Basaksehir
+D,28/09/17,AEK,2-2,Austria Wien
+D,28/09/17,AC Milan,3-2,HNK Rijeka
+E,28/09/17,Lyon,1-1,Atalanta
+E,28/09/17,Everton,2-2,Apollon Limassol
+F,28/09/17,Lokomotiv,3-0,FC Fastav Zlín
+F,28/09/17,Sheriff,0-0,FC Kobenhavn
+A,19/10/17,Astana,4-0,Maccabi Tel Aviv
+G,19/10/17,FC Lugano,3-2,Viktoria Plzeň
+G,19/10/17,Hapoel Beer Sheva,1-2,FCSB
+I,19/10/17,Konyaspor,0-2,Red Bull Salzburg
+I,19/10/17,Marseille,2-1,Vitória SC
+J,19/10/17,Ostersunds FK,2-2,Athletic Bilbao
+J,19/10/17,Zorya,2-1,Hertha BSC
+K,19/10/17,Nice,1-3,Lazio
+K,19/10/17,Zulte Waregem,1-1,Vitesse
+L,19/10/17,Zenit,3-1,Rosenborg
+L,19/10/17,Vardar,0-6,Real Sociedad
+H,19/10/17,BATE Borisov,1-0,FC Köln
+H,19/10/17,Crvena Zvezda,0-1,Arsenal
+A,19/10/17,Villarreal CF,2-2,Slavia Praha
+B,19/10/17,Skenderbeu,0-0,Partizan
+B,19/10/17,Dynamo Kyiv,2-2,Young Boys
+C,19/10/17,SC Braga,0-2,Ludogorets Razgrad
+C,19/10/17,TSG Hoffenheim,3-1,Basaksehir
+D,19/10/17,AC Milan,0-0,AEK
+D,19/10/17,Austria Wien,1-3,HNK Rijeka
+E,19/10/17,Everton,1-2,Lyon
+E,19/10/17,Atalanta,3-1,Apollon Limassol
+F,19/10/17,Sheriff,1-1,Lokomotiv
+F,19/10/17,FC Fastav Zlín,1-1,FC Kobenhavn
+A,02/11/17,Maccabi Tel Aviv,0-1,Astana
+A,02/11/17,Slavia Praha,0-2,Villarreal CF
+B,02/11/17,Partizan,2-0,Skenderbeu
+B,02/11/17,Young Boys,0-1,Dynamo Kyiv
+C,02/11/17,Ludogorets Razgrad,1-1,SC Braga
+C,02/11/17,Basaksehir,1-1,TSG Hoffenheim
+D,02/11/17,AEK,0-0,AC Milan
+D,02/11/17,HNK Rijeka,1-4,Austria Wien
+E,02/11/17,Lyon,3-0,Everton
+E,02/11/17,Apollon Limassol,1-1,Atalanta
+F,02/11/17,Lokomotiv,1-2,Sheriff
+F,02/11/17,FC Kobenhavn,3-0,FC Fastav Zlín
+G,02/11/17,Viktoria Plzeň,4-1,FC Lugano
+G,02/11/17,FCSB,1-1,Hapoel Beer Sheva
+I,02/11/17,Red Bull Salzburg,0-0,Konyaspor
+I,02/11/17,Vitória SC,1-0,Marseille
+J,02/11/17,Athletic Bilbao,1-0,Ostersunds FK
+J,02/11/17,Hertha BSC,2-0,Zorya
+K,02/11/17,Lazio,1-0,Nice
+K,02/11/17,Vitesse,0-2,Zulte Waregem
+L,02/11/17,Rosenborg,1-1,Zenit
+L,02/11/17,Real Sociedad,3-0,Vardar
+H,02/11/17,FC Köln,5-2,BATE Borisov
+H,02/11/17,Arsenal,0-0,Crvena Zvezda
+A,23/11/17,Astana,2-3,Villarreal CF
+F,23/11/17,Lokomotiv,2-1,FC Kobenhavn
+G,23/11/17,FC Lugano,1-0,Hapoel Beer Sheva
+G,23/11/17,Viktoria Plzeň,2-0,FCSB
+I,23/11/17,Konyaspor,1-1,Marseille
+I,23/11/17,Red Bull Salzburg,3-0,Vitória SC
+J,23/11/17,Ostersunds FK,2-0,Zorya
+J,23/11/17,Athletic Bilbao,3-2,Hertha BSC
+K,23/11/17,Nice,3-1,Zulte Waregem
+K,23/11/17,Lazio,1-1,Vitesse
+L,23/11/17,Zenit,2-1,Vardar
+L,23/11/17,Rosenborg,0-1,Real Sociedad
+H,23/11/17,FC Köln,1-0,Arsenal
+H,23/11/17,BATE Borisov,0-0,Crvena Zvezda
+A,23/11/17,Maccabi Tel Aviv,0-2,Slavia Praha
+B,23/11/17,Skenderbeu,3-2,Dynamo Kyiv
+B,23/11/17,Partizan,2-1,Young Boys
+C,23/11/17,SC Braga,3-1,TSG Hoffenheim
+C,23/11/17,Ludogorets Razgrad,1-2,Basaksehir
+D,23/11/17,AC Milan,5-1,Austria Wien
+D,23/11/17,AEK,2-2,HNK Rijeka
+E,23/11/17,Everton,1-5,Atalanta
+E,23/11/17,Lyon,4-0,Apollon Limassol
+F,23/11/17,Sheriff,1-0,FC Fastav Zlín
+A,07/12/17,Villarreal CF,0-1,Maccabi Tel Aviv
+A,07/12/17,Slavia Praha,0-1,Astana
+B,07/12/17,Dynamo Kyiv,4-1,Partizan
+B,07/12/17,Young Boys,2-1,Skenderbeu
+C,07/12/17,TSG Hoffenheim,1-1,Ludogorets Razgrad
+C,07/12/17,Basaksehir,2-1,SC Braga
+D,07/12/17,Austria Wien,0-0,AEK
+D,07/12/17,HNK Rijeka,2-0,AC Milan
+E,07/12/17,Atalanta,1-0,Lyon
+E,07/12/17,Apollon Limassol,0-3,Everton
+F,07/12/17,FC Fastav Zlín,0-2,Lokomotiv
+F,07/12/17,FC Kobenhavn,2-0,Sheriff
+G,07/12/17,Hapoel Beer Sheva,0-2,Viktoria Plzeň
+G,07/12/17,FCSB,1-2,FC Lugano
+I,07/12/17,Marseille,0-0,Red Bull Salzburg
+I,07/12/17,Vitória SC,1-1,Konyaspor
+J,07/12/17,Zorya,0-2,Athletic Bilbao
+J,07/12/17,Hertha BSC,1-1,Ostersunds FK
+K,07/12/17,Zulte Waregem,3-2,Lazio
+K,07/12/17,Vitesse,1-0,Nice
+L,07/12/17,Vardar,1-1,Rosenborg
+L,07/12/17,Real Sociedad,1-3,Zenit
+H,07/12/17,Crvena Zvezda,1-0,FC Köln
+H,07/12/17,Arsenal,6-0,BATE Borisov
+1/16,13/02/18,Crvena Zvezda,0-0,CSKA Moskva
+1/16,15/02/18,Astana,1-3,Sporting
+1/16,15/02/18,Borussia Dortmund,3-2,Atalanta
+1/16,15/02/18,Nice,2-3,Lokomotiv
+1/16,15/02/18,Spartak Moskva,1-3,Athletic Bilbao
+1/16,15/02/18,Real Sociedad,2-2,Red Bull Salzburg
+1/16,15/02/18,Ludogorets Razgrad,0-3,AC Milan
+1/16,15/02/18,Ostersunds FK,0-3,Arsenal
+1/16,15/02/18,Marseille,3-0,SC Braga
+1/16,15/02/18,FC Kobenhavn,1-4,Atlético de Madrid
+1/16,15/02/18,AEK,1-1,Dynamo Kyiv
+1/16,15/02/18,Celtic,1-0,Zenit
+1/16,15/02/18,Napoli,1-3,RB Leipzig
+1/16,15/02/18,Lyon,3-1,Villarreal CF
+1/16,15/02/18,Partizan,1-1,Viktoria Plzeň
+1/16,15/02/18,FCSB,1-0,Lazio
+1/16,21/02/18,CSKA Moskva,1-0,Crvena Zvezda
+1/16,22/02/18,Lokomotiv,1-0,Nice
+1/16,22/02/18,Lazio,5-1,FCSB
+1/16,22/02/18,Viktoria Plzeň,2-0,Partizan
+1/16,22/02/18,Sporting,3-3,Astana
+1/16,22/02/18,Villarreal CF,0-1,Lyon
+1/16,22/02/18,Atlético de Madrid,1-0,FC Kobenhavn
+1/16,22/02/18,Dynamo Kyiv,0-0,AEK
+1/16,22/02/18,RB Leipzig,0-2,Napoli
+1/16,22/02/18,Zenit,3-0,Celtic
+1/16,22/02/18,Red Bull Salzburg,2-1,Real Sociedad
+1/16,22/02/18,AC Milan,1-0,Ludogorets Razgrad
+1/16,22/02/18,SC Braga,1-0,Marseille
+1/16,22/02/18,Arsenal,1-2,Ostersunds FK
+1/16,22/02/18,Athletic Bilbao,1-2,Spartak Moskva
+1/16,22/02/18,Atalanta,1-1,Borussia Dortmund
+1/8,08/03/18,Atlético de Madrid,3-0,Lokomotiv
+1/8,08/03/18,CSKA Moskva,0-1,Lyon
+1/8,08/03/18,Borussia Dortmund,1-2,Red Bull Salzburg
+1/8,08/03/18,AC Milan,0-2,Arsenal
+1/8,08/03/18,Lazio,2-2,Dynamo Kyiv
+1/8,08/03/18,RB Leipzig,2-1,Zenit
+1/8,08/03/18,Marseille,3-1,Athletic Bilbao
+1/8,08/03/18,Sporting,2-0,Viktoria Plzeň
+1/8,15/03/18,Lokomotiv,1-5,Atlético de Madrid
+1/8,15/03/18,Dynamo Kyiv,0-2,Lazio
+1/8,15/03/18,Zenit,1-1,RB Leipzig
+1/8,15/03/18,Athletic Bilbao,1-2,Marseille
+1/8,15/03/18,Viktoria Plzeň,2-1(Pro.),Sporting
+1/8,15/03/18,Lyon,2-3,CSKA Moskva
+1/8,15/03/18,Red Bull Salzburg,0-0,Borussia Dortmund
+1/8,15/03/18,Arsenal,3-1,AC Milan
+QF,05/04/18,RB Leipzig,1-0,Marseille
+QF,05/04/18,Arsenal,4-1,CSKA Moskva
+QF,05/04/18,Atlético de Madrid,2-0,Sporting
+QF,05/04/18,Lazio,4-2,Red Bull Salzburg
+QF,12/04/18,Red Bull Salzburg,4-1,Lazio
+QF,12/04/18,Sporting,1-0,Atlético de Madrid
+QF,12/04/18,CSKA Moskva,2-2,Arsenal
+QF,12/04/18,Marseille,5-2,RB Leipzig
+SF,26/04/18,Marseille,2-0,Red Bull Salzburg
+SF,26/04/18,Arsenal,1-1,Atlético de Madrid
+SF,03/05/18,Red Bull Salzburg,2-1(Pro.),Marseille
+SF,03/05/18,Atlético de Madrid,1-0,Arsenal
+F,16/05/18,Marseille,0-3,Atlético de Madrid

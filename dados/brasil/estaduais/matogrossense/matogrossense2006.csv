@@ -1,0 +1,116 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,04/02/06,Sorriso EC,2-3,Luverdense
+B,04/02/06,Barra,1-0,União Rondonópolis
+A,05/02/06,Santa Cruz-MT,1-3,Operário-MT
+B,05/02/06,Vila Aurora,2-0,Cuiabá
+A,08/02/06,Mixto,1-0,Sorriso EC
+A,08/02/06,Operário-MT,1-1,Cacerense
+B,11/02/06,Barra,1-1,Vila Aurora
+A,12/02/06,Luverdense,1-1,Operário-MT
+A,12/02/06,Santa Cruz-MT,3-0,Mixto
+B,12/02/06,União Rondonópolis,8-2,Grêmio Jaciara
+A,16/02/06,Operário-MT,3-1,Sorriso EC
+A,16/02/06,Mixto,1-3,Luverdense
+B,17/02/06,Cuiabá,2-1,Barra
+A,18/02/06,Sorriso EC,0-0,Santa Cruz-MT
+B,18/02/06,Vila Aurora,2-1,Dom Bosco
+A,19/02/06,Cacerense,2-2,Luverdense
+B,19/02/06,União Rondonópolis,2-0,Cuiabá
+B,19/02/06,Grêmio Jaciara,2-4,Barra
+B,22/02/06,Dom Bosco,0-1,Cuiabá
+A,25/02/06,Luverdense,3-1,Santa Cruz-MT
+B,25/02/06,Dom Bosco,1-2,União Rondonópolis
+A,26/02/06,Mixto,1-1,Cacerense
+A,02/03/06,Sorriso EC,1-0,Cacerense
+B,02/03/06,Grêmio Jaciara,0-2,Vila Aurora
+B,02/03/06,Dom Bosco,1-1,Barra
+A,05/03/06,Santa Cruz-MT,1-1,Cacerense
+A,05/03/06,Operário-MT,1-0,Mixto
+B,05/03/06,Grêmio Jaciara,1-1,Dom Bosco
+B,05/03/06,Vila Aurora,2-2,União Rondonópolis
+B,05/03/06,Barra,3-2,Cuiabá
+A,09/03/06,Luverdense,2-2,Cacerense
+A,09/03/06,Sorriso EC,2-1,Mixto
+B,09/03/06,Dom Bosco,0-2,Grêmio Jaciara
+B,09/03/06,Cuiabá,0-0,Vila Aurora
+B,09/03/06,União Rondonópolis,3-0,Barra
+A,12/03/06,Cacerense,2-1,Operário-MT
+A,12/03/06,Luverdense,3-1,Mixto
+A,12/03/06,Santa Cruz-MT,2-1,Sorriso EC
+B,12/03/06,Cuiabá,3-0,Dom Bosco
+B,12/03/06,Vila Aurora,0-1,Barra
+B,12/03/06,Grêmio Jaciara,3-1,União Rondonópolis
+A,15/03/06,Operário-MT,5-1,Luverdense
+A,15/03/06,Cacerense,1-0,Sorriso EC
+B,15/03/06,Vila Aurora,1-0,Grêmio Jaciara
+A,16/03/06,Mixto,3-2,Santa Cruz-MT
+B,16/03/06,União Rondonópolis,1-0,Dom Bosco
+A,18/03/06,Sorriso EC,1-0,Operário-MT
+B,18/03/06,Barra,1-0,Grêmio Jaciara
+A,19/03/06,Santa Cruz-MT,1-1,Luverdense
+B,19/03/06,Cuiabá,2-2,União Rondonópolis
+B,19/03/06,Dom Bosco,1-1,Vila Aurora
+A,23/03/06,Operário-MT,0-2,Santa Cruz-MT
+A,23/03/06,Mixto,1-0,Cacerense
+B,23/03/06,Grêmio Jaciara,4-2,Cuiabá
+A,26/03/06,Operário-MT,0-2,Mixto
+A,26/03/06,Cacerense,1-0,Santa Cruz-MT
+A,26/03/06,Luverdense,5-2,Sorriso EC
+B,26/03/06,Barra,4-1,Dom Bosco
+B,26/03/06,Cuiabá,2-4,Grêmio Jaciara
+B,26/03/06,União Rondonópolis,1-2,Vila Aurora
+F,30/03/06,Luverdense,1-3,Barra
+F,02/04/06,Barra,3-1,Luverdense
+D,02/04/06,Santa Cruz-MT,0-0,União Rondonópolis
+D,02/04/06,Grêmio Jaciara,1-1,Mixto
+D,02/04/06,Vila Aurora,1-2,Cacerense
+D,05/04/06,União Rondonópolis,4-0,Luverdense
+D,06/04/06,Santa Cruz-MT,2-1,Barra
+D,06/04/06,Cacerense,1-0,Cuiabá
+D,08/04/06,Operário-MT,1-2,União Rondonópolis
+D,09/04/06,Cacerense,0-2,Grêmio Jaciara
+D,09/04/06,Barra,0-1,Mixto
+D,09/04/06,Vila Aurora,0-0,Santa Cruz-MT
+D,09/04/06,Luverdense,4-1,Cuiabá
+D,13/04/06,Santa Cruz-MT,0-1,Grêmio Jaciara
+D,13/04/06,Luverdense,2-1,Vila Aurora
+D,13/04/06,Operário-MT,3-1,Barra
+D,16/04/06,Cacerense,1-4,Barra
+D,16/04/06,Mixto,1-2,União Rondonópolis
+D,16/04/06,Grêmio Jaciara,1-1,Luverdense
+D,16/04/06,Vila Aurora,0-1,Operário-MT
+D,19/04/06,União Rondonópolis,1-0,Cacerense
+D,19/04/06,Santa Cruz-MT,2-0,Vila Aurora
+D,19/04/06,Cuiabá,2-3,Operário-MT
+D,19/04/06,Barra,0-1,Luverdense
+D,21/04/06,Cuiabá,1-3,Mixto
+D,23/04/06,Mixto,3-3,Barra
+D,23/04/06,Grêmio Jaciara,4-0,Cacerense
+D,23/04/06,União Rondonópolis,2-2,Operário-MT
+D,25/04/06,Cuiabá,2-0,Cacerense
+D,27/04/06,Operário-MT,2-1,Grêmio Jaciara
+D,27/04/06,Luverdense,3-2,União Rondonópolis
+D,27/04/06,Barra,4-1,Santa Cruz-MT
+D,27/04/06,Vila Aurora,1-2,Mixto
+D,30/04/06,Cacerense,2-0,Vila Aurora
+D,30/04/06,Cuiabá,1-4,Operário-MT
+D,30/04/06,União Rondonópolis,3-0,Santa Cruz-MT
+D,30/04/06,Luverdense,1-0,Barra
+D,01/05/06,Mixto,0-0,Grêmio Jaciara
+D,03/05/06,Barra,0-0,Operário-MT
+D,03/05/06,Grêmio Jaciara,4-0,Santa Cruz-MT
+D,03/05/06,Mixto,1-2,Cuiabá
+D,03/05/06,Cacerense,1-2,União Rondonópolis
+D,03/05/06,Vila Aurora,3-0,Luverdense
+D,07/05/06,Mixto,3-1,Vila Aurora
+D,07/05/06,Grêmio Jaciara,1-0,Operário-MT
+D,07/05/06,Santa Cruz-MT,0-3,Cuiabá
+D,07/05/06,Barra,3-0,Cacerense
+D,11/05/06,Cuiabá,1-2,Luverdense
+D,14/05/06,Luverdense,0-1,Grêmio Jaciara
+D,14/05/06,Operário-MT,2-1,Vila Aurora
+D,14/05/06,União Rondonópolis,0-0,Mixto
+F,17/05/06,Operário-MT,1-1,Grêmio Jaciara
+F,21/05/06,Grêmio Jaciara,2-2(1-3 Pen.),Operário-MT
+F,24/05/06,Operário-MT,2-0,Barra
+F,28/05/06,Barra,1-2,Operário-MT

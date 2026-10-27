@@ -1,0 +1,142 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,15/09/21,Spartak Moskva,0-1,Legia Warszawa
+E,16/09/21,Galatasaray,1-0,Lazio
+E,16/09/21,Lokomotiv,1-1,Marseille
+F,16/09/21,Midtjylland,1-1,Ludogorets Razgrad
+F,16/09/21,Crvena Zvezda,2-1,SC Braga
+G,16/09/21,Bayer Leverkusen,2-1,Ferencváros
+G,16/09/21,Real Betis,4-3,Celtic
+H,16/09/21,Dinamo Zagreb,0-2,West Ham
+H,16/09/21,Rapid Wien,0-1,Genk
+C,16/09/21,Leicester City,2-2,Napoli
+A,16/09/21,Rangers,0-2,Lyon
+A,16/09/21,Brondby IF,0-0,Sparta Praha
+B,16/09/21,PSV,2-2,Real Sociedad
+B,16/09/21,Monaco,1-0,Sturm Graz
+D,16/09/21,Olympiacos,2-1,Royal Antwerp
+D,16/09/21,Eintracht Frankfurt,1-1,Fenerbahçe
+C,30/09/21,Legia Warszawa,1-0,Leicester City
+C,30/09/21,Napoli,2-3,Spartak Moskva
+A,30/09/21,Sparta Praha,1-0,Rangers
+A,30/09/21,Lyon,3-0,Brondby IF
+B,30/09/21,Real Sociedad,1-1,Monaco
+B,30/09/21,Sturm Graz,1-4,PSV
+D,30/09/21,Royal Antwerp,0-1,Eintracht Frankfurt
+D,30/09/21,Fenerbahçe,0-3,Olympiacos
+F,30/09/21,Ludogorets Razgrad,0-1,Crvena Zvezda
+F,30/09/21,SC Braga,3-1,Midtjylland
+E,30/09/21,Lazio,2-0,Lokomotiv
+E,30/09/21,Marseille,0-0,Galatasaray
+G,30/09/21,Celtic,0-4,Bayer Leverkusen
+G,30/09/21,Ferencváros,1-3,Real Betis
+H,30/09/21,Genk,0-3,Dinamo Zagreb
+H,30/09/21,West Ham,2-0,Rapid Wien
+G,19/10/21,Celtic,2-0,Ferencváros
+C,20/10/21,Spartak Moskva,3-4,Leicester City
+F,21/10/21,Ludogorets Razgrad,0-1,SC Braga
+F,21/10/21,Midtjylland,1-1,Crvena Zvezda
+E,21/10/21,Lazio,0-0,Marseille
+G,21/10/21,Real Betis,1-1,Bayer Leverkusen
+D,21/10/21,Fenerbahçe,2-2,Royal Antwerp
+H,21/10/21,Rapid Wien,2-1,Dinamo Zagreb
+E,21/10/21,Lokomotiv,0-1,Galatasaray
+C,21/10/21,Napoli,3-0,Legia Warszawa
+A,21/10/21,Sparta Praha,3-4,Lyon
+A,21/10/21,Rangers,2-0,Brondby IF
+B,21/10/21,PSV,1-2,Monaco
+B,21/10/21,Sturm Graz,0-1,Real Sociedad
+D,21/10/21,Eintracht Frankfurt,3-1,Olympiacos
+H,21/10/21,West Ham,3-0,Genk
+E,04/11/21,Galatasaray,1-1,Lokomotiv
+C,04/11/21,Legia Warszawa,1-4,Napoli
+A,04/11/21,Lyon,3-0,Sparta Praha
+A,04/11/21,Brondby IF,1-1,Rangers
+B,04/11/21,Real Sociedad,1-1,Sturm Graz
+B,04/11/21,Monaco,0-0,PSV
+D,04/11/21,Olympiacos,1-2,Eintracht Frankfurt
+H,04/11/21,Genk,2-2,West Ham
+F,04/11/21,SC Braga,4-2,Ludogorets Razgrad
+F,04/11/21,Crvena Zvezda,0-1,Midtjylland
+E,04/11/21,Marseille,2-2,Lazio
+C,04/11/21,Leicester City,1-1,Spartak Moskva
+G,04/11/21,Bayer Leverkusen,4-0,Real Betis
+G,04/11/21,Ferencváros,2-3,Celtic
+D,04/11/21,Royal Antwerp,0-3,Fenerbahçe
+H,04/11/21,Dinamo Zagreb,3-1,Rapid Wien
+C,24/11/21,Spartak Moskva,2-1,Napoli
+F,25/11/21,Midtjylland,3-2,SC Braga
+F,25/11/21,Crvena Zvezda,1-0,Ludogorets Razgrad
+E,25/11/21,Galatasaray,4-2,Marseille
+E,25/11/21,Lokomotiv,0-3,Lazio
+G,25/11/21,Bayer Leverkusen,3-2,Celtic
+G,25/11/21,Real Betis,2-0,Ferencváros
+H,25/11/21,Dinamo Zagreb,1-1,Genk
+H,25/11/21,Rapid Wien,0-2,West Ham
+C,25/11/21,Leicester City,3-1,Legia Warszawa
+A,25/11/21,Rangers,2-0,Sparta Praha
+A,25/11/21,Brondby IF,1-3,Lyon
+B,25/11/21,PSV,2-0,Sturm Graz
+B,25/11/21,Monaco,2-1,Real Sociedad
+D,25/11/21,Olympiacos,1-0,Fenerbahçe
+D,25/11/21,Eintracht Frankfurt,2-2,Royal Antwerp
+C,09/12/21,Legia Warszawa,0-1,Spartak Moskva
+C,09/12/21,Napoli,3-2,Leicester City
+A,09/12/21,Sparta Praha,2-0,Brondby IF
+A,09/12/21,Lyon,1-1,Rangers
+B,09/12/21,Real Sociedad,3-0,PSV
+B,09/12/21,Sturm Graz,1-1,Monaco
+D,09/12/21,Royal Antwerp,1-0,Olympiacos
+D,09/12/21,Fenerbahçe,1-1,Eintracht Frankfurt
+F,09/12/21,Ludogorets Razgrad,0-0,Midtjylland
+F,09/12/21,SC Braga,1-1,Crvena Zvezda
+E,09/12/21,Lazio,0-0,Galatasaray
+E,09/12/21,Marseille,1-0,Lokomotiv
+G,09/12/21,Celtic,3-2,Real Betis
+G,09/12/21,Ferencváros,1-0,Bayer Leverkusen
+H,09/12/21,Genk,0-1,Rapid Wien
+H,09/12/21,West Ham,0-1,Dinamo Zagreb
+POff,17/02/22,Barcelona,1-1,Napoli
+POff,17/02/22,Zenit,2-3,Real Betis
+POff,17/02/22,Borussia Dortmund,2-4,Rangers
+POff,17/02/22,Sheriff,2-0,SC Braga
+POff,17/02/22,Sevilla FC,3-1,Dinamo Zagreb
+POff,17/02/22,Atalanta,2-1,Olympiacos
+POff,17/02/22,RB Leipzig,2-2,Real Sociedad
+POff,17/02/22,FC Porto,2-1,Lazio
+POff,24/02/22,Dinamo Zagreb,1-0,Sevilla FC
+POff,24/02/22,Olympiacos,0-3,Atalanta
+POff,24/02/22,Real Sociedad,1-3,RB Leipzig
+POff,24/02/22,Lazio,2-2,FC Porto
+POff,24/02/22,Napoli,2-4,Barcelona
+POff,24/02/22,Real Betis,0-0,Zenit
+POff,24/02/22,Rangers,2-2,Borussia Dortmund
+POff,24/02/22,SC Braga,2-0(3-2 Pen.),Sheriff
+1/8,09/03/22,FC Porto,0-1,Lyon
+1/8,09/03/22,Real Betis,1-2,Eintracht Frankfurt
+1/8,10/03/22,RB Leipzig,ANU,Spartak Moskva
+1/8,10/03/22,Sevilla FC,1-0,West Ham
+1/8,10/03/22,Rangers,3-0,Crvena Zvezda
+1/8,10/03/22,SC Braga,2-0,Monaco
+1/8,10/03/22,Atalanta,3-2,Bayer Leverkusen
+1/8,10/03/22,Barcelona,0-0,Galatasaray
+1/8,16/03/22,Spartak Moskva,ANU,RB Leipzig
+1/8,17/03/22,Crvena Zvezda,2-1,Rangers
+1/8,17/03/22,Monaco,1-1,SC Braga
+1/8,17/03/22,Bayer Leverkusen,0-1,Atalanta
+1/8,17/03/22,Galatasaray,1-2,Barcelona
+1/8,17/03/22,Lyon,1-1,FC Porto
+1/8,17/03/22,West Ham,2-0(Pro.),Sevilla FC
+1/8,17/03/22,Eintracht Frankfurt,1-1(Pro.),Real Betis
+QF,07/04/22,RB Leipzig,1-1,Atalanta
+QF,07/04/22,Eintracht Frankfurt,1-1,Barcelona
+QF,07/04/22,West Ham,1-1,Lyon
+QF,07/04/22,SC Braga,1-0,Rangers
+QF,14/04/22,Atalanta,0-2,RB Leipzig
+QF,14/04/22,Barcelona,2-3,Eintracht Frankfurt
+QF,14/04/22,Lyon,0-3,West Ham
+QF,14/04/22,Rangers,3-1(Pro.),SC Braga
+SF,28/04/22,RB Leipzig,1-0,Rangers
+SF,28/04/22,West Ham,1-2,Eintracht Frankfurt
+SF,05/05/22,Rangers,3-1,RB Leipzig
+SF,05/05/22,Eintracht Frankfurt,1-0,West Ham
+F,18/05/22,Eintracht Frankfurt,1-1(5-4 Pen.),Rangers

@@ -1,0 +1,103 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,04/01/04,Castanhal,1-2,Ananindeua
+1F,04/01/04,Carajás,4-1,Vênus-PA
+1F,04/01/04,Vila Rica,2-2,Sport Belém
+1F,04/01/04,Bragantino-PA,3-2,Tiradentes-PA
+1F,04/01/04,Pedreira-PA,1-2,São Raimundo-PA
+1F,07/01/04,Ananindeua,1-2,Pedreira-PA
+1F,07/01/04,Tiradentes-PA,1-3,Sport Belém
+1F,07/01/04,Bragantino-PA,1-1,Carajás
+1F,07/01/04,São Raimundo-PA,3-2,Vila Rica
+1F,08/01/04,Vênus-PA,0-1,Castanhal
+1F,10/01/04,Castanhal,1-1,Bragantino-PA
+1F,11/01/04,Sport Belém,1-3,São Raimundo-PA
+1F,11/01/04,Carajás,1-1,Ananindeua
+1F,11/01/04,Pedreira-PA,5-1,Tiradentes-PA
+1F,11/01/04,Vila Rica,2-1,Vênus-PA
+1F,14/01/04,Ananindeua,2-0,Sport Belém
+1F,14/01/04,Vênus-PA,3-0,Tiradentes-PA
+1F,14/01/04,Bragantino-PA,2-2,Pedreira-PA
+1F,14/01/04,São Raimundo-PA,1-2,Carajás
+1F,14/01/04,Castanhal,3-2,Vila Rica
+1F,17/01/04,Vila Rica,1-3,Bragantino-PA
+1F,18/01/04,São Raimundo-PA,2-2,Vênus-PA
+1F,18/01/04,Sport Belém,2-0,Carajás
+1F,18/01/04,Pedreira-PA,1-1,Castanhal
+1F,18/01/04,Tiradentes-PA,0-8,Ananindeua
+1F,21/01/04,Sport Belém,2-5,Pedreira-PA
+1F,21/01/04,Carajás,2-1,Vila Rica
+1F,21/01/04,Tiradentes-PA,0-6,Castanhal
+1F,21/01/04,Ananindeua,1-1,São Raimundo-PA
+1F,21/01/04,Vênus-PA,0-0,Bragantino-PA
+2F,24/01/04,Ananindeua,0-0,Bragantino-PA
+2F,25/01/04,Remo,1-0,Paysandu
+2F,25/01/04,Tuna Luso,3-2,Águia
+2F,25/01/04,Carajás,0-2,Castanhal
+2F,28/01/04,Paysandu,2-2,Bragantino-PA
+2F,28/01/04,Castanhal,2-0,Tuna Luso
+2F,29/01/04,Ananindeua,1-0,Águia
+2F,29/01/04,Carajás,0-3,Remo
+2F,01/02/04,Carajás,0-4,Tuna Luso
+2F,01/02/04,Paysandu,1-1,Ananindeua
+2F,01/02/04,Castanhal,1-2,Remo
+2F,01/02/04,Bragantino-PA,1-0,Águia
+2F,07/02/04,Castanhal,0-1,Ananindeua
+2F,07/02/04,Águia,1-4,Paysandu
+2F,08/02/04,Tuna Luso,1-2,Remo
+2F,08/02/04,Bragantino-PA,0-0,Carajás
+2F,11/02/04,Ananindeua,1-0,Carajás
+2F,11/02/04,Tuna Luso,1-0,Bragantino-PA
+2F,11/02/04,Remo,4-1,Águia
+2F,12/02/04,Paysandu,2-1,Castanhal
+2F,15/02/04,Bragantino-PA,1-2,Remo
+2F,15/02/04,Ananindeua,1-1,Tuna Luso
+2F,15/02/04,Águia,0-2,Castanhal
+2F,15/02/04,Carajás,0-4,Paysandu
+2F,28/02/04,Castanhal,5-0,Bragantino-PA
+2F,29/02/04,Tuna Luso,0-2,Paysandu
+2F,29/02/04,Remo,1-0,Ananindeua
+2F,29/02/04,Águia,1-0,Carajás
+2T,07/03/04,Castanhal,4-2,Águia
+2T,07/03/04,Tuna Luso,1-4,Ananindeua
+2T,07/03/04,Paysandu,3-1,Carajás
+2T,07/03/04,Remo,5-0,Bragantino-PA
+2T,10/03/04,Tuna Luso,1-1,Carajás
+2T,10/03/04,Ananindeua,0-3,Paysandu
+2T,10/03/04,Águia,0-0,Bragantino-PA
+2T,11/03/04,Remo,5-2,Castanhal
+2T,14/03/04,Carajás,2-1,Águia
+2T,14/03/04,Ananindeua,0-2,Remo
+2T,14/03/04,Bragantino-PA,1-2,Castanhal
+2T,14/03/04,Paysandu,2-0,Tuna Luso
+2T,21/03/04,Tuna Luso,0-2,Castanhal
+2T,21/03/04,Remo,2-1,Carajás
+2T,21/03/04,Bragantino-PA,0-1,Paysandu
+2T,21/03/04,Águia,2-0,Ananindeua
+2T,25/03/04,Ananindeua,1-1,Castanhal
+2T,26/03/04,Carajás,4-3,Bragantino-PA
+2T,27/03/04,Paysandu,4-0,Águia
+2T,28/03/04,Remo,4-1,Tuna Luso
+2T,30/03/04,Castanhal,1-3,Paysandu
+2T,31/03/04,Carajás,1-1,Ananindeua
+2T,31/03/04,Bragantino-PA,0-2,Tuna Luso
+2T,31/03/04,Águia,1-2,Remo
+2T,03/04/04,Castanhal,2-1,Carajás
+2T,04/04/04,Bragantino-PA,2-4,Ananindeua
+2T,04/04/04,Águia,0-0,Tuna Luso
+2T,04/04/04,Paysandu,0-2,Remo
+F,04/04/04,Paysandu,0-2,Remo
+1F,21/12/04,Vênus-PA,1-1,Sport Belém
+1F,21/12/04,Vila Rica,1-3,Pedreira-PA
+1F,21/12/04,Castanhal,0-0,São Raimundo-PA
+1F,21/12/04,Carajás,3-0,Tiradentes-PA
+1F,21/12/04,Bragantino-PA,1-0,Ananindeua
+1F,23/12/04,Pedreira-PA,0-1,Carajás
+1F,23/12/04,São Raimundo-PA,1-4,Bragantino-PA
+1F,23/12/04,Ananindeua,2-1,Vênus-PA
+1F,23/12/04,Tiradentes-PA,0-1,Vila Rica
+1F,23/12/04,Sport Belém,2-3,Castanhal
+1F,28/12/04,Carajás,2-0,Castanhal
+1F,28/12/04,Vênus-PA,2-1,Pedreira-PA
+1F,28/12/04,Ananindeua,4-0,Vila Rica
+1F,28/12/04,São Raimundo-PA,4-1,Tiradentes-PA
+1F,28/12/04,Sport Belém,0-0,Bragantino-PA

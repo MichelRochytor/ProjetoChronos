@@ -1,0 +1,99 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,15/01/11,Avaí,1-2,Chapecoense
+1F,15/01/11,Criciúma,6-1,Concórdia
+1F,16/01/11,Joinville,2-1,Brusque
+1F,16/01/11,Metropolitano,1-1,Figueirense
+1F,16/01/11,Imbituba,1-1,Marcílio Dias
+1F,19/01/11,Chapecoense,3-2,Criciúma
+1F,19/01/11,Concórdia,3-1,Imbituba
+1F,19/01/11,Marcílio Dias,1-2,Metropolitano
+1F,19/01/11,Brusque,3-0,Avaí
+1F,20/01/11,Figueirense,4-0,Joinville
+1F,23/01/11,Metropolitano,2-0,Concórdia
+1F,23/01/11,Imbituba,2-2,Chapecoense
+1F,23/01/11,Criciúma,2-0,Avaí
+1F,23/01/11,Figueirense,5-2,Brusque
+1F,23/01/11,Joinville,0-2,Marcílio Dias
+1F,26/01/11,Brusque,2-2,Criciúma
+1F,26/01/11,Chapecoense,1-0,Metropolitano
+1F,26/01/11,Concórdia,3-6,Joinville
+1F,26/01/11,Marcílio Dias,1-1,Figueirense
+1F,27/01/11,Avaí,0-1,Imbituba
+1F,29/01/11,Figueirense,3-0,Concórdia
+1F,29/01/11,Joinville,2-1,Chapecoense
+1F,30/01/11,Metropolitano,0-0,Avaí
+1F,30/01/11,Marcílio Dias,2-2,Brusque
+1F,30/01/11,Imbituba,0-0,Criciúma
+1F,02/02/11,Criciúma,2-0,Metropolitano
+1F,02/02/11,Chapecoense,3-3,Figueirense
+1F,02/02/11,Brusque,2-0,Imbituba
+1F,02/02/11,Concórdia,1-1,Marcílio Dias
+1F,02/02/11,Avaí,2-1,Joinville
+1F,06/02/11,Joinville,0-0,Criciúma
+1F,06/02/11,Metropolitano,2-3,Imbituba
+1F,06/02/11,Concórdia,2-2,Brusque
+1F,06/02/11,Marcílio Dias,3-1,Chapecoense
+1F,06/02/11,Figueirense,2-2,Avaí
+1F,09/02/11,Avaí,2-1,Marcílio Dias
+1F,09/02/11,Brusque,3-1,Metropolitano
+1F,09/02/11,Chapecoense,2-2,Concórdia
+1F,09/02/11,Criciúma,2-0,Figueirense
+1F,10/02/11,Imbituba,3-4,Joinville
+1F,12/02/11,Concórdia,3-4,Avaí
+1F,13/02/11,Chapecoense,3-1,Brusque
+1F,13/02/11,Marcílio Dias,3-2,Criciúma
+1F,13/02/11,Figueirense,4-1,Imbituba
+1F,13/02/11,Joinville,1-4,Metropolitano
+SF,19/02/11,Criciúma,1-1,Chapecoense
+SF,20/02/11,Figueirense,3-1,Joinville
+F,27/02/11,Figueirense,0-1,Criciúma
+2T,04/03/11,Marcílio Dias,1-0,Imbituba
+2T,04/03/11,Figueirense,5-1,Metropolitano
+2T,04/03/11,Concórdia,0-1,Criciúma
+2T,05/03/11,Chapecoense,2-0,Avaí
+2T,06/03/11,Brusque,0-0,Joinville
+2T,09/03/11,Criciúma,2-3,Chapecoense
+2T,09/03/11,Avaí,4-2,Brusque
+2T,09/03/11,Imbituba,3-0,Concórdia
+2T,09/03/11,Metropolitano,3-1,Marcílio Dias
+2T,09/03/11,Joinville,1-1,Figueirense
+2T,13/03/11,Marcílio Dias,2-3,Joinville
+2T,13/03/11,Concórdia,3-0,Metropolitano
+2T,13/03/11,Chapecoense,2-2,Imbituba
+2T,13/03/11,Avaí,2-2,Criciúma
+2T,16/03/11,Brusque,1-1,Figueirense
+2T,19/03/11,Criciúma,3-0,Brusque
+2T,19/03/11,Joinville,2-2,Concórdia
+2T,20/03/11,Metropolitano,1-3,Chapecoense
+2T,20/03/11,Imbituba,0-4,Avaí
+2T,20/03/11,Figueirense,2-0,Marcílio Dias
+2T,23/03/11,Avaí,3-1,Metropolitano
+2T,23/03/11,Criciúma,2-2,Imbituba
+2T,23/03/11,Brusque,1-0,Marcílio Dias
+2T,23/03/11,Chapecoense,1-0,Joinville
+2T,23/03/11,Concórdia,2-1,Figueirense
+2T,27/03/11,Imbituba,1-2,Brusque
+2T,27/03/11,Joinville,4-0,Avaí
+2T,27/03/11,Marcílio Dias,1-1,Concórdia
+2T,27/03/11,Figueirense,2-1,Chapecoense
+2T,27/03/11,Metropolitano,3-3,Criciúma
+2T,03/04/11,Brusque,3-1,Concórdia
+2T,03/04/11,Chapecoense,1-0,Marcílio Dias
+2T,03/04/11,Criciúma,1-1,Joinville
+2T,03/04/11,Imbituba,0-0,Metropolitano
+2T,03/04/11,Avaí,0-1,Figueirense
+2T,10/04/11,Metropolitano,1-0,Brusque
+2T,10/04/11,Joinville,5-0,Imbituba
+2T,10/04/11,Figueirense,3-2,Criciúma
+2T,10/04/11,Marcílio Dias,1-2,Avaí
+2T,10/04/11,Concórdia,0-3,Chapecoense
+2T,17/04/11,Brusque,0-1,Chapecoense
+2T,17/04/11,Avaí,4-0,Concórdia
+2T,17/04/11,Criciúma,2-1,Marcílio Dias
+2T,17/04/11,Imbituba,0-6,Figueirense
+2T,17/04/11,Metropolitano,2-2,Joinville
+SF,24/04/11,Chapecoense,2-1,Joinville
+SF,24/04/11,Figueirense,0-2,Avaí
+F,01/05/11,Chapecoense,2-2,Avaí
+F,08/05/11,Criciúma,1-0,Chapecoense
+F,15/05/11,Chapecoense,1-0,Criciúma

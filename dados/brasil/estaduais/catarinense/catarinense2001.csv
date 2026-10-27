@@ -1,0 +1,105 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+,21/01/01,Joinville,1-0,Inter de Lages
+,21/01/01,Kindermann,0-0,Avaí
+,21/01/01,Figueirense,1-3,Criciúma
+,21/01/01,Atlético Alto Vale,2-1,Chapecoense
+,21/01/01,Tubarão FC,3-0,Marcílio Dias
+,27/01/01,Inter de Lages,2-0,Figueirense
+,28/01/01,Criciúma,2-2,Tubarão FC
+,28/01/01,Marcílio Dias,1-0,Atlético Alto Vale
+,28/01/01,Chapecoense,0-2,Kindermann
+,28/01/01,Avaí,1-2,Joinville
+,03/02/01,Tubarão FC,2-4,Figueirense
+,04/02/01,Joinville,2-0,Chapecoense
+,04/02/01,Kindermann,1-0,Marcílio Dias
+,04/02/01,Atlético Alto Vale,2-1,Criciúma
+,10/02/01,Marcílio Dias,2-1,Joinville
+,11/02/01,Inter de Lages,0-1,Tubarão FC
+,11/02/01,Criciúma,2-0,Kindermann
+,11/02/01,Figueirense,0-0,Atlético Alto Vale
+,11/02/01,Chapecoense,0-2,Avaí
+,17/02/01,Joinville,3-3,Criciúma
+,18/02/01,Chapecoense,2-4,Inter de Lages
+,18/02/01,Avaí,1-1,Marcílio Dias
+,18/02/01,Kindermann,2-2,Figueirense
+,18/02/01,Atlético Alto Vale,1-2,Tubarão FC
+,21/02/01,Avaí,1-0,Inter de Lages
+,03/03/01,Criciúma,0-1,Avaí
+,04/03/01,Inter de Lages,3-2,Atlético Alto Vale
+,04/03/01,Tubarão FC,2-1,Kindermann
+,04/03/01,Figueirense,1-0,Joinville
+,04/03/01,Marcílio Dias,4-0,Chapecoense
+,10/03/01,Joinville,1-3,Tubarão FC
+,10/03/01,Avaí,1-3,Figueirense
+,11/03/01,Marcílio Dias,0-0,Inter de Lages
+,11/03/01,Chapecoense,2-4,Criciúma
+,11/03/01,Kindermann,5-2,Atlético Alto Vale
+,17/03/01,Atlético Alto Vale,1-1,Joinville
+,17/03/01,Tubarão FC,1-0,Avaí
+,18/03/01,Inter de Lages,4-3,Kindermann
+,18/03/01,Figueirense,3-2,Chapecoense
+,24/03/01,Criciúma,4-1,Inter de Lages
+,24/03/01,Marcílio Dias,1-2,Figueirense
+,24/03/01,Chapecoense,1-1,Tubarão FC
+,25/03/01,Avaí,2-1,Atlético Alto Vale
+,25/03/01,Joinville,4-2,Kindermann
+,27/03/01,Criciúma,1-1,Marcílio Dias
+,31/03/01,Criciúma,2-1,Figueirense
+,01/04/01,Inter de Lages,0-1,Joinville
+,01/04/01,Avaí,1-3,Kindermann
+,01/04/01,Chapecoense,3-3,Atlético Alto Vale
+,01/04/01,Marcílio Dias,1-1,Tubarão FC
+,04/04/01,Figueirense,3-1,Inter de Lages
+,04/04/01,Joinville,2-1,Avaí
+,04/04/01,Tubarão FC,1-3,Criciúma
+,04/04/01,Atlético Alto Vale,2-1,Marcílio Dias
+,04/04/01,Kindermann,2-4,Chapecoense
+,07/04/01,Inter de Lages,1-1,Avaí
+,08/04/01,Chapecoense,3-3,Joinville
+,08/04/01,Marcílio Dias,0-0,Kindermann
+,08/04/01,Criciúma,5-2,Atlético Alto Vale
+,08/04/01,Figueirense,3-1,Tubarão FC
+,12/04/01,Tubarão FC,0-0,Inter de Lages
+,14/04/01,Atlético Alto Vale,3-2,Figueirense
+,14/04/01,Joinville,3-0,Marcílio Dias
+,14/04/01,Kindermann,1-1,Criciúma
+,14/04/01,Avaí,3-1,Chapecoense
+,18/04/01,Inter de Lages,1-1,Chapecoense
+,18/04/01,Criciúma,3-2,Joinville
+,18/04/01,Tubarão FC,2-0,Atlético Alto Vale
+,18/04/01,Marcílio Dias,4-0,Avaí
+,18/04/01,Figueirense,2-0,Kindermann
+,21/04/01,Joinville,4-4,Figueirense
+,22/04/01,Chapecoense,0-1,Marcílio Dias
+,22/04/01,Avaí,1-4,Criciúma
+,22/04/01,Kindermann,1-4,Tubarão FC
+,22/04/01,Atlético Alto Vale,2-1,Inter de Lages
+,28/04/01,Tubarão FC,2-3,Joinville
+,29/04/01,Inter de Lages,1-1,Marcílio Dias
+,29/04/01,Criciúma,3-1,Chapecoense
+,29/04/01,Figueirense,1-0,Avaí
+,29/04/01,Atlético Alto Vale,1-2,Kindermann
+,02/05/01,Joinville,5-1,Atlético Alto Vale
+,02/05/01,Kindermann,0-1,Inter de Lages
+,02/05/01,Avaí,0-1,Tubarão FC
+,02/05/01,Chapecoense,3-0,Figueirense
+,02/05/01,Marcílio Dias,3-3,Criciúma
+,05/05/01,Inter de Lages,2-1,Criciúma
+,05/05/01,Figueirense,1-1,Marcílio Dias
+,05/05/01,Tubarão FC,3-1,Chapecoense
+,05/05/01,Atlético Alto Vale,1-1,Avaí
+,05/05/01,Kindermann,3-3,Joinville
+QDF,09/05/01,Joinville,2-2,Criciúma
+QDF,09/05/01,Figueirense,4-0,Tubarão FC
+QDF,12/05/01,Tubarão FC,0-1,Joinville
+QDF,13/05/01,Criciúma,1-0,Figueirense
+QDF,16/05/01,Joinville,5-1,Figueirense
+QDF,16/05/01,Criciúma,3-3,Tubarão FC
+QDF,20/05/01,Tubarão FC,3-2,Criciúma
+QDF,20/05/01,Figueirense,0-0,Joinville
+QDF,23/05/01,Figueirense,0-1,Criciúma
+QDF,23/05/01,Joinville,4-0,Tubarão FC
+QDF,26/05/01,Tubarão FC,1-1,Figueirense
+QDF,26/05/01,Criciúma,3-3,Joinville
+F,30/05/01,Joinville,3-0,Criciúma
+F,03/06/01,Criciúma,0-2,Joinville

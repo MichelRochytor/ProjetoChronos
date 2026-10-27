@@ -1,0 +1,81 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,17/01/24,São Joseense,0-1,Cianorte
+1F,17/01/24,Andraus,0-2,Athletico Paranaense
+1F,17/01/24,Maringá,3-0,Galo Maringá
+1F,18/01/24,Operário Ferroviário,0-0,Londrina
+1F,18/01/24,Coritiba,3-1,PSTC
+1F,18/01/24,FC Cascavel,0-2,Azuriz Futebol
+1F,20/01/24,Maringá,3-0,Andraus
+1F,21/01/24,Cianorte,1-0,Londrina
+1F,21/01/24,Azuriz Futebol,0-0,Athletico Paranaense
+1F,21/01/24,Galo Maringá,1-1,FC Cascavel
+1F,21/01/24,Operário Ferroviário,2-0,PSTC
+1F,22/01/24,Coritiba,2-0,São Joseense
+1F,24/01/24,Athletico Paranaense,1-1,Maringá
+1F,24/01/24,Galo Maringá,0-1,Azuriz Futebol
+1F,24/01/24,Cianorte,1-0,Operário Ferroviário
+1F,24/01/24,FC Cascavel,1-0,Andraus
+1F,25/01/24,PSTC,1-1,São Joseense
+1F,25/01/24,Londrina,3-3,Coritiba
+1F,27/01/24,Maringá,1-1,FC Cascavel
+1F,27/01/24,Athletico Paranaense,2-1,Galo Maringá
+1F,28/01/24,Andraus,1-0,Azuriz Futebol
+1F,28/01/24,São Joseense,0-0,Londrina
+1F,28/01/24,PSTC,2-1,Cianorte
+1F,28/01/24,Coritiba,4-0,Operário Ferroviário
+1F,30/01/24,Andraus,1-0,São Joseense
+1F,31/01/24,FC Cascavel,2-0,PSTC
+1F,31/01/24,Londrina,1-2,Galo Maringá
+1F,31/01/24,Cianorte,0-1,Athletico Paranaense
+1F,01/02/24,Azuriz Futebol,1-0,Coritiba
+1F,01/02/24,Operário Ferroviário,0-1,Maringá
+1F,03/02/24,FC Cascavel,1-1,Londrina
+1F,03/02/24,Athletico Paranaense,4-0,PSTC
+1F,04/02/24,Operário Ferroviário,1-0,Azuriz Futebol
+1F,04/02/24,Galo Maringá,3-3,Cianorte
+1F,04/02/24,Coritiba,3-1,Andraus
+1F,05/02/24,Maringá,2-1,São Joseense
+1F,07/02/24,Andraus,1-1,Galo Maringá
+1F,07/02/24,PSTC,1-2,Londrina
+1F,07/02/24,Cianorte,0-1,Coritiba
+1F,07/02/24,Athletico Paranaense,1-0,FC Cascavel
+1F,08/02/24,São Joseense,0-1,Operário Ferroviário
+1F,08/02/24,Azuriz Futebol,1-1,Maringá
+1F,10/02/24,Londrina,1-2,Athletico Paranaense
+1F,10/02/24,Galo Maringá,1-3,Coritiba
+1F,11/02/24,São Joseense,2-1,FC Cascavel
+1F,11/02/24,Operário Ferroviário,4-0,Andraus
+1F,11/02/24,Maringá,1-0,PSTC
+1F,11/02/24,Cianorte,3-2,Azuriz Futebol
+1F,14/02/24,Andraus,1-1,Londrina
+1F,14/02/24,PSTC,3-3,Galo Maringá
+1F,14/02/24,Coritiba,2-2,Maringá
+1F,14/02/24,Azuriz Futebol,2-1,São Joseense
+1F,15/02/24,FC Cascavel,1-0,Cianorte
+1F,15/02/24,Athletico Paranaense,0-0,Operário Ferroviário
+1F,17/02/24,PSTC,1-0,Andraus
+1F,17/02/24,São Joseense,2-0,Galo Maringá
+1F,18/02/24,Londrina,5-2,Azuriz Futebol
+1F,18/02/24,Operário Ferroviário,1-1,FC Cascavel
+1F,18/02/24,Coritiba,1-1,Athletico Paranaense
+1F,18/02/24,Maringá,2-2,Cianorte
+1F,25/02/24,Londrina,3-1,Maringá
+1F,25/02/24,Azuriz Futebol,1-0,PSTC
+1F,25/02/24,FC Cascavel,1-0,Coritiba
+1F,25/02/24,Cianorte,0-1,Andraus
+1F,25/02/24,Galo Maringá,1-2,Operário Ferroviário
+1F,25/02/24,Athletico Paranaense,3-1,São Joseense
+QF,02/03/24,Londrina,1-0,Athletico Paranaense
+QF,03/03/24,Cianorte,0-4,Coritiba
+QF,03/03/24,Azuriz Futebol,0-0,Operário Ferroviário
+QF,04/03/24,FC Cascavel,1-0,Maringá
+QF,09/03/24,Coritiba,2-0,Cianorte
+QF,09/03/24,Maringá,3-1,FC Cascavel
+QF,10/03/24,Athletico Paranaense,6-0,Londrina
+QF,11/03/24,Operário Ferroviário,1-0,Azuriz Futebol
+SF,16/03/24,Operário Ferroviário,1-2,Athletico Paranaense
+SF,17/03/24,Maringá,2-0,Coritiba
+SF,24/03/24,Coritiba,0-0,Maringá
+SF,27/03/24,Athletico Paranaense,1-0,Operário Ferroviário
+F,30/03/24,Maringá,0-1,Athletico Paranaense
+F,06/04/24,Athletico Paranaense,3-0,Maringá

@@ -1,0 +1,81 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,20/01/07,Alecrim,1-0,Santa Cruz-RN
+1F,20/01/07,América-RN,2-1,Macau
+1F,21/01/07,ABC,1-0,São Gonçalo-RN
+1F,21/01/07,Baraúnas,1-2,Coríntians-RN
+1F,21/01/07,Potiguar de Parnamirim,1-0,ASSU
+1F,24/01/07,São Gonçalo-RN,2-2,Santa Cruz-RN
+1F,24/01/07,ABC,2-1,Alecrim
+1F,24/01/07,ASSU,2-2,Baraúnas
+1F,24/01/07,Coríntians-RN,2-0,Potiguar de Parnamirim
+1F,24/01/07,Potiguar,1-2,América-RN
+1F,27/01/07,América-RN,1-0,Coríntians-RN
+1F,28/01/07,Potiguar de Parnamirim,1-2,São Gonçalo-RN
+1F,28/01/07,Santa Cruz-RN,2-2,Potiguar
+1F,28/01/07,Alecrim,1-3,Macau
+1F,29/01/07,Baraúnas,0-0,ABC
+1F,31/01/07,Macau,1-1,Santa Cruz-RN
+1F,31/01/07,Potiguar,3-1,Alecrim
+1F,31/01/07,ASSU,2-1,América-RN
+1F,01/02/07,São Gonçalo-RN,0-0,Baraúnas
+1F,01/02/07,ABC,4-0,Potiguar de Parnamirim
+1F,04/02/07,Alecrim,1-1,ASSU
+1F,04/02/07,Santa Cruz-RN,1-1,Coríntians-RN
+1F,04/02/07,América-RN,3-1,Baraúnas
+1F,04/02/07,Potiguar,0-1,São Gonçalo-RN
+1F,05/02/07,Macau,1-0,ABC
+1F,10/02/07,Potiguar de Parnamirim,1-3,América-RN
+1F,10/02/07,ASSU,1-2,Santa Cruz-RN
+1F,11/02/07,São Gonçalo-RN,2-1,Macau
+1F,11/02/07,ABC,3-3,Potiguar
+1F,11/02/07,Coríntians-RN,0-3,Alecrim
+1F,17/02/07,Guamaré,2-0,Potiguar
+1F,22/02/07,Macau,0-1,Guamaré
+1F,24/02/07,América-RN,2-0,ABC
+1F,25/02/07,Alecrim,0-2,Baraúnas
+1F,25/02/07,Macau,4-1,Coríntians-RN
+1F,25/02/07,Guamaré,2-2,São Gonçalo-RN
+1F,25/02/07,Santa Cruz-RN,0-0,Potiguar de Parnamirim
+1F,25/02/07,Potiguar,1-0,ASSU
+1F,28/02/07,Guamaré,1-1,ASSU
+1F,03/03/07,São Gonçalo-RN,1-4,América-RN
+1F,04/03/07,ASSU,1-1,Macau
+1F,04/03/07,ABC,3-2,Guamaré
+1F,04/03/07,Potiguar de Parnamirim,1-0,Alecrim
+1F,04/03/07,Baraúnas,2-2,Santa Cruz-RN
+1F,05/03/07,Coríntians-RN,1-2,Potiguar
+1F,07/03/07,Baraúnas,4-1,Guamaré
+1F,10/03/07,Alecrim,2-2,América-RN
+1F,10/03/07,Macau,2-1,Potiguar de Parnamirim
+1F,10/03/07,ASSU,2-0,São Gonçalo-RN
+1F,11/03/07,Potiguar,4-1,Baraúnas
+1F,11/03/07,Coríntians-RN,0-2,ABC
+1F,11/03/07,Santa Cruz-RN,1-0,Guamaré
+1F,14/03/07,Guamaré,1-2,Potiguar de Parnamirim
+1F,17/03/07,América-RN,1-0,Santa Cruz-RN
+1F,17/03/07,Guamaré,2-0,Alecrim
+1F,18/03/07,ABC,0-5,ASSU
+1F,18/03/07,Potiguar de Parnamirim,1-0,Potiguar
+1F,18/03/07,São Gonçalo-RN,0-2,Coríntians-RN
+1F,18/03/07,Baraúnas,2-1,Macau
+QF,20/03/07,Potiguar de Parnamirim,1-5,América-RN
+QF,20/03/07,Coríntians-RN,1-0,ABC
+QF,20/03/07,Potiguar,0-0,ASSU
+QF,20/03/07,Macau,0-0,Baraúnas
+1F,21/03/07,Coríntians-RN,2-1,Guamaré
+1F,24/03/07,América-RN,2-1,Guamaré
+1F,24/03/07,Potiguar,3-3,Macau
+1F,25/03/07,Santa Cruz-RN,1-2,ABC
+1F,25/03/07,Alecrim,4-0,São Gonçalo-RN
+1F,25/03/07,Baraúnas,3-1,Potiguar de Parnamirim
+1F,25/03/07,ASSU,1-0,Coríntians-RN
+QF,01/04/07,América-RN,3-2,Potiguar de Parnamirim
+QF,01/04/07,ABC,3-0,Coríntians-RN
+QF,01/04/07,ASSU,0-1,Potiguar
+QF,01/04/07,Baraúnas,2-0,Macau
+SF,08/04/07,Baraúnas,1-4,América-RN
+SF,09/04/07,Potiguar,0-0,ABC
+SF,14/04/07,América-RN,3-1,Baraúnas
+SF,15/04/07,ABC,1-1,Potiguar
+F,22/04/07,ABC,1-1,América-RN
+F,29/04/07,América-RN,2-5,ABC

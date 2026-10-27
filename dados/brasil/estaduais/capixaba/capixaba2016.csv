@@ -1,0 +1,85 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+Sul,30/01/16,Estrela do Norte,0-2,At. Itapemirim
+Norte,30/01/16,Real Noroeste,2-1,São Mateus
+Norte,30/01/16,Rio Branco-ES,1-0,Linhares FC
+Sul,31/01/16,Espírito Santo FC,3-0,Doze
+Sul,03/02/16,At. Itapemirim,1-1,Desportiva Ferroviária
+Sul,04/02/16,Doze,0-2,Estrela do Norte
+Sul,13/02/16,Estrela do Norte,0-0,Espírito Santo FC
+Sul,13/02/16,Desportiva Ferroviária,3-0,Doze
+Norte,13/02/16,Real Noroeste,0-0,Rio Branco-ES
+Norte,13/02/16,Sport Club Brasil Capixaba Ltd,2-3,Linhares FC
+Sul,16/02/16,Espírito Santo FC,0-1,Desportiva Ferroviária
+Sul,17/02/16,Doze,0-1,At. Itapemirim
+Norte,17/02/16,Linhares FC,1-0,São Mateus
+Norte,17/02/16,Rio Branco-ES,2-1,Sport Club Brasil Capixaba Ltd
+Sul,20/02/16,At. Itapemirim,0-0,Espírito Santo FC
+Sul,20/02/16,Desportiva Ferroviária,1-0,Estrela do Norte
+Norte,20/02/16,Sport Club Brasil Capixaba Ltd,0-0,Real Noroeste
+Norte,20/02/16,São Mateus,2-1,Rio Branco-ES
+Norte,24/02/16,São Mateus,0-0,Sport Club Brasil Capixaba Ltd
+Norte,24/02/16,Linhares FC,1-0,Real Noroeste
+Sul,25/02/16,Desportiva Ferroviária,0-0,Espírito Santo FC
+Sul,27/02/16,At. Itapemirim,0-1,Estrela do Norte
+Norte,27/02/16,Linhares FC,1-2,Rio Branco-ES
+Norte,27/02/16,São Mateus,0-1,Real Noroeste
+Sul,28/02/16,Doze,1-0,Espírito Santo FC
+Norte,02/03/16,Sport Club Brasil Capixaba Ltd,1-0,São Mateus
+Norte,02/03/16,Real Noroeste,1-0,Linhares FC
+Sul,02/03/16,Desportiva Ferroviária,1-1,At. Itapemirim
+Sul,02/03/16,Estrela do Norte,0-0,Doze
+Norte,05/03/16,Linhares FC,1-0,Sport Club Brasil Capixaba Ltd
+Norte,05/03/16,Rio Branco-ES,1-1,Real Noroeste
+Sul,06/03/16,Espírito Santo FC,2-0,Estrela do Norte
+Sul,07/03/16,Doze,0-1,Desportiva Ferroviária
+Norte,09/03/16,São Mateus,2-0,Linhares FC
+Norte,09/03/16,Sport Club Brasil Capixaba Ltd,0-1,Rio Branco-ES
+Sul,10/03/16,At. Itapemirim,0-0,Doze
+Norte,12/03/16,Real Noroeste,2-1,Sport Club Brasil Capixaba Ltd
+Norte,12/03/16,Rio Branco-ES,2-0,São Mateus
+Sul,13/03/16,Estrela do Norte,1-2,Desportiva Ferroviária
+Sul,13/03/16,Espírito Santo FC,1-0,At. Itapemirim
+HXF,18/03/16,Desportiva Ferroviária,2-0,Linhares FC
+,19/03/16,São Mateus,4-0,Estrela do Norte
+HXF,20/03/16,Real Noroeste,0-0,Espírito Santo FC
+HXF,20/03/16,Rio Branco-ES,2-0,At. Itapemirim
+,21/03/16,Sport Club Brasil Capixaba Ltd,0-4,Doze
+HXF,23/03/16,Linhares FC,1-0,Real Noroeste
+HXF,23/03/16,Espírito Santo FC,1-0,Rio Branco-ES
+HXF,23/03/16,At. Itapemirim,1-1,Desportiva Ferroviária
+HXF,26/03/16,Linhares FC,3-3,Espírito Santo FC
+,26/03/16,Estrela do Norte,2-0,Sport Club Brasil Capixaba Ltd
+HXF,26/03/16,Desportiva Ferroviária,1-0,Rio Branco-ES
+HXF,26/03/16,Real Noroeste,4-2,At. Itapemirim
+,27/03/16,Doze,2-3,São Mateus
+HXF,29/03/16,Rio Branco-ES,1-2,Real Noroeste
+,30/03/16,São Mateus,4-3,Sport Club Brasil Capixaba Ltd
+HXF,30/03/16,Desportiva Ferroviária,1-2,Espírito Santo FC
+HXF,30/03/16,At. Itapemirim,1-0,Linhares FC
+,31/03/16,Doze,2-1,Estrela do Norte
+HXF,02/04/16,Linhares FC,3-2,Rio Branco-ES
+,02/04/16,Sport Club Brasil Capixaba Ltd,2-1,São Mateus
+HXF,02/04/16,Espírito Santo FC,0-0,At. Itapemirim
+HXF,02/04/16,Real Noroeste,1-0,Desportiva Ferroviária
+,03/04/16,Estrela do Norte,0-1,Doze
+,06/04/16,São Mateus,1-1,Doze
+,06/04/16,Sport Club Brasil Capixaba Ltd,3-2,Estrela do Norte
+HXF,09/04/16,Linhares FC,1-0,Desportiva Ferroviária
+,09/04/16,Estrela do Norte,ANU,São Mateus
+HXF,09/04/16,Espírito Santo FC,2-0,Real Noroeste
+,10/04/16,Doze,ANU,Sport Club Brasil Capixaba Ltd
+HXF,10/04/16,At. Itapemirim,1-2,Rio Branco-ES
+HXF,13/04/16,Real Noroeste,2-0,Linhares FC
+HXF,13/04/16,Rio Branco-ES,1-0,Espírito Santo FC
+HXF,14/04/16,Desportiva Ferroviária,3-1,At. Itapemirim
+HXF,16/04/16,Espírito Santo FC,2-1,Linhares FC
+HXF,16/04/16,At. Itapemirim,2-0,Real Noroeste
+HXF,17/04/16,Rio Branco-ES,1-4,Desportiva Ferroviária
+HXF,20/04/16,Linhares FC,3-2,At. Itapemirim
+HXF,20/04/16,Real Noroeste,1-0,Rio Branco-ES
+HXF,20/04/16,Espírito Santo FC,1-1,Desportiva Ferroviária
+HXF,23/04/16,At. Itapemirim,1-1,Espírito Santo FC
+HXF,23/04/16,Desportiva Ferroviária,2-0,Real Noroeste
+HXF,23/04/16,Rio Branco-ES,2-1,Linhares FC
+F,30/04/16,Espírito Santo FC,0-1,Desportiva Ferroviária
+F,07/05/16,Desportiva Ferroviária,1-0,Espírito Santo FC

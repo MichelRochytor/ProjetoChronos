@@ -1,0 +1,76 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A1,08/11/14,Parauapebas,4-0,Tapajós
+A1,09/11/14,Vênus-PA,2-1,Izabelense
+A2,09/11/14,Gavião Kyikatejê,1-1,Tuna Luso
+A2,09/11/14,São Raimundo-PA,1-1,Castanhal
+A1,12/11/14,Izabelense,2-1,Parauapebas
+A2,12/11/14,Bragantino-PA,0-1,São Raimundo-PA
+A1,12/11/14,Águia,4-2,Vênus-PA
+A2,12/11/14,Castanhal,1-1,Gavião Kyikatejê
+A1,15/11/14,Tapajós,1-0,Izabelense
+A2,16/11/14,Tuna Luso,1-0,São Raimundo-PA
+A1,16/11/14,Parauapebas,2-0,Águia
+A2,16/11/14,Castanhal,4-1,Bragantino-PA
+A2,22/11/14,São Raimundo-PA,1-1,Gavião Kyikatejê
+A1,23/11/14,Vênus-PA,0-0,Parauapebas
+A1,23/11/14,Águia,2-3,Tapajós
+A2,23/11/14,Bragantino-PA,1-0,Tuna Luso
+A1,26/11/14,Tapajós,0-0,Vênus-PA
+A1,26/11/14,Izabelense,3-0,Águia
+A2,26/11/14,Gavião Kyikatejê,1-0,Bragantino-PA
+A2,26/11/14,Tuna Luso,1-1,Castanhal
+SF,30/11/14,Parauapebas,0-0(5-3 Pen.),Gavião Kyikatejê
+SF,30/11/14,Castanhal,0-0(5-6 Pen.),Tapajós
+F,06/12/14,Parauapebas,1-1(4-2 Pen.),Tapajós
+A1,01/02/15,Remo,1-2,Parauapebas
+A2,01/02/15,Cametá,1-0,Paragominas
+A1,01/02/15,São Francisco-PA,2-2,Castanhal
+A2,02/02/15,Paysandu,4-0,Gavião Kyikatejê
+A1,04/02/15,Independente Tucuruí,1-0,Remo
+A2,05/02/15,Gavião Kyikatejê,1-1,Cametá
+A2,05/02/15,Tapajós,2-1,Paysandu
+A1,08/02/15,Parauapebas,0-2,São Francisco-PA
+A1,11/02/15,Independente Tucuruí,3-1,São Francisco-PA
+A2,14/02/15,Paragominas,1-1,Tapajós
+A2,14/02/15,Paysandu,0-1,Cametá
+A2,19/02/15,Gavião Kyikatejê,1-3,Paragominas
+A1,19/02/15,São Francisco-PA,1-1,Remo
+A1,25/02/15,Remo,1-0,Castanhal
+A1,25/02/15,Parauapebas,1-0,Independente Tucuruí
+A2,25/02/15,Paragominas,1-2,Paysandu
+A2,25/02/15,Tapajós,0-1,Gavião Kyikatejê
+SF,28/02/15,Parauapebas,1-0,Cametá
+SF,01/03/15,Tapajós,1-2,Independente Tucuruí
+,08/03/15,Independente Tucuruí,0-0(7-6 Pen.),Parauapebas
+B,14/03/15,Castanhal,0-1,Paysandu
+B,15/03/15,Remo,5-5,Tapajós
+B,15/03/15,Gavião Kyikatejê,1-1,Parauapebas
+B,15/03/15,Cametá,3-1,Independente Tucuruí
+B,15/03/15,São Francisco-PA,2-2,Paragominas
+A1,17/03/15,Castanhal,0-3,Parauapebas
+A1,17/03/15,Castanhal,1-2,Independente Tucuruí
+A2,17/03/15,Cametá,1-2,Tapajós
+B,18/03/15,Cametá,0-1,Remo
+B,19/03/15,São Francisco-PA,4-2,Gavião Kyikatejê
+B,21/03/15,Paragominas,3-0,Castanhal
+B,25/03/15,Independente Tucuruí,2-0,Paysandu
+B,25/03/15,São Francisco-PA,1-0,Tapajós
+B,25/03/15,Castanhal,1-1,Cametá
+B,25/03/15,Parauapebas,0-0,Paragominas
+B,26/03/15,Remo,2-1,Gavião Kyikatejê
+B,28/03/15,Tapajós,3-1,Parauapebas
+B,28/03/15,Paragominas,2-0,Independente Tucuruí
+B,29/03/15,Remo,1-3,Paysandu
+B,29/03/15,Gavião Kyikatejê,2-2,Castanhal
+B,01/04/15,Independente Tucuruí,2-1,Tapajós
+B,07/04/15,Cametá,3-2,São Francisco-PA
+B,12/04/15,Paysandu,1-3,Parauapebas
+B,12/04/15,Tapajós,2-3,Castanhal
+B,12/04/15,Paragominas,0-1,Remo
+B,12/04/15,Independente Tucuruí,1-1,Gavião Kyikatejê
+B,12/04/15,Paysandu,9-0,São Francisco-PA
+B,12/04/15,Parauapebas,4-1,Cametá
+SF,21/04/15,Remo,1-0,Paragominas
+SF,22/04/15,Paysandu,0-0(4-3 Pen.),Parauapebas
+,26/04/15,Remo,2-1,Paysandu
+F,03/05/15,Independente Tucuruí,0-2,Remo

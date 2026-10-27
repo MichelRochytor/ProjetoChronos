@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,14/09/69,AS Bari,1-0,Roma
+1,14/09/69,Brescia,1-4,AC Milan
+1,14/09/69,Fiorentina,1-0,Hellas Verona
+1,14/09/69,Internazionale,1-0,Bologna
+1,14/09/69,Juventus,4-1,Palermo
+1,14/09/69,Lanerossi Vicenza,3-2,Napoli
+1,14/09/69,Lazio,1-1,Torino
+1,14/09/69,Sampdoria,0-0,Cagliari
+2,21/09/69,Bologna,1-0,Lazio
+2,21/09/69,Cagliari,2-1,Lanerossi Vicenza
+2,21/09/69,Hellas Verona,1-0,Juventus
+2,21/09/69,AC Milan,1-0,AS Bari
+2,21/09/69,Napoli,0-1,Fiorentina
+2,21/09/69,Palermo,1-2,Internazionale
+2,21/09/69,Roma,1-0,Brescia
+2,21/09/69,Torino,2-1,Sampdoria
+3,28/09/69,AS Bari,0-0,Napoli
+3,28/09/69,Brescia,0-2,Cagliari
+3,28/09/69,Fiorentina,1-0,Sampdoria
+3,28/09/69,Hellas Verona,2-0,Roma
+3,28/09/69,Internazionale,2-0,Torino
+3,28/09/69,Juventus,1-1,Bologna
+3,28/09/69,Lazio,1-0,AC Milan
+3,28/09/69,Palermo,1-3,Lanerossi Vicenza
+4,05/10/69,Bologna,3-1,Palermo
+4,05/10/69,Brescia,0-0,AS Bari
+4,05/10/69,Cagliari,1-0,Lazio
+4,05/10/69,Lanerossi Vicenza,1-2,Fiorentina
+4,05/10/69,AC Milan,2-0,Hellas Verona
+4,05/10/69,Roma,2-1,Internazionale
+4,05/10/69,Sampdoria,0-0,Juventus
+4,05/10/69,Torino,0-2,Napoli
+5,12/10/69,AS Bari,0-0,Lanerossi Vicenza
+5,12/10/69,Fiorentina,0-1,Cagliari
+5,12/10/69,Hellas Verona,0-0,Bologna
+5,12/10/69,Internazionale,3-1,Brescia
+5,12/10/69,Juventus,1-2,Torino
+5,12/10/69,Lazio,1-0,Sampdoria
+5,12/10/69,Napoli,0-0,Roma
+5,12/10/69,Palermo,0-0,AC Milan
+6,19/10/69,Bologna,1-1,AS Bari
+6,19/10/69,Brescia,0-0,Hellas Verona
+6,19/10/69,Cagliari,1-1,Internazionale
+6,19/10/69,Lanerossi Vicenza,1-0,Juventus
+6,19/10/69,Lazio,5-1,Fiorentina
+6,19/10/69,AC Milan,2-3,Roma
+6,19/10/69,Sampdoria,0-0,Napoli
+6,19/10/69,Torino,1-1,Palermo
+7,26/10/69,AS Bari,0-0,Sampdoria
+7,26/10/69,Fiorentina,0-0,Torino
+7,26/10/69,Juventus,2-1,Internazionale
+7,26/10/69,Lanerossi Vicenza,3-0,Hellas Verona
+7,26/10/69,AC Milan,0-0,Bologna
+7,26/10/69,Napoli,0-2,Cagliari
+7,26/10/69,Palermo,1-3,Brescia
+7,26/10/69,Roma,2-1,Lazio
+8,09/11/69,Bologna,2-2,Fiorentina
+8,09/11/69,Cagliari,1-0,Roma
+8,09/11/69,Hellas Verona,2-0,Palermo
+8,09/11/69,Internazionale,0-0,AC Milan
+8,09/11/69,Lazio,1-0,Lanerossi Vicenza
+8,09/11/69,Napoli,1-0,Juventus
+8,09/11/69,Sampdoria,2-0,Brescia
+8,09/11/69,Torino,0-1,AS Bari
+9,16/11/69,Brescia,1-1,Bologna
+9,16/11/69,Cagliari,1-1,Juventus
+9,16/11/69,Fiorentina,3-0,AS Bari
+9,16/11/69,Lanerossi Vicenza,1-1,Internazionale
+9,16/11/69,AC Milan,1-0,Napoli
+9,16/11/69,Palermo,1-1,Lazio
+9,16/11/69,Roma,3-3,Sampdoria
+9,16/11/69,Torino,2-1,Hellas Verona
+10,30/11/69,AS Bari,1-0,Palermo
+10,30/11/69,Bologna,1-1,Lanerossi Vicenza
+10,30/11/69,Hellas Verona,1-1,Cagliari
+10,30/11/69,Internazionale,3-0,Lazio
+10,30/11/69,Juventus,2-0,Fiorentina
+10,30/11/69,Napoli,0-0,Brescia
+10,30/11/69,Roma,0-0,Torino
+10,30/11/69,Sampdoria,1-1,AC Milan
+11,07/12/69,Cagliari,1-0,Bologna
+11,07/12/69,Fiorentina,2-0,Internazionale
+11,07/12/69,Hellas Verona,4-1,AS Bari
+11,07/12/69,Lanerossi Vicenza,3-0,Roma
+11,07/12/69,Lazio,0-2,Napoli
+11,07/12/69,AC Milan,0-2,Juventus
+11,07/12/69,Palermo,3-0,Sampdoria
+11,07/12/69,Torino,1-0,Brescia
+12,14/12/69,Bologna,1-2,Napoli
+12,14/12/69,Brescia,0-1,Juventus
+12,14/12/69,Fiorentina,2-2,Roma
+12,14/12/69,Internazionale,1-0,AS Bari
+12,14/12/69,Lazio,0-1,Hellas Verona
+12,14/12/69,Palermo,1-0,Cagliari
+12,14/12/69,Sampdoria,0-1,Lanerossi Vicenza
+12,14/12/69,Torino,0-1,AC Milan
+13,21/12/69,AS Bari,0-0,Cagliari
+13,21/12/69,Bologna,0-1,Torino
+13,21/12/69,Hellas Verona,1-1,Sampdoria
+13,21/12/69,Juventus,2-1,Lazio
+13,21/12/69,Lanerossi Vicenza,0-1,Brescia
+13,21/12/69,AC Milan,4-2,Fiorentina
+13,21/12/69,Napoli,0-0,Internazionale
+13,21/12/69,Roma,1-1,Palermo
+14,28/12/69,AS Bari,0-0,Lazio
+14,28/12/69,Brescia,1-2,Fiorentina
+14,28/12/69,Cagliari,1-1,AC Milan
+14,28/12/69,Internazionale,0-0,Hellas Verona
+14,28/12/69,Palermo,0-0,Napoli
+14,28/12/69,Roma,0-3,Juventus
+14,28/12/69,Sampdoria,0-0,Bologna
+14,28/12/69,Torino,1-0,Lanerossi Vicenza
+15,02/01/70,Bologna,1-1,Roma
+15,02/01/70,Cagliari,2-0,Torino
+15,02/01/70,Fiorentina,3-1,Palermo
+15,02/01/70,Internazionale,3-2,Sampdoria
+15,02/01/70,Juventus,1-0,AS Bari
+15,02/01/70,Lanerossi Vicenza,1-0,AC Milan
+15,02/01/70,Lazio,1-0,Brescia
+15,02/01/70,Napoli,2-1,Hellas Verona
+16,10/01/70,Bologna,2-1,Internazionale
+16,10/01/70,Cagliari,4-0,Sampdoria
+16,10/01/70,Hellas Verona,0-1,Fiorentina
+16,10/01/70,AC Milan,1-1,Brescia
+16,10/01/70,Napoli,1-0,Lanerossi Vicenza
+16,10/01/70,Palermo,1-3,Juventus
+16,10/01/70,Roma,1-0,AS Bari
+16,10/01/70,Torino,3-0,Lazio
+17,17/01/70,AS Bari,0-5,AC Milan
+17,17/01/70,Brescia,0-1,Roma
+17,17/01/70,Fiorentina,1-2,Napoli
+17,17/01/70,Internazionale,2-0,Palermo
+17,17/01/70,Juventus,3-0,Hellas Verona
+17,17/01/70,Lanerossi Vicenza,1-2,Cagliari
+17,17/01/70,Lazio,1-0,Bologna
+17,17/01/70,Sampdoria,1-1,Torino
+18,24/01/70,Bologna,0-0,Juventus
+18,24/01/70,Cagliari,4-0,Brescia
+18,24/01/70,Lanerossi Vicenza,1-1,Palermo
+18,24/01/70,AC Milan,3-0,Lazio
+18,24/01/70,Napoli,1-0,AS Bari
+18,24/01/70,Roma,1-1,Hellas Verona
+18,24/01/70,Sampdoria,1-3,Fiorentina
+18,24/01/70,Torino,0-0,Internazionale
+19,31/01/70,AS Bari,2-0,Brescia
+19,31/01/70,Fiorentina,2-1,Lanerossi Vicenza
+19,31/01/70,Hellas Verona,2-2,AC Milan
+19,31/01/70,Internazionale,2-0,Roma
+19,31/01/70,Juventus,2-0,Sampdoria
+19,31/01/70,Lazio,0-2,Cagliari
+19,31/01/70,Napoli,4-0,Torino
+19,31/01/70,Palermo,1-0,Bologna
+20,07/02/70,Bologna,0-0,Hellas Verona
+20,07/02/70,Brescia,1-1,Internazionale
+20,07/02/70,Cagliari,0-0,Fiorentina
+20,07/02/70,Lanerossi Vicenza,2-0,AS Bari
+20,07/02/70,AC Milan,1-0,Palermo
+20,07/02/70,Roma,2-1,Napoli
+20,07/02/70,Sampdoria,0-2,Lazio
+20,07/02/70,Torino,0-3,Juventus
+21,14/02/70,AS Bari,0-2,Bologna
+21,14/02/70,Fiorentina,2-0,Lazio
+21,14/02/70,Hellas Verona,0-0,Brescia
+21,14/02/70,Internazionale,1-0,Cagliari
+21,14/02/70,Juventus,4-0,Lanerossi Vicenza
+21,14/02/70,Napoli,0-2,Sampdoria
+21,14/02/70,Palermo,1-0,Torino
+21,14/02/70,Roma,0-1,AC Milan
+22,28/02/70,Bologna,0-1,AC Milan
+22,28/02/70,Brescia,4-2,Palermo
+22,28/02/70,Cagliari,2-0,Napoli
+22,28/02/70,Hellas Verona,3-1,Lanerossi Vicenza
+22,28/02/70,Internazionale,0-0,Juventus
+22,28/02/70,Lazio,1-1,Roma
+22,28/02/70,Sampdoria,1-0,AS Bari
+22,28/02/70,Torino,1-0,Fiorentina
+23,07/03/70,AS Bari,0-1,Torino
+23,07/03/70,Brescia,0-0,Sampdoria
+23,07/03/70,Fiorentina,0-1,Bologna
+23,07/03/70,Juventus,0-0,Napoli
+23,07/03/70,Lanerossi Vicenza,2-1,Lazio
+23,07/03/70,AC Milan,0-1,Internazionale
+23,07/03/70,Palermo,1-0,Hellas Verona
+23,07/03/70,Roma,1-1,Cagliari
+24,14/03/70,AS Bari,1-1,Fiorentina
+24,14/03/70,Bologna,0-3,Brescia
+24,14/03/70,Hellas Verona,0-1,Torino
+24,14/03/70,Internazionale,0-0,Lanerossi Vicenza
+24,14/03/70,Juventus,2-2,Cagliari
+24,14/03/70,Lazio,4-0,Palermo
+24,14/03/70,Napoli,1-1,AC Milan
+24,14/03/70,Sampdoria,2-0,Roma
+25,21/03/70,Brescia,1-2,Napoli
+25,21/03/70,Cagliari,1-0,Hellas Verona
+25,21/03/70,Fiorentina,2-0,Juventus
+25,21/03/70,Lanerossi Vicenza,1-1,Bologna
+25,21/03/70,Lazio,3-1,Internazionale
+25,21/03/70,AC Milan,0-0,Sampdoria
+25,21/03/70,Palermo,0-0,AS Bari
+25,21/03/70,Torino,0-0,Roma
+26,28/03/70,AS Bari,0-2,Hellas Verona
+26,28/03/70,Bologna,0-0,Cagliari
+26,28/03/70,Brescia,0-1,Torino
+26,28/03/70,Internazionale,3-0,Fiorentina
+26,28/03/70,Juventus,3-0,AC Milan
+26,28/03/70,Napoli,1-1,Lazio
+26,28/03/70,Roma,1-0,Lanerossi Vicenza
+26,28/03/70,Sampdoria,1-0,Palermo
+27,04/04/70,AS Bari,0-1,Internazionale
+27,04/04/70,Cagliari,2-0,Palermo
+27,04/04/70,Hellas Verona,1-1,Lazio
+27,04/04/70,Juventus,1-0,Brescia
+27,04/04/70,Lanerossi Vicenza,2-1,Sampdoria
+27,04/04/70,AC Milan,3-0,Torino
+27,04/04/70,Napoli,0-0,Bologna
+27,04/04/70,Roma,0-1,Fiorentina
+28,11/04/70,Brescia,1-1,Lanerossi Vicenza
+28,11/04/70,Cagliari,2-0,AS Bari
+28,11/04/70,Fiorentina,4-2,AC Milan
+28,11/04/70,Internazionale,1-0,Napoli
+28,11/04/70,Lazio,2-0,Juventus
+28,11/04/70,Palermo,2-2,Roma
+28,11/04/70,Sampdoria,2-1,Hellas Verona
+28,11/04/70,Torino,1-1,Bologna
+29,18/04/70,Bologna,1-1,Sampdoria
+29,18/04/70,Fiorentina,0-1,Brescia
+29,18/04/70,Hellas Verona,1-3,Internazionale
+29,18/04/70,Juventus,1-1,Roma
+29,18/04/70,Lanerossi Vicenza,1-0,Torino
+29,18/04/70,Lazio,4-1,AS Bari
+29,18/04/70,AC Milan,0-0,Cagliari
+29,18/04/70,Napoli,0-0,Palermo
+30,25/04/70,AS Bari,2-1,Juventus
+30,25/04/70,Brescia,0-0,Lazio
+30,25/04/70,Hellas Verona,1-0,Napoli
+30,25/04/70,AC Milan,1-0,Lanerossi Vicenza
+30,25/04/70,Palermo,1-1,Fiorentina
+30,25/04/70,Roma,1-2,Bologna
+30,25/04/70,Sampdoria,0-5,Internazionale
+30,25/04/70,Torino,0-4,Cagliari

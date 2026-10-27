@@ -1,0 +1,96 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,13/02/00,Parnahyba,2-0,4 de Julho
+A,13/02/00,Flamengo-PI,1-0,Paysandu EC
+B,13/02/00,Caiçara,2-1,Oeiras AC
+B,13/02/00,Corisabbá,1-0,Piauí
+A,21/02/00,4 de Julho,1-2,Flamengo-PI
+A,21/02/00,Parnahyba,2-1,Paysandu EC
+B,21/02/00,Oeiras AC,4-0,Picos
+B,21/02/00,Piauí,0-0,Caiçara
+A,23/02/00,Flamengo-PI,4-1,Parnahyba
+A,23/02/00,River-PI,2-1,Paysandu EC
+B,23/02/00,Picos,1-1,Caiçara
+B,23/02/00,Corisabbá,0-1,Oeiras AC
+A,27/02/00,Paysandu EC,1-2,4 de Julho
+B,27/02/00,Caiçara,0-2,Corisabbá
+B,27/02/00,Piauí,1-1,Picos
+A,01/03/00,River-PI,4-0,Parnahyba
+A,02/03/00,4 de Julho,1-0,River-PI
+B,02/03/00,Picos,3-1,Corisabbá
+B,02/03/00,Oeiras AC,0-2,Piauí
+A,12/03/00,River-PI,0-2,Flamengo-PI
+B,12/03/00,Oeiras AC,3-0,Caiçara
+A,12/03/00,4 de Julho,3-0,Parnahyba
+B,12/03/00,Corisabbá,1-0,Picos
+B,19/03/00,Picos,2-0,Oeiras AC
+A,19/03/00,River-PI,1-0,4 de Julho
+A,19/03/00,Parnahyba,1-4,Flamengo-PI
+B,19/03/00,Piauí,0-0,Corisabbá
+A,26/03/00,Paysandu EC,1-1,Flamengo-PI
+B,26/03/00,Caiçara,1-0,Picos
+B,26/03/00,Piauí,0-4,Oeiras AC
+A,02/04/00,Flamengo-PI,2-2,4 de Julho
+B,02/04/00,Corisabbá,1-0,Caiçara
+A,02/04/00,Paysandu EC,0-1,River-PI
+A,09/04/00,Parnahyba,2-1,River-PI
+A,09/04/00,4 de Julho,2-1,Paysandu EC
+B,09/04/00,Picos,0-2,Piauí
+B,09/04/00,Oeiras AC,2-1,Corisabbá
+A,15/04/00,Flamengo-PI,0-1,River-PI
+B,15/04/00,Caiçara,4-1,Piauí
+A,16/04/00,Parnahyba,1-1,Paysandu EC
+2F,22/04/00,Oeiras AC,2-2,Corisabbá
+2F,23/04/00,Flamengo-PI,6-2,Caiçara
+2F,24/04/00,River-PI,4-2,4 de Julho
+TF,30/04/00,River-PI,4-1,Corisabbá
+TF,03/05/00,Flamengo-PI,2-1,Corisabbá
+A,06/05/00,4 de Julho,4-0,Piauí
+B,06/05/00,Paysandu EC,2-0,Oeiras AC
+TF,07/05/00,River-PI,2-1,Flamengo-PI
+A,10/05/00,Piauí,1-3,River-PI
+A,10/05/00,Flamengo-PI,2-1,Caiçara
+B,10/05/00,Parnahyba,1-1,Oeiras AC
+B,10/05/00,Corisabbá,3-3,Picos
+A,14/05/00,River-PI,3-2,4 de Julho
+A,14/05/00,Caiçara,1-1,Piauí
+B,14/05/00,Parnahyba,1-1,Corisabbá
+B,14/05/00,Picos,1-1,Oeiras AC
+B,16/05/00,Paysandu EC,0-3,Corisabbá
+A,16/05/00,Flamengo-PI,3-1,Piauí
+A,16/05/00,River-PI,3-0,Caiçara
+B,17/05/00,Paysandu EC,2-1,Picos
+A,21/05/00,4 de Julho,2-2,Flamengo-PI
+B,21/05/00,Oeiras AC,7-1,Corisabbá
+B,21/05/00,Parnahyba,1-1,Paysandu EC
+B,22/05/00,Parnahyba,0-3,Picos
+A,28/05/00,Flamengo-PI,0-1,River-PI
+A,28/05/00,Caiçara,1-2,4 de Julho
+A,03/06/00,Piauí,0-4,4 de Julho
+B,03/06/00,Oeiras AC,1-0,Paysandu EC
+A,03/06/00,Caiçara,0-1,River-PI
+B,03/06/00,Picos,2-2,Corisabbá
+A,07/06/00,Piauí,1-2,Flamengo-PI
+B,07/06/00,Picos,2-1,Paysandu EC
+B,07/06/00,Corisabbá,1-0,Oeiras AC
+B,09/06/00,Corisabbá,1-2,Paysandu EC
+A,10/06/00,4 de Julho,9-0,Caiçara
+B,10/06/00,Oeiras AC,2-1,Parnahyba
+A,10/06/00,River-PI,2-1,Piauí
+A,14/06/00,Piauí,1-1,Caiçara
+B,14/06/00,Picos,2-2,Parnahyba
+A,14/06/00,Flamengo-PI,1-2,4 de Julho
+A,18/06/00,River-PI,1-0,4 de Julho
+A,18/06/00,Flamengo-PI,4-2,Caiçara
+B,18/06/00,Corisabbá,0-3,Parnahyba
+B,18/06/00,Oeiras AC,4-2,Picos
+A,22/06/00,River-PI,2-1,Flamengo-PI
+B,22/06/00,Parnahyba,5-3,Paysandu EC
+2F,25/06/00,4 de Julho,7-1,Paysandu EC
+2F,25/06/00,Oeiras AC,1-4,Flamengo-PI
+2F,25/06/00,River-PI,4-1,Picos
+TF,02/07/00,4 de Julho,1-1,Flamengo-PI
+TF,04/07/00,River-PI,0-2,Flamengo-PI
+F,12/07/00,4 de Julho,1-2,River-PI
+F,16/07/00,River-PI,1-1,4 de Julho
+F,19/07/00,River-PI,2-2,4 de Julho
+TF,29/07/00,River-PI,2-3,4 de Julho

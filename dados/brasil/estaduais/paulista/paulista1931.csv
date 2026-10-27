@@ -1,0 +1,183 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,29/03/31,CE América,3-2,Germânia
+C,29/03/31,Palestra Itália,3-1,Corinthians
+C,29/03/31,Guarani,6-3,EC Sírio
+C,29/03/31,Santos,2-2,São Paulo
+C,29/03/31,Juventus-SP,3-4,Ypiranga-SP
+C,04/04/31,Santos,4-1,Ypiranga-SP
+C,05/04/31,CE América,2-1,AA São Bento
+C,05/04/31,Palestra Itália,0-0,Portuguesa
+C,05/04/31,Atlético Santista,3-4,Juventus-SP
+C,05/04/31,EC Sírio,5-2,Germânia
+C,05/04/31,Corinthians,2-2,Guarani
+C,12/04/31,Guarani,2-3,Portuguesa
+C,12/04/31,São Paulo,3-1,SC Internacional-SP
+C,12/04/31,Juventus-SP,4-2,CE América
+C,12/04/31,AA São Bento,1-5,EC Sírio
+C,12/04/31,Santos,2-2,Atlético Santista
+C,30/04/31,EC Sírio,2-3,Juventus-SP
+C,01/05/31,CE América,2-3,Santos
+C,01/05/31,Ypiranga-SP,0-3,SC Internacional-SP
+C,01/05/31,Palestra Itália,3-2,São Paulo
+C,01/05/31,AA São Bento,0-3,Corinthians
+C,01/05/31,Portuguesa,2-0,Germânia
+C,10/05/31,Juventus-SP,1-4,Corinthians
+C,10/05/31,São Paulo,2-2,Guarani
+C,10/05/31,AA São Bento,2-3,Portuguesa
+C,10/05/31,Palestra Itália,5-0,Ypiranga-SP
+C,10/05/31,Atlético Santista,4-1,SC Internacional-SP
+C,10/05/31,Santos,3-2,EC Sírio
+C,16/05/31,São Paulo,4-1,Germânia
+C,17/05/31,Guarani,3-1,Ypiranga-SP
+C,17/05/31,SC Internacional-SP,5-1,CE América
+C,17/05/31,Palestra Itália,5-1,Atlético Santista
+C,17/05/31,Corinthians,2-3,Santos
+C,17/05/31,Portuguesa,4-1,Juventus-SP
+C,24/05/31,Palestra Itália,8-2,CE América
+C,24/05/31,Ypiranga-SP,2-1,Germânia
+C,24/05/31,AA São Bento,2-4,São Paulo
+C,24/05/31,Santos,4-1,Portuguesa
+C,24/05/31,Atlético Santista,1-3,Guarani
+C,24/05/31,SC Internacional-SP,1-3,EC Sírio
+C,31/05/31,Guarani,2-0,CE América
+C,31/05/31,São Paulo,3-1,Juventus-SP
+C,31/05/31,AA São Bento,2-2,Ypiranga-SP
+C,31/05/31,Palestra Itália,1-0,EC Sírio
+C,31/05/31,Atlético Santista,4-1,Germânia
+C,31/05/31,SC Internacional-SP,1-4,Corinthians
+C,07/06/31,Guarani,0-1,Palestra Itália
+C,07/06/31,EC Sírio,1-1,Corinthians
+C,07/06/31,AA São Bento,3-3,Germânia
+C,07/06/31,Santos,4-0,Juventus-SP
+C,07/06/31,São Paulo,2-0,Ypiranga-SP
+C,07/06/31,Atlético Santista,5-1,CE América
+C,07/06/31,SC Internacional-SP,1-1,Portuguesa
+C,14/06/31,Juventus-SP,3-1,Germânia
+C,14/06/31,São Paulo,3-3,Atlético Santista
+C,14/06/31,Portuguesa,3-2,EC Sírio
+C,14/06/31,Ypiranga-SP,2-5,CE América
+C,14/06/31,Guarani,0-1,SC Internacional-SP
+C,14/06/31,Santos,7-0,AA São Bento
+C,21/06/31,Corinthians,3-2,Portuguesa
+C,21/06/31,SC Internacional-SP,0-2,Palestra Itália
+C,21/06/31,Juventus-SP,2-1,AA São Bento
+C,21/06/31,São Paulo,8-1,CE América
+C,21/06/31,Atlético Santista,5-1,Ypiranga-SP
+C,21/06/31,Santos,1-0,Germânia
+C,28/06/31,Juventus-SP,3-4,Guarani
+C,28/06/31,EC Sírio,3-4,Ypiranga-SP
+C,28/06/31,Santos,4-2,Palestra Itália
+C,28/06/31,São Paulo,2-2,Corinthians
+C,28/06/31,CE América,0-1,Portuguesa
+C,28/06/31,SC Internacional-SP,4-1,Germânia
+C,20/09/31,Corinthians,3-4,Ypiranga-SP
+C,20/09/31,São Paulo,5-1,EC Sírio
+C,20/09/31,Palestra Itália,3-1,Juventus-SP
+C,20/09/31,Atlético Santista,0-0,Portuguesa
+C,20/09/31,AA São Bento,3-2,SC Internacional-SP
+C,20/09/31,Santos,3-1,Guarani
+C,27/09/31,CE América,1-1,Corinthians
+C,27/09/31,SC Internacional-SP,1-2,Santos
+C,27/09/31,Atlético Santista,3-1,EC Sírio
+C,27/09/31,São Paulo,2-1,Portuguesa
+C,27/09/31,AA São Bento,5-1,Guarani
+C,27/09/31,Germânia,0-7,Palestra Itália
+C,04/10/31,Guarani,5-0,Germânia
+C,04/10/31,Portuguesa,1-0,Ypiranga-SP
+C,04/10/31,Juventus-SP,0-0,SC Internacional-SP
+C,04/10/31,EC Sírio,2-0,CE América
+C,04/10/31,Corinthians,4-2,Atlético Santista
+C,04/10/31,Palestra Itália,3-2,AA São Bento
+C,11/10/31,Germânia,2-5,Corinthians
+C,11/10/31,AA São Bento,1-4,Atlético Santista
+C,18/10/31,Guarani,2-2,Corinthians
+C,18/10/31,São Paulo,6-0,Ypiranga-SP
+C,18/10/31,AA São Bento,1-4,Palestra Itália
+C,18/10/31,SC Internacional-SP,1-1,Juventus-SP
+C,18/10/31,Atlético Santista,1-0,Santos
+C,18/10/31,CE América,1-4,Portuguesa
+C,18/10/31,EC Sírio,5-1,Germânia
+C,24/10/31,AA São Bento,2-0,EC Sírio
+C,24/10/31,Palestra Itália,3-1,Portuguesa
+C,24/10/31,Atlético Santista,2-1,SC Internacional-SP
+C,25/10/31,Corinthians,4-1,Germânia
+C,25/10/31,São Paulo,4-2,Santos
+C,25/10/31,CE América,0-1,Juventus-SP
+C,25/10/31,Ypiranga-SP,0-2,Guarani
+C,31/10/31,São Paulo,2-0,SC Internacional-SP
+C,01/11/31,Germânia,3-2,Ypiranga-SP
+C,01/11/31,Palestra Itália,3-1,EC Sírio
+C,01/11/31,Atlético Santista,4-0,CE América
+C,01/11/31,Guarani,0-3,Santos
+C,01/11/31,Corinthians,3-1,AA São Bento
+C,01/11/31,Juventus-SP,1-3,Portuguesa
+C,08/11/31,Portuguesa,2-2,Atlético Santista
+C,08/11/31,São Paulo,7-0,CE América
+C,08/11/31,Corinthians,0-2,EC Sírio
+C,08/11/31,Santos,4-0,Germânia
+C,08/11/31,Ypiranga-SP,0-2,AA São Bento
+C,08/11/31,Palestra Itália,4-0,Juventus-SP
+C,08/11/31,SC Internacional-SP,1-0,Guarani
+C,15/11/31,Guarani,3-1,CE América
+C,15/11/31,Portuguesa,1-3,São Paulo
+C,15/11/31,Juventus-SP,3-2,Atlético Santista
+C,15/11/31,SC Internacional-SP,3-1,Germânia
+C,15/11/31,AA São Bento,2-2,Santos
+C,15/11/31,Palestra Itália,3-2,Corinthians
+C,15/11/31,EC Sírio,5-1,Ypiranga-SP
+C,22/11/31,EC Sírio,0-2,Santos
+C,22/11/31,Corinthians,3-3,Ypiranga-SP
+C,22/11/31,Portuguesa,0-2,Guarani
+C,22/11/31,AA São Bento,5-2,SC Internacional-SP
+C,22/11/31,Germânia,3-0,CE América
+C,22/11/31,Atlético Santista,3-1,Palestra Itália
+C,22/11/31,Juventus-SP,1-8,São Paulo
+C,29/11/31,Germânia,0-7,Portuguesa
+C,29/11/31,Santos,1-1,Corinthians
+C,29/11/31,AA São Bento,2-2,CE América
+C,29/11/31,Guarani,1-0,Juventus-SP
+C,29/11/31,SC Internacional-SP,3-2,EC Sírio
+C,29/11/31,Atlético Santista,1-1,São Paulo
+C,29/11/31,Palestra Itália,6-1,Ypiranga-SP
+C,06/12/31,Corinthians,2-2,SC Internacional-SP
+C,06/12/31,Portuguesa,4-0,AA São Bento
+C,06/12/31,Germânia,2-1,Juventus-SP
+C,06/12/31,Santos,5-0,Ypiranga-SP
+C,06/12/31,CE América,1-6,EC Sírio
+C,06/12/31,Guarani,1-4,Atlético Santista
+C,06/12/31,São Paulo,4-0,Palestra Itália
+C,13/12/31,Corinthians,6-1,CE América
+C,13/12/31,Juventus-SP,4-0,AA São Bento
+C,13/12/31,EC Sírio,2-1,Portuguesa
+C,13/12/31,Germânia,2-2,Atlético Santista
+C,13/12/31,Palestra Itália,1-2,Santos
+C,13/12/31,Guarani,0-2,São Paulo
+C,13/12/31,SC Internacional-SP,0-0,Ypiranga-SP
+C,20/12/31,Germânia,3-3,São Paulo
+C,20/12/31,Portuguesa,1-0,Corinthians
+C,20/12/31,CE América,2-1,Ypiranga-SP
+C,20/12/31,Juventus-SP,3-1,EC Sírio
+C,20/12/31,Santos,5-1,SC Internacional-SP
+C,20/12/31,Atlético Santista,4-3,AA São Bento
+C,20/12/31,Palestra Itália,3-1,Guarani
+C,27/12/31,Corinthians,6-2,Juventus-SP
+C,27/12/31,Santos,8-0,CE América
+C,27/12/31,Germânia,3-6,Guarani
+C,27/12/31,EC Sírio,1-1,Atlético Santista
+C,27/12/31,AA São Bento,2-4,São Paulo
+C,27/12/31,Palestra Itália,2-1,SC Internacional-SP
+C,27/12/31,Ypiranga-SP,1-2,Portuguesa
+C,03/01/32,CE América,1-0,SC Internacional-SP
+C,03/01/32,Palestra Itália,5-2,Germânia
+C,03/01/32,Ypiranga-SP,0-3,Juventus-SP
+C,03/01/32,Atlético Santista,1-1,Corinthians
+C,03/01/32,Portuguesa,2-2,Santos
+C,03/01/32,Guarani,2-2,AA São Bento
+C,03/01/32,São Paulo,2-1,EC Sírio
+C,10/01/32,Corinthians,1-4,São Paulo
+C,10/01/32,Portuguesa,5-1,SC Internacional-SP
+C,10/01/32,AA São Bento,1-2,Germânia
+C,10/01/32,Juventus-SP,1-1,Santos
+C,10/01/32,EC Sírio,4-3,Guarani
+C,10/01/32,Atlético Santista,3-1,Ypiranga-SP
+C,10/01/32,Palestra Itália,6-3,CE América

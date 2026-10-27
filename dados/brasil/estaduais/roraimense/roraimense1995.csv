@@ -1,0 +1,101 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+10,10/01/20,Lanús,1-1,Unión
+7,16/01/20,Boca Juniors,4-3,Independiente
+19,30/01/20,Boca Juniors,4-1,Unión
+1,04/02/20,Gimnasia y Tiro,0-1,Newell´s Old Boys
+5,05/02/20,Racing Club,2-1,Gimnasia de Jujuy
+18,09/02/20,Rosario Central,2-3,Independiente
+7,19/02/20,Vélez Sarsfield,4-4,Argentinos Juniors
+8,23/02/20,Estudiantes,0-4,Newell´s Old Boys
+19,24/02/20,San Lorenzo,4-2,Huracán
+9,05/03/20,Vélez Sarsfield,4-1,Estudiantes
+10,23/03/20,Colón,4-4,Platense
+18,19/04/20,Gimnasia y Tiro,1-3,Boca Juniors
+5,20/04/20,Boca Juniors,0-1,San Lorenzo
+7,05/05/20,Gimnasia y Tiro,1-0,Colón
+14,17/05/20,Lanús,2-4,Vélez Sarsfield
+3,27/05/20,Unión,0-3,Vélez Sarsfield
+10,05/06/20,Deportivo Español,4-3,Gimnasia
+17,06/06/20,Independiente,1-4,Lanús
+1,19/06/20,Ferro Carril Oeste,0-3,Gimnasia de Jujuy
+19,21/07/20,Platense,2-4,Gimnasia y Tiro
+16,31/07/20,River Plate,3-1,Independiente
+13,08/08/20,Argentinos Juniors,3-1,Independiente
+15,25/08/20,Unión,2-0,Gimnasia
+14,29/08/20,Huracán,2-2,Unión
+18,26/09/20,Deportivo Español,0-2,San Lorenzo
+3,09/10/20,Gimnasia,4-2,Independiente
+8,19/10/20,Gimnasia de Jujuy,4-3,Boca Juniors
+8,22/10/20,Argentinos Juniors,2-4,Deportivo Español
+9,04/11/20,Argentinos Juniors,3-1,San Lorenzo
+11,24/11/20,Gimnasia,3-3,Huracán
+10,09/12/20,Estudiantes,4-1,San Lorenzo
+10,10/12/20,River Plate,1-2,Boca Juniors
+6,22/12/20,Colón,3-3,Racing Club
+17,22/12/20,Gimnasia de Jujuy,4-0,River Plate
+18,23/12/20,River Plate,2-1,Colón
+15,25/12/20,Gimnasia y Tiro,1-1,Racing Club
+14,15/01/21,Gimnasia,3-4,Gimnasia y Tiro
+18,01/02/21,Unión,1-4,Argentinos Juniors
+3,18/02/21,Rosario Central,0-4,Lanús
+18,22/02/21,Huracán,1-1,Vélez Sarsfield
+2,27/02/21,Colón,1-3,Ferro Carril Oeste
+2,05/03/21,Independiente,0-1,Huracán
+13,13/03/21,Estudiantes,0-2,Gimnasia de Jujuy
+16,21/03/21,Ferro Carril Oeste,2-3,Vélez Sarsfield
+10,07/04/21,Huracán,4-0,Argentinos Juniors
+1,05/05/21,Rosario Central,1-1,Colón
+6,05/05/21,Rosario Central,0-3,Deportivo Español
+4,08/05/21,Newell´s Old Boys,4-2,Platense
+4,16/05/21,River Plate,4-1,Deportivo Español
+13,21/05/21,San Lorenzo,2-2,Colón
+22,02/11/21,Cabeceirense,4-3,São Paio
+12,15/11/21,A.R.C Pencelo,1-4,Ponte
+4,15/11/21,Santa Eulália,1-0,São Paio
+23,19/11/21,Ponte,4-2,CD Celoricense
+6,08/12/21,Santa Eulália,4-0,Ponte
+20,18/12/21,CD Celoricense,0-3,A.R.C Pencelo
+30,27/12/21,São Paio,4-0,Os Sandinenses B
+17,11/01/22,Cabeceirense,2-0,CD Celoricense
+22,13/01/22,Pevidém,0-0,A.R.C Pencelo
+2,10/03/22,U. Torcatense,3-2,A.R.C Pencelo
+3,28/03/22,São Paio,3-1,U. Torcatense
+13,05/04/22,Aldão,4-1,A.R.C Pencelo
+10,22/04/22,A.R.C Pencelo,3-4,São Paio
+29,25/04/22,U. Torcatense,3-2,Cabeceirense
+28,28/04/22,A.R.C Pencelo,2-0,Aldão
+18,09/05/22,Os Sandinenses B,4-0,Aldão
+7,15/05/22,Os Sandinenses B,1-1,U. Torcatense
+16,16/05/22,Aldão,4-2,Ponte
+29,30/05/22,CRC Briteiros,3-4,Desp. Ases S. Jorge
+6,10/06/22,Pevidém,2-2,Desp. Ases S. Jorge
+17,17/06/22,São Paio,4-3,Desp. Ronfe
+6,03/07/22,CD Celoricense,0-1,São Paio
+19,23/07/22,Ponte,4-2,Desp. Ronfe
+30,21/08/22,Pevidém,4-2,U. Torcatense
+15,15/09/22,U. Torcatense,1-4,Pevidém
+2,16/09/22,Os Sandinenses B,0-0,Ponte
+27,26/09/22,Os Sandinenses B,0-1,Pevidém
+14,06/10/22,Desp. Ases S. Jorge,2-3,CRC Briteiros
+24,13/10/22,Cabeceirense,1-1,Ponte
+11,03/11/22,U. Torcatense,4-2,Santa Eulália
+15,09/12/22,Santa Eulália,3-2,Cabeceirense
+25,26/12/22,Desp. Ronfe,1-0,Santa Eulália
+9,03/01/23,Desp. Ronfe,2-1,U. Torcatense
+17,21/02/23,Ponte,4-0,Os Sandinenses B
+2,02/03/23,Desp. Ronfe,3-3,São Paio
+28,28/03/23,Cabeceirense,3-0,Desp. Ronfe
+22,08/04/23,U. Torcatense,3-0,Os Sandinenses B
+9,25/04/23,CRC Briteiros,1-3,Santa Eulália
+1,03/05/23,Pevidém,4-0,Santa Eulália
+12,23/05/23,Pevidém,1-2,Os Sandinenses B
+7,02/06/23,CRC Briteiros,0-3,Desp. Ronfe
+26,08/06/23,Desp. Ases S. Jorge,3-1,Ponte
+4,05/07/23,CRC Briteiros,1-1,Aldão
+28,09/08/23,CD Celoricense,3-2,U. Torcatense
+20,17/08/23,Cabeceirense,0-3,Desp. Ases S. Jorge
+29,19/08/23,Desp. Ronfe,3-4,Pevidém
+9,11/09/23,São Paio,4-1,Desp. Ases S. Jorge
+8,30/10/23,U. Torcatense,3-3,CRC Briteiros
+10,01/01/24,CD Celoricense,1-2,Os Sandinenses B
+27,04/01/24,CRC Briteiros,0-3,Cabeceirense

@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,11/09/83,Juventus,7-0,Ascoli
+1,11/09/83,Roma,2-0,Pisa
+1,11/09/83,Fiorentina,5-1,Napoli
+1,11/09/83,Internazionale,1-2,Sampdoria
+1,11/09/83,Hellas Verona,4-2,Lazio
+1,11/09/83,Avellino,4-0,AC Milan
+1,11/09/83,Genoa,0-5,Udinese
+1,11/09/83,Catania,0-0,Torino
+2,17/09/83,Torino,1-0,Fiorentina
+2,17/09/83,Sampdoria,1-2,Roma
+2,17/09/83,AC Milan,4-2,Hellas Verona
+2,17/09/83,Udinese,3-1,Catania
+2,17/09/83,Ascoli,4-1,Avellino
+2,17/09/83,Napoli,0-0,Genoa
+2,17/09/83,Lazio,3-0,Internazionale
+2,17/09/83,Pisa,0-0,Juventus
+3,24/09/83,Juventus,2-0,Napoli
+3,24/09/83,Roma,3-1,AC Milan
+3,24/09/83,Fiorentina,2-1,Ascoli
+3,24/09/83,Internazionale,0-0,Torino
+3,24/09/83,Hellas Verona,2-0,Pisa
+3,24/09/83,Avellino,2-1,Udinese
+3,24/09/83,Genoa,0-0,Lazio
+3,24/09/83,Catania,1-1,Sampdoria
+4,01/10/83,Torino,2-1,Roma
+4,01/10/83,Sampdoria,1-2,Fiorentina
+4,01/10/83,AC Milan,2-1,Catania
+4,01/10/83,Udinese,1-1,Hellas Verona
+4,01/10/83,Ascoli,1-0,Internazionale
+4,01/10/83,Napoli,2-0,Avellino
+4,01/10/83,Lazio,0-1,Juventus
+4,01/10/83,Pisa,1-1,Genoa
+5,08/10/83,Juventus,2-1,AC Milan
+5,08/10/83,Roma,1-0,Genoa
+5,08/10/83,Fiorentina,0-0,Udinese
+5,08/10/83,Internazionale,1-0,Napoli
+5,08/10/83,Hellas Verona,3-1,Ascoli
+5,08/10/83,Sampdoria,1-1,Lazio
+5,08/10/83,Avellino,0-0,Torino
+5,08/10/83,Catania,2-0,Pisa
+6,22/10/83,Fiorentina,0-0,Pisa
+6,22/10/83,Torino,2-1,Juventus
+6,22/10/83,AC Milan,2-1,Sampdoria
+6,22/10/83,Udinese,2-2,Internazionale
+6,22/10/83,Napoli,1-0,Ascoli
+6,22/10/83,Genoa,0-2,Avellino
+6,22/10/83,Lazio,0-2,Roma
+6,22/10/83,Catania,0-1,Hellas Verona
+7,29/10/83,Juventus,1-2,Sampdoria
+7,29/10/83,Roma,5-1,Napoli
+7,29/10/83,Hellas Verona,3-1,Fiorentina
+7,29/10/83,AC Milan,4-1,Lazio
+7,29/10/83,Ascoli,1-0,Udinese
+7,29/10/83,Avellino,0-0,Catania
+7,29/10/83,Genoa,2-1,Torino
+7,29/10/83,Pisa,0-0,Internazionale
+8,05/11/83,Juventus,3-1,Hellas Verona
+8,05/11/83,Fiorentina,5-0,Catania
+8,05/11/83,Internazionale,2-0,AC Milan
+8,05/11/83,Sampdoria,2-0,Genoa
+8,05/11/83,Udinese,1-0,Roma
+8,05/11/83,Ascoli,0-0,Torino
+8,05/11/83,Napoli,0-0,Pisa
+8,05/11/83,Lazio,2-1,Avellino
+9,19/11/83,Roma,1-1,Ascoli
+9,19/11/83,Torino,4-0,Lazio
+9,19/11/83,Hellas Verona,1-1,Napoli
+9,19/11/83,AC Milan,2-2,Fiorentina
+9,19/11/83,Avellino,0-2,Sampdoria
+9,19/11/83,Genoa,1-1,Internazionale
+9,19/11/83,Pisa,1-1,Udinese
+9,19/11/83,Catania,0-2,Juventus
+10,26/11/83,Fiorentina,3-3,Juventus
+10,26/11/83,Internazionale,1-0,Roma
+10,26/11/83,Torino,2-2,Pisa
+10,26/11/83,Hellas Verona,3-0,Avellino
+10,26/11/83,Sampdoria,2-1,Udinese
+10,26/11/83,Ascoli,0-0,Genoa
+10,26/11/83,Napoli,0-0,AC Milan
+10,26/11/83,Lazio,3-0,Catania
+11,03/12/83,Juventus,2-2,Roma
+11,03/12/83,Sampdoria,1-0,Hellas Verona
+11,03/12/83,AC Milan,1-0,Genoa
+11,03/12/83,Udinese,0-0,Torino
+11,03/12/83,Avellino,1-1,Internazionale
+11,03/12/83,Lazio,1-2,Fiorentina
+11,03/12/83,Pisa,0-1,Ascoli
+11,03/12/83,Catania,0-0,Napoli
+12,10/12/83,Roma,3-2,Avellino
+12,10/12/83,Internazionale,2-1,Fiorentina
+12,10/12/83,Torino,1-1,Hellas Verona
+12,10/12/83,Udinese,2-2,Juventus
+12,10/12/83,Ascoli,2-4,AC Milan
+12,10/12/83,Napoli,3-0,Lazio
+12,10/12/83,Genoa,3-0,Catania
+12,10/12/83,Pisa,0-0,Sampdoria
+13,17/12/83,Juventus,2-0,Internazionale
+13,17/12/83,Fiorentina,0-0,Roma
+13,17/12/83,Hellas Verona,0-0,Genoa
+13,17/12/83,Sampdoria,4-1,Napoli
+13,17/12/83,AC Milan,0-1,Torino
+13,17/12/83,Avellino,1-1,Pisa
+13,17/12/83,Lazio,2-2,Udinese
+13,17/12/83,Catania,1-1,Ascoli
+14,30/12/83,Roma,1-0,Catania
+14,30/12/83,Internazionale,1-0,Hellas Verona
+14,30/12/83,Torino,2-1,Sampdoria
+14,30/12/83,Udinese,4-1,Napoli
+14,30/12/83,Ascoli,2-0,Lazio
+14,30/12/83,Avellino,1-2,Juventus
+14,30/12/83,Genoa,2-2,Fiorentina
+14,30/12/83,Pisa,0-0,AC Milan
+15,07/01/84,Juventus,4-2,Genoa
+15,07/01/84,Fiorentina,1-0,Avellino
+15,07/01/84,Hellas Verona,1-0,Roma
+15,07/01/84,Sampdoria,1-2,Ascoli
+15,07/01/84,AC Milan,3-3,Udinese
+15,07/01/84,Napoli,0-0,Torino
+15,07/01/84,Lazio,0-1,Pisa
+15,07/01/84,Catania,0-0,Internazionale
+16,14/01/84,Torino,2-0,Catania
+16,14/01/84,Sampdoria,0-2,Internazionale
+16,14/01/84,AC Milan,1-0,Avellino
+16,14/01/84,Udinese,3-1,Genoa
+16,14/01/84,Ascoli,0-0,Juventus
+16,14/01/84,Napoli,0-0,Fiorentina
+16,14/01/84,Lazio,1-1,Hellas Verona
+16,14/01/84,Pisa,1-1,Roma
+17,21/01/84,Juventus,3-1,Pisa
+17,21/01/84,Roma,1-1,Sampdoria
+17,21/01/84,Fiorentina,4-1,Torino
+17,21/01/84,Internazionale,1-1,Lazio
+17,21/01/84,Hellas Verona,1-1,AC Milan
+17,21/01/84,Avellino,2-1,Ascoli
+17,21/01/84,Genoa,0-0,Napoli
+17,21/01/84,Catania,0-2,Udinese
+18,28/01/84,Torino,3-1,Internazionale
+18,28/01/84,Sampdoria,2-0,Catania
+18,28/01/84,AC Milan,1-1,Roma
+18,28/01/84,Udinese,2-1,Avellino
+18,28/01/84,Ascoli,1-2,Fiorentina
+18,28/01/84,Napoli,1-1,Juventus
+18,28/01/84,Lazio,2-1,Genoa
+18,28/01/84,Pisa,0-3,Hellas Verona
+19,11/02/84,Juventus,2-1,Lazio
+19,11/02/84,Roma,2-1,Torino
+19,11/02/84,Fiorentina,3-0,Sampdoria
+19,11/02/84,Internazionale,0-0,Ascoli
+19,11/02/84,Hellas Verona,2-1,Udinese
+19,11/02/84,Avellino,1-0,Napoli
+19,11/02/84,Genoa,0-0,Pisa
+19,11/02/84,Catania,1-1,AC Milan
+20,18/02/84,Torino,4-2,Avellino
+20,18/02/84,AC Milan,0-3,Juventus
+20,18/02/84,Udinese,3-1,Fiorentina
+20,18/02/84,Ascoli,2-1,Hellas Verona
+20,18/02/84,Napoli,0-2,Internazionale
+20,18/02/84,Genoa,0-2,Roma
+20,18/02/84,Lazio,2-1,Sampdoria
+20,18/02/84,Pisa,2-0,Catania
+21,25/02/84,Juventus,2-1,Torino
+21,25/02/84,Roma,2-2,Lazio
+21,25/02/84,Internazionale,2-0,Udinese
+21,25/02/84,Hellas Verona,3-1,Catania
+21,25/02/84,Sampdoria,1-1,AC Milan
+21,25/02/84,Ascoli,2-2,Napoli
+21,25/02/84,Avellino,3-1,Genoa
+21,25/02/84,Pisa,1-1,Fiorentina
+22,10/03/84,Fiorentina,2-0,Hellas Verona
+22,10/03/84,Internazionale,3-0,Pisa
+22,10/03/84,Torino,2-1,Genoa
+22,10/03/84,Sampdoria,1-1,Juventus
+22,10/03/84,Udinese,0-0,Ascoli
+22,10/03/84,Napoli,1-2,Roma
+22,10/03/84,Lazio,0-0,AC Milan
+22,10/03/84,Catania,1-1,Avellino
+23,17/03/84,Roma,4-1,Udinese
+23,17/03/84,Torino,0-0,Ascoli
+23,17/03/84,Hellas Verona,2-1,Juventus
+23,17/03/84,AC Milan,0-0,Internazionale
+23,17/03/84,Avellino,3-0,Lazio
+23,17/03/84,Genoa,0-0,Sampdoria
+23,17/03/84,Pisa,1-1,Napoli
+23,17/03/84,Catania,0-2,Fiorentina
+24,24/03/84,Juventus,2-0,Catania
+24,24/03/84,Fiorentina,2-2,AC Milan
+24,24/03/84,Internazionale,1-1,Genoa
+24,24/03/84,Sampdoria,0-1,Avellino
+24,24/03/84,Udinese,2-1,Pisa
+24,24/03/84,Ascoli,0-0,Roma
+24,24/03/84,Napoli,1-0,Hellas Verona
+24,24/03/84,Lazio,1-0,Torino
+25,31/03/84,Juventus,1-0,Fiorentina
+25,31/03/84,Roma,1-0,Internazionale
+25,31/03/84,AC Milan,0-2,Napoli
+25,31/03/84,Udinese,0-3,Sampdoria
+25,31/03/84,Avellino,1-0,Hellas Verona
+25,31/03/84,Genoa,1-0,Ascoli
+25,31/03/84,Pisa,1-1,Torino
+25,31/03/84,Catania,1-1,Lazio
+26,07/04/84,Roma,0-0,Juventus
+26,07/04/84,Fiorentina,3-2,Lazio
+26,07/04/84,Internazionale,3-0,Avellino
+26,07/04/84,Torino,0-1,Udinese
+26,07/04/84,Hellas Verona,1-0,Sampdoria
+26,07/04/84,Ascoli,3-2,Pisa
+26,07/04/84,Napoli,3-0,Catania
+26,07/04/84,Genoa,2-0,AC Milan
+27,20/04/84,Juventus,3-2,Udinese
+27,20/04/84,Fiorentina,1-1,Internazionale
+27,20/04/84,Hellas Verona,2-2,Torino
+27,20/04/84,Sampdoria,1-0,Pisa
+27,20/04/84,AC Milan,0-0,Ascoli
+27,20/04/84,Avellino,2-2,Roma
+27,20/04/84,Lazio,3-2,Napoli
+27,20/04/84,Catania,1-2,Genoa
+28,27/04/84,Roma,2-1,Fiorentina
+28,27/04/84,Internazionale,1-2,Juventus
+28,27/04/84,Torino,1-2,AC Milan
+28,27/04/84,Udinese,2-0,Lazio
+28,27/04/84,Ascoli,2-1,Catania
+28,27/04/84,Napoli,1-1,Sampdoria
+28,27/04/84,Genoa,1-1,Hellas Verona
+28,27/04/84,Pisa,1-0,Avellino
+29,05/05/84,Juventus,1-1,Avellino
+29,05/05/84,Fiorentina,0-0,Genoa
+29,05/05/84,Hellas Verona,1-2,Internazionale
+29,05/05/84,Sampdoria,2-1,Torino
+29,05/05/84,AC Milan,2-1,Pisa
+29,05/05/84,Napoli,2-1,Udinese
+29,05/05/84,Lazio,2-1,Ascoli
+29,05/05/84,Catania,2-2,Roma
+30,12/05/84,Roma,3-2,Hellas Verona
+30,12/05/84,Internazionale,6-0,Catania
+30,12/05/84,Torino,2-1,Napoli
+30,12/05/84,Udinese,1-2,AC Milan
+30,12/05/84,Ascoli,0-1,Sampdoria
+30,12/05/84,Avellino,0-0,Fiorentina
+30,12/05/84,Genoa,2-1,Juventus
+30,12/05/84,Pisa,2-2,Lazio

@@ -1,0 +1,93 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,12/01/13,Comercial-AL,0-0,CSA
+1,13/01/13,União-AL,1-0,CEO
+1,13/01/13,Sport Atalaia,1-1,CSE
+1,13/01/13,Murici,1-0,Corinthians-AL
+2,16/01/13,CEO,1-0,Sport Atalaia
+2,16/01/13,CSE,0-1,União-AL
+2,16/01/13,CSA,1-0,Murici
+2,17/01/13,Corinthians-AL,2-0,Comercial-AL
+3,19/01/13,CSE,0-1,CSA
+3,20/01/13,Comercial-AL,2-1,União-AL
+3,20/01/13,Sport Atalaia,2-1,Murici
+3,20/01/13,Corinthians-AL,0-1,CEO
+4,23/01/13,CEO,3-1,CSE
+4,23/01/13,União-AL,0-3,Sport Atalaia
+4,23/01/13,Murici,1-1,Comercial-AL
+4,23/01/13,CSA,2-4,Corinthians-AL
+5,26/01/13,CSE,2-1,Murici
+5,26/01/13,CEO,1-0,Comercial-AL
+5,27/01/13,CSA,6-0,Sport Atalaia
+5,27/01/13,Corinthians-AL,4-1,União-AL
+6,30/01/13,Comercial-AL,4-1,CSE
+6,30/01/13,União-AL,1-1,CSA
+6,30/01/13,Sport Atalaia,3-4,Corinthians-AL
+6,30/01/13,Murici,1-0,CEO
+7,02/02/13,CEO,1-2,CSA
+7,03/02/13,União-AL,0-1,Murici
+7,03/02/13,Sport Atalaia,1-3,Comercial-AL
+7,03/02/13,Corinthians-AL,1-1,CSE
+8,06/02/13,CSA,1-3,CEO
+8,06/02/13,Murici,6-0,União-AL
+8,06/02/13,Comercial-AL,0-1,Sport Atalaia
+8,06/02/13,CSE,2-0,Corinthians-AL
+10,16/02/13,Sport Atalaia,2-0,CSA
+10,16/02/13,Comercial-AL,0-0,CEO
+10,16/02/13,União-AL,2-1,Corinthians-AL
+10,16/02/13,Murici,3-1,CSE
+9,18/02/13,CSE,1-0,Comercial-AL
+9,19/02/13,CEO,2-2,Murici
+9,19/02/13,Corinthians-AL,4-0,Sport Atalaia
+11,21/02/13,Sport Atalaia,1-0,União-AL
+11,21/02/13,Comercial-AL,1-1,Murici
+11,21/02/13,Corinthians-AL,1-1,CSA
+11,21/02/13,CSE,3-2,CEO
+12,23/02/13,Murici,4-3,Sport Atalaia
+12,23/02/13,União-AL,2-2,Comercial-AL
+12,23/02/13,CSA,3-1,CSE
+12,24/02/13,CEO,1-1,Corinthians-AL
+9,25/02/13,CSA,3-0,União-AL
+13,27/02/13,CSE,1-1,Sport Atalaia
+13,27/02/13,CSA,1-2,Comercial-AL
+13,28/02/13,CEO,1-1,União-AL
+13,28/02/13,Corinthians-AL,2-1,Murici
+14,02/03/13,Murici,1-1,CSA
+14,02/03/13,União-AL,0-0,CSE
+14,02/03/13,Sport Atalaia,1-1,CEO
+14,02/03/13,Comercial-AL,0-2,Corinthians-AL
+2F,06/03/13,Murici,3-1,ASA
+2F,10/03/13,CSA,2-0,CEO
+2F,13/03/13,CEO,3-1,Corinthians-AL
+2F,13/03/13,CRB,4-1,Murici
+2F,17/03/13,CSA,1-1,CRB
+2F,17/03/13,Corinthians-AL,2-0,Murici
+2F,19/03/13,Murici,1-2,CSA
+2F,20/03/13,ASA,6-3,Corinthians-AL
+2F,20/03/13,CRB,6-0,CEO
+2F,23/03/13,ASA,1-0,CRB
+2F,23/03/13,Murici,3-0,CEO
+2F,24/03/13,Corinthians-AL,2-2,CSA
+2F,26/03/13,CRB,2-1,ASA
+2F,27/03/13,CEO,2-0,Murici
+2F,27/03/13,CSA,3-2,Corinthians-AL
+2F,31/03/13,CEO,1-0,CRB
+2F,31/03/13,Corinthians-AL,2-0,ASA
+2F,31/03/13,CSA,2-2,Murici
+2F,03/04/13,CEO,1-2,ASA
+2F,06/04/13,ASA,2-0,CEO
+2F,06/04/13,CRB,1-0,CSA
+2F,06/04/13,Corinthians-AL,0-1,Murici
+2F,13/04/13,Murici,0-1,CRB
+2F,13/04/13,Corinthians-AL,1-2,CEO
+2F,14/04/13,CSA,2-0,ASA
+2F,17/04/13,ASA,1-1,CSA
+2F,20/04/13,CRB,2-0,Corinthians-AL
+2F,20/04/13,CEO,1-1,CSA
+2F,20/04/13,ASA,2-2,Murici
+SF,27/04/13,ASA,0-1,CSA
+SF,28/04/13,CEO,1-1,CRB
+SF,05/05/13,CSA,1-1,ASA
+SF,05/05/13,CRB,2-1,CEO
+F,11/05/13,CSA,2-4,CRB
+F,18/05/13,CRB,0-1(4-3 Pen.),CSA
+2F,09/03/23,Corinthians-AL,2-2,CRB

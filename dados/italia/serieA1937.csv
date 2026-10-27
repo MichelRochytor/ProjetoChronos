@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,12/09/37,Bologna,3-2,Napoli
+1,12/09/37,Genoa,0-0,Atalanta
+1,12/09/37,Juventus,2-0,Livorno 1915
+1,12/09/37,Lucchese Libertas,3-3,Ambrosiana-Inter
+1,12/09/37,AC Milan,2-1,AC Liguria
+1,12/09/37,Roma,4-0,Fiorentina
+1,12/09/37,Triestina,0-0,Lazio
+1,12/09/37,US Bari,0-0,Torino
+2,19/09/37,Lazio,2-1,Genoa
+2,19/09/37,Torino,3-2,Lucchese Libertas
+2,19/09/37,AC Liguria,1-1,Roma
+2,19/09/37,Ambrosiana-Inter,3-1,Livorno 1915
+2,19/09/37,US Bari,2-3,AC Milan
+2,19/09/37,Atalanta,0-1,Juventus
+2,19/09/37,Fiorentina,2-1,Bologna
+2,19/09/37,Napoli,3-0,Triestina
+3,26/09/37,Juventus,3-1,US Bari
+3,26/09/37,Triestina,1-1,Ambrosiana-Inter
+3,26/09/37,Roma,2-1,Napoli
+3,26/09/37,AC Milan,0-1,Torino
+3,26/09/37,Livorno 1915,2-3,AC Liguria
+3,26/09/37,Genoa,1-0,Fiorentina
+3,26/09/37,Bologna,2-1,Atalanta
+3,26/09/37,Lucchese Libertas,0-0,Lazio
+4,03/10/37,Lucchese Libertas,1-1,Livorno 1915
+4,03/10/37,AC Liguria,0-0,Bologna
+4,03/10/37,Torino,1-1,Juventus
+4,03/10/37,Ambrosiana-Inter,5-1,Fiorentina
+4,03/10/37,US Bari,2-0,Genoa
+4,03/10/37,Lazio,1-1,Roma
+4,03/10/37,Atalanta,0-3,Triestina
+4,03/10/37,Napoli,1-1,AC Milan
+5,10/10/37,Genoa,2-1,Torino
+5,10/10/37,Triestina,1-0,AC Liguria
+5,10/10/37,Roma,5-0,Lucchese Libertas
+5,10/10/37,AC Milan,2-2,Lazio
+5,10/10/37,Juventus,2-1,Napoli
+5,10/10/37,Fiorentina,1-1,US Bari
+5,10/10/37,Bologna,1-0,Ambrosiana-Inter
+5,10/10/37,Livorno 1915,1-1,Atalanta
+6,17/10/37,US Bari,1-1,Livorno 1915
+6,17/10/37,Napoli,3-0,Fiorentina
+6,17/10/37,Lucchese Libertas,0-0,Juventus
+6,17/10/37,Torino,1-0,Triestina
+6,17/10/37,Lazio,2-0,Bologna
+6,17/10/37,Atalanta,0-2,Roma
+6,17/10/37,Ambrosiana-Inter,2-1,AC Milan
+6,17/10/37,AC Liguria,0-1,Genoa
+7,24/10/37,Ambrosiana-Inter,2-1,Napoli
+7,24/10/37,Atalanta,1-0,Lucchese Libertas
+7,24/10/37,Bologna,2-0,Roma
+7,24/10/37,Fiorentina,1-1,Juventus
+7,24/10/37,Genoa,2-2,Triestina
+7,24/10/37,Lazio,3-1,US Bari
+7,24/10/37,Livorno 1915,1-2,AC Milan
+7,24/10/37,Torino,3-0,AC Liguria
+8,07/11/37,Livorno 1915,1-0,Napoli
+8,07/11/37,AC Milan,3-0,Atalanta
+8,07/11/37,Roma,2-1,Torino
+8,07/11/37,Genoa,1-1,Ambrosiana-Inter
+8,07/11/37,Bologna,3-0,Lucchese Libertas
+8,07/11/37,Fiorentina,3-1,AC Liguria
+8,07/11/37,Juventus,1-1,Lazio
+8,07/11/37,Triestina,6-0,US Bari
+9,14/11/37,Lazio,3-0,Livorno 1915
+9,14/11/37,Triestina,0-0,AC Milan
+9,14/11/37,Torino,3-1,Bologna
+9,14/11/37,Napoli,2-2,Genoa
+9,14/11/37,AC Liguria,2-1,Atalanta
+9,14/11/37,US Bari,2-0,Roma
+9,14/11/37,Ambrosiana-Inter,2-1,Juventus
+9,14/11/37,Lucchese Libertas,2-1,Fiorentina
+10,21/11/37,Fiorentina,2-2,Triestina
+10,21/11/37,AC Milan,1-0,Roma
+10,21/11/37,Livorno 1915,1-1,Torino
+10,21/11/37,AC Liguria,2-1,Lucchese Libertas
+10,21/11/37,Bologna,4-1,US Bari
+10,21/11/37,Atalanta,2-0,Napoli
+10,21/11/37,Lazio,1-3,Ambrosiana-Inter
+10,21/11/37,Juventus,1-2,Genoa
+11,28/11/37,Lucchese Libertas,1-1,AC Milan
+11,28/11/37,Triestina,3-1,Bologna
+11,28/11/37,Torino,2-0,Fiorentina
+11,28/11/37,Napoli,1-0,Lazio
+11,28/11/37,Genoa,4-1,Livorno 1915
+11,28/11/37,US Bari,2-1,Atalanta
+11,28/11/37,Ambrosiana-Inter,2-1,AC Liguria
+11,28/11/37,Roma,2-1,Juventus
+12,12/12/37,Juventus,2-0,Triestina
+12,12/12/37,Lucchese Libertas,2-2,Napoli
+12,12/12/37,Livorno 1915,0-2,Roma
+12,12/12/37,AC Milan,3-1,Fiorentina
+12,12/12/37,Bologna,2-2,Genoa
+12,12/12/37,Atalanta,1-1,Ambrosiana-Inter
+12,12/12/37,AC Liguria,5-0,US Bari
+12,12/12/37,Lazio,6-0,Torino
+13,19/12/37,Genoa,0-1,AC Milan
+13,19/12/37,Triestina,0-0,Roma
+13,19/12/37,Napoli,3-2,AC Liguria
+13,19/12/37,Juventus,0-0,Bologna
+13,19/12/37,Fiorentina,1-2,Livorno 1915
+13,19/12/37,US Bari,2-1,Lucchese Libertas
+13,19/12/37,Ambrosiana-Inter,1-0,Torino
+13,19/12/37,Lazio,4-0,Atalanta
+14,02/01/38,Livorno 1915,0-1,Triestina
+14,02/01/38,Roma,1-1,Ambrosiana-Inter
+14,02/01/38,Torino,2-1,Atalanta
+14,02/01/38,Lucchese Libertas,0-4,Genoa
+14,02/01/38,Fiorentina,1-1,Lazio
+14,02/01/38,US Bari,3-1,Napoli
+14,02/01/38,AC Milan,0-1,Bologna
+14,02/01/38,AC Liguria,1-3,Juventus
+15,09/01/38,Juventus,2-0,AC Milan
+15,09/01/38,Triestina,0-0,Lucchese Libertas
+15,09/01/38,Roma,1-3,Genoa
+15,09/01/38,AC Liguria,2-1,Lazio
+15,09/01/38,Bologna,5-1,Livorno 1915
+15,09/01/38,Atalanta,1-1,Fiorentina
+15,09/01/38,Ambrosiana-Inter,9-2,US Bari
+15,09/01/38,Napoli,1-1,Torino
+16,16/01/38,Livorno 1915,0-1,Juventus
+16,16/01/38,Atalanta,3-4,Genoa
+16,16/01/38,Torino,2-4,US Bari
+16,16/01/38,Napoli,1-1,Bologna
+16,16/01/38,Ambrosiana-Inter,4-0,Lucchese Libertas
+16,16/01/38,Fiorentina,1-4,Roma
+16,16/01/38,Lazio,2-1,Triestina
+16,16/01/38,AC Liguria,1-1,AC Milan
+17,23/01/38,Livorno 1915,0-0,Ambrosiana-Inter
+17,23/01/38,Triestina,3-0,Napoli
+17,23/01/38,Roma,1-0,AC Liguria
+17,23/01/38,Lucchese Libertas,2-2,Torino
+17,23/01/38,Juventus,5-0,Atalanta
+17,23/01/38,Genoa,2-1,Lazio
+17,23/01/38,Bologna,0-0,Fiorentina
+17,23/01/38,AC Milan,5-1,US Bari
+18,30/01/38,Fiorentina,1-2,Genoa
+18,30/01/38,Lazio,3-0,Lucchese Libertas
+18,30/01/38,Torino,0-0,AC Milan
+18,30/01/38,Napoli,2-2,Roma
+18,30/01/38,Ambrosiana-Inter,1-2,Triestina
+18,30/01/38,US Bari,0-0,Juventus
+18,30/01/38,Atalanta,1-2,Bologna
+18,30/01/38,AC Liguria,1-1,Livorno 1915
+19,06/02/38,Juventus,3-0,Torino
+19,06/02/38,Triestina,0-0,Atalanta
+19,06/02/38,Roma,2-1,Lazio
+19,06/02/38,Livorno 1915,2-1,Lucchese Libertas
+19,06/02/38,Genoa,4-1,US Bari
+19,06/02/38,Fiorentina,0-3,Ambrosiana-Inter
+19,06/02/38,Bologna,3-2,AC Liguria
+19,06/02/38,AC Milan,3-1,Napoli
+20,13/02/38,Lazio,1-1,AC Milan
+20,13/02/38,AC Liguria,1-2,Triestina
+20,13/02/38,Torino,0-1,Genoa
+20,13/02/38,Napoli,1-1,Juventus
+20,13/02/38,Ambrosiana-Inter,2-0,Bologna
+20,13/02/38,US Bari,1-0,Fiorentina
+20,13/02/38,Atalanta,1-3,Livorno 1915
+20,13/02/38,Lucchese Libertas,2-0,Roma
+21,20/02/38,Juventus,1-0,Lucchese Libertas
+21,20/02/38,Triestina,1-0,Torino
+21,20/02/38,Roma,2-1,Atalanta
+21,20/02/38,Livorno 1915,1-0,US Bari
+21,20/02/38,Genoa,0-2,AC Liguria
+21,20/02/38,Fiorentina,1-3,Napoli
+21,20/02/38,Bologna,0-2,Lazio
+21,20/02/38,AC Milan,1-0,Ambrosiana-Inter
+22,27/02/38,Lucchese Libertas,3-2,Atalanta
+22,27/02/38,AC Milan,1-0,Livorno 1915
+22,27/02/38,Triestina,2-1,Genoa
+22,27/02/38,Roma,0-1,Bologna
+22,27/02/38,AC Liguria,0-3,Torino
+22,27/02/38,Juventus,5-2,Fiorentina
+22,27/02/38,US Bari,5-1,Lazio
+22,27/02/38,Napoli,1-1,Ambrosiana-Inter
+23,06/03/38,Lazio,1-1,Juventus
+23,06/03/38,Napoli,1-1,Livorno 1915
+23,06/03/38,AC Liguria,1-1,Fiorentina
+23,06/03/38,Torino,3-1,Roma
+23,06/03/38,US Bari,0-0,Triestina
+23,06/03/38,Atalanta,0-0,AC Milan
+23,06/03/38,Ambrosiana-Inter,0-0,Genoa
+23,06/03/38,Lucchese Libertas,3-3,Bologna
+24,13/03/38,Juventus,2-1,Ambrosiana-Inter
+24,13/03/38,AC Milan,0-0,Triestina
+24,13/03/38,Roma,3-2,US Bari
+24,13/03/38,Livorno 1915,1-0,Lazio
+24,13/03/38,Fiorentina,0-0,Lucchese Libertas
+24,13/03/38,Atalanta,2-0,AC Liguria
+24,13/03/38,Bologna,2-0,Torino
+24,13/03/38,Genoa,2-1,Napoli
+25,20/03/38,Lucchese Libertas,0-0,AC Liguria
+25,20/03/38,Triestina,2-1,Fiorentina
+25,20/03/38,Torino,4-1,Livorno 1915
+25,20/03/38,Napoli,1-0,Atalanta
+25,20/03/38,Genoa,1-2,Juventus
+25,20/03/38,US Bari,0-1,Bologna
+25,20/03/38,Ambrosiana-Inter,3-1,Lazio
+25,20/03/38,Roma,3-1,AC Milan
+26,27/03/38,Juventus,0-0,Roma
+26,27/03/38,Lazio,0-0,Napoli
+26,27/03/38,AC Milan,4-0,Lucchese Libertas
+26,27/03/38,Livorno 1915,0-1,Genoa
+26,27/03/38,Atalanta,0-0,US Bari
+26,27/03/38,Fiorentina,1-2,Torino
+26,27/03/38,Bologna,0-0,Triestina
+26,27/03/38,AC Liguria,3-1,Ambrosiana-Inter
+27,03/04/38,Genoa,1-3,Bologna
+27,03/04/38,Torino,1-0,Lazio
+27,03/04/38,Napoli,2-1,Lucchese Libertas
+27,03/04/38,Triestina,2-0,Juventus
+27,03/04/38,Fiorentina,0-1,AC Milan
+27,03/04/38,US Bari,0-0,AC Liguria
+27,03/04/38,Ambrosiana-Inter,1-0,Atalanta
+27,03/04/38,Roma,1-0,Livorno 1915
+28,10/04/38,Lucchese Libertas,2-1,US Bari
+28,10/04/38,Roma,1-1,Triestina
+28,10/04/38,Torino,1-1,Ambrosiana-Inter
+28,10/04/38,AC Milan,2-2,Genoa
+28,10/04/38,AC Liguria,0-0,Napoli
+28,10/04/38,Atalanta,0-0,Lazio
+28,10/04/38,Livorno 1915,1-1,Fiorentina
+28,10/04/38,Bologna,0-0,Juventus
+29,17/04/38,Triestina,0-2,Livorno 1915
+29,17/04/38,Ambrosiana-Inter,1-0,Roma
+29,17/04/38,Atalanta,2-1,Torino
+29,17/04/38,Bologna,2-2,AC Milan
+29,17/04/38,Genoa,3-0,Lucchese Libertas
+29,17/04/38,Juventus,0-1,AC Liguria
+29,17/04/38,Lazio,5-0,Fiorentina
+29,17/04/38,Napoli,1-0,US Bari
+30,24/04/38,AC Milan,1-1,Juventus
+30,24/04/38,Lucchese Libertas,1-0,Triestina
+30,24/04/38,Livorno 1915,3-2,Bologna
+30,24/04/38,Lazio,3-0,AC Liguria
+30,24/04/38,Genoa,1-1,Roma
+30,24/04/38,US Bari,0-2,Ambrosiana-Inter
+30,24/04/38,Torino,0-0,Napoli
+30,24/04/38,Fiorentina,4-0,Atalanta

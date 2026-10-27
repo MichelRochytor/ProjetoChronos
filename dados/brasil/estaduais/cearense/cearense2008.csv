@@ -1,0 +1,105 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,05/01/08,Horizonte,5-1,Ceará
+1F,05/01/08,Boa Viagem,1-1,Quixadá
+1F,05/01/08,Ferroviário,1-1,Itapipoca
+1F,06/01/08,Uniclinic,1-2,Fortaleza
+1F,06/01/08,Guarani de Juazeiro,0-0,Icasa
+1F,08/01/08,Ceará,1-0,Boa Viagem
+1F,09/01/08,Quixadá,2-3,Ferroviário
+1F,09/01/08,Itapipoca,1-0,Uniclinic
+1F,09/01/08,Fortaleza,1-1,Guarani de Juazeiro
+1F,09/01/08,Icasa,0-0,Horizonte
+1F,12/01/08,Boa Viagem,2-2,Fortaleza
+1F,12/01/08,Uniclinic,2-4,Icasa
+1F,13/01/08,Itapipoca,2-0,Quixadá
+1F,13/01/08,Horizonte,1-1,Guarani de Juazeiro
+1F,13/01/08,Ceará,1-0,Ferroviário
+1F,16/01/08,Fortaleza,4-1,Itapipoca
+1F,16/01/08,Horizonte,2-0,Ferroviário
+1F,16/01/08,Boa Viagem,1-2,Icasa
+1F,16/01/08,Guarani de Juazeiro,2-0,Uniclinic
+1F,17/01/08,Ceará,2-3,Quixadá
+1F,19/01/08,Itapipoca,1-1,Guarani de Juazeiro
+1F,19/01/08,Ferroviário,2-1,Boa Viagem
+1F,20/01/08,Quixadá,2-0,Horizonte
+1F,20/01/08,Ceará,3-1,Uniclinic
+1F,20/01/08,Icasa,2-1,Fortaleza
+1F,23/01/08,Horizonte,4-0,Boa Viagem
+1F,23/01/08,Ferroviário,3-4,Fortaleza
+1F,23/01/08,Uniclinic,2-3,Quixadá
+1F,23/01/08,Guarani de Juazeiro,1-2,Ceará
+1F,24/01/08,Icasa,2-0,Itapipoca
+1F,26/01/08,Guarani de Juazeiro,2-1,Quixadá
+1F,27/01/08,Boa Viagem,4-1,Uniclinic
+1F,27/01/08,Horizonte,1-0,Itapipoca
+1F,27/01/08,Fortaleza,1-1,Ceará
+1F,27/01/08,Icasa,2-1,Ferroviário
+1F,30/01/08,Ferroviário,3-1,Guarani de Juazeiro
+1F,30/01/08,Itapipoca,3-6,Boa Viagem
+1F,30/01/08,Quixadá,2-2,Fortaleza
+1F,30/01/08,Uniclinic,0-1,Horizonte
+1F,30/01/08,Ceará,4-0,Icasa
+1F,02/02/08,Fortaleza,4-0,Horizonte
+1F,02/02/08,Itapipoca,2-0,Ceará
+1F,02/02/08,Uniclinic,3-4,Ferroviário
+1F,02/02/08,Guarani de Juazeiro,2-2,Boa Viagem
+1F,02/02/08,Quixadá,3-2,Icasa
+SF,07/02/08,Ceará,0-1,Icasa
+SF,08/02/08,Fortaleza,1-3,Horizonte
+SF,10/02/08,Icasa,1-2(Pro.),Ceará
+SF,11/02/08,Horizonte,1-3(1-3 Pen.),Fortaleza
+F,14/02/08,Icasa,2-1,Fortaleza
+F,17/02/08,Fortaleza,1-1,Icasa
+2F,20/02/08,Ceará,1-3,Horizonte
+2F,20/02/08,Quixadá,3-1,Uniclinic
+2F,20/02/08,Itapipoca,1-2,Ferroviário
+2F,20/02/08,Icasa,0-0,Guarani de Juazeiro
+2F,21/02/08,Fortaleza,1-1,Boa Viagem
+2F,23/02/08,Horizonte,4-2,Icasa
+2F,24/02/08,Guarani de Juazeiro,1-1,Fortaleza
+2F,27/02/08,Uniclinic,0-1,Boa Viagem
+2F,27/02/08,Ferroviário,1-0,Ceará
+2F,01/03/08,Ferroviário,2-1,Horizonte
+2F,01/03/08,Uniclinic,2-2,Itapipoca
+2F,02/03/08,Boa Viagem,3-4,Ceará
+2F,02/03/08,Quixadá,1-1,Guarani de Juazeiro
+2F,02/03/08,Fortaleza,3-1,Icasa
+2F,05/03/08,Quixadá,0-0,Itapipoca
+2F,08/03/08,Guarani de Juazeiro,1-1,Ferroviário
+2F,09/03/08,Boa Viagem,3-1,Itapipoca
+2F,09/03/08,Horizonte,2-0,Uniclinic
+2F,09/03/08,Ceará,1-3,Fortaleza
+2F,09/03/08,Icasa,0-0,Quixadá
+2F,12/03/08,Ceará,4-0,Guarani de Juazeiro
+2F,12/03/08,Horizonte,4-1,Quixadá
+2F,12/03/08,Itapipoca,3-3,Fortaleza
+2F,12/03/08,Icasa,4-3,Boa Viagem
+2F,15/03/08,Fortaleza,5-1,Quixadá
+2F,15/03/08,Guarani de Juazeiro,1-4,Horizonte
+2F,16/03/08,Boa Viagem,0-2,Ferroviário
+2F,16/03/08,Ceará,2-1,Itapipoca
+2F,16/03/08,Icasa,2-1,Uniclinic
+2F,19/03/08,Ferroviário,3-2,Uniclinic
+2F,22/03/08,Uniclinic,3-1,Guarani de Juazeiro
+2F,22/03/08,Quixadá,2-3,Ceará
+2F,22/03/08,Boa Viagem,2-2,Horizonte
+2F,22/03/08,Fortaleza,3-1,Ferroviário
+2F,23/03/08,Itapipoca,2-3,Icasa
+2F,26/03/08,Ferroviário,4-0,Quixadá
+2F,26/03/08,Itapipoca,2-1,Horizonte
+2F,26/03/08,Boa Viagem,0-0,Guarani de Juazeiro
+2F,26/03/08,Fortaleza,3-0,Uniclinic
+2F,26/03/08,Icasa,0-1,Ceará
+2F,30/03/08,Uniclinic,1-5,Ceará
+2F,30/03/08,Quixadá,1-3,Boa Viagem
+2F,30/03/08,Guarani de Juazeiro,0-0,Itapipoca
+2F,30/03/08,Horizonte,2-0,Fortaleza
+2F,30/03/08,Ferroviário,0-0,Icasa
+SF,05/04/08,Ceará,1-1,Horizonte
+SF,06/04/08,Fortaleza,1-0,Ferroviário
+SF,12/04/08,Ferroviário,0-0,Fortaleza
+SF,13/04/08,Horizonte,5-3,Ceará
+F,20/04/08,Fortaleza,3-1,Horizonte
+F,27/04/08,Horizonte,1-0(4-5 Pen.),Fortaleza
+F,01/05/08,Icasa,0-2,Fortaleza
+F,04/05/08,Fortaleza,4-2,Icasa

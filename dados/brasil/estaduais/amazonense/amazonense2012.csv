@@ -1,0 +1,105 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,28/01/12,Nacional-AM,4-0,Manicoré
+1T,28/01/12,Fast Clube,5-1,Iranduba
+1T,28/01/12,Operário-AM,3-1,Rio Negro-AM
+1T,29/01/12,São Raimundo-AM,3-2,Princesa
+1T,29/01/12,Penarol-AM,2-0,Holanda-AM
+1T,31/01/12,Rio Negro-AM,0-2,Fast Clube
+1T,01/02/12,Penarol-AM,2-1,Manicoré
+1T,01/02/12,Iranduba,0-3,Holanda-AM
+1T,01/02/12,Princesa,1-1,Nacional-AM
+1T,01/02/12,São Raimundo-AM,2-3,Operário-AM
+1T,04/02/12,Fast Clube,2-0,São Raimundo-AM
+1T,04/02/12,Iranduba,1-2,Penarol-AM
+1T,04/02/12,Manicoré,0-1,Princesa
+1T,05/02/12,Holanda-AM,2-0,Rio Negro-AM
+1T,05/02/12,Operário-AM,0-2,Nacional-AM
+1T,08/02/12,Princesa,1-2,Penarol-AM
+1T,08/02/12,Rio Negro-AM,2-1,Iranduba
+1T,08/02/12,Manicoré,2-0,Operário-AM
+1T,08/02/12,São Raimundo-AM,3-2,Holanda-AM
+1T,08/02/12,Nacional-AM,1-0,Fast Clube
+1T,11/02/12,Iranduba,0-1,São Raimundo-AM
+1T,11/02/12,Fast Clube,1-2,Manicoré
+1T,11/02/12,Nacional-AM,2-1,Holanda-AM
+1T,12/02/12,Penarol-AM,2-0,Rio Negro-AM
+1T,12/02/12,Princesa,4-1,Operário-AM
+1T,14/02/12,Nacional-AM,1-2,Iranduba
+1T,15/02/12,São Raimundo-AM,1-1,Rio Negro-AM
+1T,15/02/12,Operário-AM,2-2,Penarol-AM
+1T,15/02/12,Holanda-AM,4-1,Manicoré
+1T,15/02/12,Fast Clube,2-0,Princesa
+1T,18/02/12,Rio Negro-AM,0-7,Nacional-AM
+1T,18/02/12,Penarol-AM,0-0,São Raimundo-AM
+1T,18/02/12,Fast Clube,6-2,Operário-AM
+1T,18/02/12,Iranduba,2-0,Manicoré
+1T,18/02/12,Princesa,2-0,Holanda-AM
+1T,22/02/12,Holanda-AM,4-3,Operário-AM
+1T,22/02/12,Penarol-AM,2-1,Fast Clube
+1T,22/02/12,Princesa,0-0,Iranduba
+1T,22/02/12,São Raimundo-AM,0-2,Nacional-AM
+1T,25/02/12,Nacional-AM,0-0,Penarol-AM
+1T,25/02/12,Holanda-AM,0-1,Fast Clube
+1T,25/02/12,Manicoré,2-1,São Raimundo-AM
+1T,25/02/12,Operário-AM,1-3,Iranduba
+1T,25/02/12,Rio Negro-AM,0-2,Princesa
+SF,29/02/12,Princesa,1-1,Penarol-AM
+SF,29/02/12,Fast Clube,0-0,Nacional-AM
+SF,03/03/12,Nacional-AM,1-0,Fast Clube
+1T,03/03/12,Manicoré,1-0,Rio Negro-AM
+SF,04/03/12,Penarol-AM,1-1(3-4 Pen.),Princesa
+F,10/03/12,Princesa,1-2,Nacional-AM
+F,17/03/12,Nacional-AM,0-1(5-4 Pen.),Princesa
+2T,21/03/12,São Raimundo-AM,6-0,Manicoré
+2T,21/03/12,Iranduba,0-0,Operário-AM
+2T,21/03/12,Princesa,2-3,Rio Negro-AM
+2T,21/03/12,Fast Clube,2-2,Holanda-AM
+2T,24/03/12,Fast Clube,2-1,Penarol-AM
+2T,24/03/12,Iranduba,1-2,Princesa
+2T,24/03/12,Operário-AM,0-1,Holanda-AM
+2T,24/03/12,Rio Negro-AM,2-1,Manicoré
+2T,25/03/12,Nacional-AM,1-1,São Raimundo-AM
+2T,28/03/12,São Raimundo-AM,2-1,Penarol-AM
+2T,28/03/12,Operário-AM,1-0,Fast Clube
+2T,28/03/12,Holanda-AM,1-0,Princesa
+2T,28/03/12,Manicoré,3-3,Iranduba
+2T,28/03/12,Nacional-AM,2-0,Rio Negro-AM
+2T,31/03/12,Rio Negro-AM,1-0,São Raimundo-AM
+2T,31/03/12,Manicoré,2-1,Holanda-AM
+2T,01/04/12,Penarol-AM,2-0,Operário-AM
+2T,01/04/12,Iranduba,2-2,Nacional-AM
+2T,01/04/12,Princesa,1-4,Fast Clube
+2T,04/04/12,Holanda-AM,1-0,Nacional-AM
+2T,04/04/12,Operário-AM,0-2,Princesa
+2T,04/04/12,São Raimundo-AM,1-2,Iranduba
+2T,04/04/12,Manicoré,0-2,Fast Clube
+2T,04/04/12,Rio Negro-AM,3-2,Penarol-AM
+2T,07/04/12,Fast Clube,3-0,Nacional-AM
+2T,08/04/12,Penarol-AM,5-2,Princesa
+2T,08/04/12,Iranduba,1-1,Rio Negro-AM
+2T,08/04/12,Holanda-AM,0-1,São Raimundo-AM
+2T,08/04/12,Operário-AM,1-1,Manicoré
+2T,11/04/12,Princesa,2-0,Manicoré
+2T,11/04/12,Nacional-AM,0-1,Operário-AM
+2T,12/04/12,Rio Negro-AM,2-3,Holanda-AM
+2T,14/04/12,São Raimundo-AM,3-2,Fast Clube
+2T,14/04/12,Penarol-AM,3-0,Nacional-AM
+2T,18/04/12,Manicoré,1-2,Penarol-AM
+2T,18/04/12,Holanda-AM,3-4,Iranduba
+2T,18/04/12,Nacional-AM,4-0,Princesa
+2T,18/04/12,Operário-AM,1-3,São Raimundo-AM
+2T,18/04/12,Fast Clube,4-2,Rio Negro-AM
+2T,21/04/12,Princesa,1-1,São Raimundo-AM
+2T,21/04/12,Penarol-AM,0-2,Iranduba
+2T,25/04/12,Holanda-AM,0-1,Penarol-AM
+2T,25/04/12,Manicoré,1-3,Nacional-AM
+2T,25/04/12,Iranduba,2-0,Fast Clube
+2T,25/04/12,Rio Negro-AM,3-1,Operário-AM
+SF,28/04/12,Rio Negro-AM,0-0,Fast Clube
+SF,01/05/12,Iranduba,0-0,São Raimundo-AM
+SF,06/05/12,Fast Clube,0-0(3-1 Pen.),Rio Negro-AM
+SF,08/05/12,São Raimundo-AM,1-3,Iranduba
+F,12/05/12,Iranduba,0-2,Fast Clube
+F,16/05/12,Fast Clube,2-0,Iranduba
+F,19/05/12,Nacional-AM,2-2,Fast Clube
+F,26/05/12,Fast Clube,1-2,Nacional-AM

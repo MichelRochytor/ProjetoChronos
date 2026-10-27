@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,23/09/72,Bologna,0-2,Juventus
+1,23/09/72,Cagliari,0-0,Atalanta
+1,23/09/72,Hellas Verona,2-2,Roma
+1,23/09/72,Lazio,0-0,Internazionale
+1,23/09/72,AC Milan,4-0,Palermo
+1,23/09/72,Napoli,1-0,Ternana
+1,23/09/72,Sampdoria,0-1,Fiorentina
+1,23/09/72,Torino,3-0,Lanerossi Vicenza
+2,30/09/72,Atalanta,0-0,Napoli
+2,30/09/72,Fiorentina,0-1,Lazio
+2,30/09/72,Internazionale,0-0,Bologna
+2,30/09/72,Juventus,1-1,Hellas Verona
+2,30/09/72,Lanerossi Vicenza,1-0,Cagliari
+2,30/09/72,Palermo,2-1,Torino
+2,30/09/72,Roma,3-1,Sampdoria
+2,30/09/72,Ternana,0-0,AC Milan
+3,14/10/72,Bologna,1-3,Roma
+3,14/10/72,Cagliari,2-0,Palermo
+3,14/10/72,Hellas Verona,1-2,Fiorentina
+3,14/10/72,Lazio,1-1,Juventus
+3,14/10/72,AC Milan,9-3,Atalanta
+3,14/10/72,Napoli,2-0,Lanerossi Vicenza
+3,14/10/72,Sampdoria,0-1,Internazionale
+3,14/10/72,Torino,2-0,Ternana
+4,19/10/72,Atalanta,0-1,Hellas Verona
+4,19/10/72,Fiorentina,0-0,Torino
+4,19/10/72,Internazionale,1-0,Cagliari
+4,19/10/72,Juventus,2-2,AC Milan
+4,19/10/72,Lanerossi Vicenza,1-2,Lazio
+4,19/10/72,Palermo,0-0,Sampdoria
+4,19/10/72,Roma,1-0,Napoli
+4,19/10/72,Ternana,2-0,Bologna
+5,04/11/72,Bologna,3-0,Palermo
+5,04/11/72,Cagliari,2-2,Roma
+5,04/11/72,Hellas Verona,0-1,Internazionale
+5,04/11/72,Lazio,2-1,Ternana
+5,04/11/72,AC Milan,2-0,Lanerossi Vicenza
+5,04/11/72,Napoli,3-0,Fiorentina
+5,04/11/72,Sampdoria,0-0,Atalanta
+5,04/11/72,Torino,2-1,Juventus
+6,11/11/72,Atalanta,1-0,Torino
+6,11/11/72,Fiorentina,3-1,AC Milan
+6,11/11/72,Internazionale,2-0,Napoli
+6,11/11/72,Juventus,1-1,Sampdoria
+6,11/11/72,Lanerossi Vicenza,0-0,Bologna
+6,11/11/72,Palermo,0-0,Hellas Verona
+6,11/11/72,Roma,0-1,Lazio
+6,11/11/72,Ternana,1-1,Cagliari
+7,18/11/72,Bologna,1-0,Atalanta
+7,18/11/72,Cagliari,2-2,Fiorentina
+7,18/11/72,Hellas Verona,0-0,Lanerossi Vicenza
+7,18/11/72,Lazio,2-0,Palermo
+7,18/11/72,AC Milan,3-2,Internazionale
+7,18/11/72,Napoli,1-1,Juventus
+7,18/11/72,Sampdoria,0-0,Ternana
+7,18/11/72,Torino,2-0,Roma
+8,25/11/72,Atalanta,1-1,Lazio
+8,25/11/72,Fiorentina,3-0,Bologna
+8,25/11/72,Internazionale,2-0,Torino
+8,25/11/72,Juventus,2-0,Cagliari
+8,25/11/72,Lanerossi Vicenza,0-0,Sampdoria
+8,25/11/72,Palermo,1-0,Napoli
+8,25/11/72,Roma,0-0,AC Milan
+8,25/11/72,Ternana,2-1,Hellas Verona
+9,02/12/72,Atalanta,0-0,Internazionale
+9,02/12/72,Bologna,1-0,Torino
+9,02/12/72,Juventus,2-1,Fiorentina
+9,02/12/72,Lanerossi Vicenza,1-1,Palermo
+9,02/12/72,Lazio,2-1,Cagliari
+9,02/12/72,AC Milan,3-1,Sampdoria
+9,02/12/72,Napoli,1-1,Hellas Verona
+9,02/12/72,Ternana,1-4,Roma
+10,09/12/72,Cagliari,0-1,AC Milan
+10,09/12/72,Fiorentina,1-0,Lanerossi Vicenza
+10,09/12/72,Hellas Verona,0-0,Bologna
+10,09/12/72,Internazionale,4-0,Ternana
+10,09/12/72,Palermo,0-1,Juventus
+10,09/12/72,Roma,2-0,Atalanta
+10,09/12/72,Sampdoria,0-0,Lazio
+10,09/12/72,Torino,0-0,Napoli
+11,16/12/72,Bologna,2-0,Napoli
+11,16/12/72,Cagliari,1-0,Sampdoria
+11,16/12/72,Lanerossi Vicenza,0-2,Juventus
+11,16/12/72,AC Milan,3-1,Lazio
+11,16/12/72,Palermo,1-0,Fiorentina
+11,16/12/72,Roma,DA,Internazionale
+11,16/12/72,Ternana,0-0,Atalanta
+11,16/12/72,Torino,3-2,Hellas Verona
+12,22/12/72,Atalanta,1-0,Palermo
+12,22/12/72,Fiorentina,2-1,Roma
+12,22/12/72,Hellas Verona,1-1,Cagliari
+12,22/12/72,Internazionale,1-2,Lanerossi Vicenza
+12,22/12/72,Juventus,2-0,Ternana
+12,22/12/72,Lazio,0-0,Torino
+12,22/12/72,Napoli,0-0,AC Milan
+12,22/12/72,Sampdoria,2-1,Bologna
+13,29/12/72,Cagliari,1-0,Napoli
+13,29/12/72,Fiorentina,2-1,Ternana
+13,29/12/72,Juventus,0-0,Atalanta
+13,29/12/72,Lanerossi Vicenza,0-0,Roma
+13,29/12/72,Lazio,0-0,Bologna
+13,29/12/72,AC Milan,1-0,Torino
+13,29/12/72,Palermo,0-2,Internazionale
+13,29/12/72,Sampdoria,0-1,Hellas Verona
+14,06/01/73,Atalanta,1-1,Fiorentina
+14,06/01/73,Bologna,3-2,AC Milan
+14,06/01/73,Hellas Verona,1-1,Lazio
+14,06/01/73,Internazionale,0-2,Juventus
+14,06/01/73,Napoli,0-0,Sampdoria
+14,06/01/73,Roma,0-0,Palermo
+14,06/01/73,Ternana,2-0,Lanerossi Vicenza
+14,06/01/73,Torino,0-0,Cagliari
+15,20/01/73,Cagliari,1-0,Bologna
+15,20/01/73,Fiorentina,1-2,Internazionale
+15,20/01/73,Juventus,1-0,Roma
+15,20/01/73,Lanerossi Vicenza,1-1,Atalanta
+15,20/01/73,Lazio,3-0,Napoli
+15,20/01/73,AC Milan,2-1,Hellas Verona
+15,20/01/73,Palermo,1-1,Ternana
+15,20/01/73,Sampdoria,2-1,Torino
+16,27/01/73,Atalanta,0-0,Cagliari
+16,27/01/73,Fiorentina,2-0,Sampdoria
+16,27/01/73,Internazionale,1-1,Lazio
+16,27/01/73,Juventus,2-0,Bologna
+16,27/01/73,Lanerossi Vicenza,1-0,Torino
+16,27/01/73,Palermo,0-1,AC Milan
+16,27/01/73,Roma,0-1,Hellas Verona
+16,27/01/73,Ternana,0-0,Napoli
+17,03/02/73,Bologna,1-0,Internazionale
+17,03/02/73,Cagliari,3-0,Lanerossi Vicenza
+17,03/02/73,Hellas Verona,0-0,Juventus
+17,03/02/73,Lazio,0-0,Fiorentina
+17,03/02/73,AC Milan,3-1,Ternana
+17,03/02/73,Napoli,1-0,Atalanta
+17,03/02/73,Sampdoria,0-0,Roma
+17,03/02/73,Torino,2-0,Palermo
+18,10/02/73,Atalanta,1-1,AC Milan
+18,10/02/73,Fiorentina,2-0,Hellas Verona
+18,10/02/73,Internazionale,0-0,Sampdoria
+18,10/02/73,Juventus,1-0,Lazio
+18,10/02/73,Lanerossi Vicenza,1-0,Napoli
+18,10/02/73,Palermo,0-1,Cagliari
+18,10/02/73,Roma,0-1,Bologna
+18,10/02/73,Ternana,0-0,Torino
+19,17/02/73,Bologna,3-0,Ternana
+19,17/02/73,Cagliari,2-3,Internazionale
+19,17/02/73,Hellas Verona,1-1,Atalanta
+19,17/02/73,Lazio,1-0,Lanerossi Vicenza
+19,17/02/73,AC Milan,2-2,Juventus
+19,17/02/73,Napoli,1-0,Roma
+19,17/02/73,Sampdoria,0-0,Palermo
+19,17/02/73,Torino,3-0,Fiorentina
+20,03/03/73,Atalanta,0-2,Sampdoria
+20,03/03/73,Fiorentina,1-0,Napoli
+20,03/03/73,Internazionale,1-0,Hellas Verona
+20,03/03/73,Juventus,0-2,Torino
+20,03/03/73,Lanerossi Vicenza,0-3,AC Milan
+20,03/03/73,Palermo,1-1,Bologna
+20,03/03/73,Roma,0-0,Cagliari
+20,03/03/73,Ternana,0-1,Lazio
+21,10/03/73,Bologna,0-0,Lanerossi Vicenza
+21,10/03/73,Cagliari,1-0,Ternana
+21,10/03/73,Hellas Verona,1-1,Palermo
+21,10/03/73,Lazio,2-0,Roma
+21,10/03/73,AC Milan,2-0,Fiorentina
+21,10/03/73,Napoli,2-0,Internazionale
+21,10/03/73,Sampdoria,0-1,Juventus
+21,10/03/73,Torino,2-1,Atalanta
+22,17/03/73,Atalanta,1-0,Bologna
+22,17/03/73,Fiorentina,3-0,Cagliari
+22,17/03/73,Internazionale,0-2,AC Milan
+22,17/03/73,Juventus,0-0,Napoli
+22,17/03/73,Lanerossi Vicenza,2-2,Hellas Verona
+22,17/03/73,Palermo,0-2,Lazio
+22,17/03/73,Roma,1-0,Torino
+22,17/03/73,Ternana,0-2,Sampdoria
+23,24/03/73,Bologna,2-0,Fiorentina
+23,24/03/73,Cagliari,0-1,Juventus
+23,24/03/73,Hellas Verona,1-0,Ternana
+23,24/03/73,Lazio,2-1,Atalanta
+23,24/03/73,AC Milan,3-1,Roma
+23,24/03/73,Napoli,1-1,Palermo
+23,24/03/73,Sampdoria,0-0,Lanerossi Vicenza
+23,24/03/73,Torino,4-0,Internazionale
+24,07/04/73,Cagliari,0-1,Lazio
+24,07/04/73,Fiorentina,2-1,Juventus
+24,07/04/73,Hellas Verona,0-0,Napoli
+24,07/04/73,Internazionale,0-0,Atalanta
+24,07/04/73,Palermo,0-1,Lanerossi Vicenza
+24,07/04/73,Roma,0-0,Ternana
+24,07/04/73,Sampdoria,1-4,AC Milan
+24,07/04/73,Torino,3-1,Bologna
+25,14/04/73,Atalanta,1-0,Roma
+25,14/04/73,Bologna,4-1,Hellas Verona
+25,14/04/73,Juventus,4-1,Palermo
+25,14/04/73,Lanerossi Vicenza,0-1,Fiorentina
+25,14/04/73,Lazio,1-0,Sampdoria
+25,14/04/73,AC Milan,1-1,Cagliari
+25,14/04/73,Napoli,1-1,Torino
+25,14/04/73,Ternana,0-1,Internazionale
+26,21/04/73,Atalanta,0-0,Ternana
+26,21/04/73,Fiorentina,3-0,Palermo
+26,21/04/73,Hellas Verona,0-0,Torino
+26,21/04/73,Internazionale,0-0,Roma
+26,21/04/73,Juventus,3-2,Lanerossi Vicenza
+26,21/04/73,Lazio,2-1,AC Milan
+26,21/04/73,Napoli,1-1,Bologna
+26,21/04/73,Sampdoria,0-1,Cagliari
+27,28/04/73,Bologna,1-1,Sampdoria
+27,28/04/73,Cagliari,1-1,Hellas Verona
+27,28/04/73,Lanerossi Vicenza,0-1,Internazionale
+27,28/04/73,AC Milan,1-0,Napoli
+27,28/04/73,Palermo,1-2,Atalanta
+27,28/04/73,Roma,1-1,Fiorentina
+27,28/04/73,Ternana,2-3,Juventus
+27,28/04/73,Torino,0-0,Lazio
+28,05/05/73,Atalanta,0-2,Juventus
+28,05/05/73,Bologna,1-1,Lazio
+28,05/05/73,Hellas Verona,1-1,Sampdoria
+28,05/05/73,Internazionale,3-1,Palermo
+28,05/05/73,Napoli,1-1,Cagliari
+28,05/05/73,Roma,0-0,Lanerossi Vicenza
+28,05/05/73,Ternana,0-1,Fiorentina
+28,05/05/73,Torino,2-2,AC Milan
+29,12/05/73,Cagliari,1-0,Torino
+29,12/05/73,Fiorentina,4-0,Atalanta
+29,12/05/73,Juventus,2-1,Internazionale
+29,12/05/73,Lanerossi Vicenza,1-0,Ternana
+29,12/05/73,Lazio,2-1,Hellas Verona
+29,12/05/73,AC Milan,3-1,Bologna
+29,12/05/73,Palermo,1-1,Roma
+29,12/05/73,Sampdoria,1-1,Napoli
+30,19/05/73,Atalanta,0-1,Lanerossi Vicenza
+30,19/05/73,Bologna,4-2,Cagliari
+30,19/05/73,Hellas Verona,5-3,AC Milan
+30,19/05/73,Internazionale,1-0,Fiorentina
+30,19/05/73,Napoli,1-0,Lazio
+30,19/05/73,Roma,1-2,Juventus
+30,19/05/73,Ternana,0-0,Palermo
+30,19/05/73,Torino,0-1,Sampdoria

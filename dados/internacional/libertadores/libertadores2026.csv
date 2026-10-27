@@ -1,0 +1,156 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1E,03/02/26,The Strongest,2-1,Deportivo Táchira
+1E,04/02/26,2 de Mayo,1-0,Alianza Lima
+1E,05/02/26,Juventud,0-1,Universidad Catolica
+1E,10/02/26,Deportivo Táchira,1-0(5-3 Pen.),The Strongest
+1E,11/02/26,Alianza Lima,1-1,2 de Mayo
+1E,12/02/26,Universidad Catolica,3-4(3-4 Pen.),Juventud
+2E,17/02/26,Carabobo,1-0,Huachipato
+2E,17/02/26,2 de Mayo,2-2,Sporting Cristal
+2E,17/02/26,Liverpool Montevideo,1-2,Independiente Medellín
+2E,18/02/26,O´Higgins,1-0,Bahia
+2E,18/02/26,Barcelona SC,0-1,Argentinos Juniors
+2E,18/02/26,Nacional Potosí,1-0,Botafogo
+2E,19/02/26,Juventud,0-0,Guaraní
+2E,19/02/26,Deportivo Táchira,0-1,Tolima
+2E,24/02/26,Huachipato,1-2,Carabobo
+2E,24/02/26,Sporting Cristal,0-0(5-4 Pen.),2 de Mayo
+2E,24/02/26,Independiente Medellín,0-0,Liverpool Montevideo
+2E,25/02/26,Bahia,2-1(3-4 Pen.),O´Higgins
+2E,25/02/26,Argentinos Juniors,0-1(4-5 Pen.),Barcelona SC
+2E,25/02/26,Botafogo,2-0,Nacional Potosí
+2E,26/02/26,Guaraní,1-2,Juventud
+2E,26/02/26,Tolima,0-1(3-0 Pen.),Deportivo Táchira
+3E,03/03/26,Barcelona SC,1-1,Botafogo
+3E,04/03/26,Carabobo,0-1,Sporting Cristal
+3E,04/03/26,O´Higgins,1-0,Tolima
+3E,05/03/26,Juventud,1-1,Independiente Medellín
+3E,10/03/26,Botafogo,0-1,Barcelona SC
+3E,11/03/26,Sporting Cristal,1-2(3-2 Pen.),Carabobo
+3E,11/03/26,Tolima,2-0,O´Higgins
+3E,12/03/26,Independiente Medellín,2-1,Juventud
+C,07/04/26,Independiente Rivadavia,1-0,Bolívar
+C,07/04/26,Dep. La Guaira,0-0,Fluminense
+D,07/04/26,Barcelona SC,0-1,Cruzeiro
+G,07/04/26,Always Ready,0-1,LDU Quito
+D,07/04/26,Univ. Católica,1-2,Boca Juniors
+B,07/04/26,Tolima,0-0,Universitario
+B,08/04/26,Coquimbo Unido,1-1,Nacional
+G,08/04/26,Mirassol,1-0,Lanús
+A,08/04/26,Independiente Medellín,1-1,Estudiantes
+A,08/04/26,Cusco FC,0-2,Flamengo
+F,08/04/26,Junior Barranquilla,1-1,Palmeiras
+F,08/04/26,Sporting Cristal,1-0,Cerro Porteño
+H,09/04/26,UCV FC,3-1,Libertad
+H,09/04/26,Rosario Central,0-0,Independiente del Valle
+E,09/04/26,Platense,0-2,Corinthians
+E,09/04/26,Santa Fe,1-1,Peñarol
+A,14/04/26,Estudiantes,2-1,Cusco FC
+B,14/04/26,Nacional,3-1,Tolima
+F,14/04/26,Cerro Porteño,1-0,Junior Barranquilla
+C,14/04/26,Bolívar,1-1,Dep. La Guaira
+D,14/04/26,Boca Juniors,3-0,Barcelona SC
+B,14/04/26,Universitario,0-2,Coquimbo Unido
+G,14/04/26,LDU Quito,2-0,Mirassol
+D,15/04/26,Cruzeiro,1-2,Univ. Católica
+H,15/04/26,Libertad,0-1,Rosario Central
+C,15/04/26,Fluminense,1-2,Independiente Rivadavia
+E,15/04/26,Corinthians,2-0,Santa Fe
+H,15/04/26,Independiente del Valle,3-1,UCV FC
+F,16/04/26,Palmeiras,2-1,Sporting Cristal
+G,16/04/26,Lanús,1-0,Always Ready
+A,16/04/26,Flamengo,4-1,Independiente Medellín
+E,16/04/26,Peñarol,1-2,Platense
+G,28/04/26,Lanús,1-0,LDU Quito
+H,28/04/26,Libertad,2-3,Independiente del Valle
+H,28/04/26,UCV FC,0-3,Rosario Central
+D,28/04/26,Cruzeiro,1-0,Boca Juniors
+B,28/04/26,Tolima,3-0,Coquimbo Unido
+F,28/04/26,Sporting Cristal,2-0,Junior Barranquilla
+E,29/04/26,Platense,2-1,Santa Fe
+G,29/04/26,Mirassol,2-0,Always Ready
+D,29/04/26,Barcelona SC,1-2,Univ. Católica
+A,29/04/26,Estudiantes,1-1,Flamengo
+F,29/04/26,Cerro Porteño,1-1,Palmeiras
+B,29/04/26,Universitario,4-2,Nacional
+C,30/04/26,Bolívar,2-0,Fluminense
+C,30/04/26,Independiente Rivadavia,4-1,Dep. La Guaira
+E,30/04/26,Corinthians,2-0,Peñarol
+A,30/04/26,Independiente Medellín,1-0,Cusco FC
+F,05/05/26,Sporting Cristal,0-2,Palmeiras
+H,05/05/26,Rosario Central,1-0,Libertad
+D,05/05/26,Barcelona SC,1-0,Boca Juniors
+H,05/05/26,UCV FC,2-0,Independiente del Valle
+G,05/05/26,Always Ready,4-0,Lanús
+A,06/05/26,Cusco FC,1-1,Estudiantes
+C,06/05/26,Dep. La Guaira,1-1,Bolívar
+C,06/05/26,Independiente Rivadavia,1-1,Fluminense
+E,06/05/26,Santa Fe,1-1,Corinthians
+B,06/05/26,Tolima,3-0,Nacional
+D,06/05/26,Univ. Católica,0-0,Cruzeiro
+E,07/05/26,Platense,1-1,Peñarol
+G,07/05/26,Mirassol,2-0,LDU Quito
+B,07/05/26,Coquimbo Unido,2-1,Universitario
+A,07/05/26,Independiente Medellín,DA,Flamengo
+F,07/05/26,Junior Barranquilla,0-1,Cerro Porteño
+B,19/05/26,Coquimbo Unido,3-0,Tolima
+C,19/05/26,Fluminense,2-1,Bolívar
+H,19/05/26,Rosario Central,4-0,UCV FC
+E,19/05/26,Santa Fe,2-1,Platense
+G,19/05/26,Always Ready,1-2,Mirassol
+D,19/05/26,Boca Juniors,1-1,Cruzeiro
+H,19/05/26,Independiente del Valle,4-1,Libertad
+B,20/05/26,Nacional,0-0,Universitario
+A,20/05/26,Flamengo,1-0,Estudiantes
+F,20/05/26,Palmeiras,0-1,Cerro Porteño
+G,20/05/26,LDU Quito,2-0,Lanús
+A,20/05/26,Cusco FC,2-3,Independiente Medellín
+F,20/05/26,Junior Barranquilla,3-2,Sporting Cristal
+C,21/05/26,Dep. La Guaira,2-4,Independiente Rivadavia
+D,21/05/26,Univ. Católica,2-0,Barcelona SC
+E,21/05/26,Peñarol,1-1,Corinthians
+G,26/05/26,LDU Quito,3-2,Always Ready
+G,26/05/26,Lanús,1-0,Mirassol
+A,26/05/26,Flamengo,3-0,Cusco FC
+A,26/05/26,Estudiantes,1-0,Independiente Medellín
+B,26/05/26,Nacional,1-0,Coquimbo Unido
+B,26/05/26,Universitario,0-0,Tolima
+H,27/05/26,Independiente del Valle,1-0,Rosario Central
+H,27/05/26,Libertad,0-1,UCV FC
+C,27/05/26,Fluminense,3-1,Dep. La Guaira
+C,27/05/26,Bolívar,1-3,Independiente Rivadavia
+E,27/05/26,Peñarol,0-1,Santa Fe
+E,27/05/26,Corinthians,0-2,Platense
+F,28/05/26,Palmeiras,4-1,Junior Barranquilla
+F,28/05/26,Cerro Porteño,2-0,Sporting Cristal
+D,28/05/26,Boca Juniors,0-1,Univ. Católica
+D,28/05/26,Cruzeiro,4-0,Barcelona SC
+1/8,11/08/26,Fluminense,0-0,Independiente Rivadavia
+1/8,11/08/26,Estudiantes,1-1,Univ. Católica
+1/8,12/08/26,Platense,1-1,Coquimbo Unido
+1/8,12/08/26,Palmeiras,1-1,Cerro Porteño
+1/8,12/08/26,Cruzeiro,1-1,Flamengo
+1/8,13/08/26,Mirassol,1-1,LDU Quito
+1/8,13/08/26,Rosario Central,0-0,Corinthians
+1/8,18/08/26,Independiente Rivadavia,1-1(4-5 Pen.),Fluminense
+1/8,18/08/26,Tolima,0-1,Independiente del Valle
+1/8,18/08/26,Univ. Católica,0-3,Estudiantes
+1/8,19/08/26,Coquimbo Unido,0-0(6-7 Pen.),Platense
+1/8,19/08/26,Cerro Porteño,0-1,Palmeiras
+1/8,19/08/26,Flamengo,2-1,Cruzeiro
+1/8,20/08/26,LDU Quito,0-0(5-4 Pen.),Mirassol
+1/8,20/08/26,Corinthians,1-0,Rosario Central
+1/8,25/08/26,Independiente del Valle,3-1,Tolima
+QF,08/09/26,Fluminense,2-0,Platense
+QF,09/09/26,Palmeiras,1-0,LDU Quito
+QF,09/09/26,Estudiantes,1-1,Corinthians
+QF,10/09/26,Independiente del Valle,0-2,Flamengo
+QF,15/09/26,Platense,2-1,Fluminense
+QF,16/09/26,LDU Quito,3-2(3-4 Pen.),Palmeiras
+QF,16/09/26,Corinthians,0-1,Estudiantes
+QF,17/09/26,Flamengo,1-1,Independiente del Valle
+SF,14/10/26,Fluminense,1-2,Palmeiras
+SF,15/10/26,Estudiantes,0-0,Flamengo
+SF,21/10/26,Palmeiras,0-1(5-3 Pen.),Fluminense
+SF,22/10/26,Flamengo,0-0(2-3 Pen.),Estudiantes
+F,28/11/26,Palmeiras,vs,Estudiantes

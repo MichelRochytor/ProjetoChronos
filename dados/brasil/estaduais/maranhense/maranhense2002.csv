@@ -1,0 +1,104 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,02/03/02,Tocantins-MA,0-4,Santa Inês
+B,02/03/02,Expressinho,0-7,Caxiense
+A,03/03/02,Bacabal,3-2,São Bento-MA
+A,03/03/02,Imperatriz,0-1,Viana
+A,06/03/02,Lago Verde,1-3,Bacabal
+A,06/03/02,Imperatriz,0-2,São Bento-MA
+B,09/03/02,Expressinho,2-0,Tocantins-MA
+A,10/03/02,São Bento-MA,2-1,Lago Verde
+A,10/03/02,Bacabal,0-0,Viana
+B,10/03/02,Caxiense,2-3,Santa Inês
+A,13/03/02,Viana,1-0,São Bento-MA
+B,13/03/02,Tocantins-MA,2-0,Expressinho
+A,14/03/02,Lago Verde,2-2,Imperatriz
+B,14/03/02,Santa Inês,4-0,Expressinho
+A,16/03/02,Bacabal,0-0,Imperatriz
+A,17/03/02,Viana,0-1,Lago Verde
+B,17/03/02,Caxiense,5-1,Tocantins-MA
+B,23/03/02,Expressinho,1-5,Santa Inês
+A,24/03/02,São Bento-MA,2-0,Bacabal
+A,24/03/02,Viana,5-1,Imperatriz
+B,24/03/02,Tocantins-MA,2-4,Caxiense
+A,27/03/02,Bacabal,2-2,Lago Verde
+A,27/03/02,São Bento-MA,3-2,Imperatriz
+A,30/03/02,Lago Verde,0-5,São Bento-MA
+A,30/03/02,Viana,4-1,Bacabal
+B,31/03/02,Santa Inês,1-0,Caxiense
+A,03/04/02,Imperatriz,5-1,Bacabal
+A,03/04/02,Lago Verde,5-1,Viana
+A,07/04/02,São Bento-MA,4-1,Viana
+A,07/04/02,Imperatriz,0-3,Lago Verde
+B,07/04/02,Santa Inês,10-1,Tocantins-MA
+B,07/04/02,Caxiense,4-0,Expressinho
+B,14/04/02,Santa Inês,0-0,Sampaio Corrêa
+B,14/04/02,Viana,3-1,Lago Verde
+A,15/04/02,Maranhão,1-0,Caxiense
+B,17/04/02,Lago Verde,2-2,Caxiense
+A,17/04/02,Moto Club,1-2,São Bento-MA
+B,20/04/02,Lago Verde,0-1,Maranhão
+B,21/04/02,São Bento-MA,0-1,Santa Inês
+B,22/04/02,Moto Club,0-1,Viana
+B,24/04/02,Sampaio Corrêa,3-1,Caxiense
+A,24/04/02,São Bento-MA,0-0,Maranhão
+B,25/04/02,Moto Club,2-3,Santa Inês
+B,27/04/02,Lago Verde,1-1,São Bento-MA
+A,28/04/02,Moto Club,2-0,Maranhão
+B,28/04/02,Santa Inês,4-0,Caxiense
+B,29/04/02,Viana,0-0,Sampaio Corrêa
+B,01/05/02,Sampaio Corrêa,2-3,Maranhão
+B,01/05/02,Santa Inês,1-2,Lago Verde
+A,01/05/02,Moto Club,1-2,Caxiense
+B,01/05/02,Viana,1-1,São Bento-MA
+B,04/05/02,Sampaio Corrêa,2-1,Lago Verde
+B,05/05/02,Maranhão,1-1,Viana
+A,05/05/02,São Bento-MA,1-1,Caxiense
+B,08/05/02,Moto Club,2-1,Lago Verde
+B,08/05/02,Santa Inês,2-1,Viana
+B,09/05/02,Sampaio Corrêa,3-1,São Bento-MA
+B,11/05/02,Maranhão,3-1,Santa Inês
+B,13/05/02,Moto Club,1-0,Sampaio Corrêa
+B,13/05/02,Viana,4-1,Caxiense
+B,15/05/02,Santa Inês,1-1,Moto Club
+B,15/05/02,São Bento-MA,2-1,Lago Verde
+A,16/05/02,Maranhão,2-1,Caxiense
+B,16/05/02,Sampaio Corrêa,1-0,Viana
+B,18/05/02,Lago Verde,2-2,Santa Inês
+A,19/05/02,Maranhão,1-0,Moto Club
+B,19/05/02,São Bento-MA,4-1,Viana
+B,20/05/02,Sampaio Corrêa,1-2,Caxiense
+B,22/05/02,Sampaio Corrêa,2-2,Lago Verde
+B,22/05/02,Viana,1-0,Maranhão
+B,22/05/02,Santa Inês,3-1,São Bento-MA
+A,23/05/02,Moto Club,1-3,Caxiense
+B,25/05/02,Lago Verde,0-0,Caxiense
+B,26/05/02,Santa Inês,3-1,Maranhão
+B,26/05/02,Viana,3-3,Moto Club
+B,26/05/02,São Bento-MA,3-1,Sampaio Corrêa
+B,29/05/02,Maranhão,1-0,Lago Verde
+A,29/05/02,São Bento-MA,1-0,Moto Club
+B,30/05/02,Sampaio Corrêa,1-0,Santa Inês
+B,30/05/02,Viana,2-1,Caxiense
+B,01/06/02,Moto Club,2-4,Lago Verde
+A,01/06/02,São Bento-MA,2-0,Caxiense
+B,02/06/02,Sampaio Corrêa,3-2,Maranhão
+B,02/06/02,Viana,0-0,Santa Inês
+A,05/06/02,Maranhão,2-1,São Bento-MA
+B,08/06/02,Lago Verde,0-2,Viana
+B,09/06/02,Santa Inês,1-2,Caxiense
+B,09/06/02,Sampaio Corrêa,1-0,Moto Club
+SF,12/06/02,Santa Inês,0-0,Maranhão
+SF,14/06/02,Viana,2-1,Sampaio Corrêa
+SF,15/06/02,Maranhão,0-2,Santa Inês
+SF,17/06/02,Sampaio Corrêa,4-3,Viana
+F,20/06/02,Santa Inês,0-1,Sampaio Corrêa
+F,23/06/02,Sampaio Corrêa,3-3,Santa Inês
+SF,24/07/02,Sampaio Corrêa,1-2,Santa Inês
+SF,25/07/02,Moto Club,4-2,Maranhão
+SF,28/07/02,Santa Inês,3-1,Sampaio Corrêa
+SF,28/07/02,Maranhão,2-3,Moto Club
+F,01/08/02,Moto Club,4-2,Santa Inês
+F,04/08/02,Santa Inês,2-1,Moto Club
+TF,07/08/02,Moto Club,0-3,Santa Inês
+TF,14/08/02,Sampaio Corrêa,2-1,Moto Club
+TF,25/08/02,Sampaio Corrêa,2-0,Santa Inês

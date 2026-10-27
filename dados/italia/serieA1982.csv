@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,11/09/82,Hellas Verona,1-2,Internazionale
+1,11/09/82,Fiorentina,4-0,Catanzaro
+1,11/09/82,Sampdoria,1-0,Juventus
+1,11/09/82,Torino,4-1,Avellino
+1,11/09/82,Napoli,0-0,Udinese
+1,11/09/82,Ascoli,0-0,Genoa
+1,11/09/82,Cagliari,1-3,Roma
+1,11/09/82,AC Cesena,0-0,Pisa
+2,18/09/82,Roma,1-0,Hellas Verona
+2,18/09/82,Juventus,2-0,AC Cesena
+2,18/09/82,Internazionale,1-2,Sampdoria
+2,18/09/82,Udinese,1-1,Cagliari
+2,18/09/82,Avellino,2-0,Ascoli
+2,18/09/82,Pisa,2-0,Napoli
+2,18/09/82,Genoa,0-3,Fiorentina
+2,18/09/82,Catanzaro,0-0,Torino
+3,25/09/82,Hellas Verona,2-1,Juventus
+3,25/09/82,Fiorentina,1-2,Udinese
+3,25/09/82,Sampdoria,1-0,Roma
+3,25/09/82,Torino,1-1,Genoa
+3,25/09/82,Napoli,2-0,Catanzaro
+3,25/09/82,Ascoli,2-2,Pisa
+3,25/09/82,Cagliari,0-2,Internazionale
+3,25/09/82,AC Cesena,2-0,Avellino
+4,02/10/82,Roma,2-1,Ascoli
+4,02/10/82,Juventus,3-0,Napoli
+4,02/10/82,Internazionale,0-0,Fiorentina
+4,02/10/82,Udinese,2-2,Torino
+4,02/10/82,Avellino,0-0,Cagliari
+4,02/10/82,Pisa,3-2,Sampdoria
+4,02/10/82,Genoa,0-1,Hellas Verona
+4,02/10/82,Catanzaro,1-1,AC Cesena
+5,09/10/82,Hellas Verona,3-0,Avellino
+5,09/10/82,Fiorentina,0-1,Juventus
+5,09/10/82,Sampdoria,4-2,Catanzaro
+5,09/10/82,Torino,0-0,Internazionale
+5,09/10/82,Napoli,1-3,Roma
+5,09/10/82,Ascoli,3-0,Udinese
+5,09/10/82,Cagliari,1-1,Pisa
+5,09/10/82,AC Cesena,0-1,Genoa
+6,16/10/82,Roma,1-0,AC Cesena
+6,16/10/82,Internazionale,2-2,Napoli
+6,16/10/82,Udinese,0-0,Juventus
+6,16/10/82,Torino,3-0,Sampdoria
+6,16/10/82,Avellino,2-0,Fiorentina
+6,16/10/82,Pisa,0-1,Hellas Verona
+6,16/10/82,Genoa,3-0,Cagliari
+6,16/10/82,Catanzaro,1-0,Ascoli
+7,23/10/82,Juventus,2-1,Roma
+7,23/10/82,Hellas Verona,3-1,Catanzaro
+7,23/10/82,Napoli,1-1,Avellino
+7,23/10/82,Pisa,1-1,Internazionale
+7,23/10/82,Genoa,2-3,Udinese
+7,23/10/82,Ascoli,2-0,Sampdoria
+7,23/10/82,Cagliari,0-0,Torino
+7,23/10/82,AC Cesena,3-3,Fiorentina
+8,30/10/82,Roma,3-1,Pisa
+8,30/10/82,Internazionale,2-0,Ascoli
+8,30/10/82,Fiorentina,3-1,Cagliari
+8,30/10/82,Udinese,0-0,Hellas Verona
+8,30/10/82,Sampdoria,0-0,AC Cesena
+8,30/10/82,Torino,1-1,Napoli
+8,30/10/82,Avellino,1-1,Juventus
+8,30/10/82,Catanzaro,2-2,Genoa
+9,06/11/82,Juventus,3-2,Pisa
+9,06/11/82,Fiorentina,0-0,Torino
+9,06/11/82,Udinese,1-1,Roma
+9,06/11/82,Napoli,0-1,Sampdoria
+9,06/11/82,Genoa,1-1,Avellino
+9,06/11/82,Ascoli,2-3,Hellas Verona
+9,06/11/82,Cagliari,1-0,Catanzaro
+9,06/11/82,AC Cesena,2-2,Internazionale
+10,20/11/82,Roma,3-1,Fiorentina
+10,20/11/82,Juventus,1-0,Torino
+10,20/11/82,Internazionale,2-1,Genoa
+10,20/11/82,Hellas Verona,2-2,Cagliari
+10,20/11/82,Sampdoria,0-0,Avellino
+10,20/11/82,Napoli,0-0,Ascoli
+10,20/11/82,Pisa,0-0,Catanzaro
+10,20/11/82,AC Cesena,1-0,Udinese
+11,27/11/82,Fiorentina,1-1,Hellas Verona
+11,27/11/82,Udinese,1-1,Pisa
+11,27/11/82,Torino,0-1,AC Cesena
+11,27/11/82,Avellino,1-2,Internazionale
+11,27/11/82,Genoa,1-1,Sampdoria
+11,27/11/82,Ascoli,2-0,Juventus
+11,27/11/82,Cagliari,1-0,Napoli
+11,27/11/82,Catanzaro,0-0,Roma
+12,11/12/82,Roma,2-1,Internazionale
+12,11/12/82,Juventus,3-1,Catanzaro
+12,11/12/82,Hellas Verona,1-0,Torino
+12,11/12/82,Sampdoria,1-3,Udinese
+12,11/12/82,Napoli,1-1,Genoa
+12,11/12/82,Pisa,2-0,Avellino
+12,11/12/82,Ascoli,1-0,Fiorentina
+12,11/12/82,AC Cesena,0-0,Cagliari
+13,18/12/82,Internazionale,0-0,Juventus
+13,18/12/82,Hellas Verona,1-1,AC Cesena
+13,18/12/82,Fiorentina,1-0,Napoli
+13,18/12/82,Torino,2-0,Ascoli
+13,18/12/82,Avellino,1-1,Roma
+13,18/12/82,Genoa,1-0,Pisa
+13,18/12/82,Cagliari,1-0,Sampdoria
+13,18/12/82,Catanzaro,1-1,Udinese
+14,01/01/83,Roma,2-0,Genoa
+14,01/01/83,Juventus,1-1,Cagliari
+14,01/01/83,Udinese,0-0,Internazionale
+14,01/01/83,Sampdoria,0-0,Fiorentina
+14,01/01/83,Napoli,1-2,Hellas Verona
+14,01/01/83,Pisa,0-1,Torino
+14,01/01/83,Ascoli,1-1,AC Cesena
+14,01/01/83,Catanzaro,1-1,Avellino
+15,08/01/83,Internazionale,5-0,Catanzaro
+15,08/01/83,Hellas Verona,1-1,Sampdoria
+15,08/01/83,Fiorentina,2-1,Pisa
+15,08/01/83,Torino,1-1,Roma
+15,08/01/83,Avellino,1-1,Udinese
+15,08/01/83,Genoa,1-0,Juventus
+15,08/01/83,Cagliari,3-1,Ascoli
+15,08/01/83,AC Cesena,0-0,Napoli
+16,15/01/83,Roma,1-0,Cagliari
+16,15/01/83,Juventus,1-1,Sampdoria
+16,15/01/83,Internazionale,1-1,Hellas Verona
+16,15/01/83,Udinese,0-0,Napoli
+16,15/01/83,Avellino,2-0,Torino
+16,15/01/83,Pisa,1-0,AC Cesena
+16,15/01/83,Genoa,0-0,Ascoli
+16,15/01/83,Catanzaro,0-1,Fiorentina
+17,22/01/83,Hellas Verona,1-1,Roma
+17,22/01/83,Fiorentina,2-1,Genoa
+17,22/01/83,Sampdoria,0-0,Internazionale
+17,22/01/83,Torino,1-0,Catanzaro
+17,22/01/83,Napoli,2-1,Pisa
+17,22/01/83,Ascoli,2-1,Avellino
+17,22/01/83,Cagliari,0-0,Udinese
+17,22/01/83,AC Cesena,2-2,Juventus
+18,29/01/83,Roma,1-0,Sampdoria
+18,29/01/83,Juventus,0-0,Hellas Verona
+18,29/01/83,Internazionale,2-0,Cagliari
+18,29/01/83,Udinese,0-0,Fiorentina
+18,29/01/83,Avellino,1-0,AC Cesena
+18,29/01/83,Pisa,2-1,Ascoli
+18,29/01/83,Genoa,1-1,Torino
+18,29/01/83,Catanzaro,1-2,Napoli
+19,05/02/83,Hellas Verona,2-2,Genoa
+19,05/02/83,Fiorentina,0-0,Internazionale
+19,05/02/83,Sampdoria,1-0,Pisa
+19,05/02/83,Torino,0-0,Udinese
+19,05/02/83,Napoli,0-0,Juventus
+19,05/02/83,Ascoli,1-1,Roma
+19,05/02/83,Cagliari,1-1,Avellino
+19,05/02/83,AC Cesena,0-0,Catanzaro
+20,19/02/83,Roma,5-2,Napoli
+20,19/02/83,Juventus,3-0,Fiorentina
+20,19/02/83,Internazionale,1-3,Torino
+20,19/02/83,Udinese,2-1,Ascoli
+20,19/02/83,Avellino,3-0,Hellas Verona
+20,19/02/83,Pisa,0-0,Cagliari
+20,19/02/83,Genoa,2-1,AC Cesena
+20,19/02/83,Catanzaro,1-1,Sampdoria
+21,26/02/83,Juventus,4-0,Udinese
+21,26/02/83,Hellas Verona,2-1,Pisa
+21,26/02/83,Fiorentina,3-0,Avellino
+21,26/02/83,Sampdoria,0-0,Torino
+21,26/02/83,Napoli,1-1,Internazionale
+21,26/02/83,Ascoli,3-2,Catanzaro
+21,26/02/83,Cagliari,1-1,Genoa
+21,26/02/83,AC Cesena,1-1,Roma
+22,05/03/83,Roma,1-2,Juventus
+22,05/03/83,Internazionale,0-1,Pisa
+22,05/03/83,Fiorentina,4-0,AC Cesena
+22,05/03/83,Udinese,1-1,Genoa
+22,05/03/83,Sampdoria,1-1,Ascoli
+22,05/03/83,Torino,3-2,Cagliari
+22,05/03/83,Avellino,0-0,Napoli
+22,05/03/83,Catanzaro,2-1,Hellas Verona
+23,12/03/83,Juventus,4-1,Avellino
+23,12/03/83,Hellas Verona,0-0,Udinese
+23,12/03/83,Napoli,1-0,Torino
+23,12/03/83,Pisa,1-2,Roma
+23,12/03/83,Genoa,4-1,Catanzaro
+23,12/03/83,Ascoli,0-0,Internazionale
+23,12/03/83,Cagliari,0-0,Fiorentina
+23,12/03/83,AC Cesena,0-2,Sampdoria
+24,19/03/83,Roma,0-0,Udinese
+24,19/03/83,Internazionale,3-1,AC Cesena
+24,19/03/83,Hellas Verona,2-1,Ascoli
+24,19/03/83,Sampdoria,1-1,Napoli
+24,19/03/83,Torino,2-0,Fiorentina
+24,19/03/83,Avellino,2-0,Genoa
+24,19/03/83,Pisa,0-0,Juventus
+24,19/03/83,Catanzaro,1-2,Cagliari
+25,19/03/83,Fiorentina,2-2,Roma
+25,19/03/83,Udinese,3-1,AC Cesena
+25,19/03/83,Torino,3-2,Juventus
+25,19/03/83,Avellino,0-0,Sampdoria
+25,19/03/83,Genoa,2-3,Internazionale
+25,19/03/83,Ascoli,2-1,Napoli
+25,19/03/83,Cagliari,2-1,Hellas Verona
+25,19/03/83,Catanzaro,0-2,Pisa
+26,09/04/83,Roma,2-0,Catanzaro
+26,09/04/83,Juventus,5-0,Ascoli
+26,09/04/83,Internazionale,2-0,Avellino
+26,09/04/83,Hellas Verona,0-1,Fiorentina
+26,09/04/83,Sampdoria,2-2,Genoa
+26,09/04/83,Napoli,1-0,Cagliari
+26,09/04/83,Pisa,0-0,Udinese
+26,09/04/83,AC Cesena,2-0,Torino
+27,23/04/83,Internazionale,0-0,Roma
+27,23/04/83,Fiorentina,1-0,Ascoli
+27,23/04/83,Udinese,0-4,Sampdoria
+27,23/04/83,Torino,1-1,Hellas Verona
+27,23/04/83,Avellino,1-0,Pisa
+27,23/04/83,Genoa,0-0,Napoli
+27,23/04/83,Cagliari,0-0,AC Cesena
+27,23/04/83,Catanzaro,1-2,Juventus
+28,30/04/83,Roma,2-0,Avellino
+28,30/04/83,Juventus,DA,Internazionale
+28,30/04/83,Udinese,2-1,Catanzaro
+28,30/04/83,Sampdoria,1-1,Cagliari
+28,30/04/83,Napoli,1-0,Fiorentina
+28,30/04/83,Pisa,0-0,Genoa
+28,30/04/83,Ascoli,2-0,Torino
+28,30/04/83,AC Cesena,1-2,Hellas Verona
+29,07/05/83,Internazionale,1-1,Udinese
+29,07/05/83,Hellas Verona,0-0,Napoli
+29,07/05/83,Fiorentina,3-1,Sampdoria
+29,07/05/83,Torino,0-2,Pisa
+29,07/05/83,Avellino,4-0,Catanzaro
+29,07/05/83,Genoa,1-1,Roma
+29,07/05/83,Cagliari,1-2,Juventus
+29,07/05/83,AC Cesena,1-1,Ascoli
+30,14/05/83,Roma,3-1,Torino
+30,14/05/83,Juventus,4-2,Genoa
+30,14/05/83,Udinese,1-1,Avellino
+30,14/05/83,Sampdoria,2-2,Hellas Verona
+30,14/05/83,Napoli,1-0,AC Cesena
+30,14/05/83,Pisa,0-0,Fiorentina
+30,14/05/83,Ascoli,2-0,Cagliari
+30,14/05/83,Catanzaro,1-2,Internazionale

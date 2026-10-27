@@ -1,0 +1,81 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,26/01/19,Brasiliense,3-0,Santa Maria-DF
+1F,26/01/19,Luziânia,0-1,Paracatu
+1F,26/01/19,Gama,5-0,Bolamense
+1F,27/01/19,Ceilândia,1-1,Real FC
+1F,27/01/19,Sobradinho,3-0,Capital CF
+1F,27/01/19,Formosa,1-0,Taguatinga
+1F,30/01/19,Real FC,2-0,Sobradinho
+1F,30/01/19,Paracatu,0-1,Gama
+1F,30/01/19,Taguatinga,0-3,Brasiliense
+1F,31/01/19,Santa Maria-DF,1-1,Formosa
+1F,31/01/19,Bolamense,0-3,Luziânia
+1F,02/02/19,Brasiliense,0-0,Real FC
+1F,03/02/19,Luziânia,3-0,Santa Maria-DF
+1F,03/02/19,Sobradinho,1-1,Taguatinga
+1F,03/02/19,Ceilândia,4-0,Bolamense
+1F,03/02/19,Formosa,1-1,Paracatu
+1F,03/02/19,Gama,2-0,Capital CF
+1F,06/02/19,Capital CF,1-0,Ceilândia
+1F,09/02/19,Capital CF,0-1,Luziânia
+1F,09/02/19,Paracatu,0-1,Brasiliense
+1F,09/02/19,Santa Maria-DF,0-3,Gama
+1F,10/02/19,Taguatinga,0-0,Ceilândia
+1F,10/02/19,Formosa,0-0,Real FC
+1F,12/02/19,Bolamense,2-3,Sobradinho
+1F,16/02/19,Paracatu,2-1,Bolamense
+1F,16/02/19,Capital CF,1-0,Taguatinga
+1F,16/02/19,Gama,2-2,Luziânia
+1F,17/02/19,Ceilândia,0-2,Brasiliense
+1F,17/02/19,Sobradinho,2-1,Formosa
+1F,18/02/19,Real FC,4-1,Santa Maria-DF
+1F,23/02/19,Luziânia,3-0,Sobradinho
+1F,23/02/19,Santa Maria-DF,1-4,Ceilândia
+1F,23/02/19,Brasiliense,2-0,Capital CF
+1F,24/02/19,Taguatinga,4-0,Bolamense
+1F,24/02/19,Real FC,1-1,Paracatu
+1F,24/02/19,Formosa,1-2,Gama
+1F,07/03/19,Taguatinga,0-0,Luziânia
+1F,07/03/19,Bolamense,0-2,Real FC
+1F,09/03/19,Brasiliense,1-0,Formosa
+1F,09/03/19,Ceilândia,0-1,Gama
+1F,10/03/19,Sobradinho,1-0,Paracatu
+1F,10/03/19,Capital CF,2-0,Santa Maria-DF
+1F,12/03/19,Real FC,2-0,Taguatinga
+1F,13/03/19,Ceilândia,0-1,Formosa
+1F,13/03/19,Paracatu,2-0,Santa Maria-DF
+1F,13/03/19,Luziânia,0-2,Brasiliense
+1F,13/03/19,Gama,4-1,Sobradinho
+1F,14/03/19,Bolamense,1-4,Capital CF
+1F,16/03/19,Taguatinga,0-2,Paracatu
+1F,16/03/19,Sobradinho,0-0,Ceilândia
+1F,16/03/19,Formosa,2-2,Luziânia
+1F,17/03/19,Santa Maria-DF,0-0,Bolamense
+1F,17/03/19,Capital CF,1-1,Real FC
+1F,17/03/19,Gama,1-0,Brasiliense
+1F,20/03/19,Brasiliense,1-0,Sobradinho
+1F,20/03/19,Real FC,0-1,Gama
+1F,20/03/19,Luziânia,3-1,Ceilândia
+1F,20/03/19,Paracatu,0-0,Capital CF
+1F,21/03/19,Bolamense,0-5,Formosa
+1F,21/03/19,Santa Maria-DF,0-0,Taguatinga
+1F,24/03/19,Sobradinho,5-3,Santa Maria-DF
+1F,24/03/19,Formosa,1-1,Capital CF
+1F,24/03/19,Gama,1-0,Taguatinga
+1F,24/03/19,Luziânia,1-1,Real FC
+1F,24/03/19,Brasiliense,6-0,Bolamense
+1F,24/03/19,Ceilândia,1-0,Paracatu
+QF,27/03/19,Sobradinho,0-0,Real FC
+QF,27/03/19,Paracatu,2-1,Luziânia
+QF,27/03/19,Formosa,0-2,Gama
+QF,27/03/19,Capital CF,2-2,Brasiliense
+QF,30/03/19,Luziânia,1-1,Paracatu
+QF,30/03/19,Gama,1-1,Formosa
+QF,31/03/19,Real FC,3-1,Sobradinho
+QF,31/03/19,Brasiliense,2-0,Capital CF
+SF,03/04/19,Paracatu,1-0,Brasiliense
+SF,04/04/19,Real FC,1-2,Gama
+SF,07/04/19,Brasiliense,3-2,Paracatu
+SF,07/04/19,Gama,1-0,Real FC
+F,13/04/19,Gama,3-1,Brasiliense
+F,20/04/19,Brasiliense,2-2,Gama

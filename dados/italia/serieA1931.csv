@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,20/09/31,Genoa,3-0,US Bari
+1,20/09/31,Torino,3-1,Lazio
+1,20/09/31,Roma,4-2,Modena
+1,20/09/31,Pro Patria,1-1,Juventus
+1,20/09/31,Bologna,1-0,Pro Vercelli
+1,20/09/31,AC Milan,1-1,Fiorentina
+1,20/09/31,Casale,3-1,Ambrosiana-Inter
+1,20/09/31,Brescia,1-0,Alessandria
+1,20/09/31,Napoli,4-2,Triestina
+2,27/09/31,Pro Vercelli,0-1,Casale
+2,27/09/31,Triestina,2-0,Roma
+2,27/09/31,Lazio,0-0,AC Milan
+2,27/09/31,Modena,1-1,Pro Patria
+2,27/09/31,Fiorentina,2-1,Brescia
+2,27/09/31,US Bari,1-2,Bologna
+2,27/09/31,Ambrosiana-Inter,1-1,Torino
+2,27/09/31,Alessandria,2-2,Genoa
+2,27/09/31,Juventus,5-3,Napoli
+3,04/10/31,Roma,2-1,Pro Vercelli
+3,04/10/31,Torino,6-0,Modena
+3,04/10/31,Pro Patria,0-2,Triestina
+3,04/10/31,Napoli,3-0,US Bari
+3,04/10/31,Genoa,1-1,Fiorentina
+3,04/10/31,Casale,1-1,Juventus
+3,04/10/31,Bologna,5-1,Lazio
+3,04/10/31,Brescia,0-2,Ambrosiana-Inter
+3,04/10/31,AC Milan,1-1,Alessandria
+4,11/10/31,Fiorentina,1-3,Bologna
+4,11/10/31,Triestina,0-0,Genoa
+4,11/10/31,Pro Vercelli,2-0,Torino
+4,11/10/31,Modena,2-2,Brescia
+4,11/10/31,Alessandria,0-1,Roma
+4,11/10/31,Juventus,2-0,AC Milan
+4,11/10/31,US Bari,0-1,Casale
+4,11/10/31,Ambrosiana-Inter,6-1,Napoli
+4,11/10/31,Lazio,1-2,Pro Patria
+5,18/10/31,Pro Vercelli,1-0,Pro Patria
+5,18/10/31,Triestina,2-1,Fiorentina
+5,18/10/31,Torino,1-1,Bologna
+5,18/10/31,Roma,2-0,Juventus
+5,18/10/31,AC Milan,2-3,Ambrosiana-Inter
+5,18/10/31,Genoa,3-0,Modena
+5,18/10/31,Casale,0-1,Lazio
+5,18/10/31,US Bari,1-1,Brescia
+5,18/10/31,Napoli,1-1,Alessandria
+6,25/10/31,Casale,2-1,Brescia
+6,25/10/31,Alessandria,3-0,US Bari
+6,25/10/31,Pro Patria,2-2,Roma
+6,25/10/31,Modena,1-1,Triestina
+6,25/10/31,Lazio,0-2,Napoli
+6,25/10/31,Fiorentina,4-2,Torino
+6,25/10/31,Bologna,3-0,AC Milan
+6,25/10/31,Ambrosiana-Inter,4-1,Pro Vercelli
+6,25/10/31,Juventus,2-1,Genoa
+7,01/11/31,Genoa,3-1,Casale
+7,01/11/31,Roma,1-1,Bologna
+7,01/11/31,Modena,3-1,Ambrosiana-Inter
+7,01/11/31,Triestina,1-1,Pro Vercelli
+7,01/11/31,Fiorentina,2-0,Lazio
+7,01/11/31,Brescia,1-2,Torino
+7,01/11/31,US Bari,2-1,Pro Patria
+7,01/11/31,AC Milan,3-1,Napoli
+7,01/11/31,Juventus,3-0,Alessandria
+8,08/11/31,Brescia,2-3,AC Milan
+8,08/11/31,Torino,3-1,Pro Patria
+8,08/11/31,Pro Vercelli,2-1,Modena
+8,08/11/31,Napoli,0-2,Fiorentina
+8,08/11/31,Casale,1-0,Roma
+8,08/11/31,Bologna,2-0,Genoa
+8,08/11/31,US Bari,0-1,Juventus
+8,08/11/31,Ambrosiana-Inter,4-0,Alessandria
+8,08/11/31,Lazio,2-0,Triestina
+9,22/11/31,Lazio,0-0,Genoa
+9,22/11/31,Triestina,0-1,Juventus
+9,22/11/31,Torino,6-1,US Bari
+9,22/11/31,Pro Patria,0-0,Brescia
+9,22/11/31,Napoli,5-1,Casale
+9,22/11/31,Fiorentina,3-1,Roma
+9,22/11/31,Bologna,2-0,Ambrosiana-Inter
+9,22/11/31,Alessandria,4-5,Pro Vercelli
+9,22/11/31,AC Milan,5-0,Modena
+10,29/11/31,Pro Patria,3-1,Casale
+10,29/11/31,Roma,1-0,Napoli
+10,29/11/31,Modena,0-0,Bologna
+10,29/11/31,Juventus,4-1,Pro Vercelli
+10,29/11/31,Brescia,2-1,Triestina
+10,29/11/31,US Bari,2-5,AC Milan
+10,29/11/31,Alessandria,2-1,Lazio
+10,29/11/31,Ambrosiana-Inter,1-1,Fiorentina
+10,29/11/31,Genoa,2-2,Torino
+11,06/12/31,Fiorentina,1-0,Pro Patria
+11,06/12/31,Triestina,2-2,Ambrosiana-Inter
+11,06/12/31,Torino,4-1,Napoli
+11,06/12/31,Roma,2-0,Lazio
+11,06/12/31,US Bari,1-0,Modena
+11,06/12/31,AC Milan,3-0,Genoa
+11,06/12/31,Casale,2-2,Alessandria
+11,06/12/31,Bologna,1-1,Juventus
+11,06/12/31,Pro Vercelli,1-0,Brescia
+12,20/12/31,Napoli,4-1,Modena
+12,20/12/31,Pro Vercelli,0-2,AC Milan
+12,20/12/31,Torino,0-0,Juventus
+12,20/12/31,Pro Patria,0-2,Bologna
+12,20/12/31,Genoa,4-0,Brescia
+12,20/12/31,Casale,3-2,Fiorentina
+12,20/12/31,Alessandria,4-0,Triestina
+12,20/12/31,Ambrosiana-Inter,2-1,Roma
+12,20/12/31,Lazio,3-2,US Bari
+13,27/12/31,Juventus,1-2,Lazio
+13,27/12/31,Ambrosiana-Inter,0-0,US Bari
+13,27/12/31,Triestina,1-3,AC Milan
+13,27/12/31,Roma,2-3,Torino
+13,27/12/31,Pro Patria,2-1,Alessandria
+13,27/12/31,Modena,4-1,Casale
+13,27/12/31,Fiorentina,1-0,Pro Vercelli
+13,27/12/31,Brescia,0-1,Bologna
+13,27/12/31,Napoli,3-1,Genoa
+14,03/01/32,Casale,1-1,Torino
+14,03/01/32,AC Milan,1-1,Pro Patria
+14,03/01/32,Lazio,2-0,Brescia
+14,03/01/32,Pro Vercelli,1-1,Napoli
+14,03/01/32,Bologna,8-0,Triestina
+14,03/01/32,US Bari,1-2,Roma
+14,03/01/32,Alessandria,1-0,Fiorentina
+14,03/01/32,Juventus,3-0,Modena
+14,03/01/32,Genoa,0-1,Ambrosiana-Inter
+15,10/01/32,Brescia,0-4,Juventus
+15,10/01/32,Triestina,2-2,Casale
+15,10/01/32,Torino,0-0,AC Milan
+15,10/01/32,Roma,6-0,Genoa
+15,10/01/32,Modena,1-1,Fiorentina
+15,10/01/32,Bologna,3-1,Alessandria
+15,10/01/32,US Bari,1-0,Pro Vercelli
+15,10/01/32,Ambrosiana-Inter,2-0,Lazio
+15,10/01/32,Pro Patria,0-0,Napoli
+16,17/01/32,Lazio,5-0,Pro Vercelli
+16,17/01/32,Triestina,1-0,Torino
+16,17/01/32,Napoli,1-1,Brescia
+16,17/01/32,AC Milan,1-2,Roma
+16,17/01/32,Genoa,4-1,Pro Patria
+16,17/01/32,Fiorentina,2-1,US Bari
+16,17/01/32,Casale,1-5,Bologna
+16,17/01/32,Alessandria,5-0,Modena
+16,17/01/32,Juventus,6-2,Ambrosiana-Inter
+17,24/01/32,Roma,3-1,Brescia
+17,24/01/32,Torino,1-3,Alessandria
+17,24/01/32,Pro Vercelli,4-2,Genoa
+17,24/01/32,Napoli,1-1,Bologna
+17,24/01/32,Fiorentina,1-2,Juventus
+17,24/01/32,Casale,0-1,AC Milan
+17,24/01/32,US Bari,3-2,Triestina
+17,24/01/32,Ambrosiana-Inter,3-1,Pro Patria
+17,24/01/32,Modena,3-1,Lazio
+18,31/01/32,Fiorentina,3-0,AC Milan
+18,31/01/32,Triestina,1-2,Napoli
+18,31/01/32,Pro Vercelli,1-1,Bologna
+18,31/01/32,Modena,2-3,Roma
+18,31/01/32,Alessandria,3-2,Brescia
+18,31/01/32,Juventus,7-2,Pro Patria
+18,31/01/32,US Bari,4-2,Genoa
+18,31/01/32,Ambrosiana-Inter,4-0,Casale
+18,31/01/32,Lazio,2-0,Torino
+19,07/02/32,Genoa,1-2,Alessandria
+19,07/02/32,Roma,1-0,Triestina
+19,07/02/32,Pro Patria,3-1,Modena
+19,07/02/32,Torino,2-1,Ambrosiana-Inter
+19,07/02/32,Casale,0-1,Pro Vercelli
+19,07/02/32,Brescia,0-1,Fiorentina
+19,07/02/32,Bologna,2-0,US Bari
+19,07/02/32,Napoli,2-0,Juventus
+19,07/02/32,AC Milan,2-0,Lazio
+20,21/02/32,Fiorentina,2-2,Genoa
+20,21/02/32,Pro Vercelli,0-0,Roma
+20,21/02/32,Modena,5-2,Torino
+20,21/02/32,Juventus,3-2,Casale
+20,21/02/32,Triestina,0-0,Pro Patria
+20,21/02/32,US Bari,0-2,Napoli
+20,21/02/32,Ambrosiana-Inter,5-0,Brescia
+20,21/02/32,Alessandria,2-1,AC Milan
+20,21/02/32,Lazio,2-1,Bologna
+21,28/02/32,Napoli,1-0,Ambrosiana-Inter
+21,28/02/32,Roma,1-2,Alessandria
+21,28/02/32,Torino,4-0,Pro Vercelli
+21,28/02/32,Pro Patria,1-1,Lazio
+21,28/02/32,AC Milan,0-0,Juventus
+21,28/02/32,Genoa,2-0,Triestina
+21,28/02/32,Casale,6-2,US Bari
+21,28/02/32,Bologna,2-1,Fiorentina
+21,28/02/32,Brescia,2-1,Modena
+22,06/03/32,Juventus,7-1,Roma
+22,06/03/32,Modena,0-0,Genoa
+22,06/03/32,Ambrosiana-Inter,0-0,AC Milan
+22,06/03/32,Lazio,1-3,Casale
+22,06/03/32,Pro Patria,2-1,Pro Vercelli
+22,06/03/32,Bologna,4-2,Torino
+22,06/03/32,Alessandria,3-1,Napoli
+22,06/03/32,Brescia,0-0,US Bari
+22,06/03/32,Fiorentina,1-0,Triestina
+23,13/03/32,AC Milan,1-0,Bologna
+23,13/03/32,Torino,1-0,Fiorentina
+23,13/03/32,Roma,0-0,Pro Patria
+23,13/03/32,Napoli,0-0,Lazio
+23,13/03/32,Triestina,5-2,Modena
+23,13/03/32,Genoa,2-0,Juventus
+23,13/03/32,Brescia,1-0,Casale
+23,13/03/32,US Bari,1-0,Alessandria
+23,13/03/32,Pro Vercelli,2-0,Ambrosiana-Inter
+24,27/03/32,Napoli,3-1,AC Milan
+24,27/03/32,Torino,4-0,Brescia
+24,27/03/32,Pro Vercelli,1-1,Triestina
+24,27/03/32,Pro Patria,2-2,US Bari
+24,27/03/32,Lazio,1-0,Fiorentina
+24,27/03/32,Casale,2-0,Genoa
+24,27/03/32,Bologna,3-0,Roma
+24,27/03/32,Alessandria,2-3,Juventus
+24,27/03/32,Ambrosiana-Inter,4-2,Modena
+25,03/04/32,Pro Patria,2-1,Torino
+25,03/04/32,Juventus,7-3,US Bari
+25,03/04/32,Triestina,3-2,Lazio
+25,03/04/32,Roma,4-0,Casale
+25,03/04/32,Alessandria,2-1,Ambrosiana-Inter
+25,03/04/32,Modena,2-0,Pro Vercelli
+25,03/04/32,Genoa,3-2,Bologna
+25,03/04/32,Fiorentina,2-0,Napoli
+25,03/04/32,AC Milan,2-2,Brescia
+26,17/04/32,Pro Vercelli,1-1,Alessandria
+26,17/04/32,Roma,1-1,Fiorentina
+26,17/04/32,Modena,2-1,AC Milan
+26,17/04/32,Juventus,4-2,Triestina
+26,17/04/32,Casale,1-0,Napoli
+26,17/04/32,Brescia,0-0,Pro Patria
+26,17/04/32,US Bari,3-2,Torino
+26,17/04/32,Ambrosiana-Inter,4-3,Bologna
+26,17/04/32,Genoa,1-0,Lazio
+27,24/04/32,Lazio,2-2,Alessandria
+27,24/04/32,Triestina,1-1,Brescia
+27,24/04/32,Torino,3-1,Genoa
+27,24/04/32,Pro Vercelli,1-2,Juventus
+27,24/04/32,Bologna,4-0,Modena
+27,24/04/32,AC Milan,2-1,US Bari
+27,24/04/32,Fiorentina,3-0,Ambrosiana-Inter
+27,24/04/32,Casale,1-2,Pro Patria
+27,24/04/32,Napoli,1-0,Roma
+28,01/05/32,Modena,0-0,US Bari
+28,01/05/32,Napoli,0-0,Torino
+28,01/05/32,Juventus,3-2,Bologna
+28,01/05/32,Lazio,1-4,Roma
+28,01/05/32,Brescia,2-0,Pro Vercelli
+28,01/05/32,Ambrosiana-Inter,4-3,Triestina
+28,01/05/32,Alessandria,1-4,Casale
+28,01/05/32,Genoa,1-2,AC Milan
+28,01/05/32,Pro Patria,0-3,Fiorentina
+29,15/05/32,Roma,2-1,Ambrosiana-Inter
+29,15/05/32,Triestina,1-4,Alessandria
+29,15/05/32,Modena,2-2,Napoli
+29,15/05/32,AC Milan,3-0,Pro Vercelli
+29,15/05/32,Fiorentina,4-1,Casale
+29,15/05/32,Brescia,4-2,Genoa
+29,15/05/32,US Bari,1-0,Lazio
+29,15/05/32,Bologna,4-0,Pro Patria
+29,15/05/32,Juventus,3-0,Torino
+30,22/05/32,Casale,4-0,Modena
+30,22/05/32,Torino,2-1,Roma
+30,22/05/32,Pro Vercelli,1-0,Fiorentina
+30,22/05/32,AC Milan,1-1,Triestina
+30,22/05/32,Alessandria,6-1,Pro Patria
+30,22/05/32,Genoa,1-0,Napoli
+30,22/05/32,Bologna,6-1,Brescia
+30,22/05/32,US Bari,0-0,Ambrosiana-Inter
+30,22/05/32,Lazio,0-3,Juventus
+31,26/05/32,Napoli,2-1,Pro Vercelli
+31,26/05/32,Pro Patria,2-0,AC Milan
+31,26/05/32,Roma,0-0,US Bari
+31,26/05/32,Triestina,1-1,Bologna
+31,26/05/32,Fiorentina,0-1,Alessandria
+31,26/05/32,Brescia,1-0,Lazio
+31,26/05/32,Ambrosiana-Inter,3-1,Genoa
+31,26/05/32,Torino,3-1,Casale
+31,26/05/32,Modena,0-1,Juventus
+32,29/05/32,Genoa,1-1,Roma
+32,29/05/32,Pro Vercelli,2-0,US Bari
+32,29/05/32,Napoli,1-1,Pro Patria
+32,29/05/32,AC Milan,6-1,Torino
+32,29/05/32,Juventus,3-0,Brescia
+32,29/05/32,Fiorentina,5-0,Modena
+32,29/05/32,Casale,0-1,Triestina
+32,29/05/32,Alessandria,3-3,Bologna
+32,29/05/32,Lazio,2-2,Ambrosiana-Inter
+33,05/06/32,Pro Patria,2-0,Genoa
+33,05/06/32,US Bari,3-0,Fiorentina
+33,05/06/32,Roma,1-0,AC Milan
+33,05/06/32,Pro Vercelli,2-2,Lazio
+33,05/06/32,Torino,1-1,Triestina
+33,05/06/32,Modena,2-1,Alessandria
+33,05/06/32,Bologna,4-2,Casale
+33,05/06/32,Ambrosiana-Inter,2-4,Juventus
+33,05/06/32,Brescia,1-0,Napoli
+34,12/06/32,Triestina,2-0,US Bari
+34,12/06/32,Alessandria,1-1,Torino
+34,12/06/32,Bologna,2-0,Napoli

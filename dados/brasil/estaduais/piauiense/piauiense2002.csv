@@ -1,0 +1,72 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,0000-00-00,Corisabbá,2-2,Flamengo-PI
+C,0000-00-00,Oeiras AC,1-1,Piauí
+C,03/03/02,Parnahyba,4-2,Comercial-PI
+C,03/03/02,Caiçara,1-5,Flamengo-PI
+C,03/03/02,Corisabbá,0-1,Picos
+C,03/03/02,Piauí,4-1,4 de Julho
+C,06/03/02,River-PI,1-2,Oeiras AC
+C,09/03/02,Flamengo-PI,3-0,Parnahyba
+C,09/03/02,4 de Julho,4-2,Caiçara
+C,09/03/02,Picos,2-1,Piauí
+C,09/03/02,Oeiras AC,1-1,Corisabbá
+C,13/03/02,Comercial-PI,1-2,River-PI
+C,16/03/02,Parnahyba,1-1,4 de Julho
+C,16/03/02,Oeiras AC,1-1,Comercial-PI
+C,17/03/02,Piauí,3-1,Flamengo-PI
+C,17/03/02,Caiçara,1-0,Picos
+C,20/03/02,Corisabbá,0-1,River-PI
+C,23/03/02,Oeiras AC,2-1,Picos
+C,23/03/02,Comercial-PI,2-1,Corisabbá
+C,24/03/02,Piauí,1-1,Parnahyba
+C,24/03/02,4 de Julho,3-3,Flamengo-PI
+C,26/03/02,River-PI,4-0,Caiçara
+C,26/03/02,Corisabbá,0-1,4 de Julho
+C,26/03/02,Picos,3-3,Parnahyba
+C,31/03/02,Caiçara,1-1,Comercial-PI
+C,02/04/02,Flamengo-PI,3-2,Oeiras AC
+C,03/04/02,River-PI,2-2,Piauí
+C,07/04/02,Caiçara,2-4,Piauí
+C,07/04/02,Parnahyba,4-2,Corisabbá
+C,07/04/02,4 de Julho,1-0,Oeiras AC
+C,08/04/02,Flamengo-PI,3-0,Comercial-PI
+C,10/04/02,Picos,2-1,River-PI
+C,13/04/02,Picos,2-2,Comercial-PI
+C,14/04/02,Caiçara,3-1,Parnahyba
+C,20/04/02,Corisabbá,0-0,Caiçara
+C,21/04/02,4 de Julho,3-1,Picos
+C,21/04/02,Parnahyba,0-1,Oeiras AC
+C,21/04/02,Comercial-PI,0-1,Piauí
+C,21/04/02,River-PI,1-0,Flamengo-PI
+C,24/04/02,River-PI,1-0,4 de Julho
+C,28/04/02,Piauí,1-0,Corisabbá
+C,28/04/02,4 de Julho,5-1,Comercial-PI
+C,28/04/02,Picos,2-2,Flamengo-PI
+C,28/04/02,Oeiras AC,2-1,Caiçara
+C,28/04/02,Parnahyba,2-2,River-PI
+SF,05/05/02,Piauí,1-2,Flamengo-PI
+SF,05/05/02,4 de Julho,1-2,River-PI
+F,08/05/02,Flamengo-PI,0-0,River-PI
+F,11/05/02,River-PI,0-1,Flamengo-PI
+C,18/05/02,Picos,1-1,Oeiras AC
+C,19/05/02,4 de Julho,2-1,River-PI
+C,19/05/02,Flamengo-PI,0-1,Piauí
+C,22/05/02,River-PI,1-2,Piauí
+C,22/05/02,Oeiras AC,1-0,Flamengo-PI
+C,22/05/02,Picos,2-1,4 de Julho
+C,26/05/02,Flamengo-PI,3-1,Picos
+C,26/05/02,Oeiras AC,1-2,River-PI
+C,26/05/02,4 de Julho,0-1,Piauí
+C,29/05/02,River-PI,2-1,Picos
+C,30/05/02,Oeiras AC,0-0,Piauí
+C,30/05/02,4 de Julho,1-2,Flamengo-PI
+C,02/06/02,River-PI,1-1,Flamengo-PI
+C,02/06/02,Oeiras AC,3-3,4 de Julho
+C,02/06/02,Picos,0-0,Piauí
+SF,09/06/02,Flamengo-PI,vs,River-PI
+SF,09/06/02,Piauí,0-1,Oeiras AC
+F,12/06/02,Oeiras AC,1-1,River-PI
+F,16/06/02,River-PI,0-0,Oeiras AC
+F,20/06/02,River-PI,1-3,Flamengo-PI
+F,23/06/02,Flamengo-PI,2-3,River-PI
+F,29/06/02,River-PI,1-0,Flamengo-PI

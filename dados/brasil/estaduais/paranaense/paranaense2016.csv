@@ -1,0 +1,81 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,30/01/16,Coritiba,4-0,FC Cascavel
+1F,31/01/16,Toledo,0-1,Foz do Iguaçu
+1F,31/01/16,Londrina,2-0,PSTC
+1F,31/01/16,Maringá,1-0,Rio Branco-PR
+1F,31/01/16,Operário Ferroviário,0-2,Atlético Paranaense
+1F,31/01/16,Paraná,4-1,JMalucelli
+1F,03/02/16,Atlético Paranaense,1-0,Maringá
+1F,03/02/16,Londrina,2-0,Toledo
+1F,03/02/16,FC Cascavel,2-1,PSTC
+1F,03/02/16,Foz do Iguaçu,0-3,Coritiba
+1F,04/02/16,Operário Ferroviário,1-2,Paraná
+1F,04/02/16,JMalucelli,3-2,Rio Branco-PR
+1F,10/02/16,Maringá,1-2,Paraná
+1F,10/02/16,Foz do Iguaçu,4-3,FC Cascavel
+1F,10/02/16,PSTC,1-1,Toledo
+1F,10/02/16,JMalucelli,1-0,Operário Ferroviário
+1F,10/02/16,Rio Branco-PR,1-2,Atlético Paranaense
+1F,11/02/16,Coritiba,1-1,Londrina
+1F,13/02/16,Atlético Paranaense,0-0,JMalucelli
+1F,14/02/16,Londrina,1-0,FC Cascavel
+1F,14/02/16,PSTC,3-0,Foz do Iguaçu
+1F,14/02/16,Operário Ferroviário,0-0,Maringá
+1F,14/02/16,Toledo,3-2,Coritiba
+1F,14/02/16,Paraná,2-0,Rio Branco-PR
+1F,20/02/16,Rio Branco-PR,2-1,Londrina
+1F,20/02/16,Paraná,2-1,Toledo
+1F,21/02/16,Maringá,1-1,PSTC
+1F,21/02/16,Foz do Iguaçu,3-4,JMalucelli
+1F,21/02/16,FC Cascavel,2-2,Atlético Paranaense
+1F,21/02/16,Coritiba,4-0,Operário Ferroviário
+1F,24/02/16,JMalucelli,2-1,PSTC
+1F,24/02/16,Operário Ferroviário,2-0,Toledo
+1F,24/02/16,Maringá,1-3,FC Cascavel
+1F,24/02/16,Londrina,1-0,Paraná
+1F,25/02/16,Coritiba,3-3,Rio Branco-PR
+1F,27/02/16,JMalucelli,2-1,Maringá
+1F,27/02/16,Foz do Iguaçu,1-0,Londrina
+1F,28/02/16,Toledo,3-0,FC Cascavel
+1F,28/02/16,Rio Branco-PR,5-1,Operário Ferroviário
+1F,28/02/16,PSTC,2-1,Coritiba
+1F,28/02/16,Paraná,1-0,Atlético Paranaense
+1F,03/03/16,Atlético Paranaense,1-1,Foz do Iguaçu
+1F,05/03/16,FC Cascavel,3-3,JMalucelli
+1F,06/03/16,Foz do Iguaçu,2-2,Rio Branco-PR
+1F,06/03/16,PSTC,2-2,Operário Ferroviário
+1F,06/03/16,Toledo,3-0,Maringá
+1F,06/03/16,Londrina,1-1,Atlético Paranaense
+1F,06/03/16,Coritiba,3-0,Paraná
+1F,12/03/16,Operário Ferroviário,0-1,Londrina
+1F,12/03/16,Atlético Paranaense,4-0,PSTC
+1F,13/03/16,Paraná,0-0,FC Cascavel
+1F,13/03/16,Maringá,1-0,Foz do Iguaçu
+1F,13/03/16,Rio Branco-PR,3-1,Toledo
+1F,13/03/16,JMalucelli,1-0,Coritiba
+1F,19/03/16,JMalucelli,0-0,Toledo
+1F,20/03/16,Maringá,2-2,Londrina
+1F,20/03/16,Rio Branco-PR,0-1,PSTC
+1F,20/03/16,FC Cascavel,0-2,Operário Ferroviário
+1F,20/03/16,Foz do Iguaçu,3-3,Paraná
+1F,20/03/16,Atlético Paranaense,0-2,Coritiba
+1F,27/03/16,Londrina,4-0,JMalucelli
+1F,27/03/16,FC Cascavel,2-1,Rio Branco-PR
+1F,27/03/16,Operário Ferroviário,1-0,Foz do Iguaçu
+1F,27/03/16,PSTC,0-0,Paraná
+1F,27/03/16,Coritiba,3-1,Maringá
+1F,27/03/16,Toledo,3-2,Atlético Paranaense
+QF,03/04/16,Toledo,0-2,Coritiba
+QF,03/04/16,Londrina,1-1,Atlético Paranaense
+QF,03/04/16,PSTC,0-3,JMalucelli
+QF,03/04/16,Foz do Iguaçu,0-3,Paraná
+QF,09/04/16,Coritiba,4-0,Toledo
+QF,09/04/16,JMalucelli,0-3(3-4 Pen.),PSTC
+QF,10/04/16,Paraná,1-2,Foz do Iguaçu
+QF,10/04/16,Atlético Paranaense,2-0,Londrina
+SF,17/04/16,PSTC,0-3,Coritiba
+SF,17/04/16,Atlético Paranaense,2-1,Paraná
+SF,24/04/16,Coritiba,2-0,PSTC
+SF,24/04/16,Paraná,1-0(2-4 Pen.),Atlético Paranaense
+F,01/05/16,Atlético Paranaense,3-0,Coritiba
+F,08/05/16,Coritiba,0-2,Atlético Paranaense

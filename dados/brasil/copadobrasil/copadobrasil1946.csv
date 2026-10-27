@@ -1,0 +1,101 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+FP,08/02/20,Cruzeiro,3-3(3-4 Pen.),Santos
+SF,08/03/20,Atlético Paranaense,4-4,Pachuca
+1/8,12/03/20,Gimnasia,3-2,Fluminense
+FP,05/04/20,Tolima,4-1,Mineros
+FP,09/04/20,Nacional,2-1,Libertad
+QF,01/05/20,Pachuca,2-3,Lanús
+1/8,12/07/20,Alajuelense,1-1,Colo-Colo
+FP,13/07/20,Universidad de San Martín,4-0,Bolognesi
+1/8,22/07/20,Lanús,4-2,Corinthians
+F,01/08/20,Pachuca,3-2,Colo-Colo
+FP,02/08/20,Cerro Porteño,0-1,Libertad
+FP,28/09/20,El Nacional,1-2,Universitario Sucre
+FP,04/11/20,Colo-Colo,1-2(5-3 Pen.),Huachipato
+1/8,08/11/20,Atlético Paranaense,3-2,River Plate
+FP,10/12/20,Universitario Sucre,2-4,El Nacional
+1/8,16/12/20,Colo-Colo,0-0,Alajuelense
+FP,18/12/20,Mineros,2-0,Tolima
+1/8,21/01/21,Pachuca,2-1,Tolima
+QF,12/05/21,Lanús,1-2,Pachuca
+FP,24/08/21,San Lorenzo,1-3,Banfield
+1/8,31/08/21,Corinthians,1-0,Lanús
+1/8,06/12/21,Fluminense,1-3,Gimnasia
+1/8,08/12/21,El Nacional,4-4,Toluca
+FP,19/01/22,Libertad,0-2,Cerro Porteño
+FP,05/03/22,Central Español,3-4,Nacional
+QF,10/06/22,Gimnasia,0-2,Colo-Colo
+FP,07/10/22,Independiente Medellín,3-3,Tolima
+FP,19/10/22,Colo-Colo,0-2,Bolognesi
+1/8,23/10/22,River Plate,4-4,Atlético Paranaense
+FP,15/11/22,Paraná,2-4,Atlético Paranaense
+FP,29/01/23,Tolima,4-4,Independiente Medellín
+SF,05/02/23,Toluca,4-1,Colo-Colo
+QF,13/02/23,Colo-Colo,2-0,Gimnasia
+FP,20/03/23,Nacional,0-2,Central Español
+FP,11/05/23,Fluminense,2-0(4-2 Pen.),Botafogo
+FP,22/05/23,Huachipato,3-4,Colo-Colo
+FP,03/08/23,Vasco,1-1,Corinthians
+1/8,17/08/23,San Lorenzo,0-1,Santos
+FP,05/09/23,Vélez Sarsfield,0-4,Lanús
+FP,16/10/23,Lanús,0-2,Vélez Sarsfield
+FP,04/02/24,Santos,1-1,Cruzeiro
+FP,18/04/24,LDU Quito,1-1,El Nacional
+FP,20/04/24,Banfield,3-3,San Lorenzo
+FP,26/04/24,Botafogo,0-1,Fluminense
+FP,06/05/24,Atlético Paranaense,4-2,Paraná
+1/8,30/05/24,Boca Juniors,4-1(1-3 Pen.),Nacional
+FP,15/10/24,Mineros,2-0,Carabobo
+1/8,29/01/25,Santos,0-0,San Lorenzo
+SF,09/03/25,Pachuca,1-1,Atlético Paranaense
+1/8,26/03/25,Nacional,2-4,Boca Juniors
+C,28/07/20,Bristol Rovers,3-0,Charlton Athletic
+C,31/07/20,Plymouth Argyle,0-1,Huddersfield Town
+C,04/08/20,Scunthorpe United,3-0,Rotherham
+C,04/08/20,Stoke City,0-1,Preston North End
+C,14/08/20,Leyton Orient,1-1,Rotherham
+C,29/08/20,Newcastle,3-1,Charlton Athletic
+C,18/09/20,Liverpool,1-3,Preston North End
+C,20/09/20,Preston North End,0-2,Plymouth Argyle
+C,23/09/20,Newcastle,0-3,Plymouth Argyle
+C,03/10/20,Southampton,2-4,Liverpool
+C,06/10/20,Preston North End,2-1,Derby County
+C,15/10/20,Bury,2-3,Middlesbrough
+C,19/10/20,Middlesbrough,4-0,Luton Town
+C,07/11/20,Norwich City,4-2,Liverpool
+C,08/11/20,Derby County,4-2,Scunthorpe United
+C,10/11/20,Luton Town,0-1,Middlesbrough
+C,10/11/20,Middlesbrough,2-2,Leyton Orient
+C,25/11/20,Plymouth Argyle,3-2,Liverpool
+C,29/11/20,Norwich City,3-4,Derby County
+C,05/12/20,Leeds United,2-3,Derby County
+C,12/12/20,Brighton & Hove Albion,1-1,Walsall
+C,13/12/20,Plymouth Argyle,1-4,Newcastle
+C,20/12/20,Norwich City,4-2,Rotherham
+C,27/12/20,Huddersfield Town,0-0,Charlton Athletic
+C,01/01/21,Southampton,2-3,Brighton & Hove Albion
+C,11/01/21,Brighton & Hove Albion,0-0,Middlesbrough
+C,13/01/21,Walsall,2-1,Southampton
+C,21/01/21,Liverpool,2-2,Newcastle
+C,28/01/21,Charlton Athletic,3-2,Huddersfield Town
+C,03/02/21,Leeds United,2-0,Newcastle
+C,05/02/21,Middlesbrough,2-2,Sunderland
+C,10/02/21,Derby County,4-0,Norwich City
+C,16/02/21,Preston North End,3-4,Middlesbrough
+C,19/02/21,Southampton,2-1,Luton Town
+C,22/02/21,Leeds United,2-4,Rotherham
+C,22/02/21,Liverpool,4-3,Plymouth Argyle
+C,01/03/21,Newcastle,1-4,Bury
+C,04/03/21,Southampton,3-4,Walsall
+C,08/03/21,Brighton & Hove Albion,3-4,Charlton Athletic
+C,10/03/21,Newcastle,0-0,Norwich City
+C,10/03/21,Stoke City,0-0,Luton Town
+C,15/03/21,Plymouth Argyle,3-0,Stoke City
+C,16/03/21,Scunthorpe United,3-3,Leeds United
+C,22/03/21,Leyton Orient,3-1,Norwich City
+C,27/03/21,Norwich City,2-4,Scunthorpe United
+C,01/04/21,Walsall,4-2,Newcastle
+C,01/04/21,Walsall,2-4,Middlesbrough
+C,23/04/21,Scunthorpe United,3-0,Southampton
+C,28/04/21,Sunderland,0-3,Bristol Rovers
+C,02/05/21,Charlton Athletic,2-2,Southampton

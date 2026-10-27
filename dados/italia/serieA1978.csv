@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,30/09/78,Bologna,0-1,Internazionale
+1,30/09/78,Catanzaro,0-0,Atalanta
+1,30/09/78,Hellas Verona,1-1,Roma
+1,30/09/78,Lazio,2-2,Juventus
+1,30/09/78,AC Milan,1-0,Avellino
+1,30/09/78,Napoli,2-1,Ascoli
+1,30/09/78,Perugia,2-0,Lanerossi Vicenza
+1,30/09/78,Torino,1-1,Fiorentina
+2,07/10/78,Ascoli,2-2,Bologna
+2,07/10/78,Atalanta,0-1,Torino
+2,07/10/78,Avellino,1-3,Lazio
+2,07/10/78,Fiorentina,2-1,Napoli
+2,07/10/78,Internazionale,1-1,Perugia
+2,07/10/78,Juventus,6-2,Hellas Verona
+2,07/10/78,Lanerossi Vicenza,2-0,Catanzaro
+2,07/10/78,Roma,0-3,AC Milan
+3,14/10/78,Bologna,5-2,Lanerossi Vicenza
+3,14/10/78,Catanzaro,0-0,Juventus
+3,14/10/78,Hellas Verona,0-0,Internazionale
+3,14/10/78,Lazio,1-1,Atalanta
+3,14/10/78,AC Milan,0-0,Ascoli
+3,14/10/78,Napoli,1-0,Roma
+3,14/10/78,Perugia,1-0,Fiorentina
+3,14/10/78,Torino,1-0,Avellino
+12,16/10/78,Atalanta,0-0,Fiorentina
+12,16/10/78,Avellino,3-1,Ascoli
+12,16/10/78,Bologna,1-1,Napoli
+12,16/10/78,Hellas Verona,1-3,AC Milan
+12,16/10/78,Internazionale,0-0,Lanerossi Vicenza
+12,16/10/78,Perugia,1-0,Catanzaro
+12,16/10/78,Roma,1-0,Juventus
+12,16/10/78,Torino,2-2,Lazio
+4,21/10/78,Ascoli,3-0,Torino
+4,21/10/78,Atalanta,1-3,AC Milan
+4,21/10/78,Avellino,2-0,Hellas Verona
+4,21/10/78,Fiorentina,3-0,Lazio
+4,21/10/78,Internazionale,0-0,Catanzaro
+4,21/10/78,Juventus,1-2,Perugia
+4,21/10/78,Lanerossi Vicenza,0-0,Napoli
+4,21/10/78,Roma,2-0,Bologna
+5,28/10/78,Bologna,0-0,Juventus
+5,28/10/78,Catanzaro,1-0,Roma
+5,28/10/78,Hellas Verona,2-3,Ascoli
+5,28/10/78,Lazio,4-3,Lanerossi Vicenza
+5,28/10/78,AC Milan,4-1,Fiorentina
+5,28/10/78,Napoli,2-0,Atalanta
+5,28/10/78,Perugia,0-0,Avellino
+5,28/10/78,Torino,3-3,Internazionale
+6,04/11/78,Ascoli,0-0,Lazio
+6,04/11/78,Atalanta,0-2,Perugia
+6,04/11/78,Avellino,0-0,Catanzaro
+6,04/11/78,Fiorentina,1-0,Bologna
+6,04/11/78,Internazionale,2-0,Napoli
+6,04/11/78,Juventus,1-0,AC Milan
+6,04/11/78,Lanerossi Vicenza,0-0,Hellas Verona
+6,04/11/78,Roma,0-2,Torino
+7,11/11/78,Bologna,0-0,Avellino
+7,11/11/78,Catanzaro,0-0,Fiorentina
+7,11/11/78,Hellas Verona,1-1,Atalanta
+7,11/11/78,Lazio,0-0,Roma
+7,11/11/78,AC Milan,1-0,Internazionale
+7,11/11/78,Napoli,0-0,Juventus
+7,11/11/78,Perugia,2-0,Ascoli
+7,11/11/78,Torino,4-0,Lanerossi Vicenza
+8,18/11/78,Ascoli,1-1,Catanzaro
+8,18/11/78,Atalanta,0-0,Bologna
+8,18/11/78,Avellino,1-1,Napoli
+8,18/11/78,Fiorentina,1-0,Hellas Verona
+8,18/11/78,Internazionale,4-0,Lazio
+8,18/11/78,Juventus,1-1,Torino
+8,18/11/78,Lanerossi Vicenza,2-3,AC Milan
+8,18/11/78,Roma,0-0,Perugia
+9,25/11/78,Avellino,1-1,Fiorentina
+9,25/11/78,Bologna,1-1,Catanzaro
+9,25/11/78,Internazionale,2-2,Atalanta
+9,25/11/78,Juventus,1-0,Ascoli
+9,25/11/78,Lanerossi Vicenza,1-0,Roma
+9,25/11/78,Lazio,1-0,Hellas Verona
+9,25/11/78,Napoli,1-1,AC Milan
+9,25/11/78,Perugia,0-0,Torino
+10,02/12/78,Ascoli,1-2,Internazionale
+10,02/12/78,Atalanta,0-1,Juventus
+10,02/12/78,Catanzaro,3-1,Lazio
+10,02/12/78,Fiorentina,0-0,Lanerossi Vicenza
+10,02/12/78,Hellas Verona,1-0,Bologna
+10,02/12/78,AC Milan,1-1,Perugia
+10,02/12/78,Roma,2-1,Avellino
+10,02/12/78,Torino,0-0,Napoli
+11,09/12/78,Ascoli,1-0,Atalanta
+11,09/12/78,Catanzaro,1-1,Hellas Verona
+11,09/12/78,Fiorentina,2-0,Roma
+11,09/12/78,Juventus,1-1,Internazionale
+11,09/12/78,Lanerossi Vicenza,2-1,Avellino
+11,09/12/78,Lazio,1-0,Bologna
+11,09/12/78,AC Milan,1-0,Torino
+11,09/12/78,Napoli,1-1,Perugia
+13,06/01/79,Avellino,0-0,Atalanta
+13,06/01/79,Fiorentina,0-1,Juventus
+13,06/01/79,Lanerossi Vicenza,1-1,Ascoli
+13,06/01/79,AC Milan,4-0,Catanzaro
+13,06/01/79,Napoli,0-2,Lazio
+13,06/01/79,Perugia,1-1,Hellas Verona
+13,06/01/79,Roma,1-1,Internazionale
+13,06/01/79,Torino,3-1,Bologna
+14,13/01/79,Ascoli,2-1,Fiorentina
+14,13/01/79,Atalanta,2-0,Roma
+14,13/01/79,Bologna,0-1,AC Milan
+14,13/01/79,Catanzaro,0-0,Napoli
+14,13/01/79,Hellas Verona,0-1,Torino
+14,13/01/79,Internazionale,2-0,Avellino
+14,13/01/79,Juventus,1-2,Lanerossi Vicenza
+14,13/01/79,Lazio,0-0,Perugia
+15,20/01/79,Avellino,0-0,Juventus
+15,20/01/79,Fiorentina,1-2,Internazionale
+15,20/01/79,Lanerossi Vicenza,1-1,Atalanta
+15,20/01/79,AC Milan,2-0,Lazio
+15,20/01/79,Napoli,1-0,Hellas Verona
+15,20/01/79,Perugia,3-1,Bologna
+15,20/01/79,Roma,1-0,Ascoli
+15,20/01/79,Torino,3-0,Catanzaro
+16,27/01/79,Ascoli,0-0,Napoli
+16,27/01/79,Atalanta,0-2,Catanzaro
+16,27/01/79,Avellino,1-0,AC Milan
+16,27/01/79,Fiorentina,0-0,Torino
+16,27/01/79,Internazionale,0-0,Bologna
+16,27/01/79,Juventus,2-1,Lazio
+16,27/01/79,Lanerossi Vicenza,1-1,Perugia
+16,27/01/79,Roma,2-0,Hellas Verona
+17,03/02/79,Bologna,0-0,Ascoli
+17,03/02/79,Catanzaro,2-0,Lanerossi Vicenza
+17,03/02/79,Hellas Verona,0-3,Juventus
+17,03/02/79,Lazio,0-0,Avellino
+17,03/02/79,AC Milan,1-0,Roma
+17,03/02/79,Napoli,0-0,Fiorentina
+17,03/02/79,Perugia,2-2,Internazionale
+17,03/02/79,Torino,3-0,Atalanta
+18,10/02/79,Ascoli,0-1,AC Milan
+18,10/02/79,Atalanta,0-0,Lazio
+18,10/02/79,Avellino,1-1,Torino
+18,10/02/79,Fiorentina,1-1,Perugia
+18,10/02/79,Internazionale,4-0,Hellas Verona
+18,10/02/79,Juventus,3-1,Catanzaro
+18,10/02/79,Lanerossi Vicenza,2-2,Bologna
+18,10/02/79,Roma,0-0,Napoli
+19,17/02/79,Bologna,1-2,Roma
+19,17/02/79,Catanzaro,1-1,Internazionale
+19,17/02/79,Hellas Verona,0-1,Avellino
+19,17/02/79,Lazio,4-0,Fiorentina
+19,17/02/79,AC Milan,1-1,Atalanta
+19,17/02/79,Napoli,2-2,Lanerossi Vicenza
+19,17/02/79,Perugia,0-0,Juventus
+19,17/02/79,Torino,3-1,Ascoli
+20,03/03/79,Ascoli,1-0,Hellas Verona
+20,03/03/79,Atalanta,2-1,Napoli
+20,03/03/79,Avellino,0-1,Perugia
+20,03/03/79,Fiorentina,2-3,AC Milan
+20,03/03/79,Internazionale,0-0,Torino
+20,03/03/79,Juventus,1-1,Bologna
+20,03/03/79,Lanerossi Vicenza,4-1,Lazio
+20,03/03/79,Roma,1-3,Catanzaro
+21,10/03/79,Bologna,0-0,Fiorentina
+21,10/03/79,Catanzaro,0-0,Avellino
+21,10/03/79,Hellas Verona,0-0,Lanerossi Vicenza
+21,10/03/79,Lazio,3-1,Ascoli
+21,10/03/79,AC Milan,0-0,Juventus
+21,10/03/79,Napoli,0-0,Internazionale
+21,10/03/79,Perugia,2-0,Atalanta
+21,10/03/79,Torino,1-0,Roma
+22,17/03/79,Ascoli,0-0,Perugia
+22,17/03/79,Atalanta,1-0,Hellas Verona
+22,17/03/79,Avellino,0-0,Bologna
+22,17/03/79,Fiorentina,1-1,Catanzaro
+22,17/03/79,Internazionale,2-2,AC Milan
+22,17/03/79,Juventus,1-0,Napoli
+22,17/03/79,Lanerossi Vicenza,2-2,Torino
+22,17/03/79,Roma,1-2,Lazio
+23,24/03/79,Bologna,1-0,Atalanta
+23,24/03/79,Catanzaro,1-1,Ascoli
+23,24/03/79,Hellas Verona,0-1,Fiorentina
+23,24/03/79,Lazio,1-1,Internazionale
+23,24/03/79,AC Milan,0-0,Lanerossi Vicenza
+23,24/03/79,Napoli,3-0,Avellino
+23,24/03/79,Perugia,1-1,Roma
+23,24/03/79,Torino,0-1,Juventus
+24,31/03/79,Ascoli,1-0,Juventus
+24,31/03/79,Atalanta,0-1,Internazionale
+24,31/03/79,Catanzaro,0-0,Bologna
+24,31/03/79,Fiorentina,1-0,Avellino
+24,31/03/79,Hellas Verona,2-0,Lazio
+24,31/03/79,AC Milan,0-1,Napoli
+24,31/03/79,Roma,3-0,Lanerossi Vicenza
+24,31/03/79,Torino,0-0,Perugia
+25,07/04/79,Avellino,0-0,Roma
+25,07/04/79,Bologna,1-0,Hellas Verona
+25,07/04/79,Internazionale,1-1,Ascoli
+25,07/04/79,Juventus,3-0,Atalanta
+25,07/04/79,Lanerossi Vicenza,0-1,Fiorentina
+25,07/04/79,Lazio,3-1,Catanzaro
+25,07/04/79,Napoli,0-1,Torino
+25,07/04/79,Perugia,1-1,AC Milan
+26,13/04/79,Atalanta,3-2,Ascoli
+26,13/04/79,Avellino,2-1,Lanerossi Vicenza
+26,13/04/79,Bologna,2-1,Lazio
+26,13/04/79,Hellas Verona,0-0,Catanzaro
+26,13/04/79,Internazionale,2-1,Juventus
+26,13/04/79,Perugia,2-0,Napoli
+26,13/04/79,Roma,1-1,Fiorentina
+26,13/04/79,Torino,0-3,AC Milan
+27,21/04/79,Ascoli,2-0,Avellino
+27,21/04/79,Catanzaro,1-1,Perugia
+27,21/04/79,Fiorentina,0-1,Atalanta
+27,21/04/79,Juventus,4-1,Roma
+27,21/04/79,Lanerossi Vicenza,0-1,Internazionale
+27,21/04/79,Lazio,0-0,Torino
+27,21/04/79,AC Milan,2-1,Hellas Verona
+27,21/04/79,Napoli,2-1,Bologna
+28,28/04/79,Ascoli,0-0,Lanerossi Vicenza
+28,28/04/79,Atalanta,0-0,Avellino
+28,28/04/79,Bologna,1-1,Torino
+28,28/04/79,Catanzaro,1-3,AC Milan
+28,28/04/79,Hellas Verona,1-1,Perugia
+28,28/04/79,Internazionale,1-2,Roma
+28,28/04/79,Juventus,1-1,Fiorentina
+28,28/04/79,Lazio,1-2,Napoli
+29,05/05/79,Avellino,1-0,Internazionale
+29,05/05/79,Fiorentina,1-0,Ascoli
+29,05/05/79,Lanerossi Vicenza,1-1,Juventus
+29,05/05/79,AC Milan,0-0,Bologna
+29,05/05/79,Napoli,1-0,Catanzaro
+29,05/05/79,Perugia,2-0,Lazio
+29,05/05/79,Roma,2-2,Atalanta
+29,05/05/79,Torino,0-0,Hellas Verona
+30,05/05/79,Ascoli,0-0,Roma
+30,05/05/79,Atalanta,2-0,Lanerossi Vicenza
+30,05/05/79,Bologna,2-2,Perugia
+30,05/05/79,Catanzaro,2-1,Torino
+30,05/05/79,Hellas Verona,0-0,Napoli
+30,05/05/79,Internazionale,1-2,Fiorentina
+30,05/05/79,Juventus,3-3,Avellino
+30,05/05/79,Lazio,1-1,AC Milan

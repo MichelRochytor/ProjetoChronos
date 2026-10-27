@@ -1,0 +1,67 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,10/01/18,Floresta-CE,0-0,Maranguape
+1F,10/01/18,Horizonte,2-1,Guarani de Juazeiro
+1F,10/01/18,Iguatu,1-1,Ferroviário
+1F,13/01/18,Ferroviário,4-0,Horizonte
+1F,14/01/18,Maranguape,0-2,Iguatu
+1F,14/01/18,Tiradentes-CE,2-2,Floresta-CE
+1F,17/01/18,Uniclinic,0-4,Fortaleza
+1F,19/01/18,Ceará,5-2,Guarani de Juazeiro
+1F,20/01/18,Horizonte,1-2,Floresta-CE
+1F,21/01/18,Iguatu,2-1,Ceará
+1F,21/01/18,Ferroviário,2-1,Tiradentes-CE
+1F,21/01/18,Fortaleza,2-0,Maranguape
+1F,24/01/18,Ferroviário,1-4,Uniclinic
+1F,24/01/18,Guarani de Juazeiro,2-0,Maranguape
+1F,24/01/18,Horizonte,2-2,Tiradentes-CE
+1F,24/01/18,Floresta-CE,3-1,Ceará
+1F,25/01/18,Fortaleza,3-1,Iguatu
+1F,27/01/18,Floresta-CE,2-1,Guarani de Juazeiro
+1F,27/01/18,Ceará,1-1,Ferroviário
+1F,28/01/18,Horizonte,2-1,Fortaleza
+1F,28/01/18,Uniclinic,1-1,Iguatu
+1F,28/01/18,Tiradentes-CE,3-0,Maranguape
+1F,31/01/18,Fortaleza,2-1,Tiradentes-CE
+1F,01/02/18,Ceará,2-0,Uniclinic
+1F,03/02/18,Iguatu,1-0,Horizonte
+1F,04/02/18,Maranguape,0-1,Uniclinic
+1F,04/02/18,Floresta-CE,0-2,Ferroviário
+1F,04/02/18,Guarani de Juazeiro,4-3,Tiradentes-CE
+1F,07/02/18,Guarani de Juazeiro,1-2,Uniclinic
+1F,10/02/18,Uniclinic,1-0,Tiradentes-CE
+1F,10/02/18,Guarani de Juazeiro,0-4,Fortaleza
+1F,10/02/18,Ceará,2-1,Horizonte
+1F,11/02/18,Maranguape,1-2,Ferroviário
+1F,17/02/18,Tiradentes-CE,0-2,Iguatu
+1F,17/02/18,Uniclinic,2-2,Horizonte
+1F,17/02/18,Fortaleza,3-2,Floresta-CE
+1F,18/02/18,Ferroviário,1-0,Guarani de Juazeiro
+1F,18/02/18,Maranguape,1-5,Ceará
+1F,24/02/18,Tiradentes-CE,1-3,Ceará
+1F,25/02/18,Ferroviário,1-3,Fortaleza
+1F,25/02/18,Horizonte,2-1,Maranguape
+1F,25/02/18,Iguatu,3-1,Guarani de Juazeiro
+2F,01/03/18,Fortaleza,2-0,Iguatu
+1F,03/03/18,Floresta-CE,1-1,Uniclinic
+2F,03/03/18,Floresta-CE,0-0,Uniclinic
+2F,04/03/18,Iguatu,2-2,Ferroviário
+2F,04/03/18,Fortaleza,1-1,Ceará
+1F,04/03/18,Fortaleza,0-2,Ceará
+2F,07/03/18,Ferroviário,0-3,Ceará
+2F,08/03/18,Uniclinic,0-1,Fortaleza
+2F,10/03/18,Iguatu,0-2,Floresta-CE
+1F,10/03/18,Iguatu,1-1,Floresta-CE
+2F,12/03/18,Uniclinic,0-0,Ferroviário
+2F,13/03/18,Ceará,3-3,Iguatu
+2F,14/03/18,Floresta-CE,1-0,Fortaleza
+2F,17/03/18,Ceará,2-1,Uniclinic
+2F,18/03/18,Ferroviário,0-3,Floresta-CE
+2F,22/03/18,Fortaleza,2-1,Ferroviário
+2F,22/03/18,Ceará,2-0,Floresta-CE
+2F,22/03/18,Iguatu,0-1,Uniclinic
+SF,25/03/18,Uniclinic,0-6,Ceará
+SF,25/03/18,Fortaleza,3-1,Floresta-CE
+SF,01/04/18,Floresta-CE,1-3,Fortaleza
+SF,01/04/18,Ceará,0-1,Uniclinic
+F,04/04/18,Ceará,2-1,Fortaleza
+F,08/04/18,Fortaleza,1-2,Ceará

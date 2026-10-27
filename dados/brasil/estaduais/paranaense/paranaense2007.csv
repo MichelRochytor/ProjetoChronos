@@ -1,0 +1,151 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,14/01/07,Paraná,2-1,Iraty
+1F,14/01/07,Rio Branco-PR,2-1,Coritiba
+1F,14/01/07,JMalucelli,3-3,Atlético Paranaense
+1F,14/01/07,Galo Maringá,3-1,Nacional-PR
+1F,14/01/07,Portuguesa Londrinense,1-1,Londrina
+1F,14/01/07,Roma Apucarana,1-2,Cianorte
+1F,14/01/07,Iguaçu,0-4,Paranavaí
+1F,17/01/07,Portuguesa Londrinense,1-1,Cascavel
+1F,17/01/07,Engenheiro Beltrão,1-1,Coritiba
+1F,17/01/07,Atlético Paranaense,0-1,Rio Branco-PR
+1F,17/01/07,Galo Maringá,1-0,Iguaçu
+1F,17/01/07,JMalucelli,1-1,Paraná
+1F,17/01/07,Nacional-PR,1-3,Iraty
+1F,17/01/07,Cianorte,2-3,Londrina
+1F,18/01/07,Paranavaí,2-2,Roma Apucarana
+1F,20/01/07,Paraná,3-1,Nacional-PR
+1F,21/01/07,Cascavel,0-1,Engenheiro Beltrão
+1F,21/01/07,Engenheiro Beltrão,0-0,Londrina
+1F,21/01/07,Paranavaí,1-1,Galo Maringá
+1F,21/01/07,Coritiba,1-0,JMalucelli
+1F,21/01/07,Roma Apucarana,1-1,Portuguesa Londrinense
+1F,21/01/07,Rio Branco-PR,0-1,Cascavel
+1F,21/01/07,Iraty,1-2,Atlético Paranaense
+1F,21/01/07,Cianorte,3-1,Iguaçu
+1F,24/01/07,Cascavel,0-2,Paranavaí
+1F,24/01/07,Nacional-PR,0-1,JMalucelli
+1F,24/01/07,Londrina,1-1,Galo Maringá
+1F,24/01/07,Atlético Paranaense,1-0,Portuguesa Londrinense
+1F,24/01/07,Iraty,0-0,Rio Branco-PR
+1F,24/01/07,Engenheiro Beltrão,3-0,Paraná
+1F,24/01/07,Iguaçu,2-0,Roma Apucarana
+1F,25/01/07,Coritiba,0-1,Cianorte
+1F,27/01/07,Paraná,5-2,Londrina
+1F,28/01/07,Cascavel,4-3,Atlético Paranaense
+1F,28/01/07,Paranavaí,3-0,Engenheiro Beltrão
+1F,28/01/07,Portuguesa Londrinense,1-1,Cianorte
+1F,28/01/07,Roma Apucarana,1-2,Iraty
+1F,28/01/07,Nacional-PR,2-2,Coritiba
+1F,28/01/07,Galo Maringá,2-1,Rio Branco-PR
+1F,28/01/07,JMalucelli,3-1,Iguaçu
+1F,31/01/07,Cianorte,3-0,Engenheiro Beltrão
+1F,31/01/07,Rio Branco-PR,1-0,Paranavaí
+1F,31/01/07,Londrina,3-3,Atlético Paranaense
+1F,31/01/07,Coritiba,3-0,Cascavel
+1F,31/01/07,Portuguesa Londrinense,0-1,Nacional-PR
+1F,31/01/07,JMalucelli,1-1,Galo Maringá
+1F,01/02/07,Iguaçu,2-1,Iraty
+1F,03/02/07,Atlético Paranaense,5-1,Nacional-PR
+1F,04/02/07,Coritiba,3-2,Paraná
+1F,04/02/07,Cianorte,2-2,Paranavaí
+1F,04/02/07,Galo Maringá,4-1,Portuguesa Londrinense
+1F,04/02/07,Londrina,2-2,JMalucelli
+1F,04/02/07,Rio Branco-PR,1-0,Roma Apucarana
+1F,04/02/07,Iraty,1-2,Cascavel
+1F,04/02/07,Engenheiro Beltrão,1-0,Iguaçu
+1F,07/02/07,Paranavaí,2-1,Atlético Paranaense
+1F,07/02/07,Galo Maringá,4-2,Coritiba
+1F,07/02/07,JMalucelli,3-1,Engenheiro Beltrão
+1F,07/02/07,Roma Apucarana,1-0,Londrina
+1F,07/02/07,Iraty,1-1,Portuguesa Londrinense
+1F,07/02/07,Nacional-PR,2-2,Rio Branco-PR
+1F,07/02/07,Cascavel,1-3,Iguaçu
+1F,08/02/07,Paraná,1-1,Cianorte
+1F,10/02/07,Iguaçu,0-0,Rio Branco-PR
+1F,11/02/07,Atlético Paranaense,2-2,Coritiba
+1F,11/02/07,Cascavel,2-2,Paraná
+1F,11/02/07,Cianorte,3-1,Nacional-PR
+1F,11/02/07,Engenheiro Beltrão,0-1,Galo Maringá
+1F,11/02/07,JMalucelli,3-1,Roma Apucarana
+1F,11/02/07,Portuguesa Londrinense,0-1,Paranavaí
+1F,11/02/07,Londrina,1-1,Iraty
+1F,14/02/07,Rio Branco-PR,2-2,Cianorte
+1F,14/02/07,Engenheiro Beltrão,0-1,Portuguesa Londrinense
+1F,14/02/07,Roma Apucarana,1-5,Atlético Paranaense
+1F,14/02/07,Nacional-PR,0-2,Cascavel
+1F,14/02/07,Paranavaí,0-1,JMalucelli
+1F,17/02/07,Iraty,3-0,Cianorte
+1F,17/02/07,Londrina,6-2,Nacional-PR
+1F,17/02/07,Atlético Paranaense,1-1,Galo Maringá
+1F,17/02/07,Rio Branco-PR,1-0,Engenheiro Beltrão
+1F,18/02/07,Coritiba,2-2,Iguaçu
+1F,18/02/07,Cascavel,3-3,Roma Apucarana
+1F,19/02/07,Paranavaí,3-2,Paraná
+1F,21/02/07,JMalucelli,2-2,Portuguesa Londrinense
+1F,24/02/07,Iraty,3-2,JMalucelli
+1F,24/02/07,Portuguesa Londrinense,1-2,Coritiba
+1F,25/02/07,Iguaçu,0-0,Nacional-PR
+1F,25/02/07,Atlético Paranaense,4-1,Engenheiro Beltrão
+1F,25/02/07,Paraná,3-2,Rio Branco-PR
+1F,25/02/07,Londrina,6-2,Paranavaí
+1F,25/02/07,Roma Apucarana,1-4,Galo Maringá
+1F,25/02/07,Cianorte,1-0,Cascavel
+1F,28/02/07,Coritiba,2-1,Londrina
+1F,28/02/07,Paraná,3-0,Iguaçu
+1F,28/02/07,Galo Maringá,2-2,Iraty
+1F,01/03/07,Paraná,3-1,Roma Apucarana
+1F,03/03/07,Coritiba,2-0,Iraty
+1F,03/03/07,Cascavel,2-1,JMalucelli
+1F,03/03/07,Iguaçu,1-1,Portuguesa Londrinense
+1F,04/03/07,Paraná,0-3,Atlético Paranaense
+1F,04/03/07,Cianorte,3-2,Galo Maringá
+1F,04/03/07,Londrina,4-2,Rio Branco-PR
+1F,04/03/07,Nacional-PR,3-4,Paranavaí
+1F,04/03/07,Engenheiro Beltrão,2-2,Roma Apucarana
+1F,07/03/07,Portuguesa Londrinense,1-2,Paraná
+1F,07/03/07,Paranavaí,2-2,Coritiba
+1F,07/03/07,Iguaçu,1-1,Londrina
+1F,07/03/07,Roma Apucarana,2-1,Nacional-PR
+1F,07/03/07,Iraty,1-2,Engenheiro Beltrão
+1F,07/03/07,Atlético Paranaense,3-0,Cianorte
+1F,08/03/07,Galo Maringá,3-1,Cascavel
+1F,08/03/07,Rio Branco-PR,2-0,JMalucelli
+1F,11/03/07,Coritiba,7-2,Roma Apucarana
+1F,11/03/07,Atlético Paranaense,8-0,Iguaçu
+1F,11/03/07,JMalucelli,1-2,Cianorte
+1F,11/03/07,Nacional-PR,1-3,Engenheiro Beltrão
+1F,11/03/07,Rio Branco-PR,0-2,Portuguesa Londrinense
+1F,11/03/07,Galo Maringá,2-2,Paraná
+1F,11/03/07,Londrina,0-2,Cascavel
+1F,11/03/07,Iraty,2-2,Paranavaí
+A,18/03/07,Coritiba,2-2,Paraná
+A,18/03/07,Galo Maringá,1-0,Cascavel
+B,18/03/07,Cianorte,1-3,Atlético Paranaense
+B,18/03/07,Rio Branco-PR,0-0,Paranavaí
+A,25/03/07,Paraná,4-0,Galo Maringá
+A,25/03/07,Cascavel,1-2,Coritiba
+B,25/03/07,Atlético Paranaense,5-0,Rio Branco-PR
+B,25/03/07,Paranavaí,1-2,Cianorte
+A,28/03/07,Coritiba,1-0,Galo Maringá
+A,28/03/07,Paraná,3-0,Cascavel
+B,29/03/07,Cianorte,1-1,Rio Branco-PR
+B,29/03/07,Paranavaí,1-0,Atlético Paranaense
+B,01/04/07,Rio Branco-PR,1-0,Cianorte
+B,01/04/07,Atlético Paranaense,1-1,Paranavaí
+A,01/04/07,Galo Maringá,1-1,Coritiba
+A,01/04/07,Cascavel,1-2,Paraná
+B,08/04/07,Rio Branco-PR,0-0,Atlético Paranaense
+B,08/04/07,Cianorte,1-1,Paranavaí
+A,08/04/07,Galo Maringá,0-2,Paraná
+A,08/04/07,Coritiba,3-1,Cascavel
+B,11/04/07,Paranavaí,3-3,Rio Branco-PR
+B,11/04/07,Atlético Paranaense,4-4,Cianorte
+A,11/04/07,Paraná,1-3,Coritiba
+A,11/04/07,Cascavel,2-3,Galo Maringá
+SF,15/04/07,Paranavaí,3-2,Coritiba
+SF,15/04/07,Paraná,0-0,Atlético Paranaense
+SF,22/04/07,Coritiba,1-1,Paranavaí
+SF,22/04/07,Atlético Paranaense,1-3,Paraná
+F,29/04/07,Paranavaí,1-0,Paraná
+F,06/05/07,Paraná,0-0,Paranavaí

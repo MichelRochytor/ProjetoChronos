@@ -1,0 +1,101 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+,01/01/20,Esportivo,1-4,FC Riograndense
+,31/01/20,FC Riograndense,0-4,GE Brasil
+,18/02/20,Gaúcho,1-0,Internacional
+,27/02/20,Internacional,2-3,Grêmio
+,14/03/20,Gaúcho,0-4,Grêmio
+,22/03/20,Esportivo,2-2,Novo Hamburgo
+,19/04/20,FC Riograndense,2-3,Aimoré
+,07/05/20,Santa Cruz-RS,0-2,Internacional
+,10/05/20,Grêmio,2-1,Internacional
+,23/05/20,Juventude,1-1,Novo Hamburgo
+,09/06/20,Inter SM,1-1,Caxias
+,10/06/20,Grêmio,1-3,FC Riograndense
+,18/06/20,Caxias,3-0,Inter SM
+,26/06/20,Grêmio,2-3,Pelotas
+,06/07/20,Inter SM,0-0,São Borja
+,11/07/20,GE Brasil,4-0,Novo Hamburgo
+,31/07/20,São Borja,3-4,Esportivo
+,02/08/20,Pelotas,4-1,Gaúcho
+,11/08/20,Inter SM,3-4,Gaúcho
+,21/08/20,Gaúcho,2-0,GE Brasil
+,21/08/20,Juventude,3-2,FC Riograndense
+,28/08/20,Grêmio,0-0,São Borja
+,24/09/20,FC Riograndense,1-3,Internacional
+,28/09/20,Esportivo,4-1,Juventude
+,16/10/20,FC Riograndense,0-2,Inter SM
+,27/11/20,Pelotas,2-3,Juventude
+,06/12/20,Gaúcho,0-1,São Borja
+,06/01/21,Santa Cruz-RS,2-3,São Borja
+,19/01/21,GE Brasil,3-2,Caxias
+,30/01/21,Inter SM,4-3,FC Riograndense
+,02/02/21,São Borja,2-1,Juventude
+,14/02/21,FC Riograndense,2-3,Gaúcho
+,18/03/21,Novo Hamburgo,2-1,Aimoré
+,02/05/21,Grêmio,3-1,Juventude
+,06/05/21,GE Brasil,3-0,Gaúcho
+,06/05/21,Pelotas,3-2,São Borja
+,09/05/21,São Borja,0-4,Gaúcho
+,22/05/21,Caxias,0-2,São Borja
+,31/05/21,GE Brasil,3-2,Juventude
+,09/06/21,Juventude,1-2,Grêmio
+,10/06/21,São Borja,2-2,Novo Hamburgo
+,11/06/21,Internacional,4-1,Santa Cruz-RS
+,13/06/21,FC Riograndense,0-1,Juventude
+,17/07/21,Aimoré,4-2,Santa Cruz-RS
+,11/08/21,Esportivo,3-1,GE Brasil
+,25/08/21,Aimoré,4-1,Pelotas
+,28/08/21,Inter SM,4-3,Juventude
+,02/09/21,Novo Hamburgo,4-0,Internacional
+,16/09/21,Juventude,3-1,Caxias
+,02/10/21,Santa Cruz-RS,4-2,Aimoré
+8,14/02/21,Dundee United,3-1,Aberdeen
+3,18/02/21,Partick Thistle,3-3,Raith Rovers
+7,20/02/21,Motherwell,0-4,Hearts
+9,21/02/21,Raith Rovers,1-2,Ayr United
+8,23/02/21,St. Mirren,4-0,Motherwell
+9,13/03/21,Airdrieonians FC,2-0,Ayr United
+5,07/04/21,Rangers,3-3,Clyde
+2,10/04/21,Hearts,1-3,Hibernian
+9,15/04/21,Hearts,1-4,Clyde
+7,21/04/21,Dundee United,0-2,Motherwell
+6,27/04/21,Rangers,0-3,Ayr United
+2,10/05/21,Aberdeen,1-4,Morton FC
+6,18/05/21,Dundee FC,4-3,Raith Rovers
+9,20/05/21,Dundee United,3-0,Dunfermline
+2,28/05/21,Dunfermline,3-4,Hearts
+9,28/05/21,Dundee FC,0-3,Partick Thistle
+6,13/06/21,St. Mirren,0-2,Airdrieonians FC
+4,14/06/21,Ayr United,0-3,Raith Rovers
+7,02/07/21,Clyde,3-3,Dunfermline
+3,04/07/21,Clyde,2-0,St. Johnstone
+7,05/07/21,Airdrieonians FC,3-0,Dundee FC
+2,09/07/21,Clyde,1-3,Dundee United
+6,12/07/21,Celtic,1-1,Dunfermline
+3,21/07/21,Dundee FC,2-1,Clyde
+3,28/07/21,Clyde,4-4,Ayr United
+7,28/07/21,Aberdeen,4-1,Ayr United
+8,17/08/21,Kilmarnock,1-0,Dunfermline
+4,19/08/21,St. Mirren,3-4,Aberdeen
+4,21/08/21,Raith Rovers,2-2,Dundee United
+3,26/08/21,St. Johnstone,1-4,Morton FC
+8,03/09/21,Celtic,3-4,Aberdeen
+5,05/09/21,Clyde,1-2,Hearts
+4,06/09/21,Ayr United,3-3,Celtic
+6,06/09/21,St. Johnstone,3-3,Motherwell
+1,24/09/21,Celtic,2-2,St. Johnstone
+5,30/09/21,Celtic,3-3,Kilmarnock
+3,08/10/21,Hearts,4-3,Partick Thistle
+3,08/10/21,Aberdeen,3-2,Partick Thistle
+9,13/10/21,Partick Thistle,2-2,Morton FC
+2,20/10/21,Dundee United,3-3,Airdrieonians FC
+2,27/10/21,Hibernian,4-2,Partick Thistle
+6,31/10/21,Aberdeen,1-3,Airdrieonians FC
+6,02/11/21,Dundee United,1-1,Dundee FC
+8,04/11/21,Hearts,4-4,Ayr United
+2,27/11/21,Airdrieonians FC,4-4,Aberdeen
+6,04/12/21,Hearts,1-3,St. Johnstone
+2,08/12/21,Hearts,4-1,Kilmarnock
+2,08/12/21,Celtic,2-0,Hibernian
+4,12/12/21,Dundee FC,1-2,St. Mirren
+4,08/01/22,Dundee United,4-1,Partick Thistle

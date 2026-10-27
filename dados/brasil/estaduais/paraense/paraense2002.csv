@@ -1,0 +1,108 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+,16/02/02,Ananindeua,1-0,Castanhal
+,16/02/02,Sport Belém,2-0,Águia
+,17/02/02,Vila Rica,2-3,Pedreira-PA
+,17/02/02,Vênus-PA,0-0,Carajás
+,17/02/02,São Raimundo-PA,2-0,Bragantino-PA
+,20/02/02,Pedreira-PA,2-1,Sport Belém
+,20/02/02,Águia,1-1,Ananindeua
+,20/02/02,Carajás,3-1,Vila Rica
+,20/02/02,São Raimundo-PA,0-2,Castanhal
+,20/02/02,Bragantino-PA,1-1,Vênus-PA
+,24/02/02,Vênus-PA,1-1,Pedreira-PA
+,24/02/02,Castanhal,1-0,Águia
+,24/02/02,Vila Rica,2-3,Bragantino-PA
+,24/02/02,Ananindeua,0-1,Carajás
+,24/02/02,Sport Belém,1-2,São Raimundo-PA
+,27/02/02,Pedreira-PA,2-1,Castanhal
+,27/02/02,Águia,1-0,Vênus-PA
+,27/02/02,Carajás,1-2,São Raimundo-PA
+,27/02/02,Bragantino-PA,1-0,Sport Belém
+,27/02/02,Vila Rica,1-5,Ananindeua
+,02/03/02,Ananindeua,6-1,Bragantino-PA
+,02/03/02,Sport Belém,3-1,Vila Rica
+,03/03/02,São Raimundo-PA,0-0,Pedreira-PA
+,03/03/02,Castanhal,2-3,Vênus-PA
+,03/03/02,Águia,1-0,Carajás
+,06/03/02,Pedreira-PA,1-1,Águia
+,06/03/02,Vênus-PA,3-3,Ananindeua
+,06/03/02,Castanhal,1-1,Sport Belém
+,06/03/02,São Raimundo-PA,3-2,Vila Rica
+,06/03/02,Carajás,5-0,Bragantino-PA
+,09/03/02,Ananindeua,2-1,Sport Belém
+,10/03/02,Bragantino-PA,1-2,Pedreira-PA
+,10/03/02,Águia,1-1,São Raimundo-PA
+,10/03/02,Carajás,1-2,Castanhal
+,10/03/02,Vila Rica,0-3,Vênus-PA
+,13/03/02,Pedreira-PA,1-1,Carajás
+,13/03/02,Bragantino-PA,4-0,Águia
+,13/03/02,São Raimundo-PA,1-0,Ananindeua
+,13/03/02,Castanhal,2-1,Vila Rica
+,13/03/02,Sport Belém,4-2,Vênus-PA
+,17/03/02,Pedreira-PA,1-0,Ananindeua
+,17/03/02,Águia,3-1,Vila Rica
+,17/03/02,Carajás,3-1,Sport Belém
+,17/03/02,Vênus-PA,2-0,São Raimundo-PA
+,17/03/02,Castanhal,3-0,Bragantino-PA
+1F,24/03/02,Tuna Luso,0-3,Pedreira-PA
+1F,24/03/02,São Raimundo-PA,2-1,Tiradentes-PA
+1F,27/03/02,Remo,3-3,Ananindeua
+1F,27/03/02,Paysandu,3-1,Castanhal
+1F,31/03/02,Castanhal,2-0,Tiradentes-PA
+1F,31/03/02,São Raimundo-PA,1-1,Pedreira-PA
+1F,06/04/02,Castanhal,1-1,Ananindeua
+1F,07/04/02,São Raimundo-PA,1-1,Tuna Luso
+1F,10/04/02,Tiradentes-PA,0-1,Paysandu
+1F,10/04/02,Pedreira-PA,0-4,Remo
+1F,14/04/02,Tiradentes-PA,6-0,Pedreira-PA
+1F,14/04/02,São Raimundo-PA,2-1,Ananindeua
+1F,17/04/02,Paysandu,2-2,Tuna Luso
+1F,18/04/02,Remo,1-1,Castanhal
+1F,20/04/02,Remo,3-2,São Raimundo-PA
+1F,21/04/02,Tuna Luso,2-1,Ananindeua
+1F,21/04/02,Tiradentes-PA,1-2,Remo
+1F,24/04/02,Pedreira-PA,1-1,Castanhal
+1F,25/04/02,Remo,0-0,Tuna Luso
+1F,28/04/02,Tiradentes-PA,0-1,Ananindeua
+1F,28/04/02,Tuna Luso,1-1,Castanhal
+1F,02/05/02,Pedreira-PA,0-3,Paysandu
+1F,04/05/02,Castanhal,2-1,São Raimundo-PA
+1F,04/05/02,Ananindeua,1-0,Pedreira-PA
+1F,04/05/02,Tuna Luso,2-2,Tiradentes-PA
+1F,05/05/02,Remo,2-2,Paysandu
+1F,07/05/02,Paysandu,5-1,São Raimundo-PA
+1F,08/05/02,Pedreira-PA,0-0,Tuna Luso
+1F,08/05/02,Ananindeua,1-1,Remo
+1F,09/05/02,Tiradentes-PA,3-0,São Raimundo-PA
+1F,09/05/02,Castanhal,1-2,Paysandu
+1F,11/05/02,Pedreira-PA,3-0,São Raimundo-PA
+1F,12/05/02,Tiradentes-PA,1-0,Castanhal
+1F,12/05/02,Ananindeua,1-2,Paysandu
+1F,12/05/02,Tuna Luso,1-0,Remo
+1F,15/05/02,Tuna Luso,4-1,São Raimundo-PA
+1F,15/05/02,Paysandu,2-0,Tiradentes-PA
+1F,16/05/02,Ananindeua,1-0,Castanhal
+1F,16/05/02,Remo,2-1,Pedreira-PA
+1F,19/05/02,Pedreira-PA,1-0,Tiradentes-PA
+1F,19/05/02,Ananindeua,0-2,São Raimundo-PA
+1F,19/05/02,Castanhal,1-1,Remo
+1F,19/05/02,Tuna Luso,0-2,Paysandu
+1F,22/05/02,Ananindeua,1-0,Tuna Luso
+1F,22/05/02,Castanhal,1-1,Pedreira-PA
+1F,22/05/02,São Raimundo-PA,1-1,Paysandu
+1F,22/05/02,Remo,1-0,Tiradentes-PA
+1F,26/05/02,Paysandu,2-0,Ananindeua
+1F,26/05/02,Castanhal,1-1,Tuna Luso
+1F,26/05/02,São Raimundo-PA,1-2,Remo
+1F,29/05/02,Paysandu,5-0,Pedreira-PA
+1F,30/05/02,Ananindeua,0-2,Tiradentes-PA
+1F,02/06/02,Tiradentes-PA,0-3,Tuna Luso
+1F,02/06/02,Pedreira-PA,1-1,Ananindeua
+1F,02/06/02,Paysandu,0-0,Remo
+1F,02/06/02,São Raimundo-PA,1-0,Castanhal
+SF,05/06/02,Tuna Luso,1-0,Remo
+SF,06/06/02,Paysandu,6-1,Ananindeua
+SF,08/06/02,Remo,1-1,Tuna Luso
+SF,09/06/02,Ananindeua,0-1,Paysandu
+F,12/06/02,Tuna Luso,1-3,Paysandu
+F,16/06/02,Paysandu,3-0,Tuna Luso

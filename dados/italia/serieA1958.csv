@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,21/09/58,AS Bari,0-0,Bologna
+1,21/09/58,Fiorentina,3-1,Lanerossi Vicenza
+1,21/09/58,Genoa,3-3,Napoli
+1,21/09/58,Lazio,1-0,Sampdoria
+1,21/09/58,AC Milan,2-0,Triestina
+1,21/09/58,Padova,3-3,Roma
+1,21/09/58,SPAL,0-0,Juventus
+1,21/09/58,Torino,6-1,Alessandria
+1,21/09/58,Udinese,1-3,Internazionale
+2,28/09/58,Alessandria,1-4,Fiorentina
+2,28/09/58,Bologna,2-1,Genoa
+2,28/09/58,Internazionale,3-0,Padova
+2,28/09/58,Juventus,3-0,Udinese
+2,28/09/58,Lanerossi Vicenza,1-0,Lazio
+2,28/09/58,Napoli,0-1,AC Milan
+2,28/09/58,Roma,3-1,AS Bari
+2,28/09/58,Sampdoria,3-0,Torino
+2,28/09/58,Triestina,0-1,SPAL
+3,05/10/58,Fiorentina,1-1,Lazio
+3,05/10/58,Genoa,4-2,Internazionale
+3,05/10/58,AC Milan,4-2,AS Bari
+3,05/10/58,Napoli,3-2,Sampdoria
+3,05/10/58,Padova,1-4,Juventus
+3,05/10/58,Roma,1-0,Triestina
+3,05/10/58,SPAL,1-1,Alessandria
+3,05/10/58,Torino,1-1,Lanerossi Vicenza
+3,05/10/58,Udinese,1-1,Bologna
+4,12/10/58,Alessandria,1-3,Padova
+4,12/10/58,AS Bari,4-1,Torino
+4,12/10/58,Bologna,1-0,Roma
+4,12/10/58,Internazionale,8-0,SPAL
+4,12/10/58,Juventus,2-0,Napoli
+4,12/10/58,Lanerossi Vicenza,1-2,Genoa
+4,12/10/58,Lazio,1-1,Udinese
+4,12/10/58,Sampdoria,0-0,AC Milan
+4,12/10/58,Triestina,1-3,Fiorentina
+5,19/10/58,Fiorentina,4-0,Internazionale
+5,19/10/58,Genoa,1-0,AS Bari
+5,19/10/58,AC Milan,5-1,Alessandria
+5,19/10/58,Napoli,1-0,Lanerossi Vicenza
+5,19/10/58,Padova,1-0,Bologna
+5,19/10/58,Roma,3-0,Juventus
+5,19/10/58,SPAL,0-3,Lazio
+5,19/10/58,Torino,1-0,Triestina
+5,19/10/58,Udinese,1-1,Sampdoria
+6,26/10/58,Alessandria,0-0,Genoa
+6,26/10/58,AS Bari,1-0,Padova
+6,26/10/58,Bologna,3-2,SPAL
+6,26/10/58,Internazionale,3-2,Roma
+6,26/10/58,Juventus,4-3,Torino
+6,26/10/58,Lanerossi Vicenza,2-0,AC Milan
+6,26/10/58,Lazio,0-0,Napoli
+6,26/10/58,Sampdoria,1-1,Fiorentina
+6,26/10/58,Triestina,1-1,Udinese
+7,02/11/58,AS Bari,2-2,Lazio
+7,02/11/58,Fiorentina,3-3,Juventus
+7,02/11/58,Genoa,1-1,Triestina
+7,02/11/58,AC Milan,1-1,Internazionale
+7,02/11/58,Napoli,2-1,Padova
+7,02/11/58,Roma,3-1,Lanerossi Vicenza
+7,02/11/58,SPAL,1-2,Sampdoria
+7,02/11/58,Torino,2-2,Bologna
+7,02/11/58,Udinese,1-0,Alessandria
+8,16/11/58,Alessandria,2-1,AS Bari
+8,16/11/58,Bologna,0-2,Triestina
+8,16/11/58,Internazionale,2-0,Lanerossi Vicenza
+8,16/11/58,Juventus,4-5,AC Milan
+8,16/11/58,Lazio,2-0,Torino
+8,16/11/58,Napoli,3-0,Roma
+8,16/11/58,Padova,1-1,Fiorentina
+8,16/11/58,Sampdoria,2-1,Genoa
+8,16/11/58,Udinese,1-2,SPAL
+9,23/11/58,AS Bari,1-1,Juventus
+9,23/11/58,Fiorentina,6-3,Bologna
+9,23/11/58,Genoa,1-0,Udinese
+9,23/11/58,Internazionale,5-1,Sampdoria
+9,23/11/58,Lanerossi Vicenza,1-0,Alessandria
+9,23/11/58,Roma,1-1,AC Milan
+9,23/11/58,SPAL,0-2,Padova
+9,23/11/58,Torino,1-2,Napoli
+9,23/11/58,Triestina,3-0,Lazio
+10,30/11/58,Alessandria,4-3,Triestina
+10,30/11/58,Bologna,2-2,Internazionale
+10,30/11/58,Juventus,2-3,Lanerossi Vicenza
+10,30/11/58,Lazio,1-3,Roma
+10,30/11/58,AC Milan,2-0,Fiorentina
+10,30/11/58,Napoli,0-0,SPAL
+10,30/11/58,Padova,4-2,Genoa
+10,30/11/58,Sampdoria,3-0,AS Bari
+10,30/11/58,Udinese,0-0,Torino
+11,07/12/58,Alessandria,0-2,Lazio
+11,07/12/58,Fiorentina,4-0,AS Bari
+11,07/12/58,Internazionale,1-3,Juventus
+11,07/12/58,Lanerossi Vicenza,1-1,Bologna
+11,07/12/58,Roma,3-0,Udinese
+11,07/12/58,Sampdoria,3-0,Padova
+11,07/12/58,SPAL,1-1,AC Milan
+11,07/12/58,Torino,0-0,Genoa
+11,07/12/58,Triestina,0-0,Napoli
+12,21/12/58,AS Bari,2-2,Lanerossi Vicenza
+12,21/12/58,Genoa,2-2,Roma
+12,21/12/58,Juventus,1-0,Sampdoria
+12,21/12/58,Lazio,2-1,Bologna
+12,21/12/58,AC Milan,5-1,Torino
+12,21/12/58,Napoli,0-0,Alessandria
+12,21/12/58,Padova,2-1,Udinese
+12,21/12/58,SPAL,0-0,Fiorentina
+12,21/12/58,Triestina,1-1,Internazionale
+13,28/12/58,Alessandria,2-2,Juventus
+13,28/12/58,Bologna,1-1,Napoli
+13,28/12/58,Fiorentina,7-1,Genoa
+13,28/12/58,AC Milan,5-0,Lazio
+13,28/12/58,Roma,2-0,SPAL
+13,28/12/58,Sampdoria,2-0,Triestina
+13,28/12/58,Torino,0-5,Internazionale
+13,28/12/58,Udinese,3-1,AS Bari
+14,04/01/59,Fiorentina,7-0,Udinese
+14,04/01/59,Genoa,0-2,AC Milan
+14,04/01/59,Internazionale,1-1,Napoli
+14,04/01/59,Juventus,2-2,Bologna
+14,04/01/59,Lanerossi Vicenza,1-2,Sampdoria
+14,04/01/59,Padova,3-1,Lazio
+14,04/01/59,Roma,DA,Alessandria
+14,04/01/59,SPAL,3-0,Torino
+14,04/01/59,Triestina,0-0,AS Bari
+15,11/01/59,AS Bari,1-2,Internazionale
+15,11/01/59,Bologna,4-0,Alessandria
+15,11/01/59,Lazio,2-4,Genoa
+15,11/01/59,AC Milan,4-1,Padova
+15,11/01/59,Napoli,1-1,Udinese
+15,11/01/59,Sampdoria,0-0,Roma
+15,11/01/59,SPAL,0-0,Lanerossi Vicenza
+15,11/01/59,Torino,0-6,Fiorentina
+15,11/01/59,Triestina,0-3,Juventus
+13,14/01/59,Lanerossi Vicenza,3-2,Padova
+16,18/01/59,Bologna,1-2,Sampdoria
+16,18/01/59,Genoa,0-3,SPAL
+16,18/01/59,Internazionale,1-0,Alessandria
+16,18/01/59,Juventus,6-1,Lazio
+16,18/01/59,Lanerossi Vicenza,5-4,Triestina
+16,18/01/59,Napoli,1-2,AS Bari
+16,18/01/59,Padova,4-0,Torino
+16,18/01/59,Roma,0-0,Fiorentina
+16,18/01/59,Udinese,2-2,AC Milan
+17,25/01/59,Alessandria,1-1,Sampdoria
+17,25/01/59,AS Bari,2-1,SPAL
+17,25/01/59,Fiorentina,4-1,Napoli
+17,25/01/59,Genoa,0-1,Juventus
+17,25/01/59,Lanerossi Vicenza,2-0,Udinese
+17,25/01/59,Lazio,1-2,Internazionale
+17,25/01/59,AC Milan,4-3,Bologna
+17,25/01/59,Torino,2-2,Roma
+17,25/01/59,Triestina,2-4,Padova
+18,01/02/59,Alessandria,0-0,Torino
+18,01/02/59,Bologna,1-1,AS Bari
+18,01/02/59,Internazionale,5-0,Udinese
+18,01/02/59,Juventus,1-1,SPAL
+18,01/02/59,Lanerossi Vicenza,1-2,Fiorentina
+18,01/02/59,Napoli,2-2,Genoa
+18,01/02/59,Roma,1-1,Padova
+18,01/02/59,Sampdoria,1-2,Lazio
+18,01/02/59,Triestina,2-2,AC Milan
+19,08/02/59,AS Bari,2-1,Roma
+19,08/02/59,Fiorentina,7-1,Alessandria
+19,08/02/59,Genoa,1-0,Bologna
+19,08/02/59,Lazio,0-1,Lanerossi Vicenza
+19,08/02/59,AC Milan,6-1,Napoli
+19,08/02/59,Padova,2-0,Internazionale
+19,08/02/59,SPAL,4-0,Triestina
+19,08/02/59,Torino,1-2,Sampdoria
+19,08/02/59,Udinese,0-4,Juventus
+20,15/02/59,Alessandria,2-0,SPAL
+20,15/02/59,AS Bari,0-2,AC Milan
+20,15/02/59,Bologna,2-0,Udinese
+20,15/02/59,Internazionale,4-1,Genoa
+20,15/02/59,Juventus,2-1,Padova
+20,15/02/59,Lanerossi Vicenza,2-0,Torino
+20,15/02/59,Lazio,0-0,Fiorentina
+20,15/02/59,Sampdoria,0-0,Napoli
+20,15/02/59,Triestina,1-0,Roma
+21,22/02/59,Fiorentina,4-1,Triestina
+21,22/02/59,Genoa,0-1,Lanerossi Vicenza
+21,22/02/59,AC Milan,4-1,Sampdoria
+21,22/02/59,Napoli,0-0,Juventus
+21,22/02/59,Padova,0-0,Alessandria
+21,22/02/59,Roma,0-1,Bologna
+21,22/02/59,SPAL,0-1,Internazionale
+21,22/02/59,Torino,2-2,AS Bari
+21,22/02/59,Udinese,4-1,Lazio
+22,02/03/59,Alessandria,1-2,AC Milan
+22,02/03/59,AS Bari,1-2,Genoa
+22,02/03/59,Bologna,2-0,Padova
+22,02/03/59,Internazionale,1-3,Fiorentina
+22,02/03/59,Juventus,2-0,Roma
+22,02/03/59,Lanerossi Vicenza,2-3,Napoli
+22,02/03/59,Lazio,4-0,SPAL
+22,02/03/59,Sampdoria,3-1,Udinese
+22,02/03/59,Triestina,1-1,Torino
+23,15/03/59,Fiorentina,4-1,Sampdoria
+23,15/03/59,Genoa,1-1,Alessandria
+23,15/03/59,AC Milan,0-0,Lanerossi Vicenza
+23,15/03/59,Napoli,1-1,Lazio
+23,15/03/59,Padova,0-0,AS Bari
+23,15/03/59,Roma,2-2,Internazionale
+23,15/03/59,SPAL,0-1,Bologna
+23,15/03/59,Torino,3-2,Juventus
+23,15/03/59,Udinese,0-0,Triestina
+24,22/03/59,Alessandria,1-1,Udinese
+24,22/03/59,Bologna,0-0,Torino
+24,22/03/59,Internazionale,1-0,AC Milan
+24,22/03/59,Juventus,3-2,Fiorentina
+24,22/03/59,Lanerossi Vicenza,4-1,Roma
+24,22/03/59,Lazio,3-2,AS Bari
+24,22/03/59,Padova,0-0,Napoli
+24,22/03/59,Sampdoria,1-1,SPAL
+24,22/03/59,Triestina,2-1,Genoa
+25,29/03/59,AS Bari,1-0,Alessandria
+25,29/03/59,Fiorentina,3-0,Padova
+25,29/03/59,Genoa,0-0,Sampdoria
+25,29/03/59,Lanerossi Vicenza,2-1,Internazionale
+25,29/03/59,AC Milan,1-1,Juventus
+25,29/03/59,Roma,8-0,Napoli
+25,29/03/59,SPAL,0-1,Udinese
+25,29/03/59,Torino,1-0,Lazio
+25,29/03/59,Triestina,3-2,Bologna
+26,05/04/59,Alessandria,1-0,Lanerossi Vicenza
+26,05/04/59,Bologna,0-4,Fiorentina
+26,05/04/59,Juventus,2-2,AS Bari
+26,05/04/59,Lazio,3-1,Triestina
+26,05/04/59,AC Milan,4-1,Roma
+26,05/04/59,Napoli,2-2,Torino
+26,05/04/59,Padova,2-1,SPAL
+26,05/04/59,Sampdoria,2-4,Internazionale
+26,05/04/59,Udinese,4-0,Genoa
+27,12/04/59,AS Bari,2-1,Sampdoria
+27,12/04/59,Fiorentina,1-3,AC Milan
+27,12/04/59,Genoa,2-1,Padova
+27,12/04/59,Internazionale,5-1,Bologna
+27,12/04/59,Lanerossi Vicenza,1-0,Juventus
+27,12/04/59,Roma,3-0,Lazio
+27,12/04/59,SPAL,2-1,Napoli
+27,12/04/59,Torino,0-1,Udinese
+27,12/04/59,Triestina,2-0,Alessandria
+28,19/04/59,AS Bari,1-2,Fiorentina
+28,19/04/59,Bologna,1-0,Lanerossi Vicenza
+28,19/04/59,Genoa,3-0,Torino
+28,19/04/59,Juventus,3-2,Internazionale
+28,19/04/59,Lazio,0-2,Alessandria
+28,19/04/59,AC Milan,0-0,SPAL
+28,19/04/59,Napoli,1-0,Triestina
+28,19/04/59,Padova,2-1,Sampdoria
+28,19/04/59,Udinese,0-0,Roma
+29,26/04/59,Alessandria,2-1,Napoli
+29,26/04/59,Bologna,1-1,Lazio
+29,26/04/59,Fiorentina,1-2,SPAL
+29,26/04/59,Internazionale,1-0,Triestina
+29,26/04/59,Lanerossi Vicenza,0-0,AS Bari
+29,26/04/59,Roma,5-0,Genoa
+29,26/04/59,Sampdoria,3-2,Juventus
+29,26/04/59,Torino,3-3,AC Milan
+29,26/04/59,Udinese,1-2,Padova
+30,17/05/59,AS Bari,2-1,Udinese
+30,17/05/59,Genoa,0-0,Fiorentina
+30,17/05/59,Internazionale,1-0,Torino
+30,17/05/59,Juventus,2-2,Alessandria
+30,17/05/59,Lazio,0-0,AC Milan
+30,17/05/59,Napoli,4-2,Bologna
+30,17/05/59,Padova,3-1,Lanerossi Vicenza
+30,17/05/59,SPAL,1-0,Roma
+30,17/05/59,Triestina,1-2,Sampdoria
+31,24/05/59,Alessandria,1-1,Roma
+31,24/05/59,AS Bari,0-0,Triestina
+31,24/05/59,Bologna,4-1,Juventus
+31,24/05/59,Lazio,1-1,Padova
+31,24/05/59,AC Milan,4-0,Genoa
+31,24/05/59,Napoli,1-0,Internazionale
+31,24/05/59,Sampdoria,2-0,Lanerossi Vicenza
+31,24/05/59,Torino,1-0,SPAL
+31,24/05/59,Udinese,2-0,Fiorentina
+32,28/05/59,Alessandria,1-0,Bologna
+32,28/05/59,Fiorentina,4-0,Torino
+32,28/05/59,Genoa,0-0,Lazio
+32,28/05/59,Internazionale,2-1,AS Bari
+32,28/05/59,Juventus,4-0,Triestina
+32,28/05/59,Lanerossi Vicenza,1-1,SPAL
+32,28/05/59,Padova,0-1,AC Milan
+32,28/05/59,Roma,1-0,Sampdoria
+32,28/05/59,Udinese,1-1,Napoli
+33,02/06/59,Alessandria,1-1,Internazionale
+33,02/06/59,AS Bari,0-0,Napoli
+33,02/06/59,Fiorentina,1-1,Roma
+33,02/06/59,Lazio,1-0,Juventus
+33,02/06/59,AC Milan,7-0,Udinese
+33,02/06/59,Sampdoria,2-1,Bologna
+33,02/06/59,SPAL,1-5,Genoa
+33,02/06/59,Torino,3-1,Padova
+33,02/06/59,Triestina,0-0,Lanerossi Vicenza
+34,07/06/59,Bologna,1-1,AC Milan
+34,07/06/59,Internazionale,4-0,Lazio
+34,07/06/59,Juventus,4-3,Genoa

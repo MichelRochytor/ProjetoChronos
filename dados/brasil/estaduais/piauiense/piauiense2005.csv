@@ -1,0 +1,71 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,20/03/05,4 de Julho,0-0,Comercial-PI
+1F,20/03/05,Caiçara,1-0,Flamengo-PI
+1F,20/03/05,Parnahyba,1-3,Piauí
+1F,20/03/05,River-PI,4-1,Oeiras AC
+1F,26/03/05,Comercial-PI,2-0,River-PI
+1F,26/03/05,Oeiras AC,1-0,Caiçara
+1F,28/03/05,Piauí,2-0,4 de Julho
+1F,29/03/05,Parnahyba,2-0,Flamengo-PI
+1F,02/04/05,Caiçara,0-1,Parnahyba
+1F,02/04/05,Oeiras AC,0-1,Piauí
+1F,03/04/05,4 de Julho,1-1,River-PI
+1F,04/04/05,Flamengo-PI,2-5,Comercial-PI
+1F,09/04/05,Flamengo-PI,1-0,4 de Julho
+1F,10/04/05,Comercial-PI,1-1,Caiçara
+1F,10/04/05,River-PI,1-0,Piauí
+1F,14/04/05,Parnahyba,0-1,Oeiras AC
+1F,17/04/05,Piauí,2-1,Caiçara
+1F,17/04/05,4 de Julho,1-0,Parnahyba
+1F,17/04/05,Comercial-PI,2-0,Oeiras AC
+1F,17/04/05,Flamengo-PI,0-1,River-PI
+1F,21/04/05,4 de Julho,0-1,Caiçara
+1F,21/04/05,Comercial-PI,1-1,Piauí
+1F,21/04/05,Oeiras AC,1-4,Flamengo-PI
+1F,21/04/05,River-PI,3-2,Parnahyba
+1F,24/04/05,Caiçara,3-1,River-PI
+1F,24/04/05,Flamengo-PI,0-3,Piauí
+1F,24/04/05,Oeiras AC,2-1,4 de Julho
+1F,24/04/05,Parnahyba,3-1,Comercial-PI
+SF,30/04/05,Comercial-PI,4-0,River-PI
+SF,01/05/05,Caiçara,1-1,Piauí
+SF,04/05/05,River-PI,4-2(Pro.),Comercial-PI
+SF,04/05/05,Piauí,3-1,Caiçara
+F,08/05/05,River-PI,0-1,Piauí
+F,15/05/05,Piauí,3-1,River-PI
+2F,15/05/05,Comercial-PI,1-4,4 de Julho
+2F,18/05/05,Piauí,0-0,Oeiras AC
+2F,18/05/05,Flamengo-PI,0-1,Caiçara
+2F,18/05/05,Parnahyba,5-1,River-PI
+2F,22/05/05,4 de Julho,4-0,Flamengo-PI
+2F,22/05/05,Caiçara,0-3,Piauí
+2F,22/05/05,Oeiras AC,3-3,Parnahyba
+2F,22/05/05,River-PI,2-2,Comercial-PI
+2F,25/05/05,River-PI,2-1,Caiçara
+2F,26/05/05,Parnahyba,2-1,4 de Julho
+2F,26/05/05,Piauí,1-1,Comercial-PI
+2F,26/05/05,Flamengo-PI,1-3,Oeiras AC
+2F,28/05/05,Caiçara,1-2,Oeiras AC
+2F,29/05/05,Comercial-PI,0-2,Parnahyba
+2F,29/05/05,Flamengo-PI,1-3,Piauí
+2F,01/06/05,River-PI,4-1,4 de Julho
+2F,04/06/05,4 de Julho,3-0,Piauí
+2F,04/06/05,Caiçara,1-0,Comercial-PI
+2F,04/06/05,Oeiras AC,1-2,River-PI
+2F,06/06/05,Flamengo-PI,2-2,Parnahyba
+2F,12/06/05,Caiçara,3-2,4 de Julho
+2F,12/06/05,Oeiras AC,0-1,Comercial-PI
+2F,12/06/05,Piauí,1-1,Parnahyba
+2F,12/06/05,Flamengo-PI,0-0,River-PI
+2F,19/06/05,4 de Julho,3-1,Oeiras AC
+2F,19/06/05,Comercial-PI,2-1,Flamengo-PI
+2F,19/06/05,Parnahyba,1-0,Caiçara
+2F,19/06/05,Piauí,1-1,River-PI
+SF,23/06/05,Piauí,0-1,Parnahyba
+SF,23/06/05,River-PI,1-1,4 de Julho
+SF,26/06/05,Parnahyba,1-0,Piauí
+SF,26/06/05,4 de Julho,1-1,River-PI
+F,03/07/05,4 de Julho,1-3,Parnahyba
+F,06/07/05,Parnahyba,0-0,4 de Julho
+F,10/07/05,Parnahyba,0-0,Piauí
+F,17/07/05,Piauí,0-1,Parnahyba

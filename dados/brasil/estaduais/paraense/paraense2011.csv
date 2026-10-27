@@ -1,0 +1,99 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,01/12/10,Ananindeua,2-1,Abaeté
+1F,01/12/10,Santa Rosa,1-2,Parauapebas
+1F,01/12/10,Sport Belém,1-1,Carajás
+1F,01/12/10,Castanhal,2-0,Tuna Luso
+1F,04/12/10,Ananindeua,1-0,Sport Belém
+1F,04/12/10,Castanhal,2-2,Parauapebas
+1F,05/12/10,Abaeté,3-1,Santa Rosa
+1F,05/12/10,Carajás,0-2,Tuna Luso
+1F,08/12/10,Sport Belém,2-1,Tuna Luso
+1F,08/12/10,Abaeté,2-7,Castanhal
+1F,08/12/10,Santa Rosa,1-4,Ananindeua
+1F,08/12/10,Parauapebas,1-1,Carajás
+1F,11/12/10,Castanhal,0-1,Santa Rosa
+1F,12/12/10,Carajás,0-2,Abaeté
+1F,12/12/10,Tuna Luso,2-1,Ananindeua
+1F,12/12/10,Parauapebas,3-1,Sport Belém
+1F,15/12/10,Abaeté,6-1,Sport Belém
+1F,15/12/10,Ananindeua,0-1,Castanhal
+1F,15/12/10,Santa Rosa,1-0,Carajás
+1F,15/12/10,Tuna Luso,3-1,Parauapebas
+1F,19/12/10,Ananindeua,4-2,Parauapebas
+1F,19/12/10,Carajás,2-4,Castanhal
+1F,19/12/10,Tuna Luso,1-0,Abaeté
+1F,19/12/10,Sport Belém,2-1,Santa Rosa
+1F,22/12/10,Castanhal,1-1,Sport Belém
+1F,22/12/10,Parauapebas,2-3,Abaeté
+1F,22/12/10,Santa Rosa,1-2,Tuna Luso
+1F,22/12/10,Carajás,2-2,Ananindeua
+1T,22/01/11,Águia,1-1,Tuna Luso
+1T,23/01/11,Paysandu,4-2,Castanhal
+1T,23/01/11,Cametá,1-5,Independente Tucuruí
+1T,24/01/11,Remo,3-0,São Raimundo-PA
+1T,27/01/11,Águia,0-0,São Raimundo-PA
+1T,29/01/11,Independente Tucuruí,2-3,Paysandu
+1T,30/01/11,Tuna Luso,0-0,Castanhal
+1T,30/01/11,Cametá,2-2,Remo
+1T,02/02/11,Remo,1-0,Águia
+1T,02/02/11,São Raimundo-PA,1-2,Cametá
+1T,02/02/11,Castanhal,3-1,Independente Tucuruí
+1T,03/02/11,Paysandu,2-0,Tuna Luso
+1T,05/02/11,Castanhal,0-2,Remo
+1T,05/02/11,Independente Tucuruí,2-1,Águia
+1T,06/02/11,Paysandu,4-3,Cametá
+1T,06/02/11,São Raimundo-PA,3-3,Tuna Luso
+1T,12/02/11,Tuna Luso,1-0,Independente Tucuruí
+1T,12/02/11,Águia,4-3,Cametá
+1T,12/02/11,Castanhal,2-2,São Raimundo-PA
+1T,13/02/11,Remo,3-1,Paysandu
+1T,16/02/11,Independente Tucuruí,2-0,São Raimundo-PA
+1T,17/02/11,Paysandu,5-2,Águia
+1T,20/02/11,Cametá,4-1,Castanhal
+1T,20/02/11,Tuna Luso,0-0,Remo
+1T,27/02/11,São Raimundo-PA,3-2,Paysandu
+1T,27/02/11,Águia,1-1,Castanhal
+1T,27/02/11,Cametá,2-2,Tuna Luso
+1T,27/02/11,Remo,1-0,Independente Tucuruí
+SF,09/03/11,Independente Tucuruí,3-3,Paysandu
+SF,10/03/11,Cametá,4-1,Remo
+SF,13/03/11,Paysandu,3-1,Independente Tucuruí
+SF,14/03/11,Remo,3-3,Cametá
+F,20/03/11,Cametá,1-2,Paysandu
+F,24/03/11,Paysandu,3-2,Cametá
+2T,02/04/11,Independente Tucuruí,2-3,Cametá
+2T,02/04/11,Castanhal,1-1,Paysandu
+2T,03/04/11,Tuna Luso,1-0,Águia
+2T,03/04/11,São Raimundo-PA,3-1,Remo
+2T,09/04/11,Castanhal,0-0,Tuna Luso
+2T,10/04/11,Paysandu,0-2,Independente Tucuruí
+2T,10/04/11,São Raimundo-PA,1-1,Águia
+2T,11/04/11,Remo,1-0,Cametá
+2T,16/04/11,Independente Tucuruí,2-0,Castanhal
+2T,16/04/11,Águia,1-3,Remo
+2T,17/04/11,Tuna Luso,1-3,Paysandu
+2T,17/04/11,Cametá,1-0,São Raimundo-PA
+2T,20/04/11,Tuna Luso,1-4,São Raimundo-PA
+2T,20/04/11,Remo,1-0,Castanhal
+2T,23/04/11,Águia,0-2,Independente Tucuruí
+2T,24/04/11,Cametá,2-1,Paysandu
+2T,01/05/11,Independente Tucuruí,2-0,Tuna Luso
+2T,01/05/11,Cametá,3-2,Águia
+2T,01/05/11,Paysandu,1-1,Remo
+2T,01/05/11,São Raimundo-PA,1-0,Castanhal
+2T,07/05/11,Águia,3-1,Paysandu
+2T,07/05/11,Castanhal,1-0,Cametá
+2T,08/05/11,São Raimundo-PA,4-1,Independente Tucuruí
+2T,09/05/11,Remo,5-2,Tuna Luso
+2T,15/05/11,Paysandu,3-1,São Raimundo-PA
+2T,15/05/11,Castanhal,1-2,Águia
+2T,15/05/11,Tuna Luso,1-2,Cametá
+2T,15/05/11,Independente Tucuruí,2-1,Remo
+SF,21/05/11,São Raimundo-PA,3-2,Cametá
+SF,22/05/11,Remo,1-0,Independente Tucuruí
+SF,28/05/11,Cametá,3-0,São Raimundo-PA
+SF,29/05/11,Independente Tucuruí,2-0,Remo
+F,05/06/11,Cametá,1-2,Independente Tucuruí
+F,12/06/11,Independente Tucuruí,2-2,Cametá
+F,19/06/11,Independente Tucuruí,2-2,Paysandu
+F,26/06/11,Paysandu,3-3(0-3 Pen.),Independente Tucuruí

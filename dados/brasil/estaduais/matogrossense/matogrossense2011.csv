@@ -1,0 +1,75 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,26/01/11,Sinop,1-3,Mixto
+A,29/01/11,Sorriso EC,0-0,Operário-MT
+A,30/01/11,Cuiabá,4-0,Luverdense
+B,30/01/11,EC Primavera,2-1,Vila Aurora
+B,30/01/11,União Rondonópolis,4-0,CRAC-MT
+B,03/02/11,Vila Aurora,1-0,Rondonópolis
+B,03/02/11,Barra,0-0,União Rondonópolis
+A,05/02/11,Sinop,2-2,Cuiabá
+A,06/02/11,Operário-MT,0-1,Luverdense
+B,06/02/11,Rondonópolis,3-5,EC Primavera
+B,06/02/11,CRAC-MT,0-0,Vila Aurora
+B,10/02/11,EC Primavera,0-1,União Rondonópolis
+A,10/02/11,Mixto,1-1,Sorriso EC
+B,12/02/11,CRAC-MT,0-2,Barra
+A,13/02/11,Cuiabá,2-0,Operário-MT
+A,13/02/11,Luverdense,2-1,Mixto
+A,13/02/11,Sorriso EC,2-0,Sinop
+B,17/02/11,Rondonópolis,2-0,Barra
+A,19/02/11,Sinop,1-2,Luverdense
+B,20/02/11,Vila Aurora,1-2,Barra
+B,20/02/11,EC Primavera,1-1,CRAC-MT
+A,20/02/11,Operário-MT,0-3,Mixto
+A,24/02/11,Operário-MT,2-1,Sinop
+B,24/02/11,Rondonópolis,1-1,CRAC-MT
+B,27/02/11,Barra,3-2,EC Primavera
+A,27/02/11,Luverdense,1-0,Sorriso EC
+A,27/02/11,Mixto,1-1,Cuiabá
+B,27/02/11,União Rondonópolis,1-2,Vila Aurora
+B,02/03/11,União Rondonópolis,2-3,Rondonópolis
+A,03/03/11,Sorriso EC,2-2,Cuiabá
+A,05/03/11,Mixto,0-2,Operário-MT
+B,05/03/11,Barra,0-2,Rondonópolis
+B,05/03/11,CRAC-MT,1-1,União Rondonópolis
+B,05/03/11,Vila Aurora,2-1,EC Primavera
+A,05/03/11,Luverdense,1-0,Sinop
+A,10/03/11,Cuiabá,1-2,Sorriso EC
+B,10/03/11,União Rondonópolis,3-2,EC Primavera
+A,12/03/11,Sinop,2-1,Operário-MT
+A,13/03/11,Sorriso EC,1-1,Luverdense
+B,13/03/11,Barra,2-2,CRAC-MT
+A,13/03/11,Cuiabá,2-1,Mixto
+B,13/03/11,Rondonópolis,0-0,Vila Aurora
+B,17/03/11,Vila Aurora,0-0,CRAC-MT
+A,17/03/11,Cuiabá,1-2,Sinop
+A,17/03/11,Luverdense,6-0,Operário-MT
+A,17/03/11,Sorriso EC,3-3,Mixto
+B,17/03/11,EC Primavera,2-2,Rondonópolis
+B,20/03/11,Barra,1-0,Vila Aurora
+A,20/03/11,Sinop,4-3,Sorriso EC
+B,20/03/11,CRAC-MT,2-1,EC Primavera
+B,20/03/11,Rondonópolis,2-2,União Rondonópolis
+A,20/03/11,Operário-MT,1-4,Cuiabá
+A,23/03/11,Mixto,0-0,Luverdense
+B,23/03/11,União Rondonópolis,2-1,Barra
+A,26/03/11,Operário-MT,0-0,Sorriso EC
+B,27/03/11,EC Primavera,1-1,Barra
+A,27/03/11,Luverdense,2-2,Cuiabá
+A,27/03/11,Mixto,4-2,Sinop
+B,27/03/11,CRAC-MT,1-1,Rondonópolis
+B,27/03/11,Vila Aurora,1-1,União Rondonópolis
+QF,02/04/11,Vila Aurora,1-0,Luverdense
+QF,02/04/11,Sorriso EC,1-3,União Rondonópolis
+QF,03/04/11,Mixto,1-0,Barra
+QF,03/04/11,Rondonópolis,3-3,Cuiabá
+QF,06/04/11,Barra,1-0(3-2 Pen.),Mixto
+QF,06/04/11,Cuiabá,2-1,Rondonópolis
+QF,06/04/11,Luverdense,1-2,Vila Aurora
+QF,06/04/11,União Rondonópolis,3-1,Sorriso EC
+SF,10/04/11,Barra,2-1,Vila Aurora
+SF,10/04/11,Cuiabá,2-0,União Rondonópolis
+SF,13/04/11,União Rondonópolis,2-2,Cuiabá
+SF,14/04/11,Vila Aurora,1-1,Barra
+F,17/04/11,Barra,1-3,Cuiabá
+F,24/04/11,Cuiabá,1-1,Barra

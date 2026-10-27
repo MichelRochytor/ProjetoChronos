@@ -1,0 +1,91 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,17/02/02,Hermann Aichinger,1-0,Avaí
+1F,17/02/02,Inter de Lages,1-1,Marcílio Dias
+1F,17/02/02,Kindermann,2-1,Atlético Alto Vale
+1F,24/02/02,Atlético Alto Vale,2-0,Hermann Aichinger
+1F,24/02/02,Marcílio Dias,3-1,Kindermann
+1F,24/02/02,Avaí,2-0,Inter de Lages
+1F,03/03/02,Hermann Aichinger,4-1,Inter de Lages
+1F,03/03/02,Kindermann,1-2,Avaí
+1F,03/03/02,Atlético Alto Vale,1-1,Marcílio Dias
+1F,10/03/02,Marcílio Dias,1-0,Hermann Aichinger
+1F,10/03/02,Avaí,3-1,Atlético Alto Vale
+1F,10/03/02,Inter de Lages,1-1,Kindermann
+1F,17/03/02,Hermann Aichinger,3-2,Kindermann
+1F,17/03/02,Atlético Alto Vale,0-2,Inter de Lages
+1F,17/03/02,Marcílio Dias,0-0,Avaí
+1F,24/03/02,Avaí,3-0,Hermann Aichinger
+1F,24/03/02,Marcílio Dias,2-0,Inter de Lages
+1F,24/03/02,Atlético Alto Vale,2-0,Kindermann
+1F,28/03/02,Hermann Aichinger,0-2,Atlético Alto Vale
+1F,28/03/02,Kindermann,0-1,Marcílio Dias
+1F,28/03/02,Inter de Lages,1-0,Avaí
+1F,31/03/02,Inter de Lages,1-2,Hermann Aichinger
+1F,31/03/02,Avaí,3-0,Kindermann
+1F,31/03/02,Marcílio Dias,5-0,Atlético Alto Vale
+1F,07/04/02,Hermann Aichinger,0-0,Marcílio Dias
+1F,07/04/02,Atlético Alto Vale,1-3,Avaí
+1F,07/04/02,Kindermann,1-0,Inter de Lages
+1F,14/04/02,Kindermann,0-0,Hermann Aichinger
+1F,14/04/02,Inter de Lages,2-0,Atlético Alto Vale
+1F,14/04/02,Avaí,1-1,Marcílio Dias
+2F,05/05/02,Marcílio Dias,2-2,Avaí
+2F,05/05/02,Figueirense,4-1,Criciúma
+2F,05/05/02,Hermann Aichinger,0-0,Tubarão FC
+2F,05/05/02,Joinville,1-1,Chapecoense
+2F,08/05/02,Marcílio Dias,0-2,Figueirense
+2F,08/05/02,Criciúma,2-1,Hermann Aichinger
+2F,08/05/02,Tubarão FC,4-1,Joinville
+2F,08/05/02,Avaí,2-0,Chapecoense
+2F,12/05/02,Hermann Aichinger,2-3,Marcílio Dias
+2F,12/05/02,Joinville,6-2,Criciúma
+2F,12/05/02,Chapecoense,1-1,Tubarão FC
+2F,12/05/02,Avaí,1-1,Figueirense
+2F,16/05/02,Marcílio Dias,2-3,Joinville
+2F,16/05/02,Criciúma,5-1,Chapecoense
+2F,16/05/02,Tubarão FC,1-0,Avaí
+2F,16/05/02,Figueirense,0-1,Hermann Aichinger
+2F,19/05/02,Chapecoense,3-2,Marcílio Dias
+2F,19/05/02,Tubarão FC,0-0,Criciúma
+2F,19/05/02,Joinville,0-3,Figueirense
+2F,19/05/02,Avaí,1-1,Hermann Aichinger
+2F,22/05/02,Marcílio Dias,2-3,Tubarão FC
+2F,22/05/02,Criciúma,2-1,Avaí
+2F,22/05/02,Figueirense,2-0,Chapecoense
+2F,22/05/02,Hermann Aichinger,3-2,Joinville
+F,22/05/02,Criciúma,0-1,Figueirense
+2F,26/05/02,Criciúma,2-1,Marcílio Dias
+2F,26/05/02,Tubarão FC,1-2,Figueirense
+2F,26/05/02,Chapecoense,2-1,Hermann Aichinger
+2F,26/05/02,Avaí,2-1,Joinville
+F,02/06/02,Figueirense,2-1,Criciúma
+2F,09/06/02,Avaí,2-0,Marcílio Dias
+2F,09/06/02,Criciúma,2-2,Figueirense
+2F,09/06/02,Tubarão FC,2-1,Hermann Aichinger
+2F,09/06/02,Chapecoense,2-0,Joinville
+2F,12/06/02,Figueirense,6-1,Marcílio Dias
+2F,12/06/02,Hermann Aichinger,1-2,Criciúma
+2F,12/06/02,Joinville,1-0,Tubarão FC
+2F,12/06/02,Chapecoense,0-1,Avaí
+2F,16/06/02,Marcílio Dias,1-1,Hermann Aichinger
+2F,16/06/02,Criciúma,5-1,Joinville
+2F,16/06/02,Tubarão FC,5-2,Chapecoense
+2F,16/06/02,Figueirense,3-0,Avaí
+2F,19/06/02,Joinville,2-1,Marcílio Dias
+2F,19/06/02,Chapecoense,2-3,Criciúma
+2F,19/06/02,Avaí,3-1,Tubarão FC
+2F,19/06/02,Hermann Aichinger,0-0,Figueirense
+2F,23/06/02,Marcílio Dias,3-2,Chapecoense
+2F,23/06/02,Criciúma,1-1,Tubarão FC
+2F,23/06/02,Figueirense,4-0,Joinville
+2F,23/06/02,Hermann Aichinger,0-0,Avaí
+2F,26/06/02,Tubarão FC,2-0,Marcílio Dias
+2F,26/06/02,Avaí,3-1,Criciúma
+2F,26/06/02,Chapecoense,4-5,Figueirense
+2F,26/06/02,Joinville,3-2,Hermann Aichinger
+2F,29/06/02,Marcílio Dias,2-1,Criciúma
+2F,29/06/02,Figueirense,5-1,Tubarão FC
+2F,29/06/02,Hermann Aichinger,2-1,Chapecoense
+2F,29/06/02,Joinville,2-0,Avaí
+F,03/07/02,Avaí,1-3,Figueirense
+F,10/07/02,Figueirense,0-0,Avaí

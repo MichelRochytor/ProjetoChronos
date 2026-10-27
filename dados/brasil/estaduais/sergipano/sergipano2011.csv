@@ -1,0 +1,105 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,06/02/11,América-SE,0-3,Olímpico
+B,06/02/11,Guarany-SE,1-0,Estanciano
+B,06/02/11,São Domingos,1-1,Socorrense
+B,06/02/11,Confiança,2-2,Sergipe
+B,06/02/11,Itabaiana,0-2,River Plate-SE
+B,09/02/11,Olímpico,0-1,São Domingos
+B,09/02/11,Socorrense,1-4,Itabaiana
+B,09/02/11,Sergipe,1-0,América-SE
+B,10/02/11,Estanciano,1-2,Confiança
+B,10/02/11,River Plate-SE,2-2,Guarany-SE
+B,12/02/11,Sergipe,0-3,São Domingos
+B,13/02/11,Estanciano,3-4,América-SE
+B,13/02/11,Olímpico,0-0,Itabaiana
+B,13/02/11,Socorrense,1-1,Guarany-SE
+B,16/02/11,River Plate-SE,2-0,Confiança
+B,19/02/11,Confiança,2-1,Socorrense
+B,20/02/11,América-SE,1-2,River Plate-SE
+B,20/02/11,Guarany-SE,2-0,Olímpico
+B,20/02/11,São Domingos,0-1,Estanciano
+B,20/02/11,Itabaiana,1-0,Sergipe
+B,26/02/11,Socorrense,3-0,América-SE
+B,27/02/11,Estanciano,1-1,Itabaiana
+B,27/02/11,Olímpico,1-1,Confiança
+B,27/02/11,River Plate-SE,2-0,São Domingos
+B,27/02/11,Sergipe,2-0,Guarany-SE
+B,02/03/11,América-SE,4-1,Socorrense
+B,02/03/11,Guarany-SE,1-1,Sergipe
+B,02/03/11,Confiança,4-0,Olímpico
+B,02/03/11,Itabaiana,0-0,Estanciano
+B,05/03/11,Sergipe,1-1,Itabaiana
+B,05/03/11,Estanciano,1-1,São Domingos
+B,05/03/11,Olímpico,4-0,Guarany-SE
+B,05/03/11,River Plate-SE,1-2,América-SE
+B,05/03/11,Socorrense,1-0,Confiança
+B,09/03/11,Confiança,1-1,River Plate-SE
+B,10/03/11,América-SE,1-3,Estanciano
+B,10/03/11,Guarany-SE,3-2,Socorrense
+B,10/03/11,São Domingos,1-0,Sergipe
+B,10/03/11,Itabaiana,0-0,Olímpico
+B,13/03/11,América-SE,0-0,Sergipe
+B,13/03/11,Guarany-SE,1-1,River Plate-SE
+B,13/03/11,São Domingos,2-0,Olímpico
+B,13/03/11,Confiança,0-0,Estanciano
+B,13/03/11,Itabaiana,1-2,Socorrense
+B,16/03/11,São Domingos,3-1,River Plate-SE
+A,20/03/11,Estanciano,0-2,Guarany-SE
+A,20/03/11,Olímpico,1-0,América-SE
+A,20/03/11,River Plate-SE,1-1,Itabaiana
+A,20/03/11,Sergipe,4-4,Confiança
+A,20/03/11,Socorrense,1-0,São Domingos
+SF,23/03/11,Guarany-SE,1-1,River Plate-SE
+SF,23/03/11,Socorrense,1-0,São Domingos
+SF,26/03/11,River Plate-SE,1-0,Guarany-SE
+SF,27/03/11,São Domingos,2-1,Socorrense
+F,30/03/11,River Plate-SE,2-2,São Domingos
+F,03/04/11,São Domingos,1-1(4-5 Pen.),River Plate-SE
+A,06/04/11,Itabaiana,1-1,Guarany-SE
+A,07/04/11,São Domingos,2-0,América-SE
+B,07/04/11,Estanciano,0-0,Olímpico
+B,07/04/11,Sergipe,1-6,River Plate-SE
+A,09/04/11,Confiança,2-2,Itabaiana
+A,10/04/11,Guarany-SE,0-0,São Domingos
+B,10/04/11,Olímpico,0-1,Sergipe
+B,10/04/11,Socorrense,1-1,Estanciano
+A,13/04/11,América-SE,4-0,Guarany-SE
+A,13/04/11,São Domingos,2-2,Confiança
+B,13/04/11,Sergipe,3-0,Socorrense
+B,13/04/11,River Plate-SE,3-1,Olímpico
+B,16/04/11,Socorrense,0-2,River Plate-SE
+B,16/04/11,Estanciano,1-1,Sergipe
+A,17/04/11,Confiança,2-1,América-SE
+A,17/04/11,Itabaiana,0-0,São Domingos
+A,20/04/11,América-SE,0-0,Itabaiana
+A,20/04/11,Guarany-SE,2-2,Confiança
+B,20/04/11,Olímpico,1-0,Socorrense
+B,20/04/11,River Plate-SE,1-1,Estanciano
+B,23/04/11,River Plate-SE,4-0,Sergipe
+A,24/04/11,América-SE,1-1,São Domingos
+A,24/04/11,Guarany-SE,1-0,Itabaiana
+B,24/04/11,Olímpico,3-2,Estanciano
+A,27/04/11,São Domingos,4-1,Guarany-SE
+B,27/04/11,Estanciano,2-1,Socorrense
+B,27/04/11,Sergipe,2-0,Olímpico
+A,27/04/11,Itabaiana,0-0,Confiança
+A,30/04/11,Guarany-SE,1-0,América-SE
+B,30/04/11,Olímpico,2-1,River Plate-SE
+A,30/04/11,Confiança,0-0,São Domingos
+A,04/05/11,América-SE,1-2,Confiança
+A,04/05/11,São Domingos,0-0,Itabaiana
+B,04/05/11,River Plate-SE,0-0,Socorrense
+B,04/05/11,Sergipe,0-0,Estanciano
+B,07/05/11,Socorrense,1-1,Sergipe
+A,11/05/11,Confiança,5-0,Guarany-SE
+A,11/05/11,Itabaiana,6-1,América-SE
+B,11/05/11,Estanciano,0-6,River Plate-SE
+B,11/05/11,Socorrense,3-1,Olímpico
+SF,15/05/11,São Domingos,1-0,River Plate-SE
+SF,15/05/11,Sergipe,3-2,Confiança
+SF,18/05/11,River Plate-SE,1-1,São Domingos
+SF,18/05/11,Confiança,1-2,Sergipe
+F,22/05/11,São Domingos,2-0,Sergipe
+F,28/05/11,Sergipe,1-3,São Domingos
+F,01/06/11,River Plate-SE,3-0,São Domingos
+F,05/06/11,São Domingos,1-1,River Plate-SE

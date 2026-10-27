@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,12/09/81,Bologna,1-1,Cagliari
+1,12/09/81,Fiorentina,1-0,Como 1907
+1,12/09/81,Genoa,0-1,Torino
+1,12/09/81,Internazionale,0-0,Ascoli
+1,12/09/81,Juventus,6-1,AC Cesena
+1,12/09/81,Napoli,1-1,Catanzaro
+1,12/09/81,Roma,0-0,Avellino
+1,12/09/81,Udinese,0-0,AC Milan
+2,19/09/81,Ascoli,3-0,Udinese
+2,19/09/81,Avellino,0-1,Juventus
+2,19/09/81,Cagliari,1-1,Napoli
+2,19/09/81,Catanzaro,0-0,Internazionale
+2,19/09/81,AC Cesena,1-1,Roma
+2,19/09/81,Como 1907,1-1,Genoa
+2,19/09/81,AC Milan,0-0,Fiorentina
+2,19/09/81,Torino,1-0,Bologna
+3,26/09/81,Bologna,0-0,Catanzaro
+3,26/09/81,Fiorentina,0-0,Ascoli
+3,26/09/81,Genoa,0-0,AC Cesena
+3,26/09/81,Internazionale,1-0,Torino
+3,26/09/81,Juventus,3-1,Como 1907
+3,26/09/81,Napoli,0-1,AC Milan
+3,26/09/81,Roma,2-1,Cagliari
+3,26/09/81,Udinese,1-2,Avellino
+4,03/10/81,Ascoli,0-0,Napoli
+4,03/10/81,Avellino,0-0,Genoa
+4,03/10/81,Cagliari,1-1,Internazionale
+4,03/10/81,Catanzaro,0-2,Fiorentina
+4,03/10/81,AC Cesena,2-1,Udinese
+4,03/10/81,Como 1907,2-2,Bologna
+4,03/10/81,AC Milan,0-1,Juventus
+4,03/10/81,Torino,2-2,Roma
+5,10/10/81,Bologna,0-0,AC Milan
+5,10/10/81,Catanzaro,1-0,Ascoli
+5,10/10/81,Fiorentina,1-0,Avellino
+5,10/10/81,Genoa,0-1,Roma
+5,10/10/81,Internazionale,3-2,AC Cesena
+5,10/10/81,Juventus,1-0,Cagliari
+5,10/10/81,Napoli,2-0,Como 1907
+5,10/10/81,Udinese,3-2,Torino
+6,24/10/81,Avellino,0-1,Bologna
+6,24/10/81,Cagliari,1-0,Ascoli
+6,24/10/81,AC Cesena,1-3,Napoli
+6,24/10/81,Como 1907,1-1,Catanzaro
+6,24/10/81,Genoa,2-1,Udinese
+6,24/10/81,AC Milan,0-1,Internazionale
+6,24/10/81,Roma,2-0,Fiorentina
+6,24/10/81,Torino,0-1,Juventus
+7,31/10/81,Ascoli,1-1,Como 1907
+7,31/10/81,Bologna,0-0,AC Cesena
+7,31/10/81,Catanzaro,3-0,AC Milan
+7,31/10/81,Fiorentina,2-1,Torino
+7,31/10/81,Internazionale,0-0,Genoa
+7,31/10/81,Juventus,0-1,Roma
+7,31/10/81,Napoli,0-0,Avellino
+7,31/10/81,Udinese,1-0,Cagliari
+8,07/11/81,Avellino,1-0,Ascoli
+8,07/11/81,Cagliari,2-1,Catanzaro
+8,07/11/81,AC Cesena,2-1,Fiorentina
+8,07/11/81,Genoa,2-1,Juventus
+8,07/11/81,AC Milan,1-1,Como 1907
+8,07/11/81,Roma,3-1,Bologna
+8,07/11/81,Torino,0-0,Napoli
+8,07/11/81,Udinese,1-1,Internazionale
+9,21/11/81,Ascoli,1-0,AC Milan
+9,21/11/81,Catanzaro,0-0,Avellino
+9,21/11/81,AC Cesena,0-0,Torino
+9,21/11/81,Como 1907,2-1,Cagliari
+9,21/11/81,Fiorentina,3-2,Genoa
+9,21/11/81,Internazionale,3-2,Roma
+9,21/11/81,Juventus,2-0,Bologna
+9,21/11/81,Napoli,0-0,Udinese
+10,28/11/81,Avellino,2-0,AC Cesena
+10,28/11/81,Bologna,2-2,Napoli
+10,28/11/81,Cagliari,1-0,Torino
+10,28/11/81,Genoa,0-0,Ascoli
+10,28/11/81,Internazionale,4-0,Como 1907
+10,28/11/81,Juventus,0-0,Fiorentina
+10,28/11/81,Roma,1-1,AC Milan
+10,28/11/81,Udinese,2-1,Catanzaro
+11,12/12/81,Ascoli,1-0,Juventus
+11,12/12/81,Bologna,0-2,Fiorentina
+11,12/12/81,Cagliari,1-1,AC Cesena
+11,12/12/81,Catanzaro,1-1,Roma
+11,12/12/81,Como 1907,0-2,Udinese
+11,12/12/81,AC Milan,0-0,Genoa
+11,12/12/81,Napoli,2-0,Internazionale
+11,12/12/81,Torino,1-1,Avellino
+12,19/12/81,Avellino,2-0,AC Milan
+12,19/12/81,AC Cesena,1-1,Ascoli
+12,19/12/81,Fiorentina,2-1,Napoli
+12,19/12/81,Genoa,1-1,Cagliari
+12,19/12/81,Internazionale,0-0,Juventus
+12,19/12/81,Roma,2-0,Como 1907
+12,19/12/81,Torino,1-2,Catanzaro
+12,19/12/81,Udinese,2-2,Bologna
+13,02/01/82,Ascoli,0-0,Torino
+13,02/01/82,Bologna,1-1,Genoa
+13,02/01/82,Catanzaro,3-0,AC Cesena
+13,02/01/82,Como 1907,0-1,Avellino
+13,02/01/82,Fiorentina,4-2,Internazionale
+13,02/01/82,Juventus,1-0,Udinese
+13,02/01/82,AC Milan,1-0,Cagliari
+13,02/01/82,Napoli,1-0,Roma
+14,09/01/82,Ascoli,0-1,Roma
+14,09/01/82,Cagliari,0-0,Avellino
+14,09/01/82,Catanzaro,1-0,Genoa
+14,09/01/82,AC Cesena,1-1,Como 1907
+14,09/01/82,Internazionale,2-1,Bologna
+14,09/01/82,Napoli,0-0,Juventus
+14,09/01/82,Torino,2-1,AC Milan
+14,09/01/82,Udinese,1-2,Fiorentina
+15,16/01/82,Avellino,0-1,Internazionale
+15,16/01/82,Bologna,2-1,Ascoli
+15,16/01/82,Como 1907,0-1,Torino
+15,16/01/82,Fiorentina,1-1,Cagliari
+15,16/01/82,Genoa,2-0,Napoli
+15,16/01/82,Juventus,4-1,Catanzaro
+15,16/01/82,AC Milan,1-0,AC Cesena
+15,16/01/82,Roma,1-1,Udinese
+16,23/01/82,Ascoli,2-2,Internazionale
+16,23/01/82,Avellino,1-0,Roma
+16,23/01/82,Cagliari,2-2,Bologna
+16,23/01/82,Catanzaro,0-1,Napoli
+16,23/01/82,AC Cesena,1-1,Juventus
+16,23/01/82,Como 1907,1-1,Fiorentina
+16,23/01/82,AC Milan,0-1,Udinese
+16,23/01/82,Torino,2-0,Genoa
+17,30/01/82,Bologna,0-0,Torino
+17,30/01/82,Fiorentina,1-0,AC Milan
+17,30/01/82,Genoa,1-0,Como 1907
+17,30/01/82,Internazionale,1-1,Catanzaro
+17,30/01/82,Juventus,4-0,Avellino
+17,30/01/82,Napoli,1-0,Cagliari
+17,30/01/82,Roma,0-1,AC Cesena
+17,30/01/82,Udinese,0-2,Ascoli
+18,06/02/82,Ascoli,0-0,Fiorentina
+18,06/02/82,Avellino,0-1,Udinese
+18,06/02/82,Cagliari,2-4,Roma
+18,06/02/82,Catanzaro,1-0,Bologna
+18,06/02/82,AC Cesena,1-1,Genoa
+18,06/02/82,Como 1907,0-2,Juventus
+18,06/02/82,AC Milan,1-1,Napoli
+18,06/02/82,Torino,0-1,Internazionale
+19,13/02/82,Bologna,1-0,Como 1907
+19,13/02/82,Fiorentina,1-0,Catanzaro
+19,13/02/82,Genoa,0-2,Avellino
+19,13/02/82,Internazionale,1-3,Cagliari
+19,13/02/82,Juventus,3-2,AC Milan
+19,13/02/82,Napoli,0-0,Ascoli
+19,13/02/82,Roma,3-0,Torino
+19,13/02/82,Udinese,0-1,AC Cesena
+20,27/02/82,Ascoli,2-1,Catanzaro
+20,27/02/82,Avellino,1-2,Fiorentina
+20,27/02/82,Cagliari,0-1,Juventus
+20,27/02/82,AC Cesena,1-3,Internazionale
+20,27/02/82,Como 1907,0-4,Napoli
+20,27/02/82,AC Milan,2-1,Bologna
+20,27/02/82,Roma,1-0,Genoa
+20,27/02/82,Torino,1-0,Udinese
+21,06/03/82,Ascoli,2-1,Cagliari
+21,06/03/82,Bologna,1-0,Avellino
+21,06/03/82,Catanzaro,0-0,Como 1907
+21,06/03/82,Fiorentina,1-0,Roma
+21,06/03/82,Internazionale,2-1,AC Milan
+21,06/03/82,Juventus,4-2,Torino
+21,06/03/82,Napoli,2-2,AC Cesena
+21,06/03/82,Udinese,3-2,Genoa
+22,13/03/82,Avellino,3-0,Napoli
+22,13/03/82,Cagliari,1-1,Udinese
+22,13/03/82,AC Cesena,4-1,Bologna
+22,13/03/82,Como 1907,1-2,Ascoli
+22,13/03/82,Genoa,1-1,Internazionale
+22,13/03/82,AC Milan,0-1,Catanzaro
+22,13/03/82,Roma,0-3,Juventus
+22,13/03/82,Torino,2-2,Fiorentina
+23,20/03/82,Ascoli,1-1,Avellino
+23,20/03/82,Bologna,2-0,Roma
+23,20/03/82,Catanzaro,1-0,Cagliari
+23,20/03/82,Como 1907,2-0,AC Milan
+23,20/03/82,Fiorentina,1-0,AC Cesena
+23,20/03/82,Internazionale,1-1,Udinese
+23,20/03/82,Juventus,1-0,Genoa
+23,20/03/82,Napoli,2-0,Torino
+24,27/03/82,Avellino,1-0,Catanzaro
+24,27/03/82,Bologna,0-0,Juventus
+24,27/03/82,Cagliari,2-0,Como 1907
+24,27/03/82,Genoa,0-0,Fiorentina
+24,27/03/82,AC Milan,0-0,Ascoli
+24,27/03/82,Roma,3-2,Internazionale
+24,27/03/82,Torino,0-0,AC Cesena
+24,27/03/82,Udinese,0-1,Napoli
+25,03/04/82,Ascoli,1-1,Genoa
+25,03/04/82,Catanzaro,0-0,Udinese
+25,03/04/82,AC Cesena,2-0,Avellino
+25,03/04/82,Como 1907,1-1,Internazionale
+25,03/04/82,Fiorentina,0-0,Juventus
+25,03/04/82,AC Milan,1-2,Roma
+25,03/04/82,Napoli,2-0,Bologna
+25,03/04/82,Torino,4-2,Cagliari
+26,10/04/82,Avellino,0-0,Torino
+26,10/04/82,AC Cesena,2-1,Cagliari
+26,10/04/82,Fiorentina,1-0,Bologna
+26,10/04/82,Genoa,1-2,AC Milan
+26,10/04/82,Internazionale,1-1,Napoli
+26,10/04/82,Juventus,1-1,Ascoli
+26,10/04/82,Roma,2-2,Catanzaro
+26,10/04/82,Udinese,1-0,Como 1907
+27,24/04/82,Ascoli,1-0,AC Cesena
+27,24/04/82,Bologna,0-2,Udinese
+27,24/04/82,Cagliari,2-1,Genoa
+27,24/04/82,Catanzaro,1-0,Torino
+27,24/04/82,Como 1907,0-1,Roma
+27,24/04/82,Juventus,1-0,Internazionale
+27,24/04/82,AC Milan,2-1,Avellino
+27,24/04/82,Napoli,0-1,Fiorentina
+28,01/05/82,Avellino,1-1,Como 1907
+28,01/05/82,Cagliari,1-1,AC Milan
+28,01/05/82,AC Cesena,4-1,Catanzaro
+28,01/05/82,Genoa,1-0,Bologna
+28,01/05/82,Internazionale,1-1,Fiorentina
+28,01/05/82,Roma,1-1,Napoli
+28,01/05/82,Torino,2-1,Ascoli
+28,01/05/82,Udinese,1-5,Juventus
+29,08/05/82,Avellino,1-4,Cagliari
+29,08/05/82,Bologna,3-1,Internazionale
+29,08/05/82,Como 1907,2-1,AC Cesena
+29,08/05/82,Fiorentina,3-0,Udinese
+29,08/05/82,Genoa,2-0,Catanzaro
+29,08/05/82,Juventus,0-0,Napoli
+29,08/05/82,AC Milan,0-0,Torino
+29,08/05/82,Roma,2-1,Ascoli
+30,15/05/82,Ascoli,2-1,Bologna
+30,15/05/82,Cagliari,0-0,Fiorentina
+30,15/05/82,Catanzaro,0-1,Juventus
+30,15/05/82,AC Cesena,2-3,AC Milan
+30,15/05/82,Internazionale,2-1,Avellino
+30,15/05/82,Napoli,2-2,Genoa
+30,15/05/82,Torino,0-0,Como 1907
+30,15/05/82,Udinese,0-1,Roma

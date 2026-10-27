@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,27/08/61,Bologna,1-0,Palermo
+1,27/08/61,SS Catania,0-0,SPAL
+1,27/08/61,Internazionale,6-0,Atalanta
+1,27/08/61,Juventus,1-1,AC Mantova
+1,27/08/61,Lanerossi Vicenza,0-3,AC Milan
+1,27/08/61,Lecco,0-0,Padova
+1,27/08/61,Sampdoria,2-0,Torino
+1,27/08/61,Udinese,1-3,Roma
+1,27/08/61,Venezia,0-1,Fiorentina
+2,03/09/61,Atalanta,3-1,Venezia
+2,03/09/61,Fiorentina,0-0,Sampdoria
+2,03/09/61,Lecco,2-2,Bologna
+2,03/09/61,AC Mantova,2-0,Udinese
+2,03/09/61,AC Milan,3-0,SS Catania
+2,03/09/61,Padova,2-1,Juventus
+2,03/09/61,Palermo,1-3,SPAL
+2,03/09/61,Roma,2-3,Internazionale
+2,03/09/61,Torino,3-3,Lanerossi Vicenza
+3,10/09/61,Bologna,0-3,Fiorentina
+3,10/09/61,Internazionale,0-0,Torino
+3,10/09/61,Juventus,2-2,Lecco
+3,10/09/61,Lanerossi Vicenza,3-0,SS Catania
+3,10/09/61,Palermo,0-0,AC Milan
+3,10/09/61,Sampdoria,1-0,Roma
+3,10/09/61,SPAL,0-1,Atalanta
+3,10/09/61,Udinese,1-0,Padova
+3,10/09/61,Venezia,4-3,AC Mantova
+4,13/09/61,Atalanta,3-1,Juventus
+4,13/09/61,SS Catania,2-0,Sampdoria
+4,13/09/61,Fiorentina,0-1,Lanerossi Vicenza
+4,13/09/61,AC Mantova,1-1,Internazionale
+4,13/09/61,AC Milan,4-3,Udinese
+4,13/09/61,Padova,1-2,Bologna
+4,13/09/61,Roma,5-2,Palermo
+4,13/09/61,SPAL,0-0,Lecco
+4,13/09/61,Torino,4-2,Venezia
+5,17/09/61,Bologna,1-0,AC Milan
+5,17/09/61,SS Catania,0-0,Palermo
+5,17/09/61,Internazionale,4-1,Fiorentina
+5,17/09/61,Juventus,1-0,Roma
+5,17/09/61,Lanerossi Vicenza,1-0,Padova
+5,17/09/61,Lecco,1-1,Torino
+5,17/09/61,Sampdoria,1-0,AC Mantova
+5,17/09/61,Udinese,1-2,Atalanta
+5,17/09/61,Venezia,2-2,SPAL
+6,24/09/61,Atalanta,0-1,Lanerossi Vicenza
+6,24/09/61,Fiorentina,5-2,Udinese
+6,24/09/61,AC Mantova,3-0,Lecco
+6,24/09/61,AC Milan,2-3,Sampdoria
+6,24/09/61,Padova,0-2,Internazionale
+6,24/09/61,Palermo,1-0,Venezia
+6,24/09/61,Roma,4-0,SS Catania
+6,24/09/61,SPAL,0-3,Juventus
+6,24/09/61,Torino,2-1,Bologna
+7,01/10/61,SS Catania,3-1,Fiorentina
+7,01/10/61,Internazionale,1-3,AC Milan
+7,01/10/61,Juventus,0-1,Torino
+7,01/10/61,Lanerossi Vicenza,0-1,Roma
+7,01/10/61,Lecco,0-1,Atalanta
+7,01/10/61,AC Mantova,1-0,Padova
+7,01/10/61,Sampdoria,0-2,Palermo
+7,01/10/61,SPAL,1-2,Bologna
+7,01/10/61,Venezia,2-1,Udinese
+8,04/10/61,Bologna,0-0,Atalanta
+8,04/10/61,Internazionale,2-1,SPAL
+8,04/10/61,Juventus,1-0,SS Catania
+8,04/10/61,Lanerossi Vicenza,1-2,AC Mantova
+8,04/10/61,Lecco,0-1,Roma
+8,04/10/61,Palermo,0-1,Fiorentina
+8,04/10/61,Sampdoria,1-0,Padova
+8,04/10/61,Udinese,1-3,Torino
+8,04/10/61,Venezia,2-1,AC Milan
+9,08/10/61,Atalanta,2-0,Sampdoria
+9,08/10/61,Bologna,2-0,Lanerossi Vicenza
+9,08/10/61,Fiorentina,5-1,SPAL
+9,08/10/61,AC Milan,3-0,Lecco
+9,08/10/61,Padova,3-1,SS Catania
+9,08/10/61,Palermo,0-0,Juventus
+9,08/10/61,Roma,1-0,Venezia
+9,08/10/61,Torino,2-1,AC Mantova
+9,08/10/61,Udinese,0-1,Internazionale
+10,22/10/61,Atalanta,2-0,Torino
+10,22/10/61,SS Catania,1-1,Bologna
+10,22/10/61,Juventus,2-4,Internazionale
+10,22/10/61,Lecco,4-1,Venezia
+10,22/10/61,AC Mantova,0-0,Fiorentina
+10,22/10/61,AC Milan,3-1,Roma
+10,22/10/61,Padova,0-0,Palermo
+10,22/10/61,Sampdoria,2-2,Udinese
+10,22/10/61,SPAL,1-0,Lanerossi Vicenza
+11,29/10/61,Bologna,2-2,Juventus
+11,29/10/61,SS Catania,2-1,Atalanta
+11,29/10/61,Fiorentina,5-2,AC Milan
+11,29/10/61,Internazionale,1-0,Palermo
+11,29/10/61,Lanerossi Vicenza,0-0,Lecco
+11,29/10/61,Roma,4-2,AC Mantova
+11,29/10/61,Torino,1-0,Padova
+11,29/10/61,Udinese,1-2,SPAL
+11,29/10/61,Venezia,1-1,Sampdoria
+12,12/11/61,Fiorentina,1-1,Roma
+12,12/11/61,Lanerossi Vicenza,1-1,Venezia
+12,12/11/61,Lecco,2-1,Udinese
+12,12/11/61,AC Mantova,2-5,Bologna
+12,12/11/61,AC Milan,5-1,Juventus
+12,12/11/61,Palermo,1-0,Atalanta
+12,12/11/61,Sampdoria,0-0,Internazionale
+12,12/11/61,SPAL,2-1,Padova
+12,12/11/61,Torino,1-1,SS Catania
+13,19/11/61,Atalanta,0-2,AC Mantova
+13,19/11/61,Bologna,1-1,Venezia
+13,19/11/61,Internazionale,2-1,Lanerossi Vicenza
+13,19/11/61,Juventus,0-0,Fiorentina
+13,19/11/61,Padova,1-1,AC Milan
+13,19/11/61,Palermo,1-0,Lecco
+13,19/11/61,Roma,2-2,Torino
+13,19/11/61,SPAL,1-1,Sampdoria
+13,19/11/61,Udinese,0-1,SS Catania
+14,19/11/61,Bologna,3-1,Roma
+14,19/11/61,SS Catania,1-0,Lecco
+14,19/11/61,Lanerossi Vicenza,2-2,Udinese
+14,19/11/61,AC Mantova,2-0,Palermo
+14,19/11/61,AC Milan,2-2,Atalanta
+14,19/11/61,Padova,1-2,Fiorentina
+14,19/11/61,Sampdoria,2-3,Juventus
+14,19/11/61,Torino,1-0,SPAL
+14,19/11/61,Venezia,1-1,Internazionale
+15,03/12/61,SS Catania,1-1,Venezia
+15,03/12/61,Fiorentina,2-0,Torino
+15,03/12/61,Internazionale,6-4,Bologna
+15,03/12/61,Juventus,2-0,Lanerossi Vicenza
+15,03/12/61,Lecco,1-1,Sampdoria
+15,03/12/61,AC Mantova,1-2,AC Milan
+15,03/12/61,Padova,1-1,Atalanta
+15,03/12/61,Roma,4-1,SPAL
+15,03/12/61,Udinese,0-1,Palermo
+16,10/12/61,Atalanta,0-0,Roma
+16,10/12/61,Fiorentina,2-0,Lecco
+16,10/12/61,Internazionale,1-1,SS Catania
+16,10/12/61,Palermo,1-0,Lanerossi Vicenza
+16,10/12/61,Sampdoria,0-2,Bologna
+16,10/12/61,SPAL,2-1,AC Mantova
+16,10/12/61,Torino,1-1,AC Milan
+16,10/12/61,Udinese,2-1,Juventus
+16,10/12/61,Venezia,0-0,Padova
+17,17/12/61,Atalanta,0-0,Fiorentina
+17,17/12/61,Bologna,2-1,Udinese
+17,17/12/61,Juventus,1-0,Venezia
+17,17/12/61,Lanerossi Vicenza,1-1,Sampdoria
+17,17/12/61,Lecco,0-1,Internazionale
+17,17/12/61,AC Mantova,1-1,SS Catania
+17,17/12/61,AC Milan,4-1,SPAL
+17,17/12/61,Palermo,1-0,Torino
+17,17/12/61,Roma,3-1,Padova
+18,24/12/61,Atalanta,2-3,Internazionale
+18,24/12/61,Fiorentina,2-0,Venezia
+18,24/12/61,AC Mantova,0-1,Juventus
+18,24/12/61,AC Milan,4-1,Lanerossi Vicenza
+18,24/12/61,Padova,3-1,Lecco
+18,24/12/61,Palermo,1-0,Bologna
+18,24/12/61,Roma,4-0,Udinese
+18,24/12/61,SPAL,1-0,SS Catania
+18,24/12/61,Torino,0-0,Sampdoria
+19,31/12/61,Bologna,1-0,Lecco
+19,31/12/61,SS Catania,1-3,AC Milan
+19,31/12/61,Internazionale,0-1,Roma
+19,31/12/61,Juventus,4-0,Padova
+19,31/12/61,Lanerossi Vicenza,1-1,Torino
+19,31/12/61,Sampdoria,1-3,Fiorentina
+19,31/12/61,SPAL,0-2,Palermo
+19,31/12/61,Udinese,0-1,AC Mantova
+19,31/12/61,Venezia,0-1,Atalanta
+20,07/01/62,Atalanta,1-1,SPAL
+20,07/01/62,SS Catania,2-0,Lanerossi Vicenza
+20,07/01/62,Fiorentina,1-0,Bologna
+20,07/01/62,Lecco,2-2,Juventus
+20,07/01/62,AC Mantova,1-0,Venezia
+20,07/01/62,AC Milan,3-0,Palermo
+20,07/01/62,Padova,4-0,Udinese
+20,07/01/62,Roma,1-0,Sampdoria
+20,07/01/62,Torino,0-0,Internazionale
+21,14/01/62,Bologna,4-1,Padova
+21,14/01/62,Internazionale,2-0,AC Mantova
+21,14/01/62,Juventus,1-1,Atalanta
+21,14/01/62,Lanerossi Vicenza,1-1,Fiorentina
+21,14/01/62,Lecco,0-0,SPAL
+21,14/01/62,Palermo,0-0,Roma
+21,14/01/62,Sampdoria,4-1,SS Catania
+21,14/01/62,Udinese,0-1,AC Milan
+21,14/01/62,Venezia,0-1,Torino
+22,22/01/62,Atalanta,2-1,Udinese
+22,22/01/62,Fiorentina,4-1,Internazionale
+22,22/01/62,AC Mantova,2-0,Sampdoria
+22,22/01/62,AC Milan,3-0,Bologna
+22,22/01/62,Padova,2-0,Lanerossi Vicenza
+22,22/01/62,Palermo,0-0,SS Catania
+22,22/01/62,Roma,3-3,Juventus
+22,22/01/62,SPAL,1-1,Venezia
+22,22/01/62,Torino,2-1,Lecco
+23,29/01/62,Bologna,2-1,Torino
+23,29/01/62,SS Catania,1-1,Roma
+23,29/01/62,Internazionale,2-1,Padova
+23,29/01/62,Juventus,2-1,SPAL
+23,29/01/62,Lanerossi Vicenza,0-1,Atalanta
+23,29/01/62,Lecco,1-0,AC Mantova
+23,29/01/62,Sampdoria,1-3,AC Milan
+23,29/01/62,Udinese,2-3,Fiorentina
+23,29/01/62,Venezia,1-0,Palermo
+24,04/02/62,Atalanta,1-1,Lecco
+24,04/02/62,Bologna,2-0,SPAL
+24,04/02/62,Fiorentina,0-0,SS Catania
+24,04/02/62,AC Milan,0-2,Internazionale
+24,04/02/62,Padova,1-1,AC Mantova
+24,04/02/62,Palermo,3-1,Sampdoria
+24,04/02/62,Roma,1-1,Lanerossi Vicenza
+24,04/02/62,Torino,1-3,Juventus
+24,04/02/62,Udinese,0-0,Venezia
+25,11/02/62,Atalanta,2-1,Bologna
+25,11/02/62,SS Catania,2-0,Juventus
+25,11/02/62,Fiorentina,2-0,Palermo
+25,11/02/62,AC Mantova,1-1,Lanerossi Vicenza
+25,11/02/62,AC Milan,1-0,Venezia
+25,11/02/62,Padova,1-0,Sampdoria
+25,11/02/62,Roma,2-0,Lecco
+25,11/02/62,SPAL,1-0,Internazionale
+25,11/02/62,Torino,1-2,Udinese
+26,18/02/62,SS Catania,0-0,Padova
+26,18/02/62,Internazionale,2-0,Udinese
+26,18/02/62,Juventus,2-4,Palermo
+26,18/02/62,Lanerossi Vicenza,0-1,Bologna
+26,18/02/62,Lecco,2-2,AC Milan
+26,18/02/62,AC Mantova,2-2,Torino
+26,18/02/62,Sampdoria,1-1,Atalanta
+26,18/02/62,SPAL,1-1,Fiorentina
+26,18/02/62,Venezia,1-3,Roma
+27,25/02/62,Bologna,3-1,SS Catania
+27,25/02/62,Fiorentina,1-0,AC Mantova
+27,25/02/62,Internazionale,2-2,Juventus
+27,25/02/62,Lanerossi Vicenza,1-0,SPAL
+27,25/02/62,Palermo,1-0,Padova
+27,25/02/62,Roma,0-1,AC Milan
+27,25/02/62,Torino,1-1,Atalanta
+27,25/02/62,Udinese,0-0,Sampdoria
+27,25/02/62,Venezia,2-0,Lecco
+28,04/03/62,Atalanta,3-0,SS Catania
+28,04/03/62,Juventus,2-3,Bologna
+28,04/03/62,Lecco,0-3,Lanerossi Vicenza
+28,04/03/62,AC Mantova,2-1,Roma
+28,04/03/62,AC Milan,5-2,Fiorentina
+28,04/03/62,Padova,0-3,Torino
+28,04/03/62,Palermo,1-0,Internazionale
+28,04/03/62,Sampdoria,0-2,Venezia
+28,04/03/62,SPAL,2-1,Udinese
+29,11/03/62,Atalanta,2-2,Palermo
+29,11/03/62,Bologna,3-0,AC Mantova
+29,11/03/62,SS Catania,0-1,Torino
+29,11/03/62,Internazionale,1-1,Sampdoria
+29,11/03/62,Juventus,2-4,AC Milan
+29,11/03/62,Padova,3-2,SPAL
+29,11/03/62,Roma,1-0,Fiorentina
+29,11/03/62,Udinese,5-1,Lecco
+29,11/03/62,Venezia,2-0,Lanerossi Vicenza
+30,18/03/62,SS Catania,2-0,Udinese
+30,18/03/62,Fiorentina,1-0,Juventus
+30,18/03/62,Lanerossi Vicenza,1-1,Internazionale
+30,18/03/62,Lecco,2-1,Palermo
+30,18/03/62,AC Mantova,3-1,Atalanta
+30,18/03/62,AC Milan,4-0,Padova
+30,18/03/62,Sampdoria,0-0,SPAL
+30,18/03/62,Torino,1-1,Roma
+30,18/03/62,Venezia,1-1,Bologna
+31,25/03/62,Atalanta,DA,AC Milan
+31,25/03/62,Fiorentina,3-1,Padova
+31,25/03/62,Internazionale,0-0,Venezia
+31,25/03/62,Juventus,0-1,Sampdoria
+31,25/03/62,Lecco,3-1,SS Catania
+31,25/03/62,Palermo,1-1,AC Mantova
+31,25/03/62,Roma,1-2,Bologna
+31,25/03/62,SPAL,1-0,Torino
+31,25/03/62,Udinese,0-1,Lanerossi Vicenza
+32,01/04/62,Atalanta,0-0,Padova
+32,01/04/62,Bologna,0-2,Internazionale
+32,01/04/62,Lanerossi Vicenza,1-0,Juventus
+32,01/04/62,AC Milan,1-0,AC Mantova
+32,01/04/62,Palermo,1-3,Udinese
+32,01/04/62,Sampdoria,2-1,Lecco
+32,01/04/62,SPAL,1-2,Roma
+32,01/04/62,Torino,0-2,Fiorentina
+32,01/04/62,Venezia,2-2,SS Catania
+33,08/04/62,Bologna,2-1,Sampdoria
+33,08/04/62,SS Catania,0-2,Internazionale
+33,08/04/62,Juventus,2-3,Udinese
+33,08/04/62,Lanerossi Vicenza,2-2,Palermo
+33,08/04/62,Lecco,3-2,Fiorentina
+33,08/04/62,AC Mantova,2-0,SPAL
+33,08/04/62,AC Milan,4-2,Torino
+33,08/04/62,Padova,1-1,Venezia
+33,08/04/62,Roma,3-1,Atalanta
+34,15/04/62,SS Catania,2-1,AC Mantova
+34,15/04/62,Fiorentina,0-1,Atalanta
+34,15/04/62,Internazionale,3-0,Lecco

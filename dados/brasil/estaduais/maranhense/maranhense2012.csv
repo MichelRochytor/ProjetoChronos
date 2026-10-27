@@ -1,0 +1,105 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,21/01/12,Imperatriz,1-1,Viana
+1T,22/01/12,Cordino,4-2,São José-MA
+1T,22/01/12,Sabiá,0-1,Maranhão
+1T,22/01/12,Sampaio Corrêa,1-0,Luminense
+1T,23/01/12,Moto Club,2-1,Bacabal
+1T,26/01/12,Maranhão,1-1,Cordino
+1T,29/01/12,Luminense,1-0,Viana
+1T,29/01/12,Sabiá,0-1,Sampaio Corrêa
+1T,29/01/12,São José-MA,2-1,Bacabal
+1T,29/01/12,Moto Club,0-0,Imperatriz
+1T,02/02/12,Viana,0-0,São José-MA
+1T,02/02/12,Luminense,0-0,Cordino
+1T,02/02/12,Sabiá,3-0,Moto Club
+1T,02/02/12,Bacabal,4-3,Sampaio Corrêa
+1T,02/02/12,Imperatriz,2-3,Maranhão
+1T,05/02/12,Maranhão,2-1,Luminense
+1T,05/02/12,Cordino,1-3,Viana
+1T,05/02/12,Sabiá,0-1,Bacabal
+1T,05/02/12,Sampaio Corrêa,3-0,Imperatriz
+1T,12/02/12,Viana,1-1,Sabiá
+1T,12/02/12,Luminense,6-0,Imperatriz
+1T,12/02/12,Cordino,1-1,Moto Club
+1T,12/02/12,Bacabal,0-1,Maranhão
+1T,12/02/12,Sampaio Corrêa,1-0,São José-MA
+1T,16/02/12,São José-MA,0-1,Moto Club
+1T,16/02/12,Imperatriz,1-0,Sabiá
+1T,16/02/12,Bacabal,1-5,Viana
+1T,16/02/12,Sampaio Corrêa,4-0,Cordino
+1T,23/02/12,São José-MA,3-1,Maranhão
+1T,23/02/12,Moto Club,0-1,Luminense
+1T,26/02/12,Viana,0-0,Sampaio Corrêa
+1T,26/02/12,Cordino,2-2,Sabiá
+1T,26/02/12,São José-MA,2-2,Luminense
+1T,26/02/12,Maranhão,4-3,Moto Club
+1T,26/02/12,Imperatriz,3-3,Bacabal
+1T,01/03/12,Moto Club,3-3,Viana
+1T,04/03/12,Luminense,1-0,Sabiá
+1T,04/03/12,São José-MA,4-1,Imperatriz
+1T,04/03/12,Bacabal,3-2,Cordino
+1T,04/03/12,Maranhão,0-3,Sampaio Corrêa
+1T,08/03/12,Viana,2-0,Maranhão
+1T,08/03/12,Sabiá,1-1,São José-MA
+1T,08/03/12,Bacabal,0-0,Luminense
+1T,08/03/12,Imperatriz,3-1,Cordino
+1T,10/03/12,Sampaio Corrêa,2-3,Moto Club
+SF,11/03/12,Luminense,0-0,Maranhão
+SF,18/03/12,Viana,1-0,Sampaio Corrêa
+SF,18/03/12,Maranhão,1-1,Luminense
+SF,22/03/12,Sampaio Corrêa,1-3,Viana
+F,25/03/12,Maranhão,2-1,Viana
+F,29/03/12,Viana,1-1,Maranhão
+2T,01/04/12,Luminense,1-1,Sampaio Corrêa
+2T,01/04/12,São José-MA,2-2,Cordino
+2T,01/04/12,Viana,2-0,Imperatriz
+2T,01/04/12,Maranhão,2-1,Sabiá
+2T,02/04/12,Bacabal,1-1,Moto Club
+2T,05/04/12,Cordino,3-2,Maranhão
+2T,05/04/12,Viana,2-2,Luminense
+2T,05/04/12,Bacabal,2-3,São José-MA
+2T,05/04/12,Imperatriz,1-1,Moto Club
+2T,05/04/12,Sampaio Corrêa,5-1,Sabiá
+2T,08/04/12,Cordino,1-0,Luminense
+2T,08/04/12,Moto Club,4-2,Sabiá
+2T,09/04/12,Sampaio Corrêa,5-1,Bacabal
+2T,12/04/12,São José-MA,2-1,Viana
+2T,12/04/12,Maranhão,1-2,Imperatriz
+2T,15/04/12,Luminense,3-0,Maranhão
+2T,15/04/12,Viana,0-0,Cordino
+2T,15/04/12,Moto Club,1-1,São José-MA
+2T,16/04/12,Bacabal,1-1,Sabiá
+2T,16/04/12,Imperatriz,1-2,Sampaio Corrêa
+2T,19/04/12,Maranhão,2-1,Bacabal
+2T,22/04/12,Sabiá,2-1,Viana
+2T,22/04/12,São José-MA,2-2,Sampaio Corrêa
+2T,22/04/12,Imperatriz,3-1,Luminense
+2T,23/04/12,Moto Club,4-2,Cordino
+2T,26/04/12,Luminense,3-2,Moto Club
+2T,26/04/12,Cordino,1-2,Sampaio Corrêa
+2T,26/04/12,Viana,0-1,Bacabal
+2T,26/04/12,Sabiá,2-1,Imperatriz
+2T,26/04/12,Maranhão,3-0,São José-MA
+2T,29/04/12,Luminense,1-1,São José-MA
+2T,29/04/12,Sabiá,0-0,Cordino
+2T,29/04/12,Sampaio Corrêa,2-2,Viana
+2T,30/04/12,Bacabal,2-0,Imperatriz
+2T,30/04/12,Moto Club,1-1,Maranhão
+2T,03/05/12,Viana,1-0,Moto Club
+2T,03/05/12,Sabiá,2-0,Luminense
+2T,03/05/12,Cordino,3-0,Bacabal
+2T,03/05/12,Imperatriz,1-1,São José-MA
+2T,03/05/12,Sampaio Corrêa,2-1,Maranhão
+2T,06/05/12,Luminense,4-0,Bacabal
+2T,06/05/12,São José-MA,2-1,Sabiá
+2T,06/05/12,Cordino,0-0,Imperatriz
+2T,06/05/12,Maranhão,0-4,Viana
+2T,07/05/12,Moto Club,2-3,Sampaio Corrêa
+SF,10/05/12,Viana,0-0,Sampaio Corrêa
+SF,10/05/12,Cordino,3-3,São José-MA
+SF,14/05/12,São José-MA,0-1,Cordino
+SF,14/05/12,Sampaio Corrêa,2-0,Viana
+F,17/05/12,Cordino,1-4,Sampaio Corrêa
+F,21/05/12,Sampaio Corrêa,1-0,Cordino
+F,31/05/12,Maranhão,0-3,Sampaio Corrêa
+F,07/06/12,Sampaio Corrêa,2-1,Maranhão

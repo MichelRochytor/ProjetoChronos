@@ -1,0 +1,143 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,09/01/10,Horizonte,0-1,Ceará
+1F,10/01/10,Fortaleza,2-3,Limoeiro
+1F,10/01/10,Ferroviário,0-0,Itapipoca
+1F,10/01/10,Quixadá,0-1,Boa Viagem
+1F,10/01/10,Guarany de Sobral,2-1,Maranguape
+1F,10/01/10,Guarani de Juazeiro,1-0,Crato
+1F,13/01/10,Itapipoca,2-1,Ceará
+1F,13/01/10,Guarani de Juazeiro,2-4,Quixadá
+1F,13/01/10,Guarany de Sobral,1-1,Fortaleza
+1F,13/01/10,Horizonte,1-1,Ferroviário
+1F,13/01/10,Maranguape,3-1,Limoeiro
+1F,17/01/10,Boa Viagem,1-2,Ferroviário
+1F,17/01/10,Ceará,4-1,Guarani de Juazeiro
+1F,17/01/10,Limoeiro,1-1,Guarany de Sobral
+1F,17/01/10,Itapipoca,3-5,Horizonte
+1F,17/01/10,Maranguape,0-1,Quixadá
+1F,17/01/10,Crato,4-0,Fortaleza
+1F,19/01/10,Crato,1-0,Itapipoca
+1F,19/01/10,Limoeiro,2-2,Boa Viagem
+1F,20/01/10,Ferroviário,0-1,Guarani de Juazeiro
+1F,20/01/10,Fortaleza,4-1,Quixadá
+1F,20/01/10,Guarany de Sobral,1-1,Horizonte
+1F,20/01/10,Maranguape,1-0,Ceará
+1F,21/01/10,Boa Viagem,0-3,Crato
+1F,23/01/10,Horizonte,3-0,Crato
+1F,24/01/10,Ferroviário,1-0,Ceará
+1F,24/01/10,Fortaleza,2-1,Maranguape
+1F,24/01/10,Guarani de Juazeiro,0-0,Limoeiro
+1F,24/01/10,Guarany de Sobral,1-1,Boa Viagem
+1F,24/01/10,Quixadá,3-3,Itapipoca
+1F,27/01/10,Itapipoca,3-2,Maranguape
+1F,27/01/10,Ferroviário,4-0,Quixadá
+1F,27/01/10,Fortaleza,2-0,Horizonte
+1F,27/01/10,Guarani de Juazeiro,2-3,Guarany de Sobral
+1F,27/01/10,Limoeiro,0-1,Crato
+1F,27/01/10,Boa Viagem,3-2,Ceará
+1F,31/01/10,Ceará,0-0,Fortaleza
+1F,31/01/10,Crato,0-1,Guarany de Sobral
+1F,31/01/10,Horizonte,2-1,Boa Viagem
+1F,31/01/10,Limoeiro,3-4,Quixadá
+1F,31/01/10,Maranguape,0-1,Ferroviário
+1F,01/02/10,Itapipoca,0-1,Guarani de Juazeiro
+1F,03/02/10,Guarany de Sobral,1-1,Ferroviário
+1F,03/02/10,Crato,2-3,Maranguape
+1F,03/02/10,Quixadá,3-2,Horizonte
+1F,03/02/10,Guarani de Juazeiro,2-1,Fortaleza
+1F,03/02/10,Boa Viagem,1-2,Itapipoca
+1F,04/02/10,Limoeiro,3-2,Ceará
+1F,07/02/10,Ceará,2-0,Crato
+1F,07/02/10,Boa Viagem,1-1,Maranguape
+1F,07/02/10,Itapipoca,2-2,Limoeiro
+1F,07/02/10,Quixadá,1-2,Guarany de Sobral
+1F,07/02/10,Guarani de Juazeiro,2-4,Horizonte
+1F,07/02/10,Fortaleza,3-2,Ferroviário
+1F,10/02/10,Ferroviário,1-0,Crato
+1F,11/02/10,Guarany de Sobral,1-1,Itapipoca
+1F,11/02/10,Guarani de Juazeiro,3-0,Maranguape
+1F,13/02/10,Quixadá,1-5,Ceará
+1F,13/02/10,Horizonte,5-1,Limoeiro
+1F,13/02/10,Fortaleza,3-1,Boa Viagem
+1F,17/02/10,Maranguape,1-2,Horizonte
+1F,17/02/10,Crato,3-1,Quixadá
+1F,17/02/10,Ceará,1-2,Guarany de Sobral
+1F,17/02/10,Itapipoca,0-4,Fortaleza
+1F,17/02/10,Limoeiro,1-2,Ferroviário
+1F,17/02/10,Boa Viagem,1-2,Guarani de Juazeiro
+SF,20/02/10,Guarany de Sobral,2-2,Horizonte
+SF,21/02/10,Ferroviário,1-2,Fortaleza
+2F,27/02/10,Crato,3-2,Boa Viagem
+2F,27/02/10,Limoeiro,0-1,Maranguape
+2F,27/02/10,Ceará,1-0,Itapipoca
+F,28/02/10,Fortaleza,4-4(5-4 Pen.),Guarany de Sobral
+2F,02/03/10,Ceará,1-1,Horizonte
+2F,02/03/10,Boa Viagem,2-0,Quixadá
+2F,02/03/10,Itapipoca,2-3,Ferroviário
+2F,02/03/10,Maranguape,0-2,Guarany de Sobral
+2F,02/03/10,Crato,3-1,Guarani de Juazeiro
+2F,03/03/10,Limoeiro,2-0,Fortaleza
+2F,04/03/10,Ferroviário,1-1,Horizonte
+2F,04/03/10,Quixadá,1-1,Guarani de Juazeiro
+2F,05/03/10,Fortaleza,3-4,Guarany de Sobral
+2F,06/03/10,Quixadá,2-2,Maranguape
+2F,07/03/10,Fortaleza,3-1,Crato
+2F,07/03/10,Ferroviário,2-1,Boa Viagem
+2F,07/03/10,Horizonte,2-1,Itapipoca
+2F,07/03/10,Guarany de Sobral,1-0,Limoeiro
+2F,07/03/10,Guarani de Juazeiro,1-1,Ceará
+2F,10/03/10,Ceará,0-0,Maranguape
+2F,10/03/10,Horizonte,4-1,Guarany de Sobral
+2F,10/03/10,Boa Viagem,3-2,Limoeiro
+2F,10/03/10,Itapipoca,1-0,Crato
+2F,10/03/10,Quixadá,0-2,Fortaleza
+2F,11/03/10,Guarani de Juazeiro,2-2,Ferroviário
+2F,13/03/10,Boa Viagem,2-2,Guarany de Sobral
+2F,14/03/10,Ceará,2-0,Ferroviário
+2F,14/03/10,Itapipoca,1-2,Quixadá
+2F,14/03/10,Crato,2-0,Horizonte
+2F,14/03/10,Limoeiro,1-0,Guarani de Juazeiro
+2F,14/03/10,Maranguape,0-1,Fortaleza
+2F,17/03/10,Crato,2-1,Limoeiro
+2F,17/03/10,Guarany de Sobral,1-1,Guarani de Juazeiro
+2F,17/03/10,Quixadá,2-1,Ferroviário
+2F,18/03/10,Maranguape,2-2,Itapipoca
+2F,19/03/10,Ceará,2-0,Boa Viagem
+2F,19/03/10,Horizonte,1-0,Fortaleza
+2F,20/03/10,Ferroviário,2-0,Maranguape
+2F,20/03/10,Quixadá,1-0,Limoeiro
+2F,21/03/10,Fortaleza,1-3,Ceará
+2F,21/03/10,Guarani de Juazeiro,1-1,Itapipoca
+2F,21/03/10,Boa Viagem,1-2,Horizonte
+2F,21/03/10,Guarany de Sobral,3-0,Crato
+2F,24/03/10,Ceará,4-0,Limoeiro
+2F,24/03/10,Horizonte,3-0,Quixadá
+2F,24/03/10,Itapipoca,3-1,Boa Viagem
+2F,24/03/10,Ferroviário,0-2,Guarany de Sobral
+2F,25/03/10,Fortaleza,2-1,Guarani de Juazeiro
+2F,25/03/10,Maranguape,0-1,Crato
+2F,27/03/10,Horizonte,1-1,Guarani de Juazeiro
+2F,28/03/10,Ferroviário,1-1,Fortaleza
+2F,28/03/10,Maranguape,2-0,Boa Viagem
+2F,28/03/10,Crato,0-4,Ceará
+2F,28/03/10,Guarany de Sobral,6-0,Quixadá
+2F,28/03/10,Limoeiro,6-1,Itapipoca
+2F,04/04/10,Ceará,4-0,Quixadá
+2F,04/04/10,Boa Viagem,0-4,Fortaleza
+2F,04/04/10,Itapipoca,1-0,Guarany de Sobral
+2F,04/04/10,Maranguape,3-2,Guarani de Juazeiro
+2F,04/04/10,Crato,0-1,Ferroviário
+2F,04/04/10,Limoeiro,3-1,Horizonte
+2F,07/04/10,Fortaleza,0-0,Itapipoca
+2F,07/04/10,Ferroviário,3-2,Limoeiro
+2F,07/04/10,Guarani de Juazeiro,1-0,Boa Viagem
+2F,07/04/10,Horizonte,3-1,Maranguape
+2F,07/04/10,Quixadá,0-1,Crato
+2F,07/04/10,Guarany de Sobral,1-1,Ceará
+SF,10/04/10,Guarany de Sobral,2-1,Horizonte
+SF,11/04/10,Ceará,4-0,Crato
+F,18/04/10,Ceará,1-0,Guarany de Sobral
+F,21/04/10,Horizonte,7-0,Guarany de Sobral
+F,24/04/10,Guarany de Sobral,2-5,Horizonte
+F,25/04/10,Fortaleza,1-0,Ceará
+F,02/05/10,Ceará,2-1(1-3 Pen.),Fortaleza

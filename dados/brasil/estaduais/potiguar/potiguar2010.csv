@@ -1,0 +1,95 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+,24/01/10,ASSU,1-1,Baraúnas
+,24/01/10,Potiguar,2-2,América-RN
+,24/01/10,Santa Cruz-RN,1-1,Alecrim
+,24/01/10,ABC,2-2,Coríntians-RN
+,24/01/10,Potyguar Seridoense,0-1,Centenário Pauferrense
+,27/01/10,Coríntians-RN,1-0,ASSU
+,27/01/10,Baraúnas,1-2,ABC
+,27/01/10,Alecrim,0-0,Centenário Pauferrense
+,27/01/10,América-RN,1-0,Santa Cruz-RN
+,27/01/10,Potyguar Seridoense,1-1,Potiguar
+,30/01/10,Centenário Pauferrense,1-3,ABC
+,31/01/10,ASSU,1-2,Potyguar Seridoense
+,31/01/10,Alecrim,2-2,América-RN
+,31/01/10,Santa Cruz-RN,1-1,Coríntians-RN
+,31/01/10,Potiguar,1-3,Baraúnas
+,03/02/10,Coríntians-RN,1-1,Potiguar
+,03/02/10,Baraúnas,0-0,Centenário Pauferrense
+,03/02/10,ABC,2-0,Santa Cruz-RN
+,03/02/10,Potyguar Seridoense,2-1,América-RN
+,04/02/10,Alecrim,2-0,ASSU
+,07/02/10,ASSU,1-1,Santa Cruz-RN
+,07/02/10,Centenário Pauferrense,1-4,Potiguar
+,07/02/10,Baraúnas,2-1,Potyguar Seridoense
+,07/02/10,Coríntians-RN,2-3,Alecrim
+,07/02/10,América-RN,2-1,ABC
+,10/02/10,América-RN,5-0,Centenário Pauferrense
+,10/02/10,Coríntians-RN,3-2,Baraúnas
+,11/02/10,Potiguar,1-1,Alecrim
+,13/02/10,Santa Cruz-RN,4-2,Potyguar Seridoense
+,13/02/10,ASSU,3-2,ABC
+,17/02/10,ASSU,0-2,América-RN
+,18/02/10,ABC,2-1,Potiguar
+,18/02/10,Potyguar Seridoense,0-0,Alecrim
+,18/02/10,Centenário Pauferrense,1-2,Coríntians-RN
+,20/02/10,América-RN,0-0,Baraúnas
+,21/02/10,Centenário Pauferrense,1-0,ASSU
+,21/02/10,Coríntians-RN,1-0,Potyguar Seridoense
+,21/02/10,ABC,1-1,Alecrim
+,21/02/10,Potiguar,3-2,Santa Cruz-RN
+,24/02/10,Baraúnas,2-0,Santa Cruz-RN
+,27/02/10,Santa Cruz-RN,2-0,Centenário Pauferrense
+,28/02/10,Potiguar,0-2,ASSU
+,28/02/10,Alecrim,2-1,Baraúnas
+,28/02/10,América-RN,1-2,Coríntians-RN
+,28/02/10,Potyguar Seridoense,2-2,ABC
+F,03/03/10,América-RN,3-1,Coríntians-RN
+F,07/03/10,Coríntians-RN,2-0,América-RN
+,14/03/10,Baraúnas,1-1,ASSU
+,14/03/10,América-RN,1-1,Potiguar
+,14/03/10,Alecrim,1-0,Santa Cruz-RN
+,14/03/10,Coríntians-RN,3-7,ABC
+,14/03/10,Centenário Pauferrense,4-0,Potyguar Seridoense
+,17/03/10,ASSU,1-0,Coríntians-RN
+,17/03/10,ABC,4-0,Baraúnas
+,17/03/10,Centenário Pauferrense,4-3,Alecrim
+,17/03/10,Santa Cruz-RN,1-0,América-RN
+,17/03/10,Potiguar,2-1,Potyguar Seridoense
+,20/03/10,ABC,3-1,Centenário Pauferrense
+,21/03/10,Potyguar Seridoense,2-1,ASSU
+,21/03/10,América-RN,1-0,Alecrim
+,21/03/10,Coríntians-RN,3-0,Santa Cruz-RN
+,21/03/10,Baraúnas,0-3,Potiguar
+,24/03/10,ASSU,3-2,Alecrim
+,24/03/10,Potiguar,4-1,Coríntians-RN
+,24/03/10,Centenário Pauferrense,0-1,Baraúnas
+,24/03/10,Santa Cruz-RN,3-3,ABC
+,24/03/10,América-RN,2-1,Potyguar Seridoense
+,28/03/10,Santa Cruz-RN,3-1,ASSU
+,28/03/10,Potiguar,0-1,Centenário Pauferrense
+,28/03/10,Potyguar Seridoense,1-2,Baraúnas
+,28/03/10,Alecrim,2-3,Coríntians-RN
+,28/03/10,ABC,1-0,América-RN
+,31/03/10,Potyguar Seridoense,0-5,Santa Cruz-RN
+,31/03/10,Centenário Pauferrense,1-2,América-RN
+,31/03/10,Baraúnas,1-0,Coríntians-RN
+,31/03/10,Alecrim,1-2,Potiguar
+,31/03/10,ABC,3-1,ASSU
+,04/04/10,América-RN,2-2,ASSU
+,04/04/10,Santa Cruz-RN,2-0,Baraúnas
+,04/04/10,Potiguar,0-0,ABC
+,04/04/10,Alecrim,3-2,Potyguar Seridoense
+,04/04/10,Coríntians-RN,2-0,Centenário Pauferrense
+,07/04/10,ASSU,0-2,Centenário Pauferrense
+,07/04/10,Potyguar Seridoense,1-2,Coríntians-RN
+,07/04/10,Alecrim,0-1,ABC
+,07/04/10,Santa Cruz-RN,1-0,Potiguar
+,07/04/10,Baraúnas,1-5,América-RN
+,11/04/10,ASSU,1-0,Potiguar
+,11/04/10,Baraúnas,2-2,Alecrim
+,11/04/10,Coríntians-RN,1-2,América-RN
+,11/04/10,Centenário Pauferrense,2-1,Santa Cruz-RN
+,11/04/10,ABC,5-0,Potyguar Seridoense
+F,17/04/10,Coríntians-RN,1-5,ABC
+F,25/04/10,ABC,1-2,Coríntians-RN

@@ -1,0 +1,97 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,07/01/06,Ferroviário,2-0,Quixadá
+1,07/01/06,Fortaleza,1-0,Guarany de Sobral
+1,07/01/06,Maranguape,3-0,Limoeiro
+1,07/01/06,Itapipoca,1-0,Atlético Cearense
+1,07/01/06,Icasa,2-2,Ceará
+2,11/01/06,Ceará,2-1,Itapipoca
+2,11/01/06,Atlético Cearense,0-1,Icasa
+2,11/01/06,Limoeiro,1-3,Ferroviário
+2,11/01/06,Quixadá,1-0,Guarany de Sobral
+2,11/01/06,Fortaleza,3-0,Maranguape
+3,14/01/06,Ferroviário,1-4,Atlético Cearense
+3,14/01/06,Ceará,3-3,Limoeiro
+3,14/01/06,Itapipoca,3-3,Icasa
+3,14/01/06,Quixadá,2-1,Fortaleza
+3,14/01/06,Guarany de Sobral,1-1,Maranguape
+4,18/01/06,Ceará,2-1,Atlético Cearense
+4,18/01/06,Limoeiro,1-1,Quixadá
+4,18/01/06,Icasa,2-1,Maranguape
+4,18/01/06,Itapipoca,1-1,Fortaleza
+4,18/01/06,Ferroviário,1-0,Guarany de Sobral
+6,19/01/06,Fortaleza,1-0,Atlético Cearense
+6,19/01/06,Maranguape,1-1,Ferroviário
+6,19/01/06,Itapipoca,0-1,Limoeiro
+6,19/01/06,Icasa,2-0,Guarany de Sobral
+6,19/01/06,Ceará,3-2,Quixadá
+5,21/01/06,Atlético Cearense,1-1,Maranguape
+5,21/01/06,Fortaleza,6-2,Ferroviário
+5,21/01/06,Ceará,5-0,Guarany de Sobral
+5,21/01/06,Limoeiro,0-0,Icasa
+5,21/01/06,Quixadá,1-4,Itapipoca
+7,28/01/06,Atlético Cearense,2-2,Limoeiro
+7,28/01/06,Maranguape,1-1,Quixadá
+7,28/01/06,Ceará,3-6,Fortaleza
+7,28/01/06,Icasa,2-3,Ferroviário
+7,28/01/06,Guarany de Sobral,0-0,Itapipoca
+8,01/02/06,Quixadá,3-2,Atlético Cearense
+8,01/02/06,Maranguape,0-0,Ceará
+8,01/02/06,Ferroviário,4-1,Itapipoca
+8,01/02/06,Guarany de Sobral,1-0,Limoeiro
+8,01/02/06,Fortaleza,1-0,Icasa
+9,05/02/06,Ferroviário,4-0,Ceará
+9,05/02/06,Limoeiro,3-3,Fortaleza
+9,05/02/06,Guarany de Sobral,1-2,Atlético Cearense
+9,05/02/06,Icasa,3-1,Quixadá
+9,05/02/06,Itapipoca,3-0,Maranguape
+10,08/02/06,Quixadá,4-2,Maranguape
+10,08/02/06,Limoeiro,1-4,Guarany de Sobral
+10,08/02/06,Atlético Cearense,2-2,Fortaleza
+10,08/02/06,Itapipoca,1-1,Ferroviário
+10,08/02/06,Ceará,0-0,Icasa
+11,11/02/06,Atlético Cearense,2-3,Ferroviário
+11,11/02/06,Itapipoca,2-2,Ceará
+11,11/02/06,Maranguape,5-0,Guarany de Sobral
+11,11/02/06,Icasa,4-2,Limoeiro
+11,11/02/06,Fortaleza,3-1,Quixadá
+12,15/02/06,Quixadá,1-1,Icasa
+12,15/02/06,Ferroviário,5-0,Limoeiro
+12,15/02/06,Maranguape,2-1,Atlético Cearense
+12,15/02/06,Guarany de Sobral,0-2,Ceará
+12,15/02/06,Fortaleza,4-3,Itapipoca
+13,18/02/06,Atlético Cearense,2-2,Quixadá
+13,18/02/06,Maranguape,2-0,Icasa
+13,18/02/06,Limoeiro,0-3,Ceará
+13,18/02/06,Itapipoca,0-0,Guarany de Sobral
+13,18/02/06,Ferroviário,0-0,Fortaleza
+14,22/02/06,Atlético Cearense,1-1,Ceará
+14,22/02/06,Quixadá,3-0,Ferroviário
+14,22/02/06,Limoeiro,3-5,Itapipoca
+14,22/02/06,Maranguape,1-1,Fortaleza
+14,22/02/06,Guarany de Sobral,0-0,Icasa
+15,01/03/06,Quixadá,2-3,Ceará
+15,01/03/06,Icasa,4-3,Itapipoca
+15,01/03/06,Ferroviário,4-4,Maranguape
+15,01/03/06,Atlético Cearense,0-2,Guarany de Sobral
+15,01/03/06,Fortaleza,6-0,Limoeiro
+16,04/03/06,Maranguape,1-1,Itapipoca
+16,04/03/06,Icasa,3-2,Fortaleza
+16,04/03/06,Limoeiro,3-2,Atlético Cearense
+16,04/03/06,Guarany de Sobral,2-2,Quixadá
+16,04/03/06,Ceará,2-1,Ferroviário
+17,11/03/06,Ferroviário,0-0,Icasa
+17,11/03/06,Guarany de Sobral,1-1,Fortaleza
+17,11/03/06,Atlético Cearense,3-1,Itapipoca
+17,11/03/06,Quixadá,4-0,Limoeiro
+17,11/03/06,Ceará,2-0,Maranguape
+18,19/03/06,Itapipoca,2-1,Quixadá
+18,19/03/06,Icasa,2-0,Atlético Cearense
+18,19/03/06,Limoeiro,2-1,Maranguape
+18,19/03/06,Guarany de Sobral,2-1,Ferroviário
+18,19/03/06,Fortaleza,4-0,Ceará
+SF,26/03/06,Ferroviário,0-4,Fortaleza
+SF,26/03/06,Icasa,2-1,Ceará
+SF,29/03/06,Fortaleza,1-0,Ferroviário
+SF,30/03/06,Ceará,4-0,Icasa
+F,02/04/06,Ceará,1-0,Fortaleza
+F,09/04/06,Fortaleza,0-1,Ceará

@@ -1,0 +1,97 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,21/01/12,Hermann Aichinger,4-3,Criciúma
+1T,21/01/12,Figueirense,5-0,Marcílio Dias
+1T,22/01/12,Chapecoense,1-0,Avaí
+1T,22/01/12,Metropolitano,0-1,Brusque
+1T,22/01/12,Joinville,0-1,Camboriú
+1T,24/01/12,Avaí,3-2,Criciúma
+1T,25/01/12,Hermann Aichinger,1-1,Figueirense
+1T,25/01/12,Camboriú,0-1,Metropolitano
+1T,25/01/12,Brusque,0-1,Chapecoense
+1T,26/01/12,Marcílio Dias,1-1,Joinville
+1T,29/01/12,Chapecoense,2-1,Camboriú
+1T,29/01/12,Metropolitano,3-0,Marcílio Dias
+1T,29/01/12,Joinville,2-2,Figueirense
+1T,29/01/12,Avaí,2-1,Hermann Aichinger
+1T,29/01/12,Criciúma,3-0,Brusque
+1T,01/02/12,Camboriú,1-2,Criciúma
+1T,01/02/12,Marcílio Dias,0-2,Chapecoense
+1T,01/02/12,Brusque,0-1,Avaí
+1T,02/02/12,Hermann Aichinger,1-0,Joinville
+1T,02/02/12,Figueirense,3-1,Metropolitano
+1T,04/02/12,Avaí,3-0,Camboriú
+1T,04/02/12,Criciúma,2-2,Marcílio Dias
+1T,05/02/12,Brusque,0-3,Hermann Aichinger
+1T,05/02/12,Chapecoense,3-1,Figueirense
+1T,05/02/12,Metropolitano,5-4,Joinville
+1T,08/02/12,Joinville,3-1,Chapecoense
+1T,08/02/12,Hermann Aichinger,2-3,Metropolitano
+1T,08/02/12,Camboriú,2-0,Brusque
+1T,08/02/12,Figueirense,5-4,Criciúma
+1T,09/02/12,Marcílio Dias,2-5,Avaí
+1T,12/02/12,Brusque,2-2,Marcílio Dias
+1T,12/02/12,Criciúma,2-2,Joinville
+1T,12/02/12,Chapecoense,1-1,Metropolitano
+1T,12/02/12,Camboriú,0-1,Hermann Aichinger
+1T,12/02/12,Avaí,0-1,Figueirense
+1T,18/02/12,Marcílio Dias,0-1,Camboriú
+1T,22/02/12,Hermann Aichinger,2-2,Chapecoense
+1T,22/02/12,Metropolitano,1-2,Criciúma
+1T,22/02/12,Joinville,3-0,Avaí
+1T,22/02/12,Figueirense,4-0,Brusque
+1T,26/02/12,Marcílio Dias,2-1,Hermann Aichinger
+1T,26/02/12,Camboriú,1-5,Figueirense
+1T,26/02/12,Avaí,0-1,Metropolitano
+1T,26/02/12,Criciúma,1-1,Chapecoense
+1T,26/02/12,Brusque,1-2,Joinville
+2T,29/02/12,Criciúma,3-0,Hermann Aichinger
+2T,29/02/12,Avaí,0-0,Chapecoense
+2T,29/02/12,Brusque,1-2,Metropolitano
+2T,29/02/12,Marcílio Dias,0-4,Figueirense
+2T,01/03/12,Camboriú,1-3,Joinville
+2T,04/03/12,Figueirense,3-1,Hermann Aichinger
+2T,04/03/12,Joinville,5-0,Marcílio Dias
+2T,04/03/12,Metropolitano,2-0,Camboriú
+2T,04/03/12,Chapecoense,2-2,Brusque
+2T,04/03/12,Criciúma,0-2,Avaí
+2T,11/03/12,Hermann Aichinger,3-2,Avaí
+2T,11/03/12,Brusque,0-1,Criciúma
+2T,11/03/12,Camboriú,3-3,Chapecoense
+2T,11/03/12,Marcílio Dias,0-3,Metropolitano
+2T,11/03/12,Figueirense,3-3,Joinville
+2T,17/03/12,Joinville,2-1,Hermann Aichinger
+2T,18/03/12,Metropolitano,0-4,Figueirense
+2T,18/03/12,Chapecoense,2-0,Marcílio Dias
+2T,18/03/12,Criciúma,7-0,Camboriú
+2T,18/03/12,Avaí,2-0,Brusque
+2T,25/03/12,Hermann Aichinger,3-1,Brusque
+2T,25/03/12,Camboriú,1-0,Avaí
+2T,25/03/12,Marcílio Dias,1-3,Criciúma
+2T,25/03/12,Figueirense,3-0,Chapecoense
+2T,25/03/12,Joinville,2-1,Metropolitano
+2T,28/03/12,Chapecoense,4-1,Joinville
+2T,28/03/12,Metropolitano,2-2,Hermann Aichinger
+2T,28/03/12,Brusque,1-2,Camboriú
+2T,28/03/12,Criciúma,2-0,Figueirense
+2T,28/03/12,Avaí,6-1,Marcílio Dias
+2T,01/04/12,Marcílio Dias,1-2,Brusque
+2T,01/04/12,Joinville,3-0,Criciúma
+2T,01/04/12,Metropolitano,0-2,Chapecoense
+2T,01/04/12,Hermann Aichinger,2-1,Camboriú
+2T,01/04/12,Figueirense,2-2,Avaí
+2T,08/04/12,Chapecoense,2-3,Hermann Aichinger
+2T,08/04/12,Criciúma,2-3,Metropolitano
+2T,08/04/12,Avaí,1-0,Joinville
+2T,08/04/12,Brusque,1-2,Figueirense
+2T,08/04/12,Camboriú,2-0,Marcílio Dias
+2T,15/04/12,Hermann Aichinger,3-3,Marcílio Dias
+2T,15/04/12,Figueirense,3-2,Camboriú
+2T,15/04/12,Joinville,2-0,Brusque
+2T,15/04/12,Metropolitano,2-5,Avaí
+2T,15/04/12,Chapecoense,3-1,Criciúma
+SF,22/04/12,Joinville,1-1,Figueirense
+SF,22/04/12,Avaí,1-1,Chapecoense
+SF,29/04/12,Chapecoense,1-2,Avaí
+SF,29/04/12,Figueirense,3-1,Joinville
+F,06/05/12,Avaí,3-0,Figueirense
+F,13/05/12,Figueirense,1-2,Avaí

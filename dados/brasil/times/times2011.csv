@@ -1,0 +1,94 @@
+time,região,serie
+ABC,RN,B
+ASA,AL,B
+Alecrim,RN,D
+América-MG,MG,A
+Anapolina,GO,D
+Athletico-PR,PR,A
+Atlético-GO,GO,A
+Atlético-MG,MG,A
+Avai,OUTRO,A
+Bahia,BA,A
+Bahia de Feira,BA,D
+Boa,OUTRO,B
+Botafogo,RJ,A
+Bragantino,SP,B
+Brasiliense,DF,C
+Brusque,SC,D
+CENE,MT,D
+Caxias,RS,C
+Ceará,CE,A
+Cerâmica,SP,D
+Chapecoense,SC,C
+Cianorte,PR,D
+Comercial-PI,PI,D
+Corinthians,SP,A
+Coritiba,PR,A
+Coruripe,AL,D
+Criciúma,SC,B
+Cruzeiro,MG,A
+Cruzeiro-RS,RS,D
+Cuiabá,MT,C
+Duque de Caxias,RJ,B
+EC Vitória,OUTRO,B
+Figueirense,SC,A
+Flamengo,RJ,A
+Fluminense,RJ,A
+Formosa,DF,D
+Fortaleza,CE,C
+Gama,DF,D
+Goiás,GO,B
+Grêmio,RS,A
+Grêmio Barueri,SP,B
+Guarani,SP,B
+Guarani de Juazeiro,BA,D
+Guarany de Sobral,CE,C
+Guaratinguetá,SP,B
+Icasa,CE,B
+Independente Tucuruí,PA,D
+Internacional,RS,A
+Ituiutaba,MG,B
+Itumbiara,GO,D
+Juventude,RS,D
+Luverdense,MT,C
+Macaé,RJ,C
+Madureira,RJ,C
+Metropolitano,SC,D
+Mirassol,SP,D
+Nacional-AM,AM,D
+Náutico,PE,B
+Oeste,SP,C
+Operário Ferroviário,PR,D
+Palmeiras,SP,A
+Paraná,PR,B
+Paysandu,PA,C
+Penarol-AM,AM,D
+Plácido de Castro,AC,D
+Ponte Preta,SP,B
+Porto-PE,PE,D
+Portuguesa,SP,B
+River Plate-SE,SE,D
+Salgueiro,PE,B
+Sampaio Corrêa,MA,D
+Santa Cruz,PE,C
+Santa Cruz-RN,RN,D
+Santo André,SP,C
+Santos,SP,A
+Sendas,RJ,D
+Sport,PE,B
+São Caetano,SP,B
+São Mateus,ES,D
+São Paulo,SP,A
+São Raimundo-PA,PA,D
+Tocantinópolis,TO,D
+Trem,AP,D
+Treze,PB,C
+Tupi,MG,C
+Vasco,RJ,A
+Vila Aurora,MT,D
+Vila Nova,GO,B
+Villa Nova-MG,MG,D
+Vitória,BA,B
+Vitória da Conquista,BA,D
+Volta Redonda,RJ,D
+Águia,PA,C

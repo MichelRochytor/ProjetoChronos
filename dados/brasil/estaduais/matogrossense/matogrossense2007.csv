@@ -1,0 +1,113 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,03/02/07,Sinop,2-3,Luverdense
+A,03/02/07,Sorriso EC,1-0,Dom Bosco
+A,04/02/07,Cacerense,0-0,CEOV Operário
+B,04/02/07,União Rondonópolis,1-1,Barra
+B,04/02/07,Mixto,2-3,Vila Aurora
+B,04/02/07,Juventude-MT,0-2,Grêmio Jaciara
+A,08/02/07,CEOV Operário,2-0,Sinop
+B,08/02/07,Grêmio Jaciara,2-0,Vila Aurora
+B,08/02/07,Barra,1-1,Mixto
+A,11/02/07,Luverdense,1-0,Sorriso EC
+A,11/02/07,CEOV Operário,2-2,Dom Bosco
+A,11/02/07,Sinop,2-2,Cacerense
+B,11/02/07,Juventude-MT,0-0,Barra
+B,11/02/07,Grêmio Jaciara,0-0,Mixto
+A,14/02/07,Dom Bosco,0-1,Sinop
+A,15/02/07,Luverdense,0-1,Cacerense
+B,15/02/07,União Rondonópolis,3-2,Grêmio Jaciara
+B,16/02/07,Barra,0-0,Vila Aurora
+A,18/02/07,Cacerense,0-0,Dom Bosco
+A,22/02/07,Sinop,1-1,Sorriso EC
+B,22/02/07,Juventude-MT,1-2,União Rondonópolis
+B,24/02/07,Barra,4-1,Grêmio Jaciara
+A,25/02/07,Sorriso EC,0-1,Cacerense
+A,25/02/07,Luverdense,2-0,CEOV Operário
+B,25/02/07,Vila Aurora,1-1,União Rondonópolis
+B,25/02/07,Mixto,2-2,Juventude-MT
+A,01/03/07,Dom Bosco,2-1,Luverdense
+A,01/03/07,Sorriso EC,1-1,CEOV Operário
+B,01/03/07,Vila Aurora,4-3,Juventude-MT
+B,01/03/07,Mixto,1-3,União Rondonópolis
+A,04/03/07,Dom Bosco,1-1,Sorriso EC
+A,04/03/07,Luverdense,1-0,Sinop
+A,04/03/07,CEOV Operário,1-3,Cacerense
+B,04/03/07,Barra,2-0,União Rondonópolis
+B,04/03/07,Vila Aurora,2-1,Mixto
+B,04/03/07,Grêmio Jaciara,1-1,Juventude-MT
+A,08/03/07,Sorriso EC,3-0,Luverdense
+B,08/03/07,Mixto,1-0,Barra
+B,08/03/07,Juventude-MT,1-1,Vila Aurora
+A,10/03/07,Sorriso EC,2-0,Sinop
+A,10/03/07,Dom Bosco,0-0,CEOV Operário
+A,11/03/07,Cacerense,0-0,Luverdense
+B,11/03/07,União Rondonópolis,1-2,Mixto
+B,11/03/07,Barra,2-1,Juventude-MT
+A,13/03/07,CEOV Operário,2-0,Sorriso EC
+A,15/03/07,Cacerense,5-0,Sinop
+A,15/03/07,Luverdense,6-2,Dom Bosco
+B,15/03/07,Grêmio Jaciara,1-1,União Rondonópolis
+B,15/03/07,Vila Aurora,5-3,Barra
+A,17/03/07,Sinop,2-1,Dom Bosco
+A,18/03/07,Cacerense,3-1,Sorriso EC
+A,18/03/07,CEOV Operário,3-2,Luverdense
+B,18/03/07,Juventude-MT,1-1,Mixto
+B,18/03/07,Grêmio Jaciara,2-1,Barra
+B,20/03/07,Vila Aurora,0-2,Grêmio Jaciara
+B,22/03/07,União Rondonópolis,1-2,Juventude-MT
+A,24/03/07,Dom Bosco,1-2,Cacerense
+A,25/03/07,Sinop,1-2,CEOV Operário
+B,25/03/07,Mixto,1-2,Grêmio Jaciara
+B,25/03/07,União Rondonópolis,1-1,Vila Aurora
+F,29/03/07,Sinop,0-2,Juventude-MT
+F,29/03/07,União Rondonópolis,5-0,Sorriso EC
+F,29/03/07,Mixto,2-1,Dom Bosco
+F,31/03/07,Sorriso EC,4-3,Juventude-MT
+D,31/03/07,Grêmio Jaciara,1-0,Cacerense
+F,01/04/07,Dom Bosco,3-4,União Rondonópolis
+F,01/04/07,Mixto,5-2,Sinop
+D,01/04/07,Vila Aurora,1-1,CEOV Operário
+D,01/04/07,Luverdense,0-1,Barra
+F,05/04/07,Juventude-MT,1-0,Dom Bosco
+F,05/04/07,Sorriso EC,2-1,Mixto
+D,05/04/07,Barra,0-1,Cacerense
+D,05/04/07,Luverdense,3-1,Vila Aurora
+D,05/04/07,CEOV Operário,0-0,Grêmio Jaciara
+F,07/04/07,União Rondonópolis,4-0,Dom Bosco
+F,07/04/07,Sinop,0-0,Mixto
+F,08/04/07,Juventude-MT,4-1,Sorriso EC
+D,08/04/07,CEOV Operário,3-2,Barra
+D,08/04/07,Cacerense,0-1,Vila Aurora
+D,08/04/07,Grêmio Jaciara,0-0,Luverdense
+F,10/04/07,Sinop,1-1,União Rondonópolis
+F,12/04/07,Sorriso EC,0-5,União Rondonópolis
+F,12/04/07,Dom Bosco,3-6,Mixto
+D,12/04/07,Vila Aurora,3-1,Cacerense
+F,13/04/07,Juventude-MT,5-2,Sinop
+F,15/04/07,Mixto,3-6,Sorriso EC
+F,15/04/07,Dom Bosco,3-2,Juventude-MT
+F,15/04/07,União Rondonópolis,0-0,Sinop
+D,15/04/07,Barra,4-0,CEOV Operário
+D,15/04/07,Luverdense,1-2,Grêmio Jaciara
+F,19/04/07,Sorriso EC,1-3,União Rondonópolis
+D,19/04/07,Grêmio Jaciara,2-1,CEOV Operário
+D,19/04/07,Vila Aurora,1-2,Luverdense
+D,19/04/07,Cacerense,4-0,Barra
+F,22/04/07,União Rondonópolis,3-0,Sorriso EC
+D,22/04/07,Barra,2-2,Luverdense
+D,22/04/07,CEOV Operário,0-1,Vila Aurora
+D,22/04/07,Cacerense,2-0,Grêmio Jaciara
+3F,26/04/07,Vila Aurora,1-1,Grêmio Jaciara
+3F,26/04/07,Cacerense,1-0,União Rondonópolis
+3F,29/04/07,Cacerense,1-0,Grêmio Jaciara
+3F,29/04/07,União Rondonópolis,2-2,Vila Aurora
+3F,03/05/07,Vila Aurora,2-1,Cacerense
+3F,03/05/07,Grêmio Jaciara,1-0,União Rondonópolis
+3F,06/05/07,União Rondonópolis,3-5,Cacerense
+3F,06/05/07,Grêmio Jaciara,3-0,Vila Aurora
+3F,10/05/07,União Rondonópolis,0-0,Grêmio Jaciara
+3F,10/05/07,Cacerense,1-0,Vila Aurora
+3F,13/05/07,Grêmio Jaciara,1-0,Cacerense
+3F,13/05/07,Vila Aurora,3-1,União Rondonópolis
+F,20/05/07,Grêmio Jaciara,0-1,Cacerense
+F,27/05/07,Cacerense,2-0,Grêmio Jaciara

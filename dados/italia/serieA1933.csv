@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,10/09/33,Bologna,4-1,Alessandria
+1,10/09/33,Brescia,1-0,Roma
+1,10/09/33,Fiorentina,1-0,AC Milan
+1,10/09/33,Genoa,3-0,Pro Vercelli
+1,10/09/33,Juventus,4-1,Livorno 1915
+1,10/09/33,Lazio,1-0,Palermo
+1,10/09/33,Padova,1-0,Torino
+1,10/09/33,Triestina,4-1,Napoli
+1,10/09/33,Ambrosiana-Inter,9-0,Casale
+2,17/09/33,Palermo,2-1,Bologna
+2,17/09/33,Torino,4-1,Fiorentina
+2,17/09/33,Pro Vercelli,0-0,Ambrosiana-Inter
+2,17/09/33,Padova,1-1,Livorno 1915
+2,17/09/33,Alessandria,2-1,Juventus
+2,17/09/33,AC Milan,4-2,Lazio
+2,17/09/33,Casale,1-0,Brescia
+2,17/09/33,Roma,0-0,Triestina
+2,17/09/33,Napoli,0-0,Genoa
+3,24/09/33,Brescia,1-0,Torino
+3,24/09/33,Palermo,3-2,Livorno 1915
+3,24/09/33,Lazio,1-1,Pro Vercelli
+3,24/09/33,Juventus,6-1,Casale
+3,24/09/33,Fiorentina,1-3,Roma
+3,24/09/33,Bologna,2-1,AC Milan
+3,24/09/33,Ambrosiana-Inter,2-1,Napoli
+3,24/09/33,Alessandria,3-0,Padova
+3,24/09/33,Genoa,0-1,Triestina
+4,01/10/33,Padova,1-2,Ambrosiana-Inter
+4,01/10/33,Roma,2-3,Juventus
+4,01/10/33,Torino,1-1,Alessandria
+4,01/10/33,Pro Vercelli,2-1,Brescia
+4,01/10/33,AC Milan,3-1,Livorno 1915
+4,01/10/33,Casale,2-1,Genoa
+4,01/10/33,Fiorentina,4-1,Palermo
+4,01/10/33,Triestina,1-1,Bologna
+4,01/10/33,Napoli,2-1,Lazio
+5,08/10/33,Casale,0-2,Roma
+5,08/10/33,Pro Vercelli,1-1,Triestina
+5,08/10/33,Livorno 1915,3-0,Fiorentina
+5,08/10/33,Lazio,3-2,Padova
+5,08/10/33,Genoa,2-2,AC Milan
+5,08/10/33,Brescia,1-1,Palermo
+5,08/10/33,Bologna,3-0,Napoli
+5,08/10/33,Ambrosiana-Inter,4-1,Alessandria
+5,08/10/33,Juventus,4-0,Torino
+6,15/10/33,Napoli,0-0,Livorno 1915
+6,15/10/33,Torino,1-1,Lazio
+6,15/10/33,Roma,2-0,Pro Vercelli
+6,15/10/33,Triestina,0-0,Ambrosiana-Inter
+6,15/10/33,AC Milan,4-0,Brescia
+6,15/10/33,Fiorentina,3-0,Bologna
+6,15/10/33,Alessandria,3-1,Genoa
+6,15/10/33,Palermo,0-1,Juventus
+6,15/10/33,Padova,2-0,Casale
+7,29/10/33,Juventus,1-1,Triestina
+7,29/10/33,Pro Vercelli,7-2,Fiorentina
+7,29/10/33,Palermo,2-1,Alessandria
+7,29/10/33,AC Milan,2-2,Padova
+7,29/10/33,Lazio,3-2,Genoa
+7,29/10/33,Casale,3-2,Torino
+7,29/10/33,Brescia,1-1,Napoli
+7,29/10/33,Bologna,1-0,Roma
+7,29/10/33,Livorno 1915,2-2,Ambrosiana-Inter
+8,01/11/33,Padova,1-1,Pro Vercelli
+8,01/11/33,Ambrosiana-Inter,3-0,AC Milan
+8,01/11/33,Triestina,1-0,Palermo
+8,01/11/33,Torino,5-0,Livorno 1915
+8,01/11/33,Roma,5-0,Lazio
+8,01/11/33,Alessandria,4-1,Casale
+8,01/11/33,Fiorentina,2-0,Brescia
+8,01/11/33,Genoa,1-0,Bologna
+8,01/11/33,Napoli,2-0,Juventus
+9,05/11/33,Juventus,5-0,Fiorentina
+9,05/11/33,Pro Vercelli,1-0,Torino
+9,05/11/33,Napoli,3-0,Palermo
+9,05/11/33,AC Milan,1-0,Roma
+9,05/11/33,Lazio,1-4,Ambrosiana-Inter
+9,05/11/33,Casale,1-1,Triestina
+9,05/11/33,Brescia,2-1,Alessandria
+9,05/11/33,Bologna,3-0,Padova
+9,05/11/33,Livorno 1915,0-0,Genoa
+10,12/11/33,Roma,0-0,Livorno 1915
+10,12/11/33,Genoa,3-1,Brescia
+10,12/11/33,Triestina,2-2,AC Milan
+10,12/11/33,Torino,0-1,Bologna
+10,12/11/33,Alessandria,0-1,Pro Vercelli
+10,12/11/33,Fiorentina,2-0,Lazio
+10,12/11/33,Ambrosiana-Inter,3-2,Juventus
+10,12/11/33,Palermo,3-0,Casale
+10,12/11/33,Padova,3-1,Napoli
+11,19/11/33,Juventus,8-1,Genoa
+11,19/11/33,Napoli,1-2,Roma
+11,19/11/33,AC Milan,4-0,Torino
+11,19/11/33,Lazio,1-0,Alessandria
+11,19/11/33,Casale,2-2,Fiorentina
+11,19/11/33,Brescia,1-0,Padova
+11,19/11/33,Bologna,0-1,Ambrosiana-Inter
+11,19/11/33,Palermo,2-1,Pro Vercelli
+11,19/11/33,Livorno 1915,2-1,Triestina
+12,26/11/33,Lazio,3-0,Livorno 1915
+12,26/11/33,Pro Vercelli,0-0,Napoli
+12,26/11/33,Triestina,1-1,Torino
+12,26/11/33,Padova,3-1,Palermo
+12,26/11/33,Genoa,1-0,Roma
+12,26/11/33,Bologna,2-0,Casale
+12,26/11/33,Alessandria,1-1,AC Milan
+12,26/11/33,Ambrosiana-Inter,2-4,Fiorentina
+12,26/11/33,Juventus,5-1,Brescia
+13,10/12/33,Livorno 1915,1-1,Pro Vercelli
+13,10/12/33,Torino,2-1,Palermo
+13,10/12/33,Roma,0-1,Ambrosiana-Inter
+13,10/12/33,AC Milan,3-1,Juventus
+13,10/12/33,Triestina,2-1,Padova
+13,10/12/33,Fiorentina,2-1,Genoa
+13,10/12/33,Casale,1-1,Lazio
+13,10/12/33,Brescia,1-2,Bologna
+13,10/12/33,Napoli,2-1,Alessandria
+14,17/12/33,Padova,1-0,Roma
+14,17/12/33,Pro Vercelli,4-1,Casale
+14,17/12/33,Torino,0-0,Napoli
+14,17/12/33,Palermo,2-1,AC Milan
+14,17/12/33,Livorno 1915,0-0,Brescia
+14,17/12/33,Lazio,2-0,Triestina
+14,17/12/33,Bologna,2-2,Juventus
+14,17/12/33,Alessandria,3-1,Fiorentina
+14,17/12/33,Ambrosiana-Inter,5-0,Genoa
+15,24/12/33,Casale,4-4,Livorno 1915
+15,24/12/33,Napoli,1-0,AC Milan
+15,24/12/33,Triestina,0-1,Brescia
+15,24/12/33,Roma,5-1,Alessandria
+15,24/12/33,Pro Vercelli,2-0,Bologna
+15,24/12/33,Ambrosiana-Inter,0-0,Torino
+15,24/12/33,Fiorentina,3-0,Padova
+15,24/12/33,Genoa,1-1,Palermo
+15,24/12/33,Juventus,2-2,Lazio
+16,31/12/33,AC Milan,2-0,Pro Vercelli
+16,31/12/33,Triestina,2-3,Fiorentina
+16,31/12/33,Torino,3-1,Genoa
+16,31/12/33,Palermo,0-0,Roma
+16,31/12/33,Napoli,2-1,Casale
+16,31/12/33,Livorno 1915,3-2,Alessandria
+16,31/12/33,Lazio,3-3,Bologna
+16,31/12/33,Brescia,1-1,Ambrosiana-Inter
+16,31/12/33,Padova,1-2,Juventus
+17,07/01/34,AC Milan,6-2,Casale
+17,07/01/34,Fiorentina,0-1,Napoli
+17,07/01/34,Roma,4-0,Torino
+17,07/01/34,Palermo,1-1,Ambrosiana-Inter
+17,07/01/34,Alessandria,1-0,Triestina
+17,07/01/34,Brescia,0-0,Lazio
+17,07/01/34,Bologna,1-0,Livorno 1915
+17,07/01/34,Juventus,3-0,Pro Vercelli
+17,07/01/34,Genoa,1-0,Padova
+18,14/01/34,AC Milan,2-0,Fiorentina
+18,14/01/34,Roma,2-1,Brescia
+18,14/01/34,Pro Vercelli,2-0,Genoa
+18,14/01/34,Napoli,2-0,Triestina
+18,14/01/34,Livorno 1915,0-0,Juventus
+18,14/01/34,Casale,0-1,Ambrosiana-Inter
+18,14/01/34,Alessandria,2-2,Bologna
+18,14/01/34,Torino,4-2,Padova
+18,14/01/34,Palermo,1-0,Lazio
+19,21/01/34,Triestina,1-1,Roma
+19,21/01/34,Livorno 1915,3-1,Padova
+19,21/01/34,Juventus,3-1,Alessandria
+19,21/01/34,Lazio,4-0,AC Milan
+19,21/01/34,Fiorentina,1-1,Torino
+19,21/01/34,Brescia,3-1,Casale
+19,21/01/34,Ambrosiana-Inter,2-0,Pro Vercelli
+19,21/01/34,Bologna,4-1,Palermo
+19,21/01/34,Genoa,1-1,Napoli
+20,28/01/34,Torino,1-0,Brescia
+20,28/01/34,Triestina,1-0,Genoa
+20,28/01/34,Roma,2-1,Fiorentina
+20,28/01/34,Pro Vercelli,2-0,Lazio
+20,28/01/34,Napoli,2-1,Ambrosiana-Inter
+20,28/01/34,AC Milan,1-1,Bologna
+20,28/01/34,Livorno 1915,3-2,Palermo
+20,28/01/34,Casale,0-3,Juventus
+20,28/01/34,Padova,1-0,Alessandria
+21,04/02/34,Brescia,1-0,Pro Vercelli
+21,04/02/34,Palermo,0-0,Fiorentina
+21,04/02/34,Livorno 1915,4-0,AC Milan
+21,04/02/34,Lazio,0-2,Napoli
+21,04/02/34,Alessandria,3-1,Torino
+21,04/02/34,Genoa,5-0,Casale
+21,04/02/34,Bologna,2-0,Triestina
+21,04/02/34,Ambrosiana-Inter,1-0,Padova
+21,04/02/34,Juventus,3-1,Roma
+22,18/02/34,Napoli,1-0,Bologna
+22,18/02/34,Torino,1-2,Juventus
+22,18/02/34,Roma,1-0,Casale
+22,18/02/34,Triestina,2-1,Pro Vercelli
+22,18/02/34,AC Milan,1-0,Genoa
+22,18/02/34,Fiorentina,1-0,Livorno 1915
+22,18/02/34,Alessandria,0-2,Ambrosiana-Inter
+22,18/02/34,Palermo,2-2,Brescia
+22,18/02/34,Padova,2-0,Lazio
+23,25/02/34,Livorno 1915,0-1,Napoli
+23,25/02/34,Pro Vercelli,1-2,Roma
+23,25/02/34,Lazio,1-0,Torino
+23,25/02/34,Juventus,1-1,Palermo
+23,25/02/34,Casale,0-0,Padova
+23,25/02/34,Brescia,3-0,AC Milan
+23,25/02/34,Ambrosiana-Inter,2-1,Triestina
+23,25/02/34,Bologna,0-0,Fiorentina
+23,25/02/34,Genoa,1-0,Alessandria
+24,04/03/34,Genoa,1-2,Lazio
+24,04/03/34,Triestina,0-1,Juventus
+24,04/03/34,Torino,5-2,Casale
+24,04/03/34,Roma,0-1,Bologna
+24,04/03/34,Alessandria,2-1,Palermo
+24,04/03/34,Napoli,1-0,Brescia
+24,04/03/34,Fiorentina,1-1,Pro Vercelli
+24,04/03/34,Ambrosiana-Inter,1-2,Livorno 1915
+24,04/03/34,Padova,0-0,AC Milan
+25,11/03/34,Livorno 1915,2-0,Torino
+25,11/03/34,Pro Vercelli,4-0,Padova
+25,11/03/34,Palermo,2-1,Triestina
+25,11/03/34,AC Milan,1-2,Ambrosiana-Inter
+25,11/03/34,Juventus,2-0,Napoli
+25,11/03/34,Casale,2-1,Alessandria
+25,11/03/34,Brescia,4-0,Fiorentina
+25,11/03/34,Bologna,3-0,Genoa
+25,11/03/34,Lazio,3-3,Roma
+26,18/03/34,Genoa,2-0,Livorno 1915
+26,18/03/34,Alessandria,1-0,Brescia
+26,18/03/34,Triestina,2-0,Casale
+26,18/03/34,Torino,0-0,Pro Vercelli
+26,18/03/34,Roma,1-1,AC Milan
+26,18/03/34,Padova,0-0,Bologna
+26,18/03/34,Fiorentina,2-2,Juventus
+26,18/03/34,Ambrosiana-Inter,8-1,Lazio
+26,18/03/34,Palermo,1-2,Napoli
+27,25/03/34,Juventus,0-0,Ambrosiana-Inter
+27,25/03/34,Napoli,1-1,Padova
+27,25/03/34,AC Milan,0-1,Triestina
+27,25/03/34,Pro Vercelli,1-0,Alessandria
+27,25/03/34,Casale,2-2,Palermo
+27,25/03/34,Brescia,3-1,Genoa
+27,25/03/34,Bologna,2-2,Torino
+27,25/03/34,Livorno 1915,1-3,Roma
+27,25/03/34,Lazio,2-2,Fiorentina
+28,01/04/34,Genoa,0-2,Juventus
+28,01/04/34,Triestina,0-1,Livorno 1915
+28,01/04/34,Torino,3-3,AC Milan
+28,01/04/34,Roma,1-2,Napoli
+28,01/04/34,Padova,2-1,Brescia
+28,01/04/34,Fiorentina,2-2,Casale
+28,01/04/34,Ambrosiana-Inter,2-0,Bologna
+28,01/04/34,Alessandria,3-2,Lazio
+28,01/04/34,Pro Vercelli,3-0,Palermo
+29,08/04/34,Livorno 1915,4-1,Lazio
+29,08/04/34,Palermo,2-1,Padova
+29,08/04/34,Torino,2-1,Triestina
+29,08/04/34,Roma,3-0,Genoa
+29,08/04/34,Brescia,1-2,Juventus
+29,08/04/34,Napoli,1-0,Pro Vercelli
+29,08/04/34,Fiorentina,1-0,Ambrosiana-Inter
+29,08/04/34,Casale,0-3,Bologna
+29,08/04/34,AC Milan,3-0,Alessandria
+30,12/04/34,Palermo,0-0,Torino
+30,12/04/34,Pro Vercelli,0-0,Livorno 1915
+30,12/04/34,Padova,2-0,Triestina
+30,12/04/34,Lazio,2-1,Casale
+30,12/04/34,Genoa,1-2,Fiorentina
+30,12/04/34,Bologna,4-1,Brescia
+30,12/04/34,Alessandria,1-0,Napoli
+30,12/04/34,Ambrosiana-Inter,0-0,Roma
+30,12/04/34,Juventus,4-0,AC Milan
+32,22/04/34,AC Milan,0-2,Napoli
+32,22/04/34,Palermo,2-0,Genoa
+32,22/04/34,Torino,1-0,Ambrosiana-Inter
+32,22/04/34,Padova,0-0,Fiorentina
+32,22/04/34,Lazio,0-2,Juventus
+32,22/04/34,Brescia,3-2,Triestina
+32,22/04/34,Alessandria,1-1,Roma
+32,22/04/34,Bologna,4-1,Pro Vercelli
+32,22/04/34,Livorno 1915,5-0,Casale
+33,26/04/34,Casale,1-4,Napoli
+33,26/04/34,Roma,2-1,Palermo
+33,26/04/34,Pro Vercelli,2-1,AC Milan
+33,26/04/34,Juventus,5-1,Padova
+33,26/04/34,Alessandria,2-1,Livorno 1915
+33,26/04/34,Fiorentina,1-1,Triestina
+33,26/04/34,Bologna,0-0,Lazio
+33,26/04/34,Ambrosiana-Inter,1-0,Brescia
+33,26/04/34,Genoa,2-2,Torino
+34,29/04/34,Lazio,3-2,Brescia
+34,29/04/34,Torino,3-6,Roma
+34,29/04/34,Pro Vercelli,0-2,Juventus
+34,29/04/34,Triestina,3-0,Alessandria
+34,29/04/34,Padova,0-0,Genoa
+34,29/04/34,Casale,0-0,AC Milan
+34,29/04/34,Ambrosiana-Inter,3-1,Palermo
+34,29/04/34,Napoli,1-1,Fiorentina
+34,29/04/34,Livorno 1915,0-0,Bologna
+31,15/05/34,Genoa,0-0,Ambrosiana-Inter
+31,15/05/34,Triestina,4-2,Lazio
+31,15/05/34,Roma,2-0,Padova

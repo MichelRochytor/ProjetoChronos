@@ -1,0 +1,206 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,17/09/09,Ajax,0-0,Poli Timisoara
+A,17/09/09,Dinamo Zagreb,0-2,Anderlecht
+B,17/09/09,Lille,1-1,Valencia CF
+B,17/09/09,Genoa,2-0,Slavia Praha
+C,17/09/09,Hapoel Tel Aviv,2-1,Celtic
+C,17/09/09,Rapid Wien,3-0,Hamburger SV
+D,17/09/09,Hertha BSC,1-1,Ventspils
+D,17/09/09,Heerenveen,2-3,Sporting
+E,17/09/09,CSKA Sofia,1-1,Fulham
+E,17/09/09,FC Basel,2-0,Roma
+F,17/09/09,Panathinaikos,1-3,Galatasaray
+F,17/09/09,Sturm Graz,0-1,Dinamo Bucuresti
+G,17/09/09,Lazio,1-2,Red Bull Salzburg
+G,17/09/09,Villarreal CF,1-0,Levski Sofia
+H,17/09/09,FCSB,0-0,Sheriff
+H,17/09/09,Fenerbahçe,1-2,FC Twente
+I,17/09/09,Benfica,2-0,BATE Borisov
+I,17/09/09,Everton,4-0,AEK
+J,17/09/09,Club Brugge,1-4,Shakhtar Donetsk
+J,17/09/09,Partizan,2-3,Toulouse
+K,17/09/09,Sparta Praha,2-2,PSV
+K,17/09/09,CFR Cluj,2-0,FC Kobenhavn
+L,17/09/09,Athletic Bilbao,3-0,Austria Wien
+L,17/09/09,Nacional,2-3,Werder Bremen
+G,01/10/09,Levski Sofia,0-4,Lazio
+G,01/10/09,Red Bull Salzburg,2-0,Villarreal CF
+H,01/10/09,FC Twente,0-0,FCSB
+H,01/10/09,Sheriff,0-1,Fenerbahçe
+I,01/10/09,AEK,1-0,Benfica
+I,01/10/09,BATE Borisov,1-2,Everton
+J,01/10/09,Toulouse,2-2,Club Brugge
+J,01/10/09,Shakhtar Donetsk,4-1,Partizan
+K,01/10/09,FC Kobenhavn,1-0,Sparta Praha
+K,01/10/09,PSV,1-0,CFR Cluj
+L,01/10/09,Werder Bremen,3-1,Athletic Bilbao
+L,01/10/09,Austria Wien,1-1,Nacional
+A,01/10/09,Anderlecht,1-1,Ajax
+A,01/10/09,Poli Timisoara,0-3,Dinamo Zagreb
+B,01/10/09,Slavia Praha,1-5,Lille
+B,01/10/09,Valencia CF,3-2,Genoa
+C,01/10/09,Hamburger SV,4-2,Hapoel Tel Aviv
+C,01/10/09,Celtic,1-1,Rapid Wien
+D,01/10/09,Sporting,1-0,Hertha BSC
+D,01/10/09,Ventspils,0-0,Heerenveen
+E,01/10/09,Roma,2-0,CSKA Sofia
+E,01/10/09,Fulham,1-0,FC Basel
+F,01/10/09,Dinamo Bucuresti,0-1,Panathinaikos
+F,01/10/09,Galatasaray,1-1,Sturm Graz
+G,22/10/09,Red Bull Salzburg,1-0,Levski Sofia
+G,22/10/09,Lazio,2-1,Villarreal CF
+H,22/10/09,Sheriff,2-0,FC Twente
+H,22/10/09,FCSB,0-1,Fenerbahçe
+I,22/10/09,BATE Borisov,2-1,AEK
+I,22/10/09,Benfica,5-0,Everton
+J,22/10/09,Shakhtar Donetsk,4-0,Toulouse
+J,22/10/09,Club Brugge,2-0,Partizan
+K,22/10/09,PSV,1-0,FC Kobenhavn
+K,22/10/09,Sparta Praha,2-0,CFR Cluj
+L,22/10/09,Austria Wien,2-2,Werder Bremen
+L,22/10/09,Athletic Bilbao,2-1,Nacional
+A,22/10/09,Poli Timisoara,0-0,Anderlecht
+A,22/10/09,Ajax,2-1,Dinamo Zagreb
+B,22/10/09,Valencia CF,1-1,Slavia Praha
+B,22/10/09,Lille,3-0,Genoa
+C,22/10/09,Celtic,0-1,Hamburger SV
+C,22/10/09,Hapoel Tel Aviv,5-1,Rapid Wien
+D,22/10/09,Ventspils,1-2,Sporting
+D,22/10/09,Hertha BSC,0-1,Heerenveen
+E,22/10/09,Fulham,1-1,Roma
+E,22/10/09,CSKA Sofia,0-2,FC Basel
+F,22/10/09,Galatasaray,4-1,Dinamo Bucuresti
+F,22/10/09,Panathinaikos,1-0,Sturm Graz
+A,05/11/09,Anderlecht,3-1,Poli Timisoara
+A,05/11/09,Dinamo Zagreb,0-2,Ajax
+B,05/11/09,Slavia Praha,2-2,Valencia CF
+B,05/11/09,Genoa,3-2,Lille
+C,05/11/09,Hamburger SV,0-0,Celtic
+C,05/11/09,Rapid Wien,0-3,Hapoel Tel Aviv
+D,05/11/09,Sporting,1-1,Ventspils
+D,05/11/09,Heerenveen,2-3,Hertha BSC
+E,05/11/09,Roma,2-1,Fulham
+E,05/11/09,FC Basel,3-1,CSKA Sofia
+F,05/11/09,Dinamo Bucuresti,0-3,Galatasaray
+F,05/11/09,Sturm Graz,0-1,Panathinaikos
+G,05/11/09,Levski Sofia,0-1,Red Bull Salzburg
+G,05/11/09,Villarreal CF,4-1,Lazio
+H,05/11/09,FC Twente,2-1,Sheriff
+H,05/11/09,Fenerbahçe,3-1,FCSB
+I,05/11/09,AEK,2-2,BATE Borisov
+I,05/11/09,Everton,0-2,Benfica
+J,05/11/09,Toulouse,0-2,Shakhtar Donetsk
+J,05/11/09,Partizan,2-4,Club Brugge
+K,05/11/09,FC Kobenhavn,1-1,PSV
+K,05/11/09,CFR Cluj,2-3,Sparta Praha
+L,05/11/09,Werder Bremen,2-0,Austria Wien
+L,05/11/09,Nacional,1-1,Athletic Bilbao
+G,02/12/09,Red Bull Salzburg,2-1,Lazio
+G,02/12/09,Levski Sofia,0-2,Villarreal CF
+H,02/12/09,Sheriff,1-1,FCSB
+H,02/12/09,FC Twente,0-1,Fenerbahçe
+I,02/12/09,BATE Borisov,1-2,Benfica
+I,02/12/09,AEK,0-1,Everton
+A,02/12/09,Poli Timisoara,1-2,Ajax
+A,02/12/09,Anderlecht,0-1,Dinamo Zagreb
+B,02/12/09,Valencia CF,3-1,Lille
+B,02/12/09,Slavia Praha,0-0,Genoa
+C,02/12/09,Celtic,2-0,Hapoel Tel Aviv
+C,02/12/09,Hamburger SV,2-0,Rapid Wien
+J,03/12/09,Shakhtar Donetsk,0-0,Club Brugge
+J,03/12/09,Toulouse,1-0,Partizan
+K,03/12/09,PSV,1-0,Sparta Praha
+K,03/12/09,FC Kobenhavn,2-0,CFR Cluj
+L,03/12/09,Austria Wien,0-3,Athletic Bilbao
+L,03/12/09,Werder Bremen,4-1,Nacional
+D,03/12/09,Ventspils,0-1,Hertha BSC
+D,03/12/09,Sporting,1-1,Heerenveen
+E,03/12/09,Fulham,1-0,CSKA Sofia
+E,03/12/09,Roma,2-1,FC Basel
+F,03/12/09,Galatasaray,1-0,Panathinaikos
+F,03/12/09,Dinamo Bucuresti,2-1,Sturm Graz
+D,16/12/09,Hertha BSC,1-0,Sporting
+D,16/12/09,Heerenveen,5-0,Ventspils
+E,16/12/09,CSKA Sofia,0-3,Roma
+E,16/12/09,FC Basel,2-3,Fulham
+F,16/12/09,Panathinaikos,3-0,Dinamo Bucuresti
+F,16/12/09,Sturm Graz,1-0,Galatasaray
+J,16/12/09,Club Brugge,1-0,Toulouse
+J,16/12/09,Partizan,1-0,Shakhtar Donetsk
+K,16/12/09,Sparta Praha,0-3,FC Kobenhavn
+K,16/12/09,CFR Cluj,0-2,PSV
+L,16/12/09,Athletic Bilbao,0-3,Werder Bremen
+L,16/12/09,Nacional,5-1,Austria Wien
+A,17/12/09,Ajax,1-3,Anderlecht
+A,17/12/09,Dinamo Zagreb,1-2,Poli Timisoara
+B,17/12/09,Lille,3-1,Slavia Praha
+B,17/12/09,Genoa,1-2,Valencia CF
+C,17/12/09,Hapoel Tel Aviv,1-0,Hamburger SV
+C,17/12/09,Rapid Wien,3-3,Celtic
+G,17/12/09,Lazio,0-1,Levski Sofia
+G,17/12/09,Villarreal CF,0-1,Red Bull Salzburg
+H,17/12/09,FCSB,1-1,FC Twente
+H,17/12/09,Fenerbahçe,1-0,Sheriff
+I,17/12/09,Benfica,2-1,AEK
+I,17/12/09,Everton,0-1,BATE Borisov
+1/16,16/02/10,Everton,2-1,Sporting
+1/16,18/02/10,Rubin Kazan,3-0,Hapoel Tel Aviv
+1/16,18/02/10,Ajax,1-2,Juventus
+1/16,18/02/10,Club Brugge,1-0,Valencia CF
+1/16,18/02/10,Villarreal CF,2-2,Wolfsburg
+1/16,18/02/10,Standard Liège,3-2,Red Bull Salzburg
+1/16,18/02/10,FC Twente,1-0,Werder Bremen
+1/16,18/02/10,Lille,2-1,Fenerbahçe
+1/16,18/02/10,Athletic Bilbao,1-1,Anderlecht
+1/16,18/02/10,FC Kobenhavn,1-3,Marseille
+1/16,18/02/10,Panathinaikos,3-2,Roma
+1/16,18/02/10,Atlético de Madrid,1-1,Galatasaray
+1/16,18/02/10,Fulham,2-1,Shakhtar Donetsk
+1/16,18/02/10,Liverpool,1-0,Unirea Urziceni
+1/16,18/02/10,Hamburger SV,1-0,PSV
+1/16,18/02/10,Hertha BSC,1-1,Benfica
+1/16,23/02/10,Benfica,4-0,Hertha BSC
+1/16,25/02/10,Anderlecht,4-0,Athletic Bilbao
+1/16,25/02/10,Marseille,3-1,FC Kobenhavn
+1/16,25/02/10,Roma,2-3,Panathinaikos
+1/16,25/02/10,Galatasaray,1-2,Atlético de Madrid
+1/16,25/02/10,Shakhtar Donetsk,1-1,Fulham
+1/16,25/02/10,Unirea Urziceni,1-3,Liverpool
+1/16,25/02/10,PSV,3-2,Hamburger SV
+1/16,25/02/10,Hapoel Tel Aviv,0-0,Rubin Kazan
+1/16,25/02/10,Juventus,0-0,Ajax
+1/16,25/02/10,Valencia CF,3-0(Pro.),Club Brugge
+1/16,25/02/10,Wolfsburg,4-1,Villarreal CF
+1/16,25/02/10,Red Bull Salzburg,0-0,Standard Liège
+1/16,25/02/10,Werder Bremen,4-1,FC Twente
+1/16,25/02/10,Fenerbahçe,1-1,Lille
+1/16,25/02/10,Sporting,3-0,Everton
+1/8,11/03/10,Hamburger SV,3-1,Anderlecht
+1/8,11/03/10,Rubin Kazan,1-1,Wolfsburg
+1/8,11/03/10,Atlético de Madrid,0-0,Sporting
+1/8,11/03/10,Lille,1-0,Liverpool
+1/8,11/03/10,Benfica,1-1,Marseille
+1/8,11/03/10,Panathinaikos,1-3,Standard Liège
+1/8,11/03/10,Juventus,3-1,Fulham
+1/8,11/03/10,Valencia CF,1-1,Werder Bremen
+1/8,18/03/10,Marseille,1-2,Benfica
+1/8,18/03/10,Standard Liège,1-0,Panathinaikos
+1/8,18/03/10,Fulham,4-1,Juventus
+1/8,18/03/10,Werder Bremen,4-4,Valencia CF
+1/8,18/03/10,Anderlecht,4-3,Hamburger SV
+1/8,18/03/10,Wolfsburg,2-1(Pro.),Rubin Kazan
+1/8,18/03/10,Sporting,2-2,Atlético de Madrid
+1/8,18/03/10,Liverpool,3-0,Lille
+QF,01/04/10,Fulham,2-1,Wolfsburg
+QF,01/04/10,Hamburger SV,2-1,Standard Liège
+QF,01/04/10,Valencia CF,2-2,Atlético de Madrid
+QF,01/04/10,Benfica,2-1,Liverpool
+QF,08/04/10,Wolfsburg,0-1,Fulham
+QF,08/04/10,Standard Liège,1-3,Hamburger SV
+QF,08/04/10,Atlético de Madrid,0-0,Valencia CF
+QF,08/04/10,Liverpool,4-1,Benfica
+SF,22/04/10,Hamburger SV,0-0,Fulham
+SF,22/04/10,Atlético de Madrid,1-0,Liverpool
+SF,29/04/10,Fulham,2-1,Hamburger SV
+SF,29/04/10,Liverpool,2-1(Pro.),Atlético de Madrid
+F,12/05/10,Atlético de Madrid,2-1(Pro.),Fulham

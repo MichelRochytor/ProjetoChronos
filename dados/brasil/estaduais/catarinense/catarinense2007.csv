@@ -1,0 +1,135 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,17/01/07,Chapecoense,1-0,Figueirense
+1T,17/01/07,Avaí,1-2,Juventus Jaraguá
+1T,17/01/07,Brusque,0-0,Hermann Aichinger
+1T,17/01/07,Marcílio Dias,1-0,Metropolitano
+1T,17/01/07,Criciúma,3-1,Próspera
+1T,18/01/07,Guarani-SC,1-2,Joinville
+1T,21/01/07,Juventus Jaraguá,1-1,Chapecoense
+1T,21/01/07,Figueirense,1-2,Brusque
+1T,21/01/07,Hermann Aichinger,1-1,Criciúma
+1T,21/01/07,Próspera,1-1,Marcílio Dias
+1T,21/01/07,Metropolitano,0-1,Guarani-SC
+1T,21/01/07,Joinville,4-2,Avaí
+1T,24/01/07,Brusque,2-3,Juventus Jaraguá
+1T,24/01/07,Criciúma,2-1,Figueirense
+1T,24/01/07,Marcílio Dias,1-1,Hermann Aichinger
+1T,24/01/07,Joinville,2-2,Metropolitano
+1T,24/01/07,Avaí,4-0,Chapecoense
+1T,25/01/07,Guarani-SC,3-2,Próspera
+1T,28/01/07,Juventus Jaraguá,1-0,Criciúma
+1T,28/01/07,Figueirense,1-0,Marcílio Dias
+1T,28/01/07,Hermann Aichinger,2-1,Guarani-SC
+1T,28/01/07,Próspera,3-0,Joinville
+1T,28/01/07,Metropolitano,1-0,Avaí
+1T,28/01/07,Chapecoense,0-0,Brusque
+1T,31/01/07,Marcílio Dias,2-0,Juventus Jaraguá
+1T,31/01/07,Joinville,2-2,Hermann Aichinger
+1T,31/01/07,Metropolitano,4-1,Próspera
+1T,31/01/07,Avaí,2-1,Brusque
+1T,31/01/07,Criciúma,2-1,Chapecoense
+1T,01/02/07,Guarani-SC,2-1,Figueirense
+1T,04/02/07,Juventus Jaraguá,3-1,Guarani-SC
+1T,04/02/07,Figueirense,5-2,Joinville
+1T,04/02/07,Hermann Aichinger,4-0,Metropolitano
+1T,04/02/07,Próspera,1-1,Avaí
+1T,04/02/07,Chapecoense,1-1,Marcílio Dias
+1T,04/02/07,Brusque,1-2,Criciúma
+1T,07/02/07,Metropolitano,2-1,Figueirense
+1T,08/02/07,Joinville,1-4,Juventus Jaraguá
+1T,08/02/07,Próspera,0-2,Hermann Aichinger
+1T,08/02/07,Avaí,1-3,Criciúma
+1T,08/02/07,Guarani-SC,0-2,Chapecoense
+1T,08/02/07,Marcílio Dias,0-0,Brusque
+1T,11/02/07,Juventus Jaraguá,4-2,Metropolitano
+1T,11/02/07,Figueirense,1-3,Próspera
+1T,11/02/07,Hermann Aichinger,1-1,Avaí
+1T,11/02/07,Joinville,4-4,Chapecoense
+1T,11/02/07,Brusque,2-0,Guarani-SC
+1T,11/02/07,Criciúma,3-0,Marcílio Dias
+1T,14/02/07,Figueirense,3-0,Avaí
+1T,14/02/07,Juventus Jaraguá,4-2,Hermann Aichinger
+1T,14/02/07,Chapecoense,3-0,Próspera
+1T,14/02/07,Brusque,2-2,Metropolitano
+1T,14/02/07,Criciúma,3-0,Joinville
+1T,14/02/07,Marcílio Dias,1-4,Guarani-SC
+1T,17/02/07,Avaí,1-0,Marcílio Dias
+1T,17/02/07,Joinville,1-1,Brusque
+1T,18/02/07,Próspera,1-8,Juventus Jaraguá
+1T,18/02/07,Hermann Aichinger,1-0,Figueirense
+1T,18/02/07,Guarani-SC,0-1,Criciúma
+1T,22/02/07,Metropolitano,0-0,Chapecoense
+1T,24/02/07,Guarani-SC,1-1,Avaí
+1T,25/02/07,Figueirense,2-1,Juventus Jaraguá
+1T,25/02/07,Chapecoense,2-0,Hermann Aichinger
+1T,25/02/07,Brusque,2-1,Próspera
+1T,25/02/07,Criciúma,4-2,Metropolitano
+1T,25/02/07,Marcílio Dias,1-1,Joinville
+2T,04/03/07,Juventus Jaraguá,1-2,Avaí
+2T,04/03/07,Figueirense,2-2,Chapecoense
+2T,04/03/07,Hermann Aichinger,1-0,Brusque
+2T,04/03/07,Próspera,2-4,Criciúma
+2T,04/03/07,Metropolitano,2-0,Marcílio Dias
+2T,04/03/07,Joinville,0-2,Guarani-SC
+2T,07/03/07,Avaí,2-1,Joinville
+2T,07/03/07,Brusque,2-2,Figueirense
+2T,07/03/07,Chapecoense,1-0,Juventus Jaraguá
+2T,07/03/07,Criciúma,4-2,Hermann Aichinger
+2T,07/03/07,Marcílio Dias,1-0,Próspera
+2T,08/03/07,Guarani-SC,2-1,Metropolitano
+2T,11/03/07,Juventus Jaraguá,3-2,Brusque
+2T,11/03/07,Figueirense,0-1,Criciúma
+2T,11/03/07,Hermann Aichinger,1-1,Marcílio Dias
+2T,11/03/07,Próspera,1-0,Guarani-SC
+2T,11/03/07,Metropolitano,1-2,Joinville
+2T,11/03/07,Chapecoense,2-2,Avaí
+2T,17/03/07,Guarani-SC,1-1,Hermann Aichinger
+2T,18/03/07,Marcílio Dias,2-4,Figueirense
+2T,18/03/07,Criciúma,2-1,Juventus Jaraguá
+2T,18/03/07,Joinville,1-2,Próspera
+2T,18/03/07,Avaí,5-1,Metropolitano
+2T,18/03/07,Brusque,0-2,Chapecoense
+2T,25/03/07,Juventus Jaraguá,2-4,Marcílio Dias
+2T,25/03/07,Figueirense,4-4,Guarani-SC
+2T,25/03/07,Próspera,0-0,Metropolitano
+2T,25/03/07,Brusque,0-1,Avaí
+2T,25/03/07,Chapecoense,2-1,Criciúma
+2T,25/03/07,Hermann Aichinger,3-1,Joinville
+2T,28/03/07,Avaí,4-1,Próspera
+2T,28/03/07,Joinville,1-2,Figueirense
+2T,28/03/07,Metropolitano,1-2,Hermann Aichinger
+2T,28/03/07,Criciúma,3-2,Brusque
+2T,28/03/07,Marcílio Dias,0-1,Chapecoense
+2T,29/03/07,Guarani-SC,1-0,Juventus Jaraguá
+2T,31/03/07,Figueirense,4-1,Metropolitano
+2T,01/04/07,Juventus Jaraguá,2-2,Joinville
+2T,01/04/07,Criciúma,2-2,Avaí
+2T,01/04/07,Hermann Aichinger,5-1,Próspera
+2T,01/04/07,Chapecoense,3-2,Guarani-SC
+2T,01/04/07,Brusque,2-1,Marcílio Dias
+2T,07/04/07,Próspera,1-3,Figueirense
+2T,07/04/07,Guarani-SC,0-4,Brusque
+2T,08/04/07,Avaí,3-0,Hermann Aichinger
+2T,08/04/07,Chapecoense,2-0,Joinville
+2T,08/04/07,Marcílio Dias,1-5,Criciúma
+2T,08/04/07,Metropolitano,4-2,Juventus Jaraguá
+2T,11/04/07,Próspera,2-5,Chapecoense
+2T,11/04/07,Hermann Aichinger,2-0,Juventus Jaraguá
+2T,11/04/07,Joinville,0-1,Criciúma
+2T,11/04/07,Metropolitano,2-1,Brusque
+2T,12/04/07,Guarani-SC,4-2,Marcílio Dias
+2T,13/04/07,Avaí,0-1,Figueirense
+2T,15/04/07,Figueirense,1-2,Hermann Aichinger
+2T,15/04/07,Juventus Jaraguá,2-4,Próspera
+2T,15/04/07,Chapecoense,1-0,Metropolitano
+2T,15/04/07,Brusque,2-2,Joinville
+2T,15/04/07,Criciúma,3-0,Guarani-SC
+2T,15/04/07,Marcílio Dias,3-3,Avaí
+2T,21/04/07,Próspera,2-2,Brusque
+2T,21/04/07,Avaí,3-2,Guarani-SC
+2T,22/04/07,Hermann Aichinger,2-3,Chapecoense
+2T,22/04/07,Joinville,2-1,Marcílio Dias
+2T,22/04/07,Juventus Jaraguá,0-1,Figueirense
+2T,22/04/07,Metropolitano,1-1,Criciúma
+F,29/04/07,Chapecoense,1-0,Criciúma
+F,06/05/07,Criciúma,2-2,Chapecoense

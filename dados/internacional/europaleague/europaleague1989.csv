@@ -1,0 +1,127 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,12/09/89,Austria Wien,1-0,Ajax
+1,12/09/89,Levski Sofia,0-0,Royal Antwerp
+1,12/09/89,Apollon Limassol,0-3,Real Zaragoza
+1,12/09/89,Aberdeen,2-1,Rapid Wien
+1,12/09/89,Hibernian,1-0,Videoton FC Fehérvár
+1,12/09/89,Atlético de Madrid,1-0,Fiorentina
+1,12/09/89,Valencia CF,3-1,Victoria Bucuresti
+1,12/09/89,FC Kuusysi,0-0,PSG
+1,12/09/89,RoPS,1-1,GKS Katowice
+1,12/09/89,Auxerre,5-0,Apolonia Fier
+1,12/09/89,Sochaux,7-0,Jeunesse Esch
+1,12/09/89,Iraklis,1-0,FC Sion
+1,12/09/89,Glentoran,1-3,Dundee United
+1,12/09/89,ÍA Akraness,0-2,RFC Liège
+1,12/09/89,Atalanta,0-0,Spartak Moskva
+1,12/09/89,Valletta FC,1-4,First Vienna
+1,12/09/89,Lillestrom,1-3,Werder Bremen
+1,12/09/89,FC Twente,0-0,Club Brugge
+1,12/09/89,Górnik Zabrze,0-1,Juventus
+1,12/09/89,FC Köln,4-1,FC Nitra
+1,12/09/89,Stuttgart,2-0,Feyenoord
+1,12/09/89,Orgryte,1-2,Hamburger SV
+1,12/09/89,FC Wettingen,3-0,Dundalk
+1,12/09/89,Galatasaray,1-1,Crvena Zvezda
+1,12/09/89,Dynamo Kyiv,4-0,MTK
+1,12/09/89,Zenit,3-1,Naestved
+1,12/09/89,FK Zalgiris,2-0,IFK Goteborg
+1,12/09/89,Rad Beograd,2-1,Olympiacos
+1,12/09/89,Hansa Rostock,2-3,Baník Ostrava
+1,13/09/89,FC Porto,2-0,Flacara Moreni
+1,13/09/89,Chemnitzer FC,1-0,Boavista FC
+1,14/09/89,Sporting,0-0,Napoli
+1,26/09/89,Ajax,DA,Austria Wien
+1,26/09/89,Royal Antwerp,4-3,Levski Sofia
+1,26/09/89,Real Zaragoza,1-1,Apollon Limassol
+1,26/09/89,Rapid Wien,1-0,Aberdeen
+1,26/09/89,Videoton FC Fehérvár,0-3,Hibernian
+1,26/09/89,Fiorentina,1-0(3-1 Pen.),Atlético de Madrid
+1,26/09/89,Victoria Bucuresti,1-1,Valencia CF
+1,26/09/89,PSG,3-2,FC Kuusysi
+1,26/09/89,GKS Katowice,0-1,RoPS
+1,26/09/89,Apolonia Fier,0-3,Auxerre
+1,26/09/89,Jeunesse Esch,0-5,Sochaux
+1,26/09/89,FC Sion,2-0,Iraklis
+1,26/09/89,Dundee United,2-0,Glentoran
+1,26/09/89,RFC Liège,4-1,ÍA Akraness
+1,26/09/89,Spartak Moskva,2-0,Atalanta
+1,26/09/89,First Vienna,3-0,Valletta FC
+1,26/09/89,Werder Bremen,2-0,Lillestrom
+1,26/09/89,Club Brugge,4-1,FC Twente
+1,26/09/89,Juventus,4-2,Górnik Zabrze
+1,26/09/89,FC Nitra,0-1,FC Köln
+1,26/09/89,Feyenoord,2-1,Stuttgart
+1,26/09/89,Hamburger SV,5-1,Orgryte
+1,26/09/89,Dundalk,0-2,FC Wettingen
+1,26/09/89,Crvena Zvezda,2-0,Galatasaray
+1,26/09/89,MTK,1-2,Dynamo Kyiv
+1,26/09/89,Naestved,0-0,Zenit
+1,26/09/89,IFK Goteborg,1-0,FK Zalgiris
+1,26/09/89,Olympiacos,2-0,Rad Beograd
+1,26/09/89,Baník Ostrava,4-0,Hansa Rostock
+1,26/09/89,Boavista FC,2-2(Pro.),Chemnitzer FC
+1,27/09/89,Napoli,0-0(4-3 Pen.),Sporting
+1,27/09/89,Flacara Moreni,1-2,FC Porto
+2,17/10/89,First Vienna,2-2,Olympiacos
+2,17/10/89,Royal Antwerp,4-0,Dundee United
+2,17/10/89,Club Brugge,1-2,Rapid Wien
+2,17/10/89,Hibernian,0-0,RFC Liège
+2,17/10/89,Real Zaragoza,1-0,Hamburger SV
+2,17/10/89,RoPS,0-5,Auxerre
+2,17/10/89,PSG,0-1,Juventus
+2,17/10/89,Fiorentina,0-0,Sochaux
+2,17/10/89,Werder Bremen,5-0,Austria Wien
+2,17/10/89,FC Köln,3-1,Spartak Moskva
+2,17/10/89,FC Sion,2-1,Chemnitzer FC
+2,17/10/89,FC Wettingen,0-0,Napoli
+2,17/10/89,Dynamo Kyiv,3-0,Baník Ostrava
+2,17/10/89,Zenit,0-1,Stuttgart
+2,17/10/89,Crvena Zvezda,4-1,FK Zalgiris
+2,18/10/89,FC Porto,3-1,Valencia CF
+2,31/10/89,Olympiacos,1-1,First Vienna
+2,31/10/89,Dundee United,3-2,Royal Antwerp
+2,31/10/89,Rapid Wien,4-3,Club Brugge
+2,31/10/89,RFC Liège,1-0(Pro.),Hibernian
+2,31/10/89,Hamburger SV,2-0(Pro.),Real Zaragoza
+2,31/10/89,Auxerre,3-0,RoPS
+2,31/10/89,Juventus,2-1,PSG
+2,31/10/89,Sochaux,1-1,Fiorentina
+2,31/10/89,Austria Wien,2-0,Werder Bremen
+2,31/10/89,Spartak Moskva,0-0,FC Köln
+2,31/10/89,Chemnitzer FC,4-1,FC Sion
+2,31/10/89,Napoli,2-1,FC Wettingen
+2,31/10/89,Baník Ostrava,1-1,Dynamo Kyiv
+2,31/10/89,Stuttgart,5-0,Zenit
+2,31/10/89,FK Zalgiris,0-1,Crvena Zvezda
+2,01/11/89,Valencia CF,3-2,FC Porto
+3,22/11/89,Rapid Wien,1-0,RFC Liège
+3,22/11/89,Royal Antwerp,1-0,Stuttgart
+3,22/11/89,Olympiacos,1-1,Auxerre
+3,22/11/89,Fiorentina,1-0,Dynamo Kyiv
+3,22/11/89,Napoli,2-3,Werder Bremen
+3,22/11/89,Juventus,2-1,Chemnitzer FC
+3,22/11/89,Hamburger SV,1-0,FC Porto
+3,22/11/89,Crvena Zvezda,2-0,FC Köln
+3,06/12/89,RFC Liège,3-1,Rapid Wien
+3,06/12/89,Stuttgart,1-1,Royal Antwerp
+3,06/12/89,Auxerre,0-0,Olympiacos
+3,06/12/89,Dynamo Kyiv,0-0,Fiorentina
+3,06/12/89,Werder Bremen,5-1,Napoli
+3,06/12/89,Chemnitzer FC,0-1,Juventus
+3,06/12/89,FC Porto,2-1,Hamburger SV
+3,06/12/89,FC Köln,3-0,Crvena Zvezda
+QF,07/03/90,RFC Liège,1-4,Werder Bremen
+QF,07/03/90,Fiorentina,1-0,Auxerre
+QF,07/03/90,FC Köln,2-0,Royal Antwerp
+QF,07/03/90,Hamburger SV,0-2,Juventus
+QF,21/03/90,Werder Bremen,0-2,RFC Liège
+QF,21/03/90,Auxerre,0-1,Fiorentina
+QF,21/03/90,Royal Antwerp,0-0,FC Köln
+QF,21/03/90,Juventus,1-2,Hamburger SV
+SF,03/04/90,Juventus,3-2,FC Köln
+SF,03/04/90,Werder Bremen,1-1,Fiorentina
+SF,17/04/90,FC Köln,0-0,Juventus
+SF,17/04/90,Fiorentina,0-0,Werder Bremen
+F,02/05/90,Juventus,3-1,Fiorentina
+F,16/05/90,Fiorentina,0-0,Juventus

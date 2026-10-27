@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,21/08/26,Arsenal,3-0,Coventry City
+1,22/08/26,Hull City,2-0,Manchester United
+1,22/08/26,Ipswich Town,2-1,Sunderland
+1,22/08/26,Nottingham Forest,0-1,Leeds United
+1,22/08/26,Everton,2-0,Crystal Palace
+1,22/08/26,Brentford,3-0,Tottenham
+1,23/08/26,Brighton & Hove Albion,4-0,Aston Villa
+1,23/08/26,Manchester City,2-1,Bournemouth
+1,23/08/26,Newcastle,2-2,Liverpool
+1,24/08/26,Fulham,2-3,Chelsea
+2,28/08/26,Crystal Palace,1-4,Manchester City
+2,29/08/26,Liverpool,2-2,Nottingham Forest
+2,29/08/26,Bournemouth,1-1,Everton
+2,29/08/26,Coventry City,0-1,Hull City
+2,29/08/26,Tottenham,0-2,Newcastle
+2,30/08/26,Chelsea,4-3,Brighton & Hove Albion
+2,30/08/26,Leeds United,1-1,Brentford
+2,30/08/26,Sunderland,1-0,Fulham
+2,30/08/26,Manchester United,5-2,Ipswich Town
+2,31/08/26,Aston Villa,0-1,Arsenal
+3,04/09/26,Ipswich Town,0-2,Liverpool
+3,05/09/26,Newcastle,2-2,Bournemouth
+3,05/09/26,Brentford,1-1,Sunderland
+3,05/09/26,Brighton & Hove Albion,1-1,Leeds United
+3,05/09/26,Fulham,2-3,Crystal Palace
+3,05/09/26,Manchester City,1-0,Coventry City
+3,05/09/26,Nottingham Forest,0-0,Tottenham
+3,05/09/26,Hull City,0-0,Aston Villa
+3,06/09/26,Everton,2-2,Manchester United
+3,06/09/26,Arsenal,2-1,Chelsea
+4,12/09/26,Aston Villa,1-2,Nottingham Forest
+4,12/09/26,Bournemouth,2-2,Brentford
+4,12/09/26,Chelsea,2-2,Hull City
+4,12/09/26,Crystal Palace,2-3,Ipswich Town
+4,12/09/26,Liverpool,0-0,Fulham
+4,12/09/26,Tottenham,0-0,Everton
+4,12/09/26,Sunderland,0-2,Arsenal
+4,13/09/26,Coventry City,0-5,Brighton & Hove Albion
+4,13/09/26,Manchester United,0-1,Manchester City
+4,14/09/26,Leeds United,4-1,Newcastle
+5,18/09/26,Brentford,3-0,Chelsea
+5,19/09/26,Tottenham,2-3,Aston Villa
+5,19/09/26,Brighton & Hove Albion,3-0,Arsenal
+5,19/09/26,Everton,1-0,Ipswich Town
+5,19/09/26,Newcastle,2-1,Hull City
+5,19/09/26,Nottingham Forest,0-1,Coventry City
+5,20/09/26,Bournemouth,0-1,Liverpool
+5,20/09/26,Leeds United,0-0,Crystal Palace
+5,20/09/26,Manchester City,5-3,Sunderland
+5,20/09/26,Fulham,1-1,Manchester United
+6,10/10/26,Arsenal,2-1,Leeds United
+6,10/10/26,Aston Villa,2-2,Brentford
+6,10/10/26,Chelsea,5-1,Bournemouth
+6,10/10/26,Ipswich Town,2-1,Fulham
+6,10/10/26,Sunderland,0-2,Brighton & Hove Albion
+6,10/10/26,Manchester United,1-1,Tottenham
+6,11/10/26,Crystal Palace,3-1,Nottingham Forest
+6,11/10/26,Hull City,2-2,Everton
+6,11/10/26,Liverpool,0-3,Manchester City
+6,12/10/26,Coventry City,4-1,Newcastle
+7,17/10/26,Everton,0-2,Chelsea
+7,17/10/26,Brentford,1-2,Liverpool
+7,17/10/26,Fulham,1-0,Hull City
+7,17/10/26,Manchester City,3-2,Ipswich Town
+7,17/10/26,Newcastle,0-1,Aston Villa
+7,18/10/26,Bournemouth,2-0,Sunderland
+7,18/10/26,Brighton & Hove Albion,5-0,Crystal Palace
+7,18/10/26,Leeds United,1-1,Manchester United
+7,18/10/26,Nottingham Forest,0-1,Arsenal
+7,19/10/26,Tottenham,3-1,Coventry City
+8,23/10/26,Ipswich Town,1-1,Nottingham Forest
+8,24/10/26,Aston Villa,2-1,Manchester City
+8,24/10/26,Arsenal,2-0,Everton
+8,24/10/26,Coventry City,0-1,Fulham
+8,24/10/26,Chelsea,0-2,Tottenham
+8,25/10/26,Crystal Palace,0-2,Newcastle
+8,25/10/26,Hull City,1-1,Brentford
+8,25/10/26,Liverpool,2-0,Brighton & Hove Albion
+8,25/10/26,Manchester United,0-3,Bournemouth
+8,25/10/26,Sunderland,vs,Leeds United
+9,31/10/26,Chelsea,vs,Manchester United
+9,31/10/26,Bournemouth,vs,Leeds United
+9,31/10/26,Brentford,vs,Nottingham Forest
+9,31/10/26,Coventry City,vs,Sunderland
+9,31/10/26,Hull City,vs,Ipswich Town
+9,31/10/26,Manchester City,vs,Brighton & Hove Albion
+9,31/10/26,Tottenham,vs,Crystal Palace
+9,31/10/26,Aston Villa,vs,Fulham
+9,01/11/26,Liverpool,vs,Arsenal
+9,02/11/26,Newcastle,vs,Everton
+10,06/11/26,Everton,vs,Coventry City
+10,07/11/26,Leeds United,vs,Tottenham
+10,07/11/26,Arsenal,vs,Hull City
+10,07/11/26,Fulham,vs,Newcastle
+10,07/11/26,Nottingham Forest,vs,Manchester City
+10,08/11/26,Brighton & Hove Albion,vs,Brentford
+10,08/11/26,Crystal Palace,vs,Liverpool
+10,08/11/26,Ipswich Town,vs,Bournemouth
+10,08/11/26,Sunderland,vs,Chelsea
+10,08/11/26,Manchester United,vs,Aston Villa
+11,21/11/26,Manchester City,vs,Fulham
+11,21/11/26,Aston Villa,vs,Sunderland
+11,21/11/26,Bournemouth,vs,Nottingham Forest
+11,21/11/26,Chelsea,vs,Leeds United
+11,21/11/26,Coventry City,vs,Crystal Palace
+11,21/11/26,Tottenham,vs,Ipswich Town
+11,21/11/26,Newcastle,vs,Arsenal
+11,22/11/26,Hull City,vs,Brighton & Hove Albion
+11,22/11/26,Liverpool,vs,Manchester United
+11,23/11/26,Brentford,vs,Everton
+12,27/11/26,Nottingham Forest,vs,Chelsea
+12,28/11/26,Leeds United,vs,Coventry City
+12,28/11/26,Manchester United,vs,Brentford
+12,28/11/26,Ipswich Town,vs,Aston Villa
+12,29/11/26,Everton,vs,Liverpool
+12,29/11/26,Brighton & Hove Albion,vs,Newcastle
+12,29/11/26,Crystal Palace,vs,Hull City
+12,29/11/26,Fulham,vs,Bournemouth
+12,29/11/26,Sunderland,vs,Tottenham
+12,29/11/26,Arsenal,vs,Manchester City
+13,01/12/26,Coventry City,vs,Ipswich Town
+13,02/12/26,Chelsea,vs,Crystal Palace
+13,02/12/26,Hull City,vs,Nottingham Forest
+13,02/12/26,Liverpool,vs,Sunderland
+13,02/12/26,Manchester City,vs,Leeds United
+13,02/12/26,Aston Villa,vs,Everton
+13,02/12/26,Bournemouth,vs,Brighton & Hove Albion
+13,02/12/26,Brentford,vs,Arsenal
+13,02/12/26,Newcastle,vs,Manchester United
+13,03/12/26,Tottenham,vs,Fulham
+14,05/12/26,Chelsea,vs,Liverpool
+14,05/12/26,Aston Villa,vs,Crystal Palace
+14,05/12/26,Bournemouth,vs,Hull City
+14,05/12/26,Leeds United,vs,Ipswich Town
+14,05/12/26,Manchester United,vs,Coventry City
+14,05/12/26,Nottingham Forest,vs,Brighton & Hove Albion
+14,05/12/26,Brentford,vs,Manchester City
+14,06/12/26,Everton,vs,Fulham
+14,06/12/26,Newcastle,vs,Sunderland
+14,06/12/26,Tottenham,vs,Arsenal
+15,12/12/26,Fulham,vs,Brentford
+15,12/12/26,Ipswich Town,vs,Newcastle
+15,12/12/26,Liverpool,vs,Leeds United
+15,12/12/26,Manchester City,vs,Chelsea
+15,13/12/26,Arsenal,vs,Bournemouth
+15,13/12/26,Brighton & Hove Albion,vs,Everton
+15,13/12/26,Sunderland,vs,Nottingham Forest
+15,13/12/26,Coventry City,vs,Aston Villa
+15,13/12/26,Crystal Palace,vs,Manchester United
+15,14/12/26,Hull City,vs,Tottenham
+16,19/12/26,Brentford,vs,Newcastle
+16,19/12/26,Bournemouth,vs,Coventry City
+16,19/12/26,Leeds United,vs,Fulham
+16,19/12/26,Manchester City,vs,Hull City
+16,19/12/26,Nottingham Forest,vs,Everton
+16,19/12/26,Liverpool,vs,Tottenham
+16,20/12/26,Brighton & Hove Albion,vs,Ipswich Town
+16,20/12/26,Sunderland,vs,Crystal Palace
+16,20/12/26,Arsenal,vs,Manchester United
+16,21/12/26,Chelsea,ADI,Aston Villa
+17,26/12/26,Aston Villa,vs,Leeds United
+17,26/12/26,Everton,vs,Sunderland
+17,26/12/26,Fulham,vs,Brighton & Hove Albion
+17,26/12/26,Ipswich Town,vs,Brentford
+17,26/12/26,Tottenham,vs,Bournemouth
+17,26/12/26,Hull City,vs,Liverpool
+17,26/12/26,Newcastle,vs,Manchester City
+17,27/12/26,Coventry City,vs,Chelsea
+17,27/12/26,Manchester United,vs,Nottingham Forest
+17,27/12/26,Crystal Palace,vs,Arsenal
+18,29/12/26,Hull City,vs,Leeds United
+18,29/12/26,Tottenham,vs,Brighton & Hove Albion
+18,29/12/26,Everton,vs,Manchester City
+18,30/12/26,Coventry City,vs,Brentford
+18,30/12/26,Crystal Palace,vs,Bournemouth
+18,30/12/26,Fulham,vs,Arsenal
+18,30/12/26,Manchester United,vs,Sunderland
+18,30/12/26,Newcastle,vs,Nottingham Forest
+18,30/12/26,Aston Villa,vs,Liverpool
+18,30/12/26,Ipswich Town,vs,Chelsea
+19,01/01/27,Leeds United,vs,Everton
+19,02/01/27,Brighton & Hove Albion,vs,Manchester United
+19,02/01/27,Arsenal,vs,Ipswich Town
+19,02/01/27,Brentford,vs,Crystal Palace
+19,02/01/27,Liverpool,vs,Coventry City
+19,02/01/27,Nottingham Forest,vs,Fulham
+19,02/01/27,Sunderland,vs,Hull City
+19,02/01/27,Bournemouth,vs,Aston Villa
+19,03/01/27,Chelsea,vs,Newcastle
+19,03/01/27,Manchester City,vs,Tottenham
+20,05/01/27,Arsenal,vs,Brentford
+20,05/01/27,Brighton & Hove Albion,vs,Bournemouth
+20,05/01/27,Everton,vs,Aston Villa
+20,05/01/27,Sunderland,vs,Liverpool
+20,06/01/27,Crystal Palace,vs,Chelsea
+20,06/01/27,Fulham,vs,Tottenham
+20,06/01/27,Ipswich Town,vs,Coventry City
+20,06/01/27,Nottingham Forest,vs,Hull City
+20,06/01/27,Leeds United,vs,Manchester City
+20,07/01/27,Manchester United,vs,Newcastle
+21,16/01/27,Aston Villa,vs,Manchester United
+21,16/01/27,Bournemouth,vs,Ipswich Town
+21,16/01/27,Brentford,vs,Brighton & Hove Albion
+21,16/01/27,Chelsea,vs,Sunderland
+21,16/01/27,Coventry City,vs,Everton
+21,16/01/27,Hull City,vs,Arsenal
+21,16/01/27,Liverpool,vs,Crystal Palace
+21,16/01/27,Manchester City,vs,Nottingham Forest
+21,16/01/27,Newcastle,vs,Fulham
+21,16/01/27,Tottenham,vs,Leeds United
+22,23/01/27,Arsenal,vs,Newcastle
+22,23/01/27,Brighton & Hove Albion,vs,Manchester City
+22,23/01/27,Crystal Palace,vs,Tottenham
+22,23/01/27,Everton,vs,Brentford
+22,23/01/27,Fulham,vs,Aston Villa
+22,23/01/27,Ipswich Town,vs,Hull City
+22,23/01/27,Leeds United,vs,Chelsea
+22,23/01/27,Manchester United,vs,Liverpool
+22,23/01/27,Nottingham Forest,vs,Bournemouth
+22,23/01/27,Sunderland,vs,Coventry City
+23,30/01/27,Aston Villa,vs,Ipswich Town
+23,30/01/27,Bournemouth,vs,Fulham
+23,30/01/27,Brentford,vs,Manchester United
+23,30/01/27,Chelsea,vs,Nottingham Forest
+23,30/01/27,Coventry City,vs,Leeds United
+23,30/01/27,Hull City,vs,Crystal Palace
+23,30/01/27,Liverpool,vs,Everton
+23,30/01/27,Manchester City,vs,Arsenal
+23,30/01/27,Newcastle,vs,Brighton & Hove Albion
+23,30/01/27,Tottenham,vs,Sunderland
+24,06/02/27,Arsenal,vs,Liverpool
+24,06/02/27,Brighton & Hove Albion,vs,Hull City
+24,06/02/27,Crystal Palace,vs,Coventry City
+24,06/02/27,Everton,vs,Newcastle
+24,06/02/27,Fulham,vs,Manchester City
+24,06/02/27,Ipswich Town,vs,Tottenham
+24,06/02/27,Leeds United,vs,Bournemouth
+24,06/02/27,Manchester United,vs,Chelsea
+24,06/02/27,Nottingham Forest,vs,Brentford
+24,06/02/27,Sunderland,vs,Aston Villa
+25,10/02/27,Aston Villa,vs,Bournemouth
+25,10/02/27,Coventry City,vs,Liverpool
+25,10/02/27,Crystal Palace,vs,Brentford
+25,10/02/27,Everton,vs,Leeds United
+25,10/02/27,Fulham,vs,Nottingham Forest
+25,10/02/27,Hull City,vs,Sunderland
+25,10/02/27,Ipswich Town,vs,Arsenal
+25,10/02/27,Manchester United,vs,Brighton & Hove Albion
+25,10/02/27,Newcastle,vs,Chelsea
+25,10/02/27,Tottenham,vs,Manchester City
+26,20/02/27,Arsenal,vs,Fulham
+26,20/02/27,Bournemouth,vs,Crystal Palace
+26,20/02/27,Brentford,vs,Coventry City
+26,20/02/27,Brighton & Hove Albion,vs,Tottenham
+26,20/02/27,Chelsea,vs,Ipswich Town
+26,20/02/27,Leeds United,vs,Aston Villa
+26,20/02/27,Liverpool,vs,Hull City
+26,20/02/27,Manchester City,vs,Newcastle
+26,20/02/27,Nottingham Forest,vs,Manchester United
+26,20/02/27,Sunderland,vs,Everton
+27,27/02/27,Aston Villa,vs,Chelsea
+27,27/02/27,Coventry City,vs,Bournemouth
+27,27/02/27,Crystal Palace,vs,Sunderland
+27,27/02/27,Everton,vs,Nottingham Forest
+27,27/02/27,Fulham,vs,Leeds United
+27,27/02/27,Hull City,vs,Manchester City
+27,27/02/27,Ipswich Town,vs,Brighton & Hove Albion
+27,27/02/27,Manchester United,vs,Arsenal
+27,27/02/27,Newcastle,vs,Brentford
+27,27/02/27,Tottenham,vs,Liverpool
+28,03/03/27,Arsenal,vs,Crystal Palace
+28,03/03/27,Bournemouth,vs,Tottenham
+28,03/03/27,Brentford,vs,Ipswich Town
+28,03/03/27,Brighton & Hove Albion,vs,Fulham
+28,03/03/27,Chelsea,vs,Coventry City
+28,03/03/27,Leeds United,vs,Hull City
+28,03/03/27,Liverpool,vs,Aston Villa
+28,03/03/27,Manchester City,vs,Everton
+28,03/03/27,Nottingham Forest,vs,Newcastle
+28,03/03/27,Sunderland,vs,Manchester United
+29,13/03/27,Aston Villa,vs,Hull City
+29,13/03/27,Bournemouth,vs,Newcastle
+29,13/03/27,Chelsea,vs,Arsenal
+29,13/03/27,Coventry City,vs,Manchester City
+29,13/03/27,Crystal Palace,vs,Fulham
+29,13/03/27,Leeds United,vs,Brighton & Hove Albion
+29,13/03/27,Liverpool,vs,Ipswich Town
+29,13/03/27,Manchester United,vs,Everton
+29,13/03/27,Sunderland,vs,Brentford
+29,13/03/27,Tottenham,vs,Nottingham Forest
+30,20/03/27,Arsenal,vs,Sunderland
+30,20/03/27,Brentford,vs,Bournemouth
+30,20/03/27,Brighton & Hove Albion,vs,Coventry City
+30,20/03/27,Everton,vs,Tottenham
+30,20/03/27,Fulham,vs,Liverpool
+30,20/03/27,Hull City,vs,Chelsea
+30,20/03/27,Ipswich Town,vs,Crystal Palace
+30,20/03/27,Manchester City,vs,Manchester United
+30,20/03/27,Newcastle,vs,Leeds United
+30,20/03/27,Nottingham Forest,vs,Aston Villa
+31,10/04/27,Aston Villa,vs,Brighton & Hove Albion
+31,10/04/27,Bournemouth,vs,Manchester City
+31,10/04/27,Chelsea,vs,Fulham
+31,10/04/27,Coventry City,vs,Arsenal
+31,10/04/27,Crystal Palace,vs,Everton
+31,10/04/27,Leeds United,vs,Nottingham Forest
+31,10/04/27,Liverpool,vs,Newcastle
+31,10/04/27,Manchester United,vs,Hull City
+31,10/04/27,Sunderland,vs,Ipswich Town
+31,10/04/27,Tottenham,vs,Brentford
+32,17/04/27,Arsenal,vs,Aston Villa
+32,17/04/27,Brentford,vs,Leeds United
+32,17/04/27,Brighton & Hove Albion,vs,Chelsea
+32,17/04/27,Everton,vs,Bournemouth
+32,17/04/27,Fulham,vs,Sunderland
+32,17/04/27,Hull City,vs,Coventry City
+32,17/04/27,Ipswich Town,vs,Manchester United
+32,17/04/27,Manchester City,vs,Crystal Palace
+32,17/04/27,Newcastle,vs,Tottenham
+32,17/04/27,Nottingham Forest,vs,Liverpool
+33,24/04/27,Aston Villa,vs,Coventry City
+33,24/04/27,Bournemouth,vs,Arsenal
+33,24/04/27,Brentford,vs,Fulham
+33,24/04/27,Chelsea,vs,Manchester City
+33,24/04/27,Everton,vs,Brighton & Hove Albion
+33,24/04/27,Leeds United,vs,Liverpool
+33,24/04/27,Manchester United,vs,Crystal Palace
+33,24/04/27,Newcastle,vs,Ipswich Town
+33,24/04/27,Nottingham Forest,vs,Sunderland
+33,24/04/27,Tottenham,vs,Hull City
+34,01/05/27,Arsenal,vs,Tottenham
+34,01/05/27,Brighton & Hove Albion,vs,Nottingham Forest
+34,01/05/27,Coventry City,vs,Manchester United
+34,01/05/27,Crystal Palace,vs,Aston Villa
+34,01/05/27,Fulham,vs,Everton
+34,01/05/27,Hull City,vs,Bournemouth
+34,01/05/27,Ipswich Town,vs,Leeds United
+34,01/05/27,Liverpool,vs,Chelsea
+34,01/05/27,Manchester City,vs,Brentford
+34,01/05/27,Sunderland,vs,Newcastle
+35,08/05/27,Bournemouth,vs,Manchester United
+35,08/05/27,Brentford,vs,Aston Villa
+35,08/05/27,Brighton & Hove Albion,vs,Sunderland
+35,08/05/27,Everton,vs,Hull City
+35,08/05/27,Fulham,vs,Ipswich Town
+35,08/05/27,Leeds United,vs,Arsenal
+35,08/05/27,Manchester City,vs,Liverpool
+35,08/05/27,Newcastle,vs,Coventry City
+35,08/05/27,Nottingham Forest,vs,Crystal Palace
+35,08/05/27,Tottenham,vs,Chelsea
+36,15/05/27,Arsenal,vs,Nottingham Forest
+36,15/05/27,Aston Villa,vs,Newcastle
+36,15/05/27,Chelsea,vs,Everton
+36,15/05/27,Coventry City,vs,Tottenham
+36,15/05/27,Crystal Palace,vs,Brighton & Hove Albion
+36,15/05/27,Hull City,vs,Fulham
+36,15/05/27,Ipswich Town,vs,Manchester City
+36,15/05/27,Liverpool,vs,Brentford
+36,15/05/27,Manchester United,vs,Leeds United
+36,15/05/27,Sunderland,vs,Bournemouth
+37,23/05/27,Bournemouth,vs,Chelsea
+37,23/05/27,Brentford,vs,Hull City
+37,23/05/27,Brighton & Hove Albion,vs,Liverpool
+37,23/05/27,Everton,vs,Arsenal
+37,23/05/27,Fulham,vs,Coventry City
+37,23/05/27,Leeds United,vs,Sunderland
+37,23/05/27,Manchester City,vs,Aston Villa
+37,23/05/27,Newcastle,vs,Crystal Palace
+37,23/05/27,Nottingham Forest,vs,Ipswich Town
+37,23/05/27,Tottenham,vs,Manchester United
+38,30/05/27,Arsenal,vs,Brighton & Hove Albion
+38,30/05/27,Aston Villa,vs,Tottenham
+38,30/05/27,Chelsea,vs,Brentford
+38,30/05/27,Coventry City,vs,Nottingham Forest
+38,30/05/27,Crystal Palace,vs,Leeds United
+38,30/05/27,Hull City,vs,Newcastle
+38,30/05/27,Ipswich Town,vs,Everton
+38,30/05/27,Liverpool,vs,Bournemouth
+38,30/05/27,Manchester United,vs,Fulham
+38,30/05/27,Sunderland,vs,Manchester City

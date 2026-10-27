@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,09/09/06,Roma,2-0,Livorno 1915
+1,09/09/06,Fiorentina,2-3,Internazionale
+1,10/09/06,Atalanta,3-1,Ascoli
+1,10/09/06,Sampdoria,1-2,Empoli
+1,10/09/06,Palermo,4-3,Reggina
+1,10/09/06,F.C. Messina Peloro,1-0,Udinese
+1,10/09/06,Chievo Verona,1-2,AC Siena
+1,10/09/06,Cagliari,0-1,Catania
+1,10/09/06,AC Milan,2-1,Lazio
+1,10/09/06,Torino,1-1,Parma
+2,16/09/06,Reggina,2-1,Cagliari
+2,16/09/06,Internazionale,1-1,Sampdoria
+2,17/09/06,Empoli,1-1,Chievo Verona
+2,17/09/06,Ascoli,1-1,F.C. Messina Peloro
+2,17/09/06,Udinese,2-0,Torino
+2,17/09/06,Catania,0-0,Atalanta
+2,17/09/06,Lazio,1-2,Palermo
+2,17/09/06,Livorno 1915,1-0,Fiorentina
+2,17/09/06,AC Siena,1-3,Roma
+2,17/09/06,Parma,0-2,AC Milan
+3,20/09/06,Chievo Verona,0-1,Lazio
+3,20/09/06,Atalanta,0-0,Empoli
+3,20/09/06,Cagliari,2-2,Livorno 1915
+3,20/09/06,Fiorentina,1-0,Parma
+3,20/09/06,F.C. Messina Peloro,2-0,Reggina
+3,20/09/06,AC Milan,1-0,Ascoli
+3,20/09/06,Palermo,5-3,Catania
+3,20/09/06,Roma,0-1,Internazionale
+3,20/09/06,Sampdoria,3-3,Udinese
+3,20/09/06,Torino,1-2,AC Siena
+4,23/09/06,Livorno 1915,0-0,AC Milan
+4,23/09/06,Catania,2-2,F.C. Messina Peloro
+4,24/09/06,Internazionale,4-3,Chievo Verona
+4,24/09/06,Ascoli,1-1,Sampdoria
+4,24/09/06,Empoli,2-0,Palermo
+4,24/09/06,Lazio,1-0,Atalanta
+4,24/09/06,Reggina,1-1,Torino
+4,24/09/06,AC Siena,0-0,Cagliari
+4,24/09/06,Parma,0-4,Roma
+4,24/09/06,Udinese,1-0,Fiorentina
+5,30/09/06,Atalanta,1-1,Reggina
+5,30/09/06,Torino,0-4,Lazio
+5,01/10/06,AC Milan,0-0,AC Siena
+5,01/10/06,Roma,1-0,Empoli
+5,01/10/06,Udinese,0-0,Ascoli
+5,01/10/06,F.C. Messina Peloro,0-1,Livorno 1915
+5,01/10/06,Fiorentina,3-0,Catania
+5,01/10/06,Cagliari,1-1,Internazionale
+5,01/10/06,Sampdoria,3-2,Parma
+5,01/10/06,Chievo Verona,0-1,Palermo
+6,14/10/06,Sampdoria,1-1,AC Milan
+6,14/10/06,AC Siena,3-1,F.C. Messina Peloro
+6,15/10/06,Ascoli,0-2,Livorno 1915
+6,15/10/06,Empoli,1-2,Fiorentina
+6,15/10/06,Internazionale,2-1,Catania
+6,15/10/06,Palermo,2-3,Atalanta
+6,15/10/06,Parma,0-3,Udinese
+6,15/10/06,Reggina,1-0,Roma
+6,15/10/06,Torino,1-0,Chievo Verona
+6,15/10/06,Lazio,0-0,Cagliari
+7,21/10/06,F.C. Messina Peloro,2-2,Empoli
+7,21/10/06,Cagliari,0-0,Torino
+7,22/10/06,Atalanta,3-2,Sampdoria
+7,22/10/06,Catania,3-1,Lazio
+7,22/10/06,Fiorentina,3-0,Reggina
+7,22/10/06,Livorno 1915,0-0,AC Siena
+7,22/10/06,Parma,1-0,Ascoli
+7,22/10/06,Roma,1-1,Chievo Verona
+7,22/10/06,Udinese,0-0,Internazionale
+7,22/10/06,AC Milan,0-2,Palermo
+8,25/10/06,Atalanta,3-3,Cagliari
+8,25/10/06,Chievo Verona,0-1,AC Milan
+8,25/10/06,Empoli,1-1,Udinese
+8,25/10/06,Internazionale,4-1,Livorno 1915
+8,25/10/06,Palermo,2-1,F.C. Messina Peloro
+8,25/10/06,Reggina,3-2,Parma
+8,25/10/06,Roma,2-2,Ascoli
+8,25/10/06,Sampdoria,2-0,Lazio
+8,25/10/06,AC Siena,1-1,Catania
+8,25/10/06,Torino,0-1,Fiorentina
+9,28/10/06,Udinese,0-1,Roma
+9,28/10/06,AC Milan,3-4,Internazionale
+9,29/10/06,Ascoli,0-1,AC Siena
+9,29/10/06,F.C. Messina Peloro,2-1,Chievo Verona
+9,29/10/06,Catania,1-1,Torino
+9,29/10/06,Parma,3-1,Atalanta
+9,29/10/06,Cagliari,1-0,Sampdoria
+9,29/10/06,Fiorentina,2-3,Palermo
+9,29/10/06,Lazio,0-0,Reggina
+9,29/10/06,Livorno 1915,0-0,Empoli
+10,04/11/06,AC Siena,2-2,Parma
+10,04/11/06,Reggina,0-1,Catania
+10,05/11/06,Atalanta,2-0,AC Milan
+10,05/11/06,Chievo Verona,0-0,Cagliari
+10,05/11/06,Empoli,1-1,Lazio
+10,05/11/06,Internazionale,2-0,Ascoli
+10,05/11/06,Livorno 1915,1-0,Udinese
+10,05/11/06,Palermo,2-0,Sampdoria
+10,05/11/06,Torino,1-1,F.C. Messina Peloro
+10,05/11/06,Roma,3-1,Fiorentina
+11,11/11/06,Fiorentina,3-1,Atalanta
+11,11/11/06,AC Milan,1-2,Roma
+11,12/11/06,Ascoli,0-1,Empoli
+11,12/11/06,Catania,3-2,Livorno 1915
+11,12/11/06,Lazio,5-0,Udinese
+11,12/11/06,F.C. Messina Peloro,2-2,Cagliari
+11,12/11/06,Palermo,3-0,Torino
+11,12/11/06,Sampdoria,3-0,Chievo Verona
+11,12/11/06,AC Siena,0-1,Reggina
+11,12/11/06,Parma,1-2,Internazionale
+12,18/11/06,Empoli,0-0,AC Milan
+12,18/11/06,Cagliari,1-0,Palermo
+12,19/11/06,Ascoli,1-1,Fiorentina
+12,19/11/06,Chievo Verona,2-2,Atalanta
+12,19/11/06,Internazionale,1-0,Reggina
+12,19/11/06,Livorno 1915,3-0,Parma
+12,19/11/06,F.C. Messina Peloro,1-4,Lazio
+12,19/11/06,Roma,7-0,Catania
+12,19/11/06,Udinese,3-0,AC Siena
+12,19/11/06,Torino,1-0,Sampdoria
+13,25/11/06,Chievo Verona,2-0,Udinese
+13,25/11/06,AC Milan,1-0,F.C. Messina Peloro
+13,26/11/06,Atalanta,1-2,Torino
+13,26/11/06,Catania,2-0,Parma
+13,26/11/06,Empoli,1-0,Cagliari
+13,26/11/06,Lazio,3-1,Ascoli
+13,26/11/06,Reggina,2-2,Livorno 1915
+13,26/11/06,Sampdoria,2-4,Roma
+13,26/11/06,AC Siena,1-1,Fiorentina
+13,26/11/06,Palermo,1-2,Internazionale
+14,02/12/06,Internazionale,2-0,AC Siena
+14,02/12/06,Roma,2-1,Atalanta
+14,03/12/06,Cagliari,2-2,AC Milan
+14,03/12/06,Fiorentina,1-0,Lazio
+14,03/12/06,Livorno 1915,0-2,Chievo Verona
+14,03/12/06,F.C. Messina Peloro,0-2,Sampdoria
+14,03/12/06,Parma,0-0,Palermo
+14,03/12/06,Torino,1-0,Empoli
+14,03/12/06,Udinese,1-1,Reggina
+14,03/12/06,Ascoli,2-2,Catania
+15,09/12/06,Reggina,2-1,Ascoli
+15,09/12/06,Palermo,3-0,Livorno 1915
+15,10/12/06,Atalanta,3-2,F.C. Messina Peloro
+15,10/12/06,AC Milan,0-0,Torino
+15,10/12/06,Empoli,0-3,Internazionale
+15,10/12/06,Chievo Verona,0-1,Fiorentina
+15,10/12/06,Catania,1-0,Udinese
+15,10/12/06,Cagliari,0-0,Parma
+15,10/12/06,Sampdoria,0-0,AC Siena
+15,10/12/06,Lazio,3-0,Roma
+16,16/12/06,Fiorentina,2-2,AC Milan
+16,16/12/06,Udinese,3-1,Cagliari
+16,17/12/06,Ascoli,0-2,Torino
+16,17/12/06,Internazionale,2-0,F.C. Messina Peloro
+16,17/12/06,Livorno 1915,1-1,Lazio
+16,17/12/06,Parma,2-2,Chievo Verona
+16,17/12/06,Reggina,0-1,Sampdoria
+16,17/12/06,AC Siena,1-1,Atalanta
+16,17/12/06,Roma,4-0,Palermo
+17,20/12/06,Atalanta,1-2,Udinese
+17,20/12/06,Cagliari,0-2,Fiorentina
+17,20/12/06,Chievo Verona,3-2,Reggina
+17,20/12/06,Empoli,1-0,AC Siena
+17,20/12/06,Lazio,0-2,Internazionale
+17,20/12/06,F.C. Messina Peloro,1-1,Parma
+17,20/12/06,AC Milan,3-0,Catania
+17,20/12/06,Palermo,4-0,Ascoli
+17,20/12/06,Sampdoria,4-1,Livorno 1915
+17,20/12/06,Torino,1-2,Roma
+18,23/12/06,Ascoli,3-0,Chievo Verona
+18,23/12/06,Catania,4-2,Sampdoria
+18,23/12/06,Fiorentina,4-0,F.C. Messina Peloro
+18,23/12/06,Internazionale,2-1,Atalanta
+18,23/12/06,Livorno 1915,1-1,Torino
+18,23/12/06,Parma,1-3,Lazio
+18,23/12/06,Reggina,4-1,Empoli
+18,23/12/06,Roma,2-0,Cagliari
+18,23/12/06,AC Siena,1-1,Palermo
+18,23/12/06,Udinese,0-3,AC Milan
+19,13/01/07,Empoli,2-0,Parma
+19,13/01/07,Torino,1-3,Internazionale
+19,14/01/07,Cagliari,1-0,Ascoli
+19,14/01/07,Chievo Verona,2-1,Catania
+19,14/01/07,F.C. Messina Peloro,1-1,Roma
+19,14/01/07,AC Milan,3-1,Reggina
+19,14/01/07,Palermo,2-0,Udinese
+19,14/01/07,Sampdoria,0-0,Fiorentina
+19,14/01/07,Atalanta,5-1,Livorno 1915
+19,14/01/07,Lazio,1-1,AC Siena
+20,20/01/07,Ascoli,1-3,Atalanta
+20,21/01/07,Parma,1-0,Torino
+20,21/01/07,Empoli,2-0,Sampdoria
+20,21/01/07,Livorno 1915,1-1,Roma
+20,21/01/07,Reggina,0-0,Palermo
+20,21/01/07,Udinese,1-0,F.C. Messina Peloro
+20,21/01/07,Internazionale,3-1,Fiorentina
+20,21/01/07,AC Siena,2-1,Chievo Verona
+20,21/01/07,Catania,0-1,Cagliari
+20,21/01/07,Lazio,0-0,AC Milan
+16,24/01/07,Catania,2-1,Empoli
+21,27/01/07,Torino,2-3,Udinese
+21,27/01/07,Palermo,0-3,Lazio
+21,28/01/07,Chievo Verona,0-0,Empoli
+21,28/01/07,F.C. Messina Peloro,1-2,Ascoli
+21,28/01/07,Atalanta,1-1,Catania
+21,28/01/07,Fiorentina,2-1,Livorno 1915
+21,28/01/07,AC Milan,1-0,Parma
+21,28/01/07,Cagliari,0-2,Reggina
+21,28/01/07,Roma,1-0,AC Siena
+21,28/01/07,Sampdoria,0-2,Internazionale
+22,02/02/07,Catania,1-2,Palermo
+23,11/02/07,Chievo Verona,0-2,Internazionale
+23,11/02/07,Sampdoria,2-0,Ascoli
+23,11/02/07,Palermo,0-1,Empoli
+23,11/02/07,Atalanta,0-0,Lazio
+23,11/02/07,AC Milan,2-1,Livorno 1915
+23,11/02/07,Torino,1-2,Reggina
+23,11/02/07,Cagliari,2-2,AC Siena
+23,11/02/07,Fiorentina,2-0,Udinese
+23,11/02/07,Roma,3-0,Parma
+23,11/02/07,F.C. Messina Peloro,1-1,Catania
+24,17/02/07,AC Siena,3-4,AC Milan
+24,17/02/07,Empoli,1-0,Roma
+24,17/02/07,Internazionale,1-0,Cagliari
+24,18/02/07,Palermo,1-1,Chievo Verona
+24,18/02/07,Ascoli,2-2,Udinese
+24,18/02/07,Lazio,2-0,Torino
+24,18/02/07,Livorno 1915,2-1,F.C. Messina Peloro
+24,18/02/07,Catania,0-1,Fiorentina
+24,18/02/07,Reggina,1-1,Atalanta
+24,18/02/07,Parma,0-1,Sampdoria
+25,24/02/07,Chievo Verona,3-0,Torino
+25,24/02/07,Atalanta,1-1,Palermo
+25,25/02/07,Livorno 1915,0-0,Ascoli
+25,25/02/07,Fiorentina,2-0,Empoli
+25,25/02/07,Catania,2-5,Internazionale
+25,25/02/07,Cagliari,0-2,Lazio
+25,25/02/07,Udinese,3-3,Parma
+25,25/02/07,Roma,3-0,Reggina
+25,25/02/07,F.C. Messina Peloro,1-0,AC Siena
+25,25/02/07,AC Milan,1-0,Sampdoria
+26,28/02/07,Sampdoria,2-1,Atalanta
+26,28/02/07,Torino,1-0,Cagliari
+26,28/02/07,Lazio,3-1,Catania
+26,28/02/07,Reggina,1-1,Fiorentina
+26,28/02/07,AC Siena,0-0,Livorno 1915
+26,28/02/07,Empoli,3-1,F.C. Messina Peloro
+26,28/02/07,Palermo,0-0,AC Milan
+26,28/02/07,Ascoli,0-0,Parma
+26,28/02/07,Chievo Verona,2-2,Roma
+26,28/02/07,Internazionale,1-1,Udinese
+27,03/03/07,Livorno 1915,1-2,Internazionale
+27,03/03/07,Ascoli,1-1,Roma
+27,03/03/07,AC Milan,3-1,Chievo Verona
+27,04/03/07,Cagliari,2-0,Atalanta
+27,04/03/07,Udinese,0-1,Empoli
+27,04/03/07,F.C. Messina Peloro,2-0,Palermo
+27,04/03/07,Parma,2-2,Reggina
+27,04/03/07,Lazio,1-0,Sampdoria
+27,04/03/07,Catania,1-1,AC Siena
+27,04/03/07,Fiorentina,5-1,Torino
+28,10/03/07,Sampdoria,1-1,Cagliari
+28,11/03/07,Empoli,2-2,Livorno 1915
+28,11/03/07,AC Siena,0-1,Ascoli
+28,11/03/07,Chievo Verona,1-1,F.C. Messina Peloro
+28,11/03/07,Internazionale,2-1,AC Milan
+28,11/03/07,Torino,1-0,Catania
+28,11/03/07,Atalanta,1-1,Parma
+28,11/03/07,Palermo,1-1,Fiorentina
+28,11/03/07,Reggina,2-3,Lazio
+28,11/03/07,Roma,3-1,Udinese
+29,17/03/07,Sampdoria,1-1,Palermo
+29,18/03/07,AC Milan,1-0,Atalanta
+29,18/03/07,Cagliari,0-2,Chievo Verona
+29,18/03/07,Ascoli,1-2,Internazionale
+29,18/03/07,Udinese,4-0,Livorno 1915
+29,18/03/07,Catania,1-4,Reggina
+29,18/03/07,Fiorentina,0-0,Roma
+29,18/03/07,Parma,1-0,AC Siena
+29,18/03/07,F.C. Messina Peloro,0-3,Torino
+29,18/03/07,Lazio,3-1,Empoli
+30,31/03/07,Reggina,0-1,AC Siena
+30,31/03/07,Roma,1-1,AC Milan
+30,01/04/07,Empoli,4-1,Ascoli
+30,01/04/07,Livorno 1915,4-1,Catania
+30,01/04/07,Atalanta,2-2,Fiorentina
+30,01/04/07,Cagliari,2-0,F.C. Messina Peloro
+30,01/04/07,Torino,0-0,Palermo
+30,01/04/07,Internazionale,2-0,Parma
+30,01/04/07,Chievo Verona,1-1,Sampdoria
+30,01/04/07,Udinese,2-4,Lazio
+31,07/04/07,Fiorentina,4-0,Ascoli
+31,07/04/07,Palermo,1-3,Cagliari
+31,07/04/07,Atalanta,1-0,Chievo Verona
+31,07/04/07,Reggina,0-0,Internazionale
+31,07/04/07,Parma,1-0,Livorno 1915
+31,07/04/07,Lazio,1-0,F.C. Messina Peloro
+31,07/04/07,Catania,0-2,Roma
+31,07/04/07,Sampdoria,1-0,Torino
+31,07/04/07,AC Siena,2-2,Udinese
+31,07/04/07,AC Milan,3-1,Empoli
+32,14/04/07,Cagliari,0-0,Empoli
+32,14/04/07,Udinese,2-1,Chievo Verona
+32,15/04/07,Torino,1-2,Atalanta
+32,15/04/07,Parma,1-1,Catania
+32,15/04/07,Ascoli,2-2,Lazio
+32,15/04/07,F.C. Messina Peloro,1-3,AC Milan
+32,15/04/07,Livorno 1915,1-1,Reggina
+32,15/04/07,Roma,4-0,Sampdoria
+32,15/04/07,Fiorentina,1-0,AC Siena
+32,15/04/07,Internazionale,2-2,Palermo
+22,18/04/07,Lazio,0-0,Chievo Verona
+22,18/04/07,Empoli,2-0,Atalanta
+22,18/04/07,Livorno 1915,2-1,Cagliari
+22,18/04/07,Reggina,3-1,F.C. Messina Peloro
+22,18/04/07,Ascoli,2-5,AC Milan
+22,18/04/07,Internazionale,1-3,Roma
+22,18/04/07,Udinese,1-0,Sampdoria
+22,18/04/07,Parma,2-0,Fiorentina
+22,18/04/07,AC Siena,1-0,Torino
+33,21/04/07,Sampdoria,3-1,F.C. Messina Peloro
+33,21/04/07,AC Milan,3-1,Cagliari
+33,22/04/07,Lazio,0-1,Fiorentina
+33,22/04/07,AC Siena,1-2,Internazionale
+33,22/04/07,Chievo Verona,2-1,Livorno 1915
+33,22/04/07,Atalanta,2-1,Roma
+33,22/04/07,Empoli,0-0,Torino
+33,22/04/07,Reggina,1-1,Udinese
+33,22/04/07,Palermo,3-4,Parma
+34,28/04/07,Torino,0-1,AC Milan
+34,28/04/07,Fiorentina,1-0,Chievo Verona
+34,29/04/07,F.C. Messina Peloro,0-0,Atalanta
+34,29/04/07,Ascoli,2-3,Reggina
+34,29/04/07,Livorno 1915,1-2,Palermo
+34,29/04/07,Roma,0-0,Lazio
+34,29/04/07,Udinese,0-1,Catania
+34,29/04/07,Parma,2-1,Cagliari
+34,29/04/07,AC Siena,0-2,Sampdoria
+34,29/04/07,Internazionale,3-1,Empoli
+33,02/05/07,Catania,3-3,Ascoli
+35,06/05/07,Torino,1-0,Ascoli
+35,06/05/07,Empoli,2-1,Catania
+35,06/05/07,AC Milan,0-0,Fiorentina
+35,06/05/07,F.C. Messina Peloro,0-1,Internazionale
+35,06/05/07,Lazio,1-0,Livorno 1915
+35,06/05/07,Chievo Verona,1-0,Parma
+35,06/05/07,Sampdoria,0-0,Reggina
+35,06/05/07,Palermo,1-2,Roma
+35,06/05/07,Atalanta,3-1,AC Siena
+35,06/05/07,Cagliari,2-1,Udinese
+36,13/05/07,Udinese,2-3,Atalanta
+36,13/05/07,Fiorentina,1-0,Cagliari
+36,13/05/07,Reggina,1-1,Chievo Verona
+36,13/05/07,AC Siena,2-0,Empoli
+36,13/05/07,Internazionale,4-3,Lazio
+36,13/05/07,Parma,4-1,F.C. Messina Peloro
+36,13/05/07,Catania,1-1,AC Milan
+36,13/05/07,Ascoli,3-2,Palermo
+36,13/05/07,Livorno 1915,1-0,Sampdoria
+36,13/05/07,Roma,0-1,Torino
+37,19/05/07,AC Milan,2-3,Udinese
+37,20/05/07,Chievo Verona,1-0,Ascoli
+37,20/05/07,Sampdoria,1-0,Catania
+37,20/05/07,F.C. Messina Peloro,2-2,Fiorentina
+37,20/05/07,Atalanta,1-1,Internazionale
+37,20/05/07,Torino,0-0,Livorno 1915
+37,20/05/07,Lazio,0-0,Parma
+37,20/05/07,Empoli,3-3,Reggina
+37,20/05/07,Cagliari,3-2,Roma
+37,20/05/07,Palermo,2-1,AC Siena
+38,27/05/07,Internazionale,3-0,Torino
+38,27/05/07,Ascoli,2-1,Cagliari
+38,27/05/07,Catania,2-0,Chievo Verona
+38,27/05/07,Parma,3-1,Empoli
+38,27/05/07,AC Siena,2-1,Lazio
+38,27/05/07,Roma,4-3,F.C. Messina Peloro
+38,27/05/07,Reggina,2-0,AC Milan
+38,27/05/07,Udinese,1-2,Palermo
+38,27/05/07,Fiorentina,5-1,Sampdoria
+38,27/05/07,Livorno 1915,4-2,Atalanta

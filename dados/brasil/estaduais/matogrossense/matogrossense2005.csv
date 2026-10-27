@@ -1,0 +1,116 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,19/02/05,Sorriso EC,0-3,Luverdense
+C,19/02/05,Barra,1-0,Juventude-MT
+A,20/02/05,São José-MT,1-1,Tangará
+B,20/02/05,Cuiabá,2-2,Berga
+C,20/02/05,Vila Aurora,4-0,Grêmio Jaciara
+A,27/02/05,Luverdense,2-1,São José-MT
+B,27/02/05,Berga,2-4,Santa Cruz-MT
+B,27/02/05,Operário-MT,2-1,Mixto
+C,27/02/05,Grêmio Jaciara,3-0,Barra
+B,05/03/05,Mixto,5-2,Berga
+B,05/03/05,Santa Cruz-MT,1-1,Cuiabá
+C,05/03/05,Barra,1-1,Vila Aurora
+A,06/03/05,São José-MT,1-0,Sorriso EC
+C,06/03/05,União Rondonópolis,3-2,Grêmio Jaciara
+C,10/03/05,Juventude-MT,0-1,União Rondonópolis
+A,13/03/05,Luverdense,1-1,Tangará
+B,13/03/05,Berga,1-5,Operário-MT
+B,13/03/05,Cuiabá,6-2,Mixto
+C,13/03/05,Vila Aurora,1-1,União Rondonópolis
+C,13/03/05,Grêmio Jaciara,1-1,Juventude-MT
+A,20/03/05,Tangará,1-0,Sorriso EC
+B,20/03/05,Operário-MT,1-3,Cuiabá
+B,20/03/05,Mixto,0-1,Santa Cruz-MT
+C,20/03/05,União Rondonópolis,4-1,Barra
+C,20/03/05,Juventude-MT,1-1,Vila Aurora
+B,24/03/05,Berga,3-3,Cuiabá
+B,24/03/05,Operário-MT,4-0,Santa Cruz-MT
+A,25/03/05,Luverdense,3-1,Sorriso EC
+C,26/03/05,Juventude-MT,4-2,Barra
+C,26/03/05,Grêmio Jaciara,2-1,Vila Aurora
+A,03/04/05,São José-MT,5-3,Luverdense
+B,03/04/05,Mixto,2-5,Operário-MT
+B,03/04/05,Santa Cruz-MT,3-0,Berga
+C,03/04/05,Barra,1-4,Grêmio Jaciara
+C,03/04/05,União Rondonópolis,2-2,Juventude-MT
+A,07/04/05,Sorriso EC,0-0,São José-MT
+B,07/04/05,Cuiabá,1-1,Santa Cruz-MT
+B,07/04/05,Berga,1-3,Mixto
+C,08/04/05,Grêmio Jaciara,1-1,União Rondonópolis
+B,09/04/05,Operário-MT,2-0,Berga
+B,09/04/05,Mixto,0-4,Cuiabá
+A,10/04/05,Tangará,1-5,Luverdense
+C,10/04/05,Juventude-MT,3-3,Grêmio Jaciara
+C,13/04/05,Vila Aurora,4-1,Barra
+B,16/04/05,Cuiabá,0-2,Operário-MT
+B,16/04/05,Santa Cruz-MT,3-2,Mixto
+C,16/04/05,Barra,1-2,União Rondonópolis
+A,17/04/05,Sorriso EC,2-1,Tangará
+C,17/04/05,Vila Aurora,2-1,Juventude-MT
+B,19/04/05,Santa Cruz-MT,0-0,Operário-MT
+A,21/04/05,Tangará,2-0,São José-MT
+C,21/04/05,União Rondonópolis,0-0,Vila Aurora
+E,23/04/05,Sorriso EC,2-1,Mixto
+2F,24/04/05,Luverdense,4-3,Vila Aurora
+2F,24/04/05,Tangará,0-0,Santa Cruz-MT
+2F,24/04/05,Grêmio Jaciara,7-1,Operário-MT
+2F,24/04/05,União Rondonópolis,1-1,Cuiabá
+2F,27/04/05,Luverdense,3-0,Santa Cruz-MT
+2F,28/04/05,Cuiabá,3-2,Tangará
+2F,28/04/05,Operário-MT,1-2,União Rondonópolis
+2F,28/04/05,Vila Aurora,3-1,São José-MT
+E,30/04/05,Mixto,2-1,Sorriso EC
+F,01/05/05,Berga,1-3,Barra
+2F,01/05/05,São José-MT,0-2,Luverdense
+2F,01/05/05,Santa Cruz-MT,0-1,União Rondonópolis
+2F,01/05/05,Cuiabá,2-3,Grêmio Jaciara
+2F,01/05/05,Vila Aurora,3-0,Tangará
+2F,04/05/05,São José-MT,0-1,Cuiabá
+2F,04/05/05,Santa Cruz-MT,0-1,Vila Aurora
+F,05/05/05,Barra,2-3,Juventude-MT
+2F,05/05/05,Tangará,1-1,Grêmio Jaciara
+2F,05/05/05,Operário-MT,5-1,Luverdense
+F,08/05/05,Juventude-MT,1-0,Berga
+2F,08/05/05,Luverdense,2-1,Grêmio Jaciara
+2F,08/05/05,Operário-MT,2-1,São José-MT
+2F,08/05/05,Cuiabá,0-5,Vila Aurora
+2F,08/05/05,União Rondonópolis,4-0,Tangará
+2F,11/05/05,Santa Cruz-MT,1-1,Cuiabá
+2F,11/05/05,União Rondonópolis,4-0,Luverdense
+,12/05/05,Sorriso EC,1-2,Juventude-MT
+2F,12/05/05,Grêmio Jaciara,2-0,São José-MT
+2F,12/05/05,Vila Aurora,2-1,Operário-MT
+,15/05/05,Juventude-MT,4-3,Sorriso EC
+2F,15/05/05,Operário-MT,2-1,Santa Cruz-MT
+2F,15/05/05,Grêmio Jaciara,3-1,Vila Aurora
+2F,15/05/05,Tangará,2-1,Luverdense
+2F,15/05/05,União Rondonópolis,6-0,São José-MT
+2F,18/05/05,São José-MT,1-1,Santa Cruz-MT
+2F,18/05/05,Luverdense,1-1,Cuiabá
+2F,19/05/05,Tangará,2-1,Operário-MT
+2F,19/05/05,Grêmio Jaciara,2-2,União Rondonópolis
+2F,22/05/05,São José-MT,3-0,Tangará
+2F,22/05/05,Santa Cruz-MT,1-2,Grêmio Jaciara
+2F,22/05/05,Cuiabá,1-1,Operário-MT
+2F,22/05/05,Vila Aurora,1-1,União Rondonópolis
+3F,29/05/05,Juventude-MT,0-0,União Rondonópolis
+3F,29/05/05,Operário-MT,2-0,Grêmio Jaciara
+3F,29/05/05,Luverdense,2-2,Vila Aurora
+3F,01/06/05,Vila Aurora,3-0,Luverdense
+3F,02/06/05,União Rondonópolis,3-1,Juventude-MT
+3F,02/06/05,Grêmio Jaciara,1-1,Operário-MT
+4F,05/06/05,Operário-MT,1-1,Vila Aurora
+4F,05/06/05,União Rondonópolis,3-2,Grêmio Jaciara
+4F,09/06/05,Grêmio Jaciara,2-0,Vila Aurora
+4F,09/06/05,União Rondonópolis,2-3,Operário-MT
+4F,12/06/05,Grêmio Jaciara,0-1,Operário-MT
+4F,16/06/05,Vila Aurora,3-1,Grêmio Jaciara
+4F,16/06/05,Operário-MT,1-0,União Rondonópolis
+4F,19/06/05,Vila Aurora,2-1,União Rondonópolis
+4F,21/06/05,Vila Aurora,1-0,Operário-MT
+4F,21/06/05,Grêmio Jaciara,0-2,União Rondonópolis
+4F,24/06/05,Operário-MT,2-2,Grêmio Jaciara
+4F,24/06/05,União Rondonópolis,1-2,Vila Aurora
+F,26/06/05,Operário-MT,2-2,Vila Aurora
+F,03/07/05,Vila Aurora,3-1,Operário-MT

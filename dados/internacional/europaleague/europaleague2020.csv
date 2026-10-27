@@ -1,0 +1,151 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,22/10/20,Young Boys,1-2,Roma
+A,22/10/20,CSKA Sofia,0-2,CFR Cluj
+B,22/10/20,Dundalk,1-2,Molde
+B,22/10/20,Rapid Wien,1-2,Arsenal
+C,22/10/20,Bayer Leverkusen,6-2,Nice
+C,22/10/20,Hapoel Beer Sheva,3-1,Slavia Praha
+D,22/10/20,Standard Liège,0-2,Rangers
+D,22/10/20,Lech Poznan,2-4,Benfica
+E,22/10/20,PSV,1-2,Granada
+E,22/10/20,PAOK,1-1,Omonia
+F,22/10/20,Napoli,0-1,AZ Alkmaar
+F,22/10/20,HNK Rijeka,0-1,Real Sociedad
+G,22/10/20,SC Braga,3-0,AEK
+G,22/10/20,Leicester City,3-0,Zorya
+H,22/10/20,Sparta Praha,1-4,Lille
+H,22/10/20,Celtic,1-3,AC Milan
+I,22/10/20,Maccabi Tel Aviv,1-0,Qarabag
+I,22/10/20,Villarreal CF,5-3,Sivasspor
+J,22/10/20,Tottenham,3-0,LASK Linz
+J,22/10/20,Ludogorets Razgrad,1-2,Royal Antwerp
+K,22/10/20,Dinamo Zagreb,0-0,Feyenoord
+K,22/10/20,Wolfsberger AC,1-1,CSKA Moskva
+L,22/10/20,TSG Hoffenheim,2-0,Crvena Zvezda
+L,22/10/20,Slovan Liberec,1-0,Gent
+G,29/10/20,AEK,1-2,Leicester City
+G,29/10/20,Zorya,1-2,SC Braga
+H,29/10/20,AC Milan,3-0,Sparta Praha
+H,29/10/20,Lille,2-2,Celtic
+I,29/10/20,Qarabag,1-3,Villarreal CF
+I,29/10/20,Sivasspor,1-2,Maccabi Tel Aviv
+J,29/10/20,LASK Linz,4-3,Ludogorets Razgrad
+J,29/10/20,Royal Antwerp,1-0,Tottenham
+K,29/10/20,CSKA Moskva,0-0,Dinamo Zagreb
+K,29/10/20,Feyenoord,1-4,Wolfsberger AC
+L,29/10/20,Crvena Zvezda,5-1,Slovan Liberec
+L,29/10/20,Gent,1-4,TSG Hoffenheim
+A,29/10/20,Roma,0-0,CSKA Sofia
+A,29/10/20,CFR Cluj,1-1,Young Boys
+B,29/10/20,Arsenal,3-0,Dundalk
+B,29/10/20,Molde,1-0,Rapid Wien
+C,29/10/20,Slavia Praha,1-0,Bayer Leverkusen
+C,29/10/20,Nice,1-0,Hapoel Beer Sheva
+D,29/10/20,Benfica,3-0,Standard Liège
+D,29/10/20,Rangers,1-0,Lech Poznan
+E,29/10/20,Granada,0-0,PAOK
+E,29/10/20,Omonia,1-2,PSV
+F,29/10/20,AZ Alkmaar,4-1,HNK Rijeka
+F,29/10/20,Real Sociedad,0-1,Napoli
+A,05/11/20,Roma,5-0,CFR Cluj
+B,05/11/20,Rapid Wien,4-3,Dundalk
+C,05/11/20,Slavia Praha,3-2,Nice
+C,05/11/20,Hapoel Beer Sheva,2-4,Bayer Leverkusen
+D,05/11/20,Benfica,3-3,Rangers
+D,05/11/20,Lech Poznan,3-1,Standard Liège
+E,05/11/20,PAOK,4-1,PSV
+E,05/11/20,Omonia,0-2,Granada
+F,05/11/20,HNK Rijeka,1-2,Napoli
+F,05/11/20,Real Sociedad,1-0,AZ Alkmaar
+I,05/11/20,Sivasspor,2-0,Qarabag
+J,05/11/20,Ludogorets Razgrad,1-3,Tottenham
+A,05/11/20,Young Boys,3-0,CSKA Sofia
+B,05/11/20,Arsenal,4-1,Molde
+G,05/11/20,Leicester City,4-0,SC Braga
+G,05/11/20,Zorya,1-4,AEK
+H,05/11/20,Celtic,1-4,Sparta Praha
+H,05/11/20,AC Milan,0-3,Lille
+J,05/11/20,Royal Antwerp,0-1,LASK Linz
+K,05/11/20,Dinamo Zagreb,1-0,Wolfsberger AC
+K,05/11/20,Feyenoord,3-1,CSKA Moskva
+L,05/11/20,Crvena Zvezda,2-1,Gent
+L,05/11/20,TSG Hoffenheim,5-0,Slovan Liberec
+I,05/11/20,Villarreal CF,4-0,Maccabi Tel Aviv
+A,26/11/20,CSKA Sofia,0-1,Young Boys
+B,26/11/20,Molde,0-3,Arsenal
+G,26/11/20,SC Braga,3-3,Leicester City
+G,26/11/20,AEK,0-3,Zorya
+H,26/11/20,Sparta Praha,4-1,Celtic
+H,26/11/20,Lille,1-1,AC Milan
+I,26/11/20,Maccabi Tel Aviv,1-1,Villarreal CF
+I,26/11/20,Qarabag,2-3,Sivasspor
+J,26/11/20,LASK Linz,0-2,Royal Antwerp
+K,26/11/20,CSKA Moskva,0-0,Feyenoord
+K,26/11/20,Wolfsberger AC,0-3,Dinamo Zagreb
+L,26/11/20,Gent,0-2,Crvena Zvezda
+L,26/11/20,Slovan Liberec,0-2,TSG Hoffenheim
+A,26/11/20,CFR Cluj,0-2,Roma
+B,26/11/20,Dundalk,1-3,Rapid Wien
+C,26/11/20,Bayer Leverkusen,4-1,Hapoel Beer Sheva
+C,26/11/20,Nice,1-3,Slavia Praha
+D,26/11/20,Standard Liège,2-1,Lech Poznan
+D,26/11/20,Rangers,2-2,Benfica
+E,26/11/20,PSV,3-2,PAOK
+E,26/11/20,Granada,2-1,Omonia
+F,26/11/20,Napoli,2-0,HNK Rijeka
+F,26/11/20,AZ Alkmaar,0-0,Real Sociedad
+J,26/11/20,Tottenham,4-0,Ludogorets Razgrad
+G,03/12/20,AEK,2-4,SC Braga
+G,03/12/20,Zorya,1-0,Leicester City
+H,03/12/20,AC Milan,4-2,Celtic
+H,03/12/20,Lille,2-1,Sparta Praha
+I,03/12/20,Qarabag,1-1,Maccabi Tel Aviv
+I,03/12/20,Sivasspor,0-1,Villarreal CF
+J,03/12/20,LASK Linz,3-3,Tottenham
+J,03/12/20,Royal Antwerp,3-1,Ludogorets Razgrad
+K,03/12/20,CSKA Moskva,0-1,Wolfsberger AC
+K,03/12/20,Feyenoord,0-2,Dinamo Zagreb
+L,03/12/20,Crvena Zvezda,0-0,TSG Hoffenheim
+L,03/12/20,Gent,1-2,Slovan Liberec
+A,03/12/20,Roma,3-1,Young Boys
+A,03/12/20,CFR Cluj,0-0,CSKA Sofia
+B,03/12/20,Arsenal,4-1,Rapid Wien
+B,03/12/20,Molde,3-1,Dundalk
+C,03/12/20,Slavia Praha,3-0,Hapoel Beer Sheva
+C,03/12/20,Nice,2-3,Bayer Leverkusen
+D,03/12/20,Benfica,4-0,Lech Poznan
+D,03/12/20,Rangers,3-2,Standard Liège
+E,03/12/20,Omonia,2-1,PAOK
+E,03/12/20,Granada,0-1,PSV
+F,03/12/20,AZ Alkmaar,1-1,Napoli
+F,03/12/20,Real Sociedad,2-2,HNK Rijeka
+A,10/12/20,Young Boys,2-1,CFR Cluj
+A,10/12/20,CSKA Sofia,3-1,Roma
+B,10/12/20,Dundalk,2-4,Arsenal
+B,10/12/20,Rapid Wien,2-2,Molde
+C,10/12/20,Bayer Leverkusen,4-0,Slavia Praha
+C,10/12/20,Hapoel Beer Sheva,1-0,Nice
+D,10/12/20,Standard Liège,2-2,Benfica
+D,10/12/20,Lech Poznan,0-2,Rangers
+E,10/12/20,PSV,4-0,Omonia
+E,10/12/20,PAOK,0-0,Granada
+F,10/12/20,Napoli,1-1,Real Sociedad
+F,10/12/20,HNK Rijeka,2-1,AZ Alkmaar
+G,10/12/20,SC Braga,2-0,Zorya
+G,10/12/20,Leicester City,2-0,AEK
+H,10/12/20,Celtic,3-2,Lille
+H,10/12/20,Sparta Praha,0-1,AC Milan
+I,10/12/20,Maccabi Tel Aviv,1-0,Sivasspor
+I,10/12/20,Villarreal CF,DA,Qarabag
+J,10/12/20,Tottenham,2-0,Royal Antwerp
+J,10/12/20,Ludogorets Razgrad,1-3,LASK Linz
+K,10/12/20,Dinamo Zagreb,3-1,CSKA Moskva
+K,10/12/20,Wolfsberger AC,1-0,Feyenoord
+L,10/12/20,TSG Hoffenheim,4-1,Gent
+L,10/12/20,Slovan Liberec,0-0,Crvena Zvezda
+1/16,18/02/21,Dynamo Kyiv,1-1,Club Brugge
+1/16,18/02/21,Young Boys,4-3,Bayer Leverkusen
+1/16,18/02/21,Slavia Praha,0-0,Leicester City
+1/16,18/02/21,Real Sociedad,0-4,Manchester United
+1/16,18/02/21,SC Braga,0-2,Roma
+1/16,18/02/21,Wolfsberger AC,1-4,Tottenham

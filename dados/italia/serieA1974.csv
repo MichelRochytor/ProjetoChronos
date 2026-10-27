@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,29/09/74,Bologna,2-1,Juventus
+1,29/09/74,Cagliari,0-0,Lanerossi Vicenza
+1,29/09/74,Lazio,2-1,AC Cesena
+1,29/09/74,AC Milan,0-0,Sampdoria
+1,29/09/74,Napoli,3-1,Ascoli
+1,29/09/74,Ternana,0-1,Fiorentina
+1,29/09/74,Torino,1-0,Roma
+1,29/09/74,Varese,2-0,Internazionale
+2,05/10/74,Ascoli,1-1,Torino
+2,05/10/74,AC Cesena,2-1,Ternana
+2,05/10/74,Fiorentina,1-0,Bologna
+2,05/10/74,Internazionale,4-1,Cagliari
+2,05/10/74,Juventus,2-1,AC Milan
+2,05/10/74,Lanerossi Vicenza,1-2,Lazio
+2,05/10/74,Roma,0-0,Napoli
+2,05/10/74,Sampdoria,1-0,Varese
+3,12/10/74,Ascoli,0-0,Internazionale
+3,12/10/74,Bologna,1-0,Roma
+3,12/10/74,Lazio,3-0,Sampdoria
+3,12/10/74,AC Milan,1-1,Fiorentina
+3,12/10/74,Napoli,2-0,Lanerossi Vicenza
+3,12/10/74,Ternana,0-2,Cagliari
+3,12/10/74,Torino,2-0,AC Cesena
+3,12/10/74,Varese,0-0,Juventus
+4,19/10/74,Cagliari,1-1,Varese
+4,19/10/74,AC Cesena,1-1,Fiorentina
+4,19/10/74,Internazionale,1-1,Bologna
+4,19/10/74,Juventus,4-0,Ascoli
+4,19/10/74,Lanerossi Vicenza,1-0,Torino
+4,19/10/74,Roma,0-1,AC Milan
+4,19/10/74,Sampdoria,1-1,Napoli
+4,19/10/74,Ternana,1-1,Lazio
+5,26/10/74,Ascoli,0-0,AC Cesena
+5,26/10/74,Bologna,2-0,Cagliari
+5,26/10/74,Fiorentina,1-1,Napoli
+5,26/10/74,Lazio,1-2,Internazionale
+5,26/10/74,AC Milan,1-0,Lanerossi Vicenza
+5,26/10/74,Sampdoria,1-3,Juventus
+5,26/10/74,Torino,1-1,Ternana
+5,26/10/74,Varese,0-0,Roma
+6,03/11/74,Cagliari,1-0,Sampdoria
+6,03/11/74,AC Cesena,0-1,Juventus
+6,03/11/74,Internazionale,0-0,AC Milan
+6,03/11/74,Lanerossi Vicenza,0-1,Bologna
+6,03/11/74,Napoli,1-1,Lazio
+6,03/11/74,Roma,1-0,Ascoli
+6,03/11/74,Ternana,2-0,Varese
+6,03/11/74,Torino,2-1,Fiorentina
+7,09/11/74,Bologna,1-3,Torino
+7,09/11/74,AC Cesena,0-0,Napoli
+7,09/11/74,Fiorentina,2-0,Varese
+7,09/11/74,Juventus,1-0,Roma
+7,09/11/74,Lanerossi Vicenza,1-0,Ternana
+7,09/11/74,AC Milan,2-0,Ascoli
+7,09/11/74,Sampdoria,1-1,Internazionale
+7,23/11/74,Lazio,1-0,Cagliari
+8,23/11/74,Ascoli,0-1,Fiorentina
+8,23/11/74,Bologna,1-1,Ternana
+8,23/11/74,Internazionale,0-1,Juventus
+8,23/11/74,Napoli,5-0,Cagliari
+8,23/11/74,Roma,1-0,Lazio
+8,23/11/74,Sampdoria,1-1,Lanerossi Vicenza
+8,23/11/74,Torino,1-1,AC Milan
+8,23/11/74,Varese,1-1,AC Cesena
+9,30/11/74,Cagliari,1-2,Roma
+9,30/11/74,AC Cesena,0-0,Internazionale
+9,30/11/74,Fiorentina,0-0,Lanerossi Vicenza
+9,30/11/74,Juventus,0-0,Torino
+9,30/11/74,Lazio,1-0,Bologna
+9,30/11/74,AC Milan,0-0,Napoli
+9,30/11/74,Ternana,1-1,Sampdoria
+9,30/11/74,Varese,3-1,Ascoli
+10,07/12/74,Ascoli,1-0,Sampdoria
+10,07/12/74,Bologna,1-1,Varese
+10,07/12/74,Cagliari,0-0,AC Milan
+10,07/12/74,Internazionale,1-0,Ternana
+10,07/12/74,Lanerossi Vicenza,2-0,AC Cesena
+10,07/12/74,Napoli,2-6,Juventus
+10,07/12/74,Roma,1-0,Fiorentina
+10,07/12/74,Torino,2-2,Lazio
+11,14/12/74,Ascoli,1-0,Lanerossi Vicenza
+11,14/12/74,Fiorentina,1-1,Internazionale
+11,14/12/74,Juventus,1-0,Cagliari
+11,14/12/74,AC Milan,3-0,Bologna
+11,14/12/74,Roma,2-0,AC Cesena
+11,14/12/74,Sampdoria,0-0,Torino
+11,14/12/74,Ternana,0-0,Napoli
+11,14/12/74,Varese,0-1,Lazio
+12,22/12/74,Bologna,2-2,Sampdoria
+12,22/12/74,Cagliari,2-1,Fiorentina
+12,22/12/74,AC Cesena,1-0,AC Milan
+12,22/12/74,Internazionale,0-0,Napoli
+12,22/12/74,Lanerossi Vicenza,0-2,Roma
+12,22/12/74,Lazio,1-0,Juventus
+12,22/12/74,Ternana,1-0,Ascoli
+12,22/12/74,Torino,3-1,Varese
+13,04/01/75,Ascoli,1-3,Bologna
+13,04/01/75,AC Cesena,2-1,Cagliari
+13,04/01/75,Fiorentina,1-1,Lazio
+13,04/01/75,Juventus,2-0,Ternana
+13,04/01/75,Lanerossi Vicenza,1-3,Internazionale
+13,04/01/75,AC Milan,4-0,Varese
+13,04/01/75,Napoli,1-0,Torino
+13,04/01/75,Roma,1-0,Sampdoria
+14,11/01/75,Bologna,1-0,Napoli
+14,11/01/75,Cagliari,2-0,Ascoli
+14,11/01/75,Internazionale,1-0,Torino
+14,11/01/75,Juventus,0-0,Fiorentina
+14,11/01/75,Lazio,3-0,AC Milan
+14,11/01/75,Sampdoria,0-0,AC Cesena
+14,11/01/75,Ternana,2-2,Roma
+14,11/01/75,Varese,1-1,Lanerossi Vicenza
+15,25/01/75,Ascoli,1-0,Lazio
+15,25/01/75,AC Cesena,2-2,Bologna
+15,25/01/75,Fiorentina,0-2,Sampdoria
+15,25/01/75,Lanerossi Vicenza,1-2,Juventus
+15,25/01/75,AC Milan,3-1,Ternana
+15,25/01/75,Napoli,3-0,Varese
+15,25/01/75,Roma,1-0,Internazionale
+15,25/01/75,Torino,1-0,Cagliari
+16,01/02/75,Ascoli,1-1,Napoli
+16,01/02/75,AC Cesena,0-0,Lazio
+16,01/02/75,Fiorentina,2-0,Ternana
+16,01/02/75,Internazionale,1-0,Varese
+16,01/02/75,Juventus,0-0,Bologna
+16,01/02/75,Lanerossi Vicenza,0-0,Cagliari
+16,01/02/75,Roma,0-1,Torino
+16,01/02/75,Sampdoria,2-4,AC Milan
+17,08/02/75,Bologna,1-0,Fiorentina
+17,08/02/75,Cagliari,0-1,Internazionale
+17,08/02/75,Lazio,1-0,Lanerossi Vicenza
+17,08/02/75,AC Milan,DA,Juventus
+17,08/02/75,Napoli,2-0,Roma
+17,08/02/75,Ternana,1-0,AC Cesena
+17,08/02/75,Torino,1-0,Ascoli
+17,08/02/75,Varese,4-0,Sampdoria
+18,15/02/75,Cagliari,2-0,Ternana
+18,15/02/75,AC Cesena,1-1,Torino
+18,15/02/75,Fiorentina,1-1,AC Milan
+18,15/02/75,Internazionale,0-1,Ascoli
+18,15/02/75,Juventus,3-0,Varese
+18,15/02/75,Lanerossi Vicenza,2-2,Napoli
+18,15/02/75,Roma,2-1,Bologna
+18,15/02/75,Sampdoria,0-2,Lazio
+19,22/02/75,Ascoli,0-0,Juventus
+19,22/02/75,Bologna,2-1,Internazionale
+19,22/02/75,Fiorentina,2-2,AC Cesena
+19,22/02/75,Lazio,0-0,Ternana
+19,22/02/75,AC Milan,1-1,Roma
+19,22/02/75,Napoli,2-0,Sampdoria
+19,22/02/75,Torino,2-1,Lanerossi Vicenza
+19,22/02/75,Varese,0-1,Cagliari
+20,28/02/75,Cagliari,1-1,Bologna
+20,28/02/75,AC Cesena,0-0,Ascoli
+20,28/02/75,Internazionale,3-1,Lazio
+20,28/02/75,Juventus,1-1,Sampdoria
+20,28/02/75,Lanerossi Vicenza,2-0,AC Milan
+20,28/02/75,Napoli,1-0,Fiorentina
+20,28/02/75,Roma,1-0,Varese
+20,28/02/75,Ternana,2-1,Torino
+21,08/03/75,Ascoli,0-0,Roma
+21,08/03/75,Bologna,1-1,Lanerossi Vicenza
+21,08/03/75,Fiorentina,2-2,Torino
+21,08/03/75,Juventus,1-0,AC Cesena
+21,08/03/75,Lazio,1-1,Napoli
+21,08/03/75,AC Milan,3-0,Internazionale
+21,08/03/75,Sampdoria,0-0,Cagliari
+21,08/03/75,Varese,1-1,Ternana
+22,15/03/75,Ascoli,1-1,AC Milan
+22,15/03/75,Cagliari,1-1,Lazio
+22,15/03/75,Internazionale,0-0,Sampdoria
+22,15/03/75,Napoli,4-0,AC Cesena
+22,15/03/75,Roma,1-0,Juventus
+22,15/03/75,Ternana,0-0,Lanerossi Vicenza
+22,15/03/75,Torino,3-3,Bologna
+22,15/03/75,Varese,1-1,Fiorentina
+23,22/03/75,Cagliari,1-1,Napoli
+23,22/03/75,AC Cesena,1-1,Varese
+23,22/03/75,Fiorentina,0-0,Ascoli
+23,22/03/75,Juventus,1-0,Internazionale
+23,22/03/75,Lanerossi Vicenza,1-1,Sampdoria
+23,22/03/75,Lazio,0-1,Roma
+23,22/03/75,AC Milan,2-0,Torino
+23,22/03/75,Ternana,0-0,Bologna
+24,30/03/75,Ascoli,2-0,Varese
+24,30/03/75,Bologna,1-2,Lazio
+24,30/03/75,Internazionale,0-1,AC Cesena
+24,30/03/75,Lanerossi Vicenza,0-1,Fiorentina
+24,30/03/75,Napoli,2-0,AC Milan
+24,30/03/75,Roma,1-1,Cagliari
+24,30/03/75,Sampdoria,1-0,Ternana
+24,30/03/75,Torino,3-2,Juventus
+25,05/04/75,AC Cesena,3-1,Lanerossi Vicenza
+25,05/04/75,Fiorentina,0-0,Roma
+25,05/04/75,Juventus,2-1,Napoli
+25,05/04/75,Lazio,1-5,Torino
+25,05/04/75,AC Milan,0-0,Cagliari
+25,05/04/75,Sampdoria,0-0,Ascoli
+25,05/04/75,Ternana,0-0,Internazionale
+25,05/04/75,Varese,1-4,Bologna
+26,12/04/75,Bologna,0-0,AC Milan
+26,12/04/75,Cagliari,1-1,Juventus
+26,12/04/75,AC Cesena,0-0,Roma
+26,12/04/75,Internazionale,1-0,Fiorentina
+26,12/04/75,Lanerossi Vicenza,1-0,Ascoli
+26,12/04/75,Lazio,2-0,Varese
+26,12/04/75,Napoli,7-1,Ternana
+26,12/04/75,Torino,1-1,Sampdoria
+27,26/04/75,Ascoli,1-0,Ternana
+27,26/04/75,Fiorentina,2-1,Cagliari
+27,26/04/75,Juventus,4-0,Lazio
+27,26/04/75,AC Milan,3-0,AC Cesena
+27,26/04/75,Napoli,3-2,Internazionale
+27,26/04/75,Roma,1-0,Lanerossi Vicenza
+27,26/04/75,Sampdoria,1-0,Bologna
+27,26/04/75,Varese,0-0,Torino
+28,03/05/75,Bologna,1-1,Ascoli
+28,03/05/75,Cagliari,2-2,AC Cesena
+28,03/05/75,Internazionale,0-0,Lanerossi Vicenza
+28,03/05/75,Lazio,1-0,Fiorentina
+28,03/05/75,Sampdoria,0-0,Roma
+28,03/05/75,Ternana,0-2,Juventus
+28,03/05/75,Torino,1-1,Napoli
+28,03/05/75,Varese,0-1,AC Milan
+29,10/05/75,Ascoli,0-0,Cagliari
+29,10/05/75,AC Cesena,1-1,Sampdoria
+29,10/05/75,Fiorentina,4-1,Juventus
+29,10/05/75,Lanerossi Vicenza,1-1,Varese
+29,10/05/75,AC Milan,1-1,Lazio
+29,10/05/75,Napoli,1-0,Bologna
+29,10/05/75,Roma,4-2,Ternana
+29,10/05/75,Torino,2-3,Internazionale
+30,17/05/75,Bologna,3-2,AC Cesena
+30,17/05/75,Cagliari,0-0,Torino
+30,17/05/75,Internazionale,0-2,Roma
+30,17/05/75,Juventus,5-0,Lanerossi Vicenza
+30,17/05/75,Lazio,1-0,Ascoli
+30,17/05/75,Sampdoria,3-4,Fiorentina
+30,17/05/75,Ternana,1-3,AC Milan
+30,17/05/75,Varese,0-2,Napoli

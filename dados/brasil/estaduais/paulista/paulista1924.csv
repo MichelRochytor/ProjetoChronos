@@ -1,0 +1,86 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,20/04/24,Corinthians,5-1,Portuguesa
+1F,20/04/24,Germânia,5-0,SC Internacional-SP
+1F,20/04/24,Ypiranga-SP,7-1,AA das Palmeiras
+1F,21/04/24,AA São Bento,4-1,Minas Gerais FC
+1F,21/04/24,EC Sírio,7-4,Santos
+1F,27/04/24,Corinthians,3-2,Germânia
+1F,27/04/24,Ypiranga-SP,3-1,Portuguesa
+1F,27/04/24,AA das Palmeiras,3-2,SC Internacional-SP
+1F,03/05/24,Paulistano-SP,1-1,Santos
+1F,03/05/24,AA São Bento,1-0,EC Sírio
+1F,04/05/24,Ypiranga-SP,2-0,Germânia
+1F,04/05/24,AA das Palmeiras,0-1,Portuguesa
+1F,04/05/24,Corinthians,6-2,SC Internacional-SP
+1F,11/05/24,Paulistano-SP,3-2,AA São Bento
+1F,11/05/24,EC Sírio,1-3,Minas Gerais FC
+1F,13/05/24,AA das Palmeiras,2-7,Corinthians
+1F,13/05/24,Germânia,1-2,Portuguesa
+1F,13/05/24,Ypiranga-SP,1-1,SC Internacional-SP
+1F,18/05/24,Paulistano-SP,3-1,Minas Gerais FC
+1F,18/05/24,Santos,1-1,AA São Bento
+1F,25/05/24,Portuguesa,1-1,SC Internacional-SP
+1F,25/05/24,Ypiranga-SP,0-2,Corinthians
+1F,25/05/24,Germânia,2-1,AA das Palmeiras
+1F,01/06/24,Santos,4-1,Minas Gerais FC
+1F,01/06/24,Paulistano-SP,2-2,EC Sírio
+1F,08/06/24,Portuguesa,2-1,EC Sírio
+1F,08/06/24,AA São Bento,0-1,Ypiranga-SP
+1F,08/06/24,Corinthians,6-1,Santos
+1F,15/06/24,AA das Palmeiras,5-1,Minas Gerais FC
+1F,15/06/24,Paulistano-SP,2-0,SC Internacional-SP
+1F,19/06/24,AA das Palmeiras,2-3,AA São Bento
+1F,19/06/24,EC Sírio,2-0,Corinthians
+1F,19/06/24,Ypiranga-SP,2-1,Santos
+1F,22/06/24,Minas Gerais FC,2-2,Germânia
+1F,22/06/24,Paulistano-SP,2-1,Portuguesa
+1F,29/06/24,AA São Bento,2-4,Germânia
+1F,29/06/24,Ypiranga-SP,0-0,EC Sírio
+1F,29/06/24,AA das Palmeiras,2-0,Santos
+1F,17/08/24,Corinthians,0-1,Paulistano-SP
+1F,17/08/24,Minas Gerais FC,2-1,SC Internacional-SP
+1F,24/08/24,SC Internacional-SP,0-4,AA São Bento
+1F,24/08/24,AA das Palmeiras,2-3,EC Sírio
+1F,24/08/24,Santos,3-0,Germânia
+1F,31/08/24,Portuguesa,2-2,Minas Gerais FC
+1F,31/08/24,Ypiranga-SP,2-1,Paulistano-SP
+1F,14/09/24,AA São Bento,4-2,Portuguesa
+1F,14/09/24,Santos,7-0,SC Internacional-SP
+1F,14/09/24,EC Sírio,2-1,Germânia
+1F,21/09/24,Corinthians,2-1,Minas Gerais FC
+1F,21/09/24,Paulistano-SP,2-3,AA das Palmeiras
+1F,28/09/24,Santos,7-1,Portuguesa
+1F,28/09/24,SC Internacional-SP,1-1,EC Sírio
+1F,28/09/24,Corinthians,0-2,AA São Bento
+1F,05/10/24,Ypiranga-SP,0-3,Minas Gerais FC
+1F,05/10/24,Paulistano-SP,3-0,Germânia
+,12/10/24,Portuguesa,3-2,AA das Palmeiras
+2F,12/10/24,Santos,2-0,Corinthians
+2F,12/10/24,EC Sírio,3-1,AA São Bento
+,19/10/24,Minas Gerais FC,2-0,AA das Palmeiras
+2F,19/10/24,Paulistano-SP,5-0,Ypiranga-SP
+2F,19/10/24,AA São Bento,4-2,Santos
+,26/10/24,Minas Gerais FC,5-5,Portuguesa
+2F,26/10/24,Corinthians,1-0,Ypiranga-SP
+2F,26/10/24,EC Sírio,0-1,Paulistano-SP
+2F,23/11/24,Minas Gerais FC,0-2,Paulistano-SP
+2F,23/11/24,Ypiranga-SP,0-1,AA São Bento
+2F,23/11/24,Portuguesa,2-4,Corinthians
+2F,23/11/24,Santos,2-2,EC Sírio
+2F,30/11/24,Portuguesa,1-5,Ypiranga-SP
+2F,30/11/24,Minas Gerais FC,2-2,EC Sírio
+2F,30/11/24,Santos,1-0,Paulistano-SP
+2F,30/11/24,Corinthians,0-0,AA São Bento
+2F,14/12/24,Minas Gerais FC,3-6,Corinthians
+2F,14/12/24,Santos,5-2,Ypiranga-SP
+2F,14/12/24,AA São Bento,0-0,Paulistano-SP
+2F,14/12/24,EC Sírio,1-0,Portuguesa
+2F,28/12/24,Minas Gerais FC,1-3,Ypiranga-SP
+2F,28/12/24,Corinthians,3-2,EC Sírio
+2F,28/12/24,Portuguesa,1-3,Paulistano-SP
+2F,04/01/25,AA São Bento,1-0,Portuguesa
+2F,04/01/25,Santos,3-0,Minas Gerais FC
+2F,11/01/25,Minas Gerais FC,1-1,AA São Bento
+2F,11/01/25,Paulistano-SP,0-1,Corinthians
+2F,11/01/25,Santos,1-0,Portuguesa
+2F,18/01/25,EC Sírio,0-1,Ypiranga-SP

@@ -1,0 +1,63 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,14/01/17,Uniclinic,1-1,Guarany de Sobral
+1F,14/01/17,Guarani de Juazeiro,3-1,Horizonte
+1F,15/01/17,Ferroviário,2-2,Fortaleza
+1F,15/01/17,Itapipoca,1-1,Maranguape
+1F,17/01/17,Horizonte,0-1,Uniclinic
+1F,18/01/17,Tiradentes-CE,2-1,Itapipoca
+1F,18/01/17,Guarany de Sobral,1-2,Ferroviário
+1F,18/01/17,Fortaleza,1-0,Guarani de Juazeiro
+1F,18/01/17,Maranguape,0-2,Ceará
+1F,21/01/17,Uniclinic,2-4,Tiradentes-CE
+1F,22/01/17,Guarani de Juazeiro,0-0,Ferroviário
+1F,22/01/17,Maranguape,3-1,Horizonte
+1F,22/01/17,Guarany de Sobral,3-2,Itapipoca
+1F,22/01/17,Fortaleza,1-0,Ceará
+1F,25/01/17,Ferroviário,1-1,Maranguape
+1F,28/01/17,Tiradentes-CE,3-3,Guarani de Juazeiro
+1F,29/01/17,Horizonte,1-0,Fortaleza
+1F,29/01/17,Itapipoca,0-2,Uniclinic
+1F,29/01/17,Ceará,2-1,Guarany de Sobral
+1F,01/02/17,Ceará,1-0,Tiradentes-CE
+1F,01/02/17,Uniclinic,2-2,Ferroviário
+1F,02/02/17,Fortaleza,4-0,Maranguape
+1F,05/02/17,Ceará,1-0,Ferroviário
+1F,05/02/17,Guarani de Juazeiro,5-2,Guarany de Sobral
+1F,08/02/17,Tiradentes-CE,1-2,Horizonte
+1F,08/02/17,Guarani de Juazeiro,3-1,Uniclinic
+1F,08/02/17,Guarany de Sobral,0-0,Fortaleza
+1F,09/02/17,Ceará,2-0,Horizonte
+1F,11/02/17,Maranguape,2-1,Tiradentes-CE
+1F,12/02/17,Itapipoca,1-1,Ceará
+1F,15/02/17,Ferroviário,4-0,Itapipoca
+1F,18/02/17,Maranguape,1-0,Guarany de Sobral
+1F,18/02/17,Ferroviário,1-0,Tiradentes-CE
+1F,19/02/17,Horizonte,4-1,Itapipoca
+1F,19/02/17,Guarani de Juazeiro,0-1,Ceará
+1F,19/02/17,Fortaleza,3-0,Uniclinic
+1F,22/02/17,Itapipoca,0-0,Guarani de Juazeiro
+1F,22/02/17,Uniclinic,2-3,Maranguape
+1F,25/02/17,Tiradentes-CE,2-0,Fortaleza
+1F,25/02/17,Guarany de Sobral,0-4,Horizonte
+1F,04/03/17,Fortaleza,5-0,Itapipoca
+1F,04/03/17,Maranguape,0-1,Guarani de Juazeiro
+1F,05/03/17,Uniclinic,2-2,Ceará
+1F,05/03/17,Horizonte,1-0,Ferroviário
+1F,05/03/17,Guarany de Sobral,2-2,Tiradentes-CE
+QF,12/03/17,Ferroviário,1-1,Horizonte
+QF,15/03/17,Tiradentes-CE,2-3,Fortaleza
+QF,18/03/17,Maranguape,1-1,Guarani de Juazeiro
+QF,19/03/17,Uniclinic,1-3,Ceará
+QF,22/03/17,Guarani de Juazeiro,5-1,Maranguape
+QF,25/03/17,Ceará,4-1,Uniclinic
+QF,26/03/17,Horizonte,1-1(2-4 Pen.),Ferroviário
+QF,26/03/17,Fortaleza,3-0,Tiradentes-CE
+SF,02/04/17,Ferroviário,2-0,Fortaleza
+SF,06/04/17,Guarani de Juazeiro,0-0,Ceará
+SF,09/04/17,Fortaleza,1-1,Ferroviário
+SF,16/04/17,Ceará,2-0,Guarani de Juazeiro
+SF,19/04/17,Fortaleza,0-0,Ferroviário
+SF,22/04/17,Ceará,1-0,Guarani de Juazeiro
+F,30/04/17,Ferroviário,0-1,Ceará
+F,03/05/17,Ceará,2-0,Ferroviário
+F,10/05/17,Ceará,ANU,Ferroviário
