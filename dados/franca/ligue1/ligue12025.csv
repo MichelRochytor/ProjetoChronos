@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/08/25,Rennes,1-0,Marseille
+1,16/08/25,Lens,0-1,Lyon
+1,16/08/25,Monaco,3-1,Le Havre
+1,16/08/25,Nice,0-1,Toulouse
+1,17/08/25,Brest,3-3,Lille
+1,17/08/25,Auxerre,1-0,FC Lorient
+1,17/08/25,Metz,0-1,Strasbourg
+1,17/08/25,Angers,1-0,Paris FC
+1,17/08/25,Nantes,0-1,PSG
+2,22/08/25,PSG,1-0,Angers
+2,23/08/25,Marseille,5-2,Paris FC
+2,23/08/25,Nice,3-1,Auxerre
+2,23/08/25,Lyon,3-0,Metz
+2,24/08/25,FC Lorient,4-0,Rennes
+2,24/08/25,Le Havre,1-2,Lens
+2,24/08/25,Toulouse,2-0,Brest
+2,24/08/25,Strasbourg,1-0,Nantes
+2,24/08/25,Lille,1-0,Monaco
+3,29/08/25,Lens,3-1,Brest
+3,30/08/25,FC Lorient,1-7,Lille
+3,30/08/25,Nantes,1-0,Auxerre
+3,30/08/25,Toulouse,3-6,PSG
+3,31/08/25,Angers,1-1,Rennes
+3,31/08/25,Le Havre,3-1,Nice
+3,31/08/25,Monaco,3-2,Strasbourg
+3,31/08/25,Paris FC,3-2,Metz
+3,31/08/25,Lyon,1-0,Marseille
+4,12/09/25,Marseille,4-0,FC Lorient
+4,13/09/25,Nice,1-0,Nantes
+4,13/09/25,Auxerre,1-2,Monaco
+4,14/09/25,Lille,2-1,Toulouse
+4,14/09/25,Metz,1-1,Angers
+4,14/09/25,PSG,2-0,Lens
+4,14/09/25,Strasbourg,1-0,Le Havre
+4,14/09/25,Brest,1-2,Paris FC
+4,14/09/25,Rennes,3-1,Lyon
+5,19/09/25,Lyon,1-0,Angers
+5,20/09/25,Nantes,2-2,Rennes
+5,20/09/25,Brest,4-1,Nice
+5,20/09/25,Lens,3-0,Lille
+5,21/09/25,Paris FC,2-3,Strasbourg
+5,21/09/25,Le Havre,1-1,FC Lorient
+5,21/09/25,Auxerre,1-0,Toulouse
+5,21/09/25,Monaco,5-2,Metz
+5,22/09/25,Marseille,1-0,PSG
+6,26/09/25,Strasbourg,1-2,Marseille
+6,27/09/25,FC Lorient,3-1,Monaco
+6,27/09/25,Toulouse,2-2,Nantes
+6,27/09/25,PSG,2-0,Auxerre
+6,28/09/25,Nice,1-1,Paris FC
+6,28/09/25,Metz,0-0,Le Havre
+6,28/09/25,Lille,0-1,Lyon
+6,28/09/25,Angers,0-2,Brest
+6,28/09/25,Rennes,0-0,Lens
+7,03/10/25,Paris FC,2-0,FC Lorient
+7,04/10/25,Metz,0-3,Marseille
+7,04/10/25,Brest,0-0,Nantes
+7,04/10/25,Auxerre,1-2,Lens
+7,05/10/25,Lyon,1-2,Toulouse
+7,05/10/25,Le Havre,2-2,Rennes
+7,05/10/25,Monaco,2-2,Nice
+7,05/10/25,Strasbourg,5-0,Angers
+7,05/10/25,Lille,1-1,PSG
+8,17/10/25,PSG,3-3,Strasbourg
+8,18/10/25,Nice,3-2,Lyon
+8,18/10/25,Angers,1-1,Monaco
+8,18/10/25,Marseille,6-2,Le Havre
+8,19/10/25,Lens,2-1,Paris FC
+8,19/10/25,FC Lorient,3-3,Brest
+8,19/10/25,Toulouse,4-0,Metz
+8,19/10/25,Rennes,2-2,Auxerre
+8,19/10/25,Nantes,0-2,Lille
+9,24/10/25,Paris FC,1-2,Nantes
+9,25/10/25,Brest,0-3,PSG
+9,25/10/25,Monaco,1-0,Toulouse
+9,25/10/25,Lens,2-1,Marseille
+9,26/10/25,Lille,6-1,Metz
+9,26/10/25,Auxerre,0-1,Le Havre
+9,26/10/25,Angers,2-0,FC Lorient
+9,26/10/25,Rennes,1-2,Nice
+9,26/10/25,Lyon,2-1,Strasbourg
+10,29/10/25,Le Havre,1-0,Brest
+10,29/10/25,FC Lorient,1-1,PSG
+10,29/10/25,Metz,2-0,Lens
+10,29/10/25,Nice,2-0,Lille
+10,29/10/25,Nantes,3-5,Monaco
+10,29/10/25,Paris FC,3-3,Lyon
+10,29/10/25,Toulouse,2-2,Rennes
+10,29/10/25,Marseille,2-2,Angers
+10,29/10/25,Strasbourg,3-0,Auxerre
+11,01/11/25,PSG,1-0,Nice
+11,01/11/25,Monaco,0-1,Paris FC
+11,01/11/25,Auxerre,0-1,Marseille
+11,02/11/25,Rennes,4-1,Strasbourg
+11,02/11/25,Nantes,0-2,Metz
+11,02/11/25,Toulouse,0-0,Le Havre
+11,02/11/25,Lille,1-0,Angers
+11,02/11/25,Lens,3-0,FC Lorient
+11,02/11/25,Brest,0-0,Lyon
+12,07/11/25,Paris FC,0-1,Rennes
+12,08/11/25,Marseille,3-0,Brest
+12,08/11/25,Le Havre,1-1,Nantes
+12,08/11/25,Monaco,1-4,Lens
+12,09/11/25,FC Lorient,1-1,Toulouse
+12,09/11/25,Metz,2-1,Nice
+12,09/11/25,Strasbourg,2-0,Lille
+12,09/11/25,Angers,2-0,Auxerre
+12,09/11/25,Lyon,2-3,PSG
+13,21/11/25,Nice,1-5,Marseille
+13,22/11/25,Lens,1-0,Strasbourg
+13,22/11/25,Rennes,4-1,Monaco
+13,22/11/25,PSG,3-0,Le Havre
+13,23/11/25,Auxerre,0-0,Lyon
+13,23/11/25,Nantes,1-1,FC Lorient
+13,23/11/25,Toulouse,0-1,Angers
+13,23/11/25,Brest,3-2,Metz
+13,23/11/25,Lille,4-2,Paris FC
+14,28/11/25,Metz,0-1,Rennes
+14,29/11/25,Monaco,1-0,PSG
+14,29/11/25,Paris FC,1-1,Auxerre
+14,29/11/25,Marseille,2-2,Toulouse
+14,30/11/25,Strasbourg,1-2,Brest
+14,30/11/25,Le Havre,0-1,Lille
+14,30/11/25,FC Lorient,3-1,Nice
+14,30/11/25,Angers,1-2,Lens
+14,30/11/25,Lyon,3-0,Nantes
+15,05/12/25,Brest,1-0,Monaco
+15,05/12/25,Lille,1-0,Marseille
+15,06/12/25,Nantes,1-2,Lens
+15,06/12/25,Toulouse,1-0,Strasbourg
+15,06/12/25,PSG,5-0,Rennes
+15,07/12/25,Nice,0-1,Angers
+15,07/12/25,Le Havre,0-0,Paris FC
+15,07/12/25,Auxerre,3-1,Metz
+15,07/12/25,FC Lorient,1-0,Lyon
+16,12/12/25,Angers,4-1,Nantes
+16,13/12/25,Rennes,3-1,Brest
+16,13/12/25,Metz,2-3,PSG
+16,13/12/25,Paris FC,0-3,Toulouse
+16,14/12/25,Lyon,1-0,Le Havre
+16,14/12/25,Auxerre,3-4,Lille
+16,14/12/25,Strasbourg,0-0,FC Lorient
+16,14/12/25,Lens,2-0,Nice
+16,14/12/25,Marseille,1-0,Monaco
+17,02/01/26,Toulouse,0-3,Lens
+17,03/01/26,Monaco,1-3,Lyon
+17,03/01/26,Nice,1-1,Strasbourg
+17,03/01/26,Lille,0-2,Rennes
+17,04/01/26,Marseille,0-2,Nantes
+17,04/01/26,Le Havre,2-1,Angers
+17,04/01/26,FC Lorient,1-1,Metz
+17,04/01/26,Brest,2-0,Auxerre
+17,04/01/26,PSG,2-1,Paris FC
+18,16/01/26,Monaco,1-3,FC Lorient
+18,16/01/26,PSG,3-0,Lille
+18,17/01/26,Lens,1-0,Auxerre
+18,17/01/26,Toulouse,5-1,Nice
+18,17/01/26,Angers,2-5,Marseille
+18,18/01/26,Strasbourg,2-1,Metz
+18,18/01/26,Nantes,1-2,Paris FC
+18,18/01/26,Rennes,1-1,Le Havre
+18,18/01/26,Lyon,2-1,Brest
+19,23/01/26,Auxerre,0-1,PSG
+19,24/01/26,Rennes,0-2,FC Lorient
+19,24/01/26,Le Havre,0-0,Monaco
+19,24/01/26,Marseille,3-1,Lens
+19,25/01/26,Nantes,1-4,Nice
+19,25/01/26,Metz,2-5,Lyon
+19,25/01/26,Paris FC,0-0,Angers
+19,25/01/26,Brest,0-2,Toulouse
+19,25/01/26,Lille,1-4,Strasbourg
+20,30/01/26,Lens,1-0,Le Havre
+20,31/01/26,Paris FC,2-2,Marseille
+20,31/01/26,FC Lorient,2-1,Nantes
+20,31/01/26,Monaco,4-0,Rennes
+20,01/02/26,Lyon,1-0,Lille
+20,01/02/26,Toulouse,0-0,Auxerre
+20,01/02/26,Nice,2-2,Brest
+20,01/02/26,Angers,1-0,Metz
+20,01/02/26,Strasbourg,1-2,PSG
+21,06/02/26,Metz,0-0,Lille
+21,07/02/26,Lens,3-1,Rennes
+21,07/02/26,Brest,2-0,FC Lorient
+21,07/02/26,Nantes,0-1,Lyon
+21,08/02/26,Nice,0-0,Monaco
+21,08/02/26,Le Havre,2-1,Strasbourg
+21,08/02/26,Auxerre,0-0,Paris FC
+21,08/02/26,Angers,1-0,Toulouse
+21,08/02/26,PSG,5-0,Marseille
+22,13/02/26,Rennes,3-1,PSG
+22,13/02/26,Monaco,3-1,Nantes
+22,14/02/26,Marseille,2-2,Strasbourg
+22,14/02/26,Lille,1-1,Brest
+22,14/02/26,Paris FC,0-5,Lens
+22,15/02/26,Le Havre,2-1,Toulouse
+22,15/02/26,FC Lorient,2-0,Angers
+22,15/02/26,Metz,1-3,Auxerre
+22,15/02/26,Lyon,2-0,Nice
+23,20/02/26,Brest,2-0,Marseille
+23,21/02/26,Lens,2-3,Monaco
+23,21/02/26,Toulouse,1-1,Paris FC
+23,21/02/26,PSG,3-0,Metz
+23,22/02/26,Auxerre,0-3,Rennes
+23,22/02/26,Nantes,2-0,Le Havre
+23,22/02/26,Nice,3-3,FC Lorient
+23,22/02/26,Angers,0-1,Lille
+23,22/02/26,Strasbourg,3-1,Lyon
+24,27/02/26,Strasbourg,1-1,Lens
+24,28/02/26,Rennes,1-0,Toulouse
+24,28/02/26,Monaco,2-0,Angers
+24,28/02/26,Le Havre,0-1,PSG
+24,01/03/26,Paris FC,1-0,Nice
+24,01/03/26,FC Lorient,2-2,Auxerre
+24,01/03/26,Metz,0-1,Brest
+24,01/03/26,Lille,1-0,Nantes
+24,01/03/26,Marseille,3-2,Lyon
+25,06/03/26,PSG,1-3,Monaco
+25,07/03/26,Nantes,0-1,Angers
+25,07/03/26,Auxerre,0-0,Strasbourg
+25,07/03/26,Toulouse,0-1,Marseille
+25,08/03/26,Lens,3-0,Metz
+25,08/03/26,Nice,0-4,Rennes
+25,08/03/26,Lille,1-1,FC Lorient
+25,08/03/26,Brest,2-0,Le Havre
+25,08/03/26,Lyon,1-1,Paris FC
+26,13/03/26,Marseille,1-0,Auxerre
+26,14/03/26,FC Lorient,2-1,Lens
+26,14/03/26,Angers,0-2,Nice
+26,14/03/26,Monaco,2-0,Brest
+26,15/03/26,Strasbourg,0-0,Paris FC
+26,15/03/26,Le Havre,0-0,Lyon
+26,15/03/26,Metz,3-4,Toulouse
+26,15/03/26,Rennes,1-2,Lille
+27,20/03/26,Lens,5-1,Angers
+27,21/03/26,Toulouse,1-0,FC Lorient
+27,21/03/26,Auxerre,3-0,Brest
+27,21/03/26,Nice,0-4,PSG
+27,22/03/26,Lyon,1-2,Monaco
+27,22/03/26,Paris FC,3-2,Le Havre
+27,22/03/26,Marseille,1-2,Lille
+27,22/03/26,Rennes,0-0,Metz
+27,22/03/26,Nantes,2-3,Strasbourg
+28,03/04/26,PSG,3-1,Toulouse
+28,04/04/26,Strasbourg,3-1,Nice
+28,04/04/26,Brest,3-4,Rennes
+28,04/04/26,Lille,3-0,Lens
+28,05/04/26,Angers,0-0,Lyon
+28,05/04/26,Le Havre,1-1,Auxerre
+28,05/04/26,FC Lorient,1-1,Paris FC
+28,05/04/26,Metz,0-0,Nantes
+28,05/04/26,Monaco,2-1,Marseille
+29,10/04/26,Paris FC,4-1,Monaco
+29,10/04/26,Marseille,3-1,Metz
+29,11/04/26,Auxerre,0-0,Nantes
+29,11/04/26,Rennes,2-1,Angers
+29,12/04/26,Toulouse,0-4,Lille
+29,12/04/26,Nice,1-1,Le Havre
+29,12/04/26,Lyon,2-0,FC Lorient
+30,17/04/26,Lens,3-2,Toulouse
+30,18/04/26,FC Lorient,2-0,Marseille
+30,18/04/26,Angers,1-1,Le Havre
+30,18/04/26,Lille,0-0,Nice
+30,19/04/26,Monaco,2-2,Auxerre
+30,19/04/26,Metz,1-3,Paris FC
+30,19/04/26,Nantes,1-1,Brest
+30,19/04/26,Strasbourg,0-3,Rennes
+30,19/04/26,PSG,1-2,Lyon
+26,22/04/26,PSG,3-0,Nantes
+31,24/04/26,Brest,3-3,Lens
+31,25/04/26,Lyon,3-2,Auxerre
+31,25/04/26,Angers,0-3,PSG
+31,25/04/26,Toulouse,2-2,Monaco
+31,26/04/26,FC Lorient,2-3,Strasbourg
+31,26/04/26,Le Havre,4-4,Metz
+31,26/04/26,Paris FC,0-1,Lille
+31,26/04/26,Rennes,2-1,Nantes
+31,26/04/26,Marseille,1-1,Nice
+32,02/05/26,Nantes,3-0,Marseille
+32,02/05/26,PSG,2-2,FC Lorient
+32,02/05/26,Metz,1-2,Monaco
+32,02/05/26,Nice,1-1,Lens
+32,03/05/26,Lille,1-1,Le Havre
+32,03/05/26,Auxerre,3-1,Angers
+32,03/05/26,Paris FC,4-0,Brest
+32,03/05/26,Strasbourg,1-2,Toulouse
+32,03/05/26,Lyon,4-2,Rennes
+33,08/05/26,Lens,1-0,Nantes
+33,10/05/26,Le Havre,0-1,Marseille
+33,10/05/26,Auxerre,2-1,Nice
+33,10/05/26,Monaco,0-1,Lille
+33,10/05/26,Metz,0-4,FC Lorient
+33,10/05/26,Toulouse,2-1,Lyon
+33,10/05/26,PSG,1-0,Brest
+33,10/05/26,Angers,1-1,Strasbourg
+33,10/05/26,Rennes,2-1,Paris FC
+29,13/05/26,Brest,1-2,Strasbourg
+29,13/05/26,Lens,0-2,PSG
+34,17/05/26,FC Lorient,0-2,Le Havre
+34,17/05/26,Nantes,0-0,Toulouse
+34,17/05/26,Paris FC,2-1,PSG

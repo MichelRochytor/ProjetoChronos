@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,26/08/50,Bordeaux,2-0,Nice
+1,27/08/50,Lille,1-1,Stade Français
+1,27/08/50,Le Havre,1-0,Marseille
+1,27/08/50,Racing Club Paris,4-1,Sochaux
+1,27/08/50,Stade Rennais UC,6-0,Saint-Étienne
+1,27/08/50,FC Sète,5-2,Stade de Reims
+1,27/08/50,Lens,0-2,FC Nancy
+1,27/08/50,Toulouse FC,1-1,Excelsior AC Roubaix
+1,27/08/50,RC Strasbourg,2-1,Nimes
+2,03/09/50,Nice,3-6,Stade Rennais UC
+2,03/09/50,Stade de Reims,2-0,Le Havre
+2,03/09/50,Nimes,2-2,Bordeaux
+2,03/09/50,Saint-Étienne,4-1,Lens
+2,03/09/50,Marseille,3-1,Toulouse FC
+2,03/09/50,Excelsior AC Roubaix,1-4,Racing Club Paris
+2,03/09/50,FC Nancy,2-2,FC Sète
+2,03/09/50,Sochaux,0-4,Lille
+2,03/09/50,Stade Français,0-0,RC Strasbourg
+3,10/09/50,Nice,0-0,Saint-Étienne
+3,10/09/50,Lille,2-1,Marseille
+3,10/09/50,Nimes,3-0,FC Nancy
+3,10/09/50,Bordeaux,0-3,Racing Club Paris
+3,10/09/50,RC Strasbourg,3-1,Excelsior AC Roubaix
+3,10/09/50,Lens,2-1,Le Havre
+3,10/09/50,Stade Français,1-1,Stade de Reims
+3,10/09/50,Stade Rennais UC,6-0,Toulouse FC
+3,10/09/50,FC Sète,1-1,Sochaux
+4,17/09/50,Stade de Reims,4-3,Lille
+4,17/09/50,Excelsior AC Roubaix,1-1,Bordeaux
+4,17/09/50,FC Nancy,2-1,Stade Français
+4,17/09/50,Sochaux,3-2,Nice
+4,17/09/50,Racing Club Paris,4-2,Stade Rennais UC
+4,17/09/50,Toulouse FC,3-2,Lens
+4,17/09/50,Marseille,2-2,RC Strasbourg
+4,17/09/50,Le Havre,1-0,FC Sète
+4,17/09/50,Saint-Étienne,1-1,Nimes
+5,21/09/50,Lille,1-1,Racing Club Paris
+5,21/09/50,Nimes,2-1,Marseille
+5,21/09/50,Bordeaux,0-1,Le Havre
+5,21/09/50,RC Strasbourg,6-1,Toulouse FC
+5,21/09/50,Stade Rennais UC,2-0,FC Sète
+5,21/09/50,Lens,3-1,Sochaux
+5,21/09/50,Nice,1-2,Stade de Reims
+5,21/09/50,Saint-Étienne,3-1,FC Nancy
+5,21/09/50,Stade Français,1-0,Excelsior AC Roubaix
+6,24/09/50,Le Havre,0-1,RC Strasbourg
+6,24/09/50,Stade de Reims,0-0,Saint-Étienne
+6,24/09/50,Marseille,3-0,Nice
+6,24/09/50,Excelsior AC Roubaix,2-0,Nimes
+6,24/09/50,Sochaux,3-3,FC Nancy
+6,24/09/50,Racing Club Paris,1-1,Stade Français
+6,24/09/50,FC Sète,1-0,Bordeaux
+6,24/09/50,Toulouse FC,0-2,Lille
+6,24/09/50,Lens,1-2,Stade Rennais UC
+7,01/10/50,Le Havre,3-1,Stade Rennais UC
+7,01/10/50,Stade de Reims,1-1,Nimes
+7,01/10/50,Excelsior AC Roubaix,3-0,Lille
+7,01/10/50,FC Nancy,1-2,Nice
+7,01/10/50,Sochaux,0-2,Saint-Étienne
+7,01/10/50,FC Sète,1-1,Lens
+7,01/10/50,Toulouse FC,1-2,Bordeaux
+7,01/10/50,Racing Club Paris,2-4,RC Strasbourg
+7,01/10/50,Marseille,0-0,Stade Français
+8,08/10/50,Lille,1-0,Le Havre
+8,08/10/50,Nimes,4-2,Racing Club Paris
+8,08/10/50,FC Nancy,0-2,Stade de Reims
+8,08/10/50,Stade Rennais UC,2-1,Sochaux
+8,08/10/50,Stade Français,1-2,Toulouse FC
+8,08/10/50,RC Strasbourg,1-0,FC Sète
+8,08/10/50,Nice,3-0,Excelsior AC Roubaix
+8,08/10/50,Bordeaux,4-0,Lens
+8,08/10/50,Saint-Étienne,1-2,Marseille
+9,15/10/50,Le Havre,3-0,Stade Français
+9,15/10/50,Marseille,2-1,FC Nancy
+9,15/10/50,Excelsior AC Roubaix,2-2,Saint-Étienne
+9,15/10/50,Sochaux,2-0,Stade de Reims
+9,15/10/50,Racing Club Paris,0-3,Nice
+9,15/10/50,Stade Rennais UC,4-2,Bordeaux
+9,15/10/50,Lens,1-1,RC Strasbourg
+9,15/10/50,FC Sète,1-1,Lille
+9,15/10/50,Toulouse FC,1-1,Nimes
+10,22/10/50,Nice,2-1,Toulouse FC
+10,22/10/50,Lille,5-0,Lens
+10,22/10/50,Nimes,2-3,Le Havre
+10,22/10/50,Bordeaux,3-1,Sochaux
+10,22/10/50,Saint-Étienne,2-1,Racing Club Paris
+10,22/10/50,RC Strasbourg,1-0,Stade Rennais UC
+10,22/10/50,FC Nancy,2-1,Excelsior AC Roubaix
+10,22/10/50,Stade de Reims,1-1,Marseille
+10,22/10/50,Stade Français,3-2,FC Sète
+11,29/10/50,Le Havre,1-1,FC Nancy
+11,29/10/50,Bordeaux,4-1,Stade Français
+11,29/10/50,RC Strasbourg,1-0,Lille
+11,29/10/50,Excelsior AC Roubaix,1-2,Sochaux
+11,29/10/50,Racing Club Paris,1-1,Marseille
+11,29/10/50,Stade Rennais UC,1-2,Nimes
+11,29/10/50,FC Sète,4-1,Saint-Étienne
+11,29/10/50,Lens,2-0,Nice
+11,29/10/50,Toulouse FC,1-3,Stade de Reims
+12,05/11/50,Nice,2-1,FC Sète
+12,05/11/50,Lille,3-0,Bordeaux
+12,05/11/50,Stade de Reims,2-2,Racing Club Paris
+12,05/11/50,Nimes,5-3,Lens
+12,05/11/50,Saint-Étienne,1-0,Le Havre
+12,05/11/50,Marseille,1-2,Excelsior AC Roubaix
+12,05/11/50,FC Nancy,0-3,Toulouse FC
+12,05/11/50,Sochaux,5-0,RC Strasbourg
+12,05/11/50,Stade Français,6-0,Stade Rennais UC
+13,11/11/50,Racing Club Paris,2-0,FC Nancy
+13,12/11/50,Le Havre,4-1,Nice
+13,12/11/50,Bordeaux,3-0,RC Strasbourg
+13,12/11/50,Excelsior AC Roubaix,2-1,Stade de Reims
+13,12/11/50,Stade Rennais UC,0-0,Lille
+13,12/11/50,FC Sète,1-1,Nimes
+13,12/11/50,Lens,5-0,Stade Français
+13,12/11/50,Toulouse FC,3-2,Saint-Étienne
+14,19/11/50,Lille,1-3,Nice
+14,19/11/50,Le Havre,2-0,Racing Club Paris
+14,19/11/50,Bordeaux,3-1,FC Nancy
+14,19/11/50,RC Strasbourg,2-6,Saint-Étienne
+14,19/11/50,Stade Rennais UC,2-2,Stade de Reims
+14,19/11/50,FC Sète,2-0,Excelsior AC Roubaix
+14,19/11/50,Lens,1-1,Marseille
+14,19/11/50,Toulouse FC,0-2,Sochaux
+14,19/11/50,Stade Français,2-3,Nimes
+13,23/11/50,Sochaux,1-2,Marseille
+15,26/11/50,Nice,4-1,RC Strasbourg
+15,26/11/50,Stade de Reims,4-2,Lens
+15,26/11/50,Nimes,2-4,Lille
+15,26/11/50,Saint-Étienne,1-0,Bordeaux
+15,26/11/50,Marseille,1-2,FC Sète
+15,26/11/50,Excelsior AC Roubaix,2-3,Le Havre
+15,26/11/50,FC Nancy,3-2,Stade Rennais UC
+15,26/11/50,Racing Club Paris,1-1,Toulouse FC
+16,03/12/50,Lille,0-0,FC Nancy
+16,03/12/50,Nimes,1-1,Nice
+16,03/12/50,Bordeaux,0-0,Marseille
+16,03/12/50,RC Strasbourg,0-1,Stade de Reims
+16,03/12/50,Stade Rennais UC,4-1,Excelsior AC Roubaix
+16,03/12/50,FC Sète,0-1,Toulouse FC
+16,03/12/50,Lens,1-1,Racing Club Paris
+16,03/12/50,Stade Français,4-0,Saint-Étienne
+16,05/12/50,Le Havre,3-1,Sochaux
+17,17/12/50,Nice,5-1,Stade Français
+17,17/12/50,Stade de Reims,2-3,Bordeaux
+17,17/12/50,Saint-Étienne,5-1,Lille
+17,17/12/50,Marseille,1-1,Stade Rennais UC
+17,17/12/50,Excelsior AC Roubaix,4-1,Lens
+17,17/12/50,FC Nancy,2-1,RC Strasbourg
+17,17/12/50,Sochaux,4-0,Nimes
+17,17/12/50,Racing Club Paris,3-2,FC Sète
+17,17/12/50,Toulouse FC,2-0,Le Havre
+18,24/12/50,Nice,4-1,Bordeaux
+18,24/12/50,Stade de Reims,3-1,FC Sète
+18,24/12/50,Nimes,1-0,RC Strasbourg
+18,24/12/50,Saint-Étienne,3-0,Stade Rennais UC
+18,24/12/50,Marseille,3-1,Le Havre
+18,24/12/50,Excelsior AC Roubaix,3-2,Toulouse FC
+18,24/12/50,FC Nancy,4-2,Lens
+18,24/12/50,Sochaux,0-1,Racing Club Paris
+18,24/12/50,Stade Français,0-2,Lille
+15,28/12/50,Sochaux,0-1,Stade Français
+19,31/12/50,Lille,2-1,Sochaux
+19,31/12/50,Le Havre,3-0,Stade de Reims
+19,31/12/50,Bordeaux,2-1,Nimes
+19,31/12/50,RC Strasbourg,2-1,Stade Français
+19,31/12/50,Racing Club Paris,1-2,Excelsior AC Roubaix
+19,31/12/50,Stade Rennais UC,3-1,Nice
+19,31/12/50,FC Sète,2-1,FC Nancy
+19,31/12/50,Lens,2-3,Saint-Étienne
+19,31/12/50,Toulouse FC,0-4,Marseille
+20,07/01/51,Le Havre,4-1,Lens
+20,07/01/51,Stade de Reims,2-0,Stade Français
+20,07/01/51,Saint-Étienne,3-2,Nice
+20,07/01/51,Marseille,1-1,Lille
+20,07/01/51,Excelsior AC Roubaix,0-1,RC Strasbourg
+20,07/01/51,FC Nancy,3-0,Nimes
+20,07/01/51,Racing Club Paris,1-0,Bordeaux
+20,07/01/51,Toulouse FC,0-1,Stade Rennais UC
+21,21/01/51,Nice,2-1,Sochaux
+21,21/01/51,Lille,1-1,Stade de Reims
+21,21/01/51,Nimes,1-0,Saint-Étienne
+21,21/01/51,Bordeaux,2-2,Excelsior AC Roubaix
+21,21/01/51,RC Strasbourg,2-2,Marseille
+21,21/01/51,Stade Rennais UC,3-4,Racing Club Paris
+21,21/01/51,FC Sète,1-2,Le Havre
+21,21/01/51,Lens,2-2,Toulouse FC
+21,21/01/51,Stade Français,1-4,FC Nancy
+22,28/01/51,Le Havre,2-2,Bordeaux
+22,28/01/51,Stade de Reims,2-4,Nice
+22,28/01/51,Marseille,1-1,Nimes
+22,28/01/51,Excelsior AC Roubaix,3-1,Stade Français
+22,28/01/51,FC Nancy,4-2,Saint-Étienne
+22,28/01/51,Sochaux,3-2,Lens
+22,28/01/51,Racing Club Paris,2-0,Lille
+22,28/01/51,FC Sète,1-2,Stade Rennais UC
+22,28/01/51,Toulouse FC,1-0,RC Strasbourg
+23,11/02/51,Nice,2-2,Marseille
+23,11/02/51,Lille,1-2,Toulouse FC
+23,11/02/51,Nimes,2-1,Excelsior AC Roubaix
+23,11/02/51,Bordeaux,4-0,FC Sète
+23,11/02/51,Saint-Étienne,1-1,Stade de Reims
+23,11/02/51,RC Strasbourg,1-4,Le Havre
+23,11/02/51,FC Nancy,3-4,Sochaux
+23,11/02/51,Stade Rennais UC,1-2,Lens
+23,11/02/51,Stade Français,0-3,Racing Club Paris
+24,18/02/51,Nice,5-0,FC Nancy
+24,18/02/51,Lille,0-1,Excelsior AC Roubaix
+24,18/02/51,Nimes,3-0,Stade de Reims
+24,18/02/51,Bordeaux,3-1,Toulouse FC
+24,18/02/51,Saint-Étienne,3-0,Sochaux
+24,18/02/51,RC Strasbourg,3-0,Racing Club Paris
+24,18/02/51,Stade Rennais UC,0-4,Le Havre
+24,18/02/51,Lens,3-0,FC Sète
+24,18/02/51,Stade Français,2-4,Marseille
+20,25/02/51,Sochaux,1-0,FC Sète
+25,04/03/51,Le Havre,0-1,Lille
+25,04/03/51,Stade de Reims,2-2,FC Nancy
+25,04/03/51,Marseille,7-0,Saint-Étienne
+25,04/03/51,Excelsior AC Roubaix,0-0,Nice
+25,04/03/51,Sochaux,2-2,Stade Rennais UC
+25,04/03/51,Racing Club Paris,0-2,Nimes
+25,04/03/51,Lens,1-1,Bordeaux
+25,04/03/51,Toulouse FC,0-0,Stade Français
+26,11/03/51,Nice,3-0,Racing Club Paris
+26,11/03/51,Lille,3-1,FC Sète
+26,11/03/51,Stade de Reims,3-1,Sochaux
+26,11/03/51,Bordeaux,1-1,Stade Rennais UC
+26,11/03/51,Saint-Étienne,3-0,Excelsior AC Roubaix
+26,11/03/51,RC Strasbourg,1-1,Lens
+26,11/03/51,FC Nancy,5-1,Marseille
+26,11/03/51,Stade Français,1-0,Le Havre
+26,18/03/51,Nimes,3-1,Toulouse FC
+27,24/03/51,Excelsior AC Roubaix,3-0,FC Nancy
+27,24/03/51,Racing Club Paris,2-2,Saint-Étienne
+27,24/03/51,Stade Rennais UC,2-4,RC Strasbourg
+27,25/03/51,Le Havre,2-4,Nimes
+27,25/03/51,Marseille,0-2,Stade de Reims
+27,25/03/51,Sochaux,1-0,Bordeaux
+27,25/03/51,FC Sète,2-0,Stade Français
+27,25/03/51,Lens,2-1,Lille
+27,25/03/51,Toulouse FC,0-1,Nice
+28,01/04/51,Nice,5-0,Lens
+28,01/04/51,Lille,3-1,RC Strasbourg
+28,01/04/51,Stade de Reims,4-1,Toulouse FC
+28,01/04/51,Nimes,3-0,Stade Rennais UC
+28,01/04/51,Saint-Étienne,0-2,FC Sète
+28,01/04/51,Marseille,4-2,Racing Club Paris
+28,01/04/51,FC Nancy,6-1,Le Havre
+28,01/04/51,Sochaux,1-1,Excelsior AC Roubaix
+28,01/04/51,Stade Français,1-2,Bordeaux
+29,07/04/51,Excelsior AC Roubaix,1-1,Marseille
+29,08/04/51,Le Havre,4-1,Saint-Étienne
+29,08/04/51,Bordeaux,1-3,Lille
+29,08/04/51,RC Strasbourg,2-0,Sochaux
+29,08/04/51,Racing Club Paris,0-0,Stade de Reims
+29,08/04/51,Stade Rennais UC,1-3,Stade Français
+29,08/04/51,FC Sète,2-1,Nice
+29,08/04/51,Lens,4-2,Nimes
+29,08/04/51,Toulouse FC,3-0,FC Nancy
+32,15/04/51,Lille,1-0,Nimes
+30,21/04/51,Stade Français,2-2,Lens
+30,22/04/51,Nice,0-0,Le Havre
+30,22/04/51,Lille,2-0,Stade Rennais UC
+30,22/04/51,Stade de Reims,3-1,Excelsior AC Roubaix
+30,22/04/51,Nimes,1-0,FC Sète
+30,22/04/51,Saint-Étienne,4-0,Toulouse FC
+30,22/04/51,Marseille,0-0,Sochaux
+30,22/04/51,RC Strasbourg,0-2,Bordeaux
+30,22/04/51,FC Nancy,0-1,Racing Club Paris
+25,27/04/51,FC Sète,2-1,RC Strasbourg
+31,29/04/51,Nice,4-1,Lille
+31,29/04/51,Stade de Reims,0-1,Stade Rennais UC
+31,29/04/51,Nimes,6-2,Stade Français
+31,29/04/51,Saint-Étienne,1-1,RC Strasbourg
+31,29/04/51,Marseille,3-0,Lens
+31,29/04/51,Excelsior AC Roubaix,6-0,FC Sète
+31,29/04/51,FC Nancy,2-2,Bordeaux
+31,29/04/51,Sochaux,2-1,Toulouse FC
+31,29/04/51,Racing Club Paris,2-3,Le Havre
+32,05/05/51,Stade Rennais UC,3-5,FC Nancy
+32,05/05/51,Stade Français,0-3,Sochaux
+32,06/05/51,Le Havre,1-0,Excelsior AC Roubaix
+32,06/05/51,Bordeaux,1-0,Saint-Étienne
+32,06/05/51,FC Sète,3-1,Marseille
+32,06/05/51,Lens,2-1,Stade de Reims
+32,06/05/51,Toulouse FC,1-0,Racing Club Paris
+32,13/05/51,RC Strasbourg,2-1,Nice
+33,20/05/51,Nice,2-0,Nimes
+33,20/05/51,Stade de Reims,3-1,RC Strasbourg
+33,20/05/51,Saint-Étienne,3-0,Stade Français
+33,20/05/51,Marseille,3-3,Bordeaux
+33,20/05/51,Excelsior AC Roubaix,3-0,Stade Rennais UC
+33,20/05/51,FC Nancy,1-2,Lille
+33,20/05/51,Sochaux,1-0,Le Havre
+33,20/05/51,Racing Club Paris,1-3,Lens
+33,20/05/51,Toulouse FC,0-0,FC Sète
+34,27/05/51,Lille,4-3,Saint-Étienne
+34,27/05/51,Le Havre,2-2,Toulouse FC
+34,27/05/51,Nimes,3-3,Sochaux

@@ -1,0 +1,66 @@
+name: Atualizar Dataset O Gol (18h e 00h)
+
+on:
+  schedule:
+    # 18:00 no Horário de Brasília (BRT / UTC-3) -> 21:00 UTC
+    - cron: '0 21 * * *'
+    # 00:00 no Horário de Brasília (BRT / UTC-3) -> 03:00 UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-dataset-ogol
+  cancel-in-progress: false
+
+env:
+  TZ: America/Sao_Paulo
+
+jobs:
+  atualizar-dados:
+    name: Raspador O Gol -> Atualizar pasta dados/
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout do repositório (incluindo toda a pasta dados/)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Configurar Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Instalar Tor e dependências do Raspador O Gol
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tor
+          sudo service tor start || true
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Executar Raspador O Gol para atualizar dataset (dados/)
+        run: |
+          python atualizar_dataset.py --workers 6
+
+      - name: Salvar e publicar atualizações da pasta dados/
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A dados/ campeonatos_links.json
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração detectada na pasta dados/ neste horário."
+          else
+            DATA_HORA=$(date '+%d/%m/%Y %H:%M')
+            git commit -m "chore(dados): atualizar dataset O Gol (${DATA_HORA} BRT)"
+            git pull --rebase -X theirs origin main
+            git push origin main
+            echo "Dataset atualizado e publicado com sucesso!"
+          fi

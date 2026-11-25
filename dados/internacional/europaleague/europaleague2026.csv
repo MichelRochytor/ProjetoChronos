@@ -53,24 +53,24 @@ FL,22/10/26,NK Celje,2-2,Red Bull Salzburg
 FL,22/10/26,Celtic,1-2,Celta de Vigo
 FL,22/10/26,Jagiellonia Bialystok,0-3,Anderlecht
 FL,22/10/26,Besiktas,2-2,Crystal Palace
-FL,05/11/26,AC Milan,vs,Ferencváros
-FL,05/11/26,Rennes,vs,Olympiacos
-FL,05/11/26,Real Sociedad,vs,Lyon
-FL,05/11/26,Lillestrom,vs,Viktoria Plzeň
-FL,05/11/26,Anderlecht,vs,Red Bull Salzburg
-FL,05/11/26,Sparta Praha,vs,Bournemouth
-FL,05/11/26,Crystal Palace,vs,TSG Hoffenheim
-FL,05/11/26,Levski Sofia,vs,Jagiellonia Bialystok
-FL,05/11/26,NEC,vs,Omonia
-FL,05/11/26,Benfica,vs,Lech Poznan
-FL,05/11/26,Bayer Leverkusen,vs,Marseille
-FL,05/11/26,AZ Alkmaar,vs,Juventus
-FL,05/11/26,Torreense,vs,FC Ararat-Armenia
-FL,05/11/26,Celta de Vigo,vs,Union St. Gilloise
-FL,05/11/26,Sunderland,vs,Dinamo Zagreb
-FL,05/11/26,Celtic,vs,Besiktas
-FL,05/11/26,Sturm Graz,vs,NK Celje
-FL,05/11/26,Hapoel Beer Sheva,vs,OFI
+FL,04/11/26,Rennes,0-0,Olympiacos
+FL,05/11/26,AC Milan,0-2,Ferencváros
+FL,05/11/26,Real Sociedad,1-1,Lyon
+FL,05/11/26,Lillestrom,0-1,Viktoria Plzeň
+FL,05/11/26,Anderlecht,2-0,Red Bull Salzburg
+FL,05/11/26,Sparta Praha,1-3,Bournemouth
+FL,05/11/26,Crystal Palace,1-1,TSG Hoffenheim
+FL,05/11/26,Levski Sofia,1-0,Jagiellonia Bialystok
+FL,05/11/26,NEC,3-1,Omonia
+FL,05/11/26,Benfica,3-1,Lech Poznan
+FL,05/11/26,Bayer Leverkusen,0-1,Marseille
+FL,05/11/26,AZ Alkmaar,1-2,Juventus
+FL,05/11/26,Torreense,3-2,FC Ararat-Armenia
+FL,05/11/26,Celta de Vigo,1-2,Union St. Gilloise
+FL,05/11/26,Sunderland,0-2,Dinamo Zagreb
+FL,05/11/26,Celtic,3-2,Besiktas
+FL,05/11/26,Sturm Graz,2-3,NK Celje
+FL,05/11/26,Hapoel Beer Sheva,0-2,OFI
 FL,26/11/26,Viktoria Plzeň,vs,Benfica
 FL,26/11/26,Dinamo Zagreb,vs,Bayer Leverkusen
 FL,26/11/26,Olympiacos,vs,AC Milan
@@ -91,6 +91,7 @@ FL,26/11/26,TSG Hoffenheim,vs,Sturm Graz
 FL,26/11/26,Sunderland,vs,Jagiellonia Bialystok
 FL,10/12/26,Hapoel Beer Sheva,vs,Juventus
 FL,10/12/26,AZ Alkmaar,vs,Sturm Graz
+FL,10/12/26,NK Celje,vs,Olympiacos
 FL,10/12/26,Marseille,vs,Celta de Vigo
 FL,10/12/26,Rennes,vs,Dinamo Zagreb
 FL,10/12/26,Omonia,vs,Celtic
@@ -101,7 +102,6 @@ FL,10/12/26,Benfica,vs,OFI
 FL,10/12/26,Real Sociedad,vs,Torreense
 FL,10/12/26,Bayer Leverkusen,vs,Besiktas
 FL,10/12/26,AC Milan,vs,Sunderland
-FL,10/12/26,NK Celje,vs,Olympiacos
 FL,10/12/26,Lyon,vs,Union St. Gilloise
 FL,10/12/26,Lech Poznan,vs,Ferencváros
 FL,10/12/26,Bournemouth,vs,Viktoria Plzeň

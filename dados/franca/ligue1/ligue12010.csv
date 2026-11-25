@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,07/08/10,Auxerre,2-2,FC Lorient
+1,07/08/10,Lens,1-2,Nancy
+1,07/08/10,Lyon,0-0,Monaco
+1,07/08/10,Marseille,1-2,Caen
+1,07/08/10,Nice,0-0,Valenciennes
+1,07/08/10,PSG,3-1,Saint-Étienne
+1,07/08/10,Rennes,1-1,Lille
+1,07/08/10,Sochaux,2-1,AC Arles
+1,07/08/10,Toulouse,2-0,Brest
+1,08/08/10,Montpellier,1-0,Bordeaux
+2,14/08/10,Brest,1-1,Auxerre
+2,14/08/10,FC Lorient,1-2,Nice
+2,14/08/10,Nancy,0-3,Rennes
+2,14/08/10,Saint-Étienne,3-2,Sochaux
+2,14/08/10,Valenciennes,3-2,Marseille
+2,14/08/10,AC Arles,0-1,Lens
+2,15/08/10,Bordeaux,1-2,Toulouse
+2,15/08/10,Caen,3-2,Lyon
+2,15/08/10,Lille,0-0,PSG
+2,17/08/10,Monaco,0-0,Montpellier
+3,21/08/10,Lens,2-2,Monaco
+3,21/08/10,Lyon,1-0,Brest
+3,21/08/10,Marseille,2-0,FC Lorient
+3,21/08/10,Nice,1-1,Nancy
+3,21/08/10,Rennes,0-0,Saint-Étienne
+3,21/08/10,Toulouse,2-1,AC Arles
+3,21/08/10,Auxerre,1-1,Valenciennes
+3,22/08/10,Montpellier,0-0,Caen
+3,22/08/10,Sochaux,0-0,Lille
+3,22/08/10,PSG,1-2,Bordeaux
+4,28/08/10,AC Arles,0-1,Rennes
+4,28/08/10,FC Lorient,2-0,Lyon
+4,28/08/10,Nancy,0-2,Toulouse
+4,28/08/10,Saint-Étienne,3-1,Lens
+4,28/08/10,Valenciennes,0-1,Montpellier
+4,28/08/10,Caen,0-2,Brest
+4,29/08/10,Lille,1-1,Nice
+4,29/08/10,Monaco,2-0,Auxerre
+4,29/08/10,Sochaux,3-1,PSG
+4,29/08/10,Bordeaux,1-1,Marseille
+5,11/09/10,Auxerre,1-1,Caen
+5,11/09/10,Lyon,1-1,Valenciennes
+5,11/09/10,Montpellier,1-2,Nancy
+5,11/09/10,PSG,4-0,AC Arles
+5,11/09/10,Rennes,2-1,Sochaux
+5,11/09/10,Toulouse,0-1,Saint-Étienne
+5,11/09/10,Lens,1-4,Lille
+5,12/09/10,Brest,0-0,FC Lorient
+5,12/09/10,Nice,2-1,Bordeaux
+5,12/09/10,Marseille,2-2,Monaco
+6,18/09/10,FC Lorient,0-1,Caen
+6,18/09/10,Monaco,0-0,Toulouse
+6,18/09/10,Nancy,0-2,Brest
+6,18/09/10,Saint-Étienne,3-0,Montpellier
+6,18/09/10,Sochaux,4-0,Nice
+6,18/09/10,Valenciennes,1-1,Lens
+6,18/09/10,AC Arles,0-3,Marseille
+6,19/09/10,Lille,1-0,Auxerre
+6,19/09/10,PSG,0-0,Rennes
+6,19/09/10,Bordeaux,2-0,Lyon
+7,25/09/10,Auxerre,2-2,Nancy
+7,25/09/10,Caen,0-0,Bordeaux
+7,25/09/10,FC Lorient,2-1,Monaco
+7,25/09/10,Marseille,2-1,Sochaux
+7,25/09/10,Montpellier,3-1,AC Arles
+7,25/09/10,Nice,1-2,Rennes
+7,25/09/10,Lyon,0-1,Saint-Étienne
+7,26/09/10,Brest,1-0,Valenciennes
+7,26/09/10,Toulouse,1-1,Lille
+7,26/09/10,Lens,0-2,PSG
+8,02/10/10,AC Arles,0-4,Auxerre
+8,02/10/10,Bordeaux,1-0,FC Lorient
+8,02/10/10,Monaco,0-1,Brest
+8,02/10/10,Nancy,2-3,Lyon
+8,02/10/10,Sochaux,3-0,Lens
+8,02/10/10,Valenciennes,2-1,Caen
+8,02/10/10,Saint-Étienne,1-1,Marseille
+8,03/10/10,Lille,3-1,Montpellier
+8,03/10/10,PSG,0-0,Nice
+8,03/10/10,Rennes,3-1,Toulouse
+9,16/10/10,Auxerre,0-1,Bordeaux
+9,16/10/10,Brest,0-0,AC Arles
+9,16/10/10,Caen,0-0,Monaco
+9,16/10/10,Marseille,1-0,Nancy
+9,16/10/10,Montpellier,2-0,Sochaux
+9,16/10/10,Toulouse,0-2,PSG
+9,17/10/10,Lens,0-0,Rennes
+9,17/10/10,FC Lorient,2-1,Valenciennes
+9,17/10/10,Nice,2-1,Saint-Étienne
+9,17/10/10,Lyon,3-1,Lille
+10,23/10/10,Bordeaux,0-2,Brest
+10,23/10/10,Lens,1-0,Nice
+10,23/10/10,Monaco,0-2,Valenciennes
+10,23/10/10,Nancy,1-0,FC Lorient
+10,23/10/10,Rennes,0-1,Montpellier
+10,23/10/10,Saint-Étienne,1-1,Caen
+10,23/10/10,Sochaux,1-3,Toulouse
+10,24/10/10,AC Arles,1-1,Lyon
+10,24/10/10,PSG,2-3,Auxerre
+10,24/10/10,Lille,1-3,Marseille
+11,30/10/10,Auxerre,2-0,Nice
+11,30/10/10,Brest,2-0,Saint-Étienne
+11,30/10/10,Caen,2-3,Nancy
+11,30/10/10,FC Lorient,2-0,AC Arles
+11,30/10/10,Lyon,2-1,Sochaux
+11,30/10/10,Toulouse,1-1,Lens
+11,31/10/10,Monaco,2-2,Bordeaux
+11,31/10/10,Valenciennes,1-1,Lille
+11,31/10/10,Montpellier,1-1,PSG
+12,06/11/10,AC Arles,3-2,Caen
+12,06/11/10,Bordeaux,1-1,Valenciennes
+12,06/11/10,Saint-Étienne,1-2,FC Lorient
+12,06/11/10,Sochaux,1-1,Auxerre
+12,06/11/10,Rennes,1-1,Lyon
+12,07/11/10,Lens,2-0,Montpellier
+12,07/11/10,Lille,3-1,Brest
+12,07/11/10,Nancy,0-4,Monaco
+12,07/11/10,Nice,2-0,Toulouse
+12,07/11/10,PSG,2-1,Marseille
+13,13/11/10,Bordeaux,2-1,Nancy
+13,13/11/10,Brest,1-1,Sochaux
+13,13/11/10,Marseille,1-1,Lens
+13,13/11/10,Monaco,0-0,AC Arles
+13,13/11/10,Montpellier,1-0,Toulouse
+13,13/11/10,Caen,2-5,Lille
+13,14/11/10,Auxerre,2-1,Rennes
+13,14/11/10,FC Lorient,1-1,PSG
+13,14/11/10,Lyon,1-0,Nice
+14,20/11/10,Nancy,2-0,Valenciennes
+14,20/11/10,PSG,2-1,Caen
+14,20/11/10,Rennes,2-1,Brest
+14,20/11/10,Saint-Étienne,1-1,Auxerre
+14,20/11/10,Sochaux,2-0,FC Lorient
+14,20/11/10,Toulouse,0-1,Marseille
+14,20/11/10,Nice,0-1,Montpellier
+14,21/11/10,AC Arles,2-4,Bordeaux
+14,21/11/10,Lille,2-1,Monaco
+14,21/11/10,Lens,1-3,Lyon
+15,27/11/10,FC Lorient,2-0,Rennes
+15,27/11/10,Marseille,4-0,Montpellier
+15,27/11/10,Monaco,1-1,Nice
+15,27/11/10,Nancy,1-1,Saint-Étienne
+15,27/11/10,Valenciennes,3-0,AC Arles
+15,27/11/10,Bordeaux,1-1,Lille
+15,28/11/10,Auxerre,1-2,Toulouse
+15,28/11/10,Caen,0-3,Sochaux
+15,28/11/10,Lyon,2-2,PSG
+15,30/11/10,Brest,4-1,Lens
+11,01/12/10,Marseille,0-0,Rennes
+13,01/12/10,Valenciennes,1-1,Saint-Étienne
+16,04/12/10,AC Arles,1-1,Nancy
+16,04/12/10,Lens,1-1,Auxerre
+16,04/12/10,Rennes,1-0,Monaco
+16,04/12/10,Sochaux,2-1,Valenciennes
+16,04/12/10,Toulouse,1-0,Caen
+16,04/12/10,Montpellier,1-2,Lyon
+16,05/12/10,Lille,6-3,FC Lorient
+16,05/12/10,Nice,1-0,Marseille
+16,05/12/10,PSG,3-1,Brest
+16,05/12/10,Saint-Étienne,2-2,Bordeaux
+17,11/12/10,AC Arles,0-1,Lille
+17,11/12/10,Brest,0-0,Montpellier
+17,11/12/10,Caen,0-0,Nice
+17,11/12/10,FC Lorient,3-0,Lens
+17,11/12/10,Nancy,1-0,Sochaux
+17,11/12/10,Valenciennes,1-2,PSG
+17,11/12/10,Auxerre,1-1,Marseille
+17,12/12/10,Lyon,2-0,Toulouse
+17,12/12/10,Monaco,0-2,Saint-Étienne
+17,12/12/10,Bordeaux,0-0,Rennes
+18,18/12/10,Montpellier,1-1,Auxerre
+18,18/12/10,Nice,1-1,Brest
+18,18/12/10,Rennes,1-0,Valenciennes
+18,18/12/10,Saint-Étienne,2-0,AC Arles
+18,18/12/10,Toulouse,3-0,FC Lorient
+18,18/12/10,PSG,2-2,Monaco
+18,19/12/10,Sochaux,1-1,Bordeaux
+18,19/12/10,Marseille,1-1,Lyon
+19,21/12/10,FC Lorient,0-0,Montpellier
+19,22/12/10,AC Arles,0-0,Nice
+19,22/12/10,Brest,0-0,Marseille
+19,22/12/10,Caen,1-0,Rennes
+19,22/12/10,Lille,1-1,Saint-Étienne
+19,22/12/10,Lyon,1-1,Auxerre
+19,22/12/10,Monaco,2-1,Sochaux
+19,22/12/10,Nancy,2-0,PSG
+19,22/12/10,Valenciennes,2-1,Toulouse
+19,22/12/10,Bordeaux,2-2,Lens
+20,15/01/11,Auxerre,1-1,Monaco
+20,15/01/11,Brest,1-3,Caen
+20,15/01/11,Lens,2-1,Saint-Étienne
+20,15/01/11,Lyon,3-0,FC Lorient
+20,15/01/11,Montpellier,2-1,Valenciennes
+20,15/01/11,Nice,0-2,Lille
+20,15/01/11,PSG,2-1,Sochaux
+20,15/01/11,Rennes,4-0,AC Arles
+20,15/01/11,Toulouse,1-0,Nancy
+20,16/01/11,Marseille,2-1,Bordeaux
+18,19/01/11,Lille,3-0,Nancy
+18,22/01/11,Lens,2-0,Caen
+21,29/01/11,AC Arles,1-2,PSG
+21,29/01/11,Caen,2-0,Auxerre
+21,29/01/11,FC Lorient,2-0,Brest
+21,29/01/11,Saint-Étienne,2-1,Toulouse
+21,29/01/11,Sochaux,5-1,Rennes
+21,29/01/11,Valenciennes,2-1,Lyon
+21,29/01/11,Lille,1-0,Lens
+21,30/01/11,Bordeaux,2-0,Nice
+21,30/01/11,Nancy,1-2,Montpellier
+21,30/01/11,Monaco,0-0,Marseille
+22,05/02/11,Brest,2-1,Nancy
+22,05/02/11,Caen,0-2,FC Lorient
+22,05/02/11,Lens,1-1,Valenciennes
+22,05/02/11,Marseille,1-0,AC Arles
+22,05/02/11,Montpellier,1-2,Saint-Étienne
+22,05/02/11,Nice,1-0,Sochaux
+22,05/02/11,Rennes,1-0,PSG
+22,06/02/11,Auxerre,1-1,Lille
+22,06/02/11,Toulouse,2-0,Monaco
+22,06/02/11,Lyon,0-0,Bordeaux
+23,12/02/11,AC Arles,0-0,Montpellier
+23,12/02/11,Bordeaux,1-2,Caen
+23,12/02/11,Monaco,3-1,FC Lorient
+23,12/02/11,Nancy,3-1,Auxerre
+23,12/02/11,PSG,0-0,Lens
+23,12/02/11,Sochaux,1-2,Marseille
+23,12/02/11,Saint-Étienne,1-4,Lyon
+23,13/02/11,Rennes,2-0,Nice
+23,13/02/11,Valenciennes,3-0,Brest
+23,13/02/11,Lille,2-0,Toulouse
+24,18/02/11,Lyon,4-0,Nancy
+24,19/02/11,Auxerre,1-1,AC Arles
+24,19/02/11,Brest,2-0,Monaco
+24,19/02/11,Caen,2-2,Valenciennes
+24,19/02/11,Lens,2-3,Sochaux
+24,19/02/11,Marseille,2-1,Saint-Étienne
+24,19/02/11,FC Lorient,5-1,Bordeaux
+24,20/02/11,Montpellier,1-0,Lille
+24,20/02/11,Nice,0-3,PSG
+24,20/02/11,Toulouse,1-2,Rennes
+25,26/02/11,AC Arles,1-1,Brest
+25,26/02/11,Monaco,2-2,Caen
+25,26/02/11,Rennes,2-0,Lens
+25,26/02/11,Saint-Étienne,0-2,Nice
+25,26/02/11,Sochaux,0-0,Montpellier
+25,26/02/11,Valenciennes,0-0,FC Lorient
+25,26/02/11,Bordeaux,3-0,Auxerre
+25,27/02/11,Nancy,1-2,Marseille
+25,27/02/11,PSG,2-1,Toulouse
+25,27/02/11,Lille,1-1,Lyon
+26,05/03/11,Caen,1-0,Saint-Étienne
+26,05/03/11,FC Lorient,0-0,Nancy
+26,05/03/11,Montpellier,0-1,Rennes
+26,05/03/11,Nice,0-0,Lens
+26,05/03/11,Toulouse,0-1,Sochaux
+26,05/03/11,Valenciennes,0-0,Monaco
+26,05/03/11,Auxerre,1-0,PSG
+26,06/03/11,Brest,1-3,Bordeaux
+26,06/03/11,Lyon,5-0,AC Arles
+26,06/03/11,Marseille,1-2,Lille
+27,11/03/11,Rennes,0-2,Marseille
+27,12/03/11,AC Arles,3-3,FC Lorient
+27,12/03/11,Lens,0-1,Toulouse
+27,12/03/11,Nancy,2-0,Caen
+27,12/03/11,Nice,1-0,Auxerre
+27,12/03/11,Saint-Étienne,2-0,Brest
+27,12/03/11,Sochaux,0-2,Lyon
+27,13/03/11,Bordeaux,0-1,Monaco
+27,13/03/11,Lille,2-1,Valenciennes
+27,13/03/11,PSG,2-2,Montpellier
+28,19/03/11,Auxerre,2-0,Sochaux
+28,19/03/11,Brest,1-2,Lille
+28,19/03/11,FC Lorient,0-0,Saint-Étienne
+28,19/03/11,Montpellier,1-4,Lens
+28,19/03/11,Toulouse,1-1,Nice
+28,19/03/11,Valenciennes,2-2,Bordeaux
+28,19/03/11,Lyon,1-1,Rennes
+28,20/03/11,Caen,2-0,AC Arles
+28,20/03/11,Monaco,0-1,Nancy
+28,20/03/11,Marseille,2-1,PSG
+29,02/04/11,AC Arles,0-2,Monaco
+29,02/04/11,Lille,3-1,Caen
+29,02/04/11,Nancy,0-0,Bordeaux
+29,02/04/11,PSG,0-0,FC Lorient
+29,02/04/11,Rennes,0-0,Auxerre
+29,02/04/11,Sochaux,2-1,Brest
+29,02/04/11,Toulouse,0-1,Montpellier
+29,03/04/11,Nice,2-2,Lyon
+29,03/04/11,Saint-Étienne,1-1,Valenciennes
+29,03/04/11,Lens,0-1,Marseille
+30,09/04/11,Auxerre,2-2,Saint-Étienne
+30,09/04/11,Bordeaux,0-0,AC Arles
+30,09/04/11,Caen,1-2,PSG
+30,09/04/11,FC Lorient,1-1,Sochaux
+30,09/04/11,Monaco,1-0,Lille
+30,09/04/11,Valenciennes,1-1,Nancy
+30,09/04/11,Brest,2-0,Rennes
+30,10/04/11,Marseille,2-2,Toulouse
+30,10/04/11,Montpellier,1-1,Nice
+30,10/04/11,Lyon,3-0,Lens
+31,16/04/11,Lens,1-1,Brest
+31,16/04/11,Nice,3-2,Monaco
+31,16/04/11,Rennes,1-2,FC Lorient
+31,16/04/11,Saint-Étienne,2-1,Nancy
+31,16/04/11,Sochaux,3-2,Caen
+31,16/04/11,Toulouse,0-1,Auxerre
+31,16/04/11,Lille,1-1,Bordeaux
+31,17/04/11,AC Arles,0-1,Valenciennes
+31,17/04/11,Montpellier,1-2,Marseille
+31,17/04/11,PSG,1-0,Lyon
+32,24/04/11,Auxerre,1-1,Lens
+32,24/04/11,Bordeaux,2-0,Saint-Étienne
+32,24/04/11,Brest,2-2,PSG
+32,24/04/11,Caen,1-1,Toulouse
+32,24/04/11,Monaco,1-0,Rennes
+32,24/04/11,Nancy,0-0,AC Arles
+32,24/04/11,Valenciennes,1-1,Sochaux
+32,24/04/11,FC Lorient,1-1,Lille
+32,27/04/11,Lyon,3-2,Montpellier
+32,27/04/11,Marseille,4-2,Nice
+33,30/04/11,Lens,2-3,FC Lorient
+33,30/04/11,Lille,5-0,AC Arles
+33,30/04/11,Rennes,0-0,Bordeaux
+33,30/04/11,Sochaux,1-0,Nancy
+33,30/04/11,PSG,3-1,Valenciennes
+33,01/05/11,Marseille,1-1,Auxerre
+33,01/05/11,Montpellier,0-0,Brest
+33,01/05/11,Nice,0-4,Caen
+33,01/05/11,Toulouse,2-0,Lyon
+33,01/05/11,Saint-Étienne,1-1,Monaco
+34,07/05/11,AC Arles,0-1,Saint-Étienne
+34,07/05/11,Auxerre,1-0,Montpellier
+34,07/05/11,Bordeaux,0-4,Sochaux
+34,07/05/11,Brest,0-0,Nice
+34,07/05/11,Caen,1-1,Lens
+34,07/05/11,FC Lorient,0-0,Toulouse
+34,07/05/11,Monaco,1-1,PSG
+34,07/05/11,Nancy,0-1,Lille
+34,08/05/11,Valenciennes,2-0,Rennes
+34,08/05/11,Lyon,3-2,Marseille
+35,10/05/11,PSG,2-2,Nancy
+35,10/05/11,Saint-Étienne,1-2,Lille
+35,11/05/11,Auxerre,4-0,Lyon
+35,11/05/11,Lens,1-0,Bordeaux
+35,11/05/11,Montpellier,3-1,FC Lorient
+35,11/05/11,Nice,3-2,AC Arles
+35,11/05/11,Rennes,1-1,Caen
+35,11/05/11,Sochaux,3-0,Monaco
+35,11/05/11,Toulouse,0-0,Valenciennes
+35,11/05/11,Marseille,3-0,Brest
+36,15/05/11,AC Arles,1-0,Toulouse
+36,15/05/11,Caen,2-0,Montpellier
+36,15/05/11,Monaco,1-1,Lens
+36,15/05/11,Nancy,3-0,Nice
+36,15/05/11,Saint-Étienne,1-2,Rennes
+36,15/05/11,Valenciennes,1-1,Auxerre
+36,15/05/11,FC Lorient,2-2,Marseille
+36,16/05/11,Brest,1-1,Lyon
+36,18/05/11,Bordeaux,1-0,PSG
+36,18/05/11,Lille,1-0,Sochaux
+37,21/05/11,Auxerre,0-1,Brest
+37,21/05/11,Lens,0-1,AC Arles
+37,21/05/11,Lyon,0-0,Caen
+37,21/05/11,Marseille,2-2,Valenciennes
+37,21/05/11,Montpellier,0-1,Monaco
+37,21/05/11,Nice,2-0,FC Lorient
+37,21/05/11,PSG,2-2,Lille
+37,21/05/11,Rennes,0-2,Nancy
+37,21/05/11,Sochaux,2-1,Saint-Étienne
+37,21/05/11,Toulouse,2-0,Bordeaux
+38,29/05/11,AC Arles,1-3,Sochaux
+38,29/05/11,Bordeaux,2-0,Montpellier
+38,29/05/11,Brest,0-2,Toulouse
+38,29/05/11,Caen,2-2,Marseille
+38,29/05/11,Lille,3-2,Rennes
+38,29/05/11,FC Lorient,1-2,Auxerre
+38,29/05/11,Monaco,0-2,Lyon
+38,29/05/11,Nancy,4-0,Lens
+38,29/05/11,Saint-Étienne,1-1,PSG
+38,29/05/11,Valenciennes,2-1,Nice

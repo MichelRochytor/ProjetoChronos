@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,18/08/57,Sedan-Torcy,2-1,Monaco
+1,18/08/57,Lyon,1-0,Nimes
+1,18/08/57,Racing Club Paris,6-4,Sochaux
+1,18/08/57,Lens,3-1,Toulouse FC
+1,18/08/57,Nice,6-2,Metz
+1,18/08/57,Olympique Alès,0-1,US Valenciennes-Anzin
+1,18/08/57,Marseille,3-4,Lille
+1,18/08/57,AS Béziers,2-2,Saint-Étienne
+1,20/08/57,Angers,0-1,Stade de Reims
+2,25/08/57,Stade de Reims,3-2,Nice
+2,25/08/57,Nimes,2-3,Lens
+2,25/08/57,Monaco,5-2,Sochaux
+2,25/08/57,Lille,1-2,Saint-Étienne
+2,25/08/57,Lyon,2-0,Metz
+2,25/08/57,Toulouse FC,2-3,Olympique Alès
+2,25/08/57,US Valenciennes-Anzin,3-1,Sedan-Torcy
+2,25/08/57,Marseille,1-1,Racing Club Paris
+2,25/08/57,AS Béziers,4-4,Angers
+3,08/09/57,Monaco,3-0,Stade de Reims
+3,08/09/57,Sedan-Torcy,3-1,Nimes
+3,08/09/57,Saint-Étienne,1-1,Toulouse FC
+3,08/09/57,Racing Club Paris,1-2,Angers
+3,08/09/57,Lens,4-4,Lyon
+3,08/09/57,Sochaux,4-0,AS Béziers
+3,08/09/57,Olympique Alès,2-1,Lille
+3,08/09/57,US Valenciennes-Anzin,1-1,Nice
+3,08/09/57,Metz,1-2,Marseille
+4,15/09/57,Stade de Reims,4-0,Lyon
+4,15/09/57,Nimes,2-0,AS Béziers
+4,15/09/57,Angers,3-2,Monaco
+4,15/09/57,Lille,1-3,Racing Club Paris
+4,15/09/57,Saint-Étienne,2-2,Olympique Alès
+4,15/09/57,Toulouse FC,1-1,Marseille
+4,15/09/57,Sochaux,1-0,US Valenciennes-Anzin
+4,15/09/57,Nice,8-0,Sedan-Torcy
+4,15/09/57,Metz,1-4,Lens
+5,18/09/57,Racing Club Paris,3-1,Nimes
+5,18/09/57,Lens,1-0,Nice
+5,18/09/57,Sochaux,4-2,Toulouse FC
+5,18/09/57,Metz,0-2,Saint-Étienne
+5,18/09/57,AS Béziers,0-3,Monaco
+5,19/09/57,Stade de Reims,4-2,US Valenciennes-Anzin
+5,19/09/57,Angers,0-0,Lille
+5,19/09/57,Olympique Alès,2-0,Sedan-Torcy
+5,19/09/57,Marseille,2-3,Lyon
+6,21/09/57,AS Béziers,1-1,Lens
+6,22/09/57,Nimes,5-1,Angers
+6,22/09/57,Sedan-Torcy,2-1,Marseille
+6,22/09/57,Lille,1-1,Monaco
+6,22/09/57,Saint-Étienne,2-2,Sochaux
+6,22/09/57,Lyon,2-0,Racing Club Paris
+6,22/09/57,Toulouse FC,1-0,Stade de Reims
+6,22/09/57,Nice,6-1,Olympique Alès
+6,22/09/57,US Valenciennes-Anzin,2-2,Metz
+7,28/09/57,Stade de Reims,5-0,AS Béziers
+7,29/09/57,Monaco,1-1,Nimes
+7,29/09/57,Lille,3-0,Sedan-Torcy
+7,29/09/57,Saint-Étienne,1-1,Nice
+7,29/09/57,Toulouse FC,3-1,Lyon
+7,29/09/57,Olympique Alès,1-3,Racing Club Paris
+7,29/09/57,US Valenciennes-Anzin,1-1,Lens
+7,29/09/57,Marseille,0-3,Sochaux
+7,29/09/57,Metz,0-3,Angers
+8,13/10/57,Nimes,3-2,Nice
+8,13/10/57,Monaco,4-0,US Valenciennes-Anzin
+8,13/10/57,Angers,2-2,Marseille
+8,13/10/57,Sedan-Torcy,3-0,Toulouse FC
+8,13/10/57,Lyon,2-0,Lille
+8,13/10/57,Racing Club Paris,1-1,Saint-Étienne
+8,13/10/57,Lens,0-1,Stade de Reims
+8,13/10/57,Sochaux,3-1,Olympique Alès
+8,13/10/57,AS Béziers,0-1,Metz
+9,20/10/57,Stade de Reims,3-1,Lille
+9,20/10/57,Angers,0-1,Toulouse FC
+9,20/10/57,Saint-Étienne,5-1,US Valenciennes-Anzin
+9,20/10/57,Racing Club Paris,2-3,Monaco
+9,20/10/57,Lens,1-1,Sochaux
+9,20/10/57,Nice,6-1,AS Béziers
+9,20/10/57,Olympique Alès,2-2,Lyon
+9,20/10/57,Marseille,1-3,Nimes
+9,20/10/57,Metz,3-2,Sedan-Torcy
+10,01/11/57,Nimes,2-2,Saint-Étienne
+10,01/11/57,Monaco,3-2,Marseille
+10,01/11/57,Sedan-Torcy,2-3,Lens
+10,01/11/57,Lille,2-1,Metz
+10,01/11/57,Lyon,2-3,Angers
+10,01/11/57,Toulouse FC,2-1,Nice
+10,01/11/57,Sochaux,0-4,Stade de Reims
+10,01/11/57,US Valenciennes-Anzin,0-5,Racing Club Paris
+10,01/11/57,AS Béziers,3-2,Olympique Alès
+11,03/11/57,Stade de Reims,3-0,Sedan-Torcy
+11,03/11/57,Angers,3-4,US Valenciennes-Anzin
+11,03/11/57,Saint-Étienne,1-1,Lyon
+11,03/11/57,Racing Club Paris,1-2,Toulouse FC
+11,03/11/57,Lens,1-0,Lille
+11,03/11/57,Nice,0-1,Monaco
+11,03/11/57,Olympique Alès,1-1,Nimes
+11,03/11/57,Marseille,0-1,AS Béziers
+11,03/11/57,Metz,1-0,Sochaux
+12,10/11/57,Stade de Reims,5-1,Metz
+12,10/11/57,Saint-Étienne,1-1,Marseille
+12,10/11/57,Toulouse FC,1-2,Lille
+12,10/11/57,Lens,2-1,Angers
+12,10/11/57,Sochaux,1-0,Lyon
+12,10/11/57,Nice,2-0,Racing Club Paris
+12,10/11/57,Olympique Alès,1-1,Monaco
+12,10/11/57,US Valenciennes-Anzin,0-3,Nimes
+12,10/11/57,AS Béziers,0-2,Sedan-Torcy
+13,17/11/57,Nimes,3-0,Stade de Reims
+13,17/11/57,Monaco,0-0,Saint-Étienne
+13,17/11/57,Angers,1-1,Olympique Alès
+13,17/11/57,Sedan-Torcy,4-1,Sochaux
+13,17/11/57,Lille,2-3,US Valenciennes-Anzin
+13,17/11/57,Lyon,2-1,AS Béziers
+13,17/11/57,Racing Club Paris,5-0,Lens
+13,17/11/57,Toulouse FC,4-1,Metz
+13,17/11/57,Marseille,2-1,Nice
+14,24/11/57,Stade de Reims,4-2,Olympique Alès
+14,24/11/57,Nimes,3-2,Toulouse FC
+14,24/11/57,Sedan-Torcy,1-1,Saint-Étienne
+14,24/11/57,Lyon,2-0,Monaco
+14,24/11/57,Lens,3-1,Marseille
+14,24/11/57,Sochaux,2-4,Lille
+14,24/11/57,Nice,0-0,Angers
+14,24/11/57,Metz,1-1,Racing Club Paris
+15,01/12/57,Monaco,2-1,Lens
+15,01/12/57,Angers,5-1,Sochaux
+15,01/12/57,Lille,3-1,Nimes
+15,01/12/57,Saint-Étienne,0-0,Stade de Reims
+15,01/12/57,Racing Club Paris,4-2,Sedan-Torcy
+15,01/12/57,Nice,2-2,Lyon
+15,01/12/57,Olympique Alès,4-1,Metz
+15,01/12/57,Marseille,1-1,US Valenciennes-Anzin
+15,01/12/57,AS Béziers,2-0,Toulouse FC
+16,08/12/57,Stade de Reims,4-1,Racing Club Paris
+16,08/12/57,Monaco,0-2,Toulouse FC
+16,08/12/57,Sedan-Torcy,1-0,Angers
+16,08/12/57,Lille,10-1,AS Béziers
+16,08/12/57,Saint-Étienne,3-1,Lens
+16,08/12/57,Sochaux,4-0,Nice
+16,08/12/57,Olympique Alès,1-0,Marseille
+16,08/12/57,US Valenciennes-Anzin,2-0,Lyon
+16,08/12/57,Metz,0-1,Nimes
+14,11/12/57,US Valenciennes-Anzin,1-1,AS Béziers
+17,15/12/57,Nimes,2-0,Sochaux
+17,15/12/57,Angers,2-2,Saint-Étienne
+17,15/12/57,Lyon,0-3,Sedan-Torcy
+17,15/12/57,Racing Club Paris,1-0,AS Béziers
+17,15/12/57,Toulouse FC,3-2,US Valenciennes-Anzin
+17,15/12/57,Lens,5-0,Olympique Alès
+17,15/12/57,Nice,5-5,Lille
+17,15/12/57,Marseille,3-3,Stade de Reims
+17,15/12/57,Metz,0-0,Monaco
+18,22/12/57,Nimes,0-1,Racing Club Paris
+18,22/12/57,Monaco,2-0,AS Béziers
+18,22/12/57,Angers,2-1,Nice
+18,22/12/57,Sedan-Torcy,2-1,US Valenciennes-Anzin
+18,22/12/57,Lille,1-0,Olympique Alès
+18,22/12/57,Lyon,1-2,Stade de Reims
+18,22/12/57,Toulouse FC,2-3,Saint-Étienne
+18,22/12/57,Sochaux,1-0,Lens
+18,22/12/57,Marseille,2-2,Metz
+19,29/12/57,Stade de Reims,2-3,Angers
+19,29/12/57,Saint-Étienne,3-3,Sedan-Torcy
+19,29/12/57,Racing Club Paris,2-4,Lyon
+19,29/12/57,Lens,1-1,Nimes
+19,29/12/57,Nice,3-0,Marseille
+19,29/12/57,Olympique Alès,2-0,Toulouse FC
+19,29/12/57,US Valenciennes-Anzin,0-0,Monaco
+19,29/12/57,Metz,2-3,Lille
+19,29/12/57,AS Béziers,2-1,Sochaux
+20,05/01/58,Nimes,5-0,Marseille
+20,05/01/58,Monaco,3-1,Olympique Alès
+20,05/01/58,Angers,2-1,Lyon
+20,05/01/58,Sedan-Torcy,3-2,Nice
+20,05/01/58,Lille,2-1,Stade de Reims
+20,05/01/58,Saint-Étienne,2-2,Metz
+20,05/01/58,Toulouse FC,3-2,Lens
+20,05/01/58,Sochaux,5-0,Racing Club Paris
+20,05/01/58,AS Béziers,3-1,US Valenciennes-Anzin
+21,19/01/58,Stade de Reims,1-1,Monaco
+21,19/01/58,Lyon,1-1,Sochaux
+21,19/01/58,Racing Club Paris,1-3,Lille
+21,19/01/58,Lens,2-3,Sedan-Torcy
+21,19/01/58,Nice,2-0,Nimes
+21,19/01/58,Olympique Alès,2-0,AS Béziers
+21,19/01/58,US Valenciennes-Anzin,0-0,Saint-Étienne
+21,19/01/58,Marseille,1-2,Angers
+21,19/01/58,Metz,2-1,Toulouse FC
+22,26/01/58,Sedan-Torcy,6-3,Metz
+22,26/01/58,Lille,3-0,Lyon
+22,26/01/58,Saint-Étienne,0-1,Racing Club Paris
+22,26/01/58,Toulouse FC,1-3,Angers
+22,26/01/58,Sochaux,1-2,Monaco
+22,26/01/58,Nice,0-2,Lens
+22,26/01/58,Olympique Alès,2-0,Stade de Reims
+22,26/01/58,AS Béziers,0-1,Nimes
+23,09/02/58,Nimes,2-2,Sedan-Torcy
+23,09/02/58,Angers,3-1,AS Béziers
+23,09/02/58,Lyon,3-1,Toulouse FC
+23,09/02/58,Racing Club Paris,2-2,US Valenciennes-Anzin
+23,09/02/58,Lens,1-3,Saint-Étienne
+23,09/02/58,Marseille,1-0,Olympique Alès
+24,16/02/58,Monaco,2-1,Metz
+24,16/02/58,Sedan-Torcy,8-4,AS Béziers
+24,16/02/58,Lille,2-3,Angers
+24,16/02/58,Lyon,1-1,Nice
+24,16/02/58,Racing Club Paris,1-5,Stade de Reims
+24,16/02/58,Sochaux,1-1,Nimes
+24,16/02/58,Olympique Alès,0-1,Lens
+24,16/02/58,US Valenciennes-Anzin,2-0,Toulouse FC
+24,16/02/58,Marseille,1-0,Saint-Étienne
+23,19/02/58,Stade de Reims,3-1,Sochaux
+23,20/02/58,Monaco,1-0,Lille
+25,23/02/58,Stade de Reims,4-1,Marseille
+25,23/02/58,Nimes,2-0,Lille
+25,23/02/58,Angers,0-0,Racing Club Paris
+25,23/02/58,Saint-Étienne,2-1,Monaco
+25,23/02/58,Toulouse FC,2-1,Sedan-Torcy
+25,23/02/58,Lens,2-0,US Valenciennes-Anzin
+25,23/02/58,Nice,4-3,Sochaux
+25,23/02/58,Metz,0-1,Olympique Alès
+25,23/02/58,AS Béziers,1-1,Lyon
+22,27/02/58,US Valenciennes-Anzin,2-1,Marseille
+26,09/03/58,Nimes,5-0,US Valenciennes-Anzin
+26,09/03/58,Angers,3-1,Metz
+26,09/03/58,Sedan-Torcy,5-2,Olympique Alès
+26,09/03/58,Lyon,3-1,Lens
+26,09/03/58,Toulouse FC,0-0,Monaco
+26,09/03/58,Sochaux,4-1,Saint-Étienne
+26,09/03/58,Nice,1-2,Stade de Reims
+26,09/03/58,AS Béziers,1-0,Racing Club Paris
+27,16/03/58,Stade de Reims,2-1,Nimes
+27,16/03/58,Monaco,1-1,Sedan-Torcy
+27,16/03/58,Saint-Étienne,6-2,Lille
+27,16/03/58,Racing Club Paris,3-1,Nice
+27,16/03/58,Lens,3-1,AS Béziers
+27,16/03/58,Olympique Alès,0-0,Angers
+27,16/03/58,US Valenciennes-Anzin,1-1,Sochaux
+27,16/03/58,Marseille,3-0,Toulouse FC
+27,16/03/58,Metz,2-1,Lyon
+28,23/03/58,Nimes,3-0,Olympique Alès
+28,23/03/58,Monaco,1-1,Nice
+28,23/03/58,Sedan-Torcy,2-5,Stade de Reims
+28,23/03/58,Lille,4-1,Lens
+28,23/03/58,Lyon,0-2,Saint-Étienne
+28,23/03/58,Toulouse FC,1-1,Racing Club Paris
+28,23/03/58,Sochaux,1-0,Metz
+28,23/03/58,US Valenciennes-Anzin,2-1,Angers
+28,23/03/58,AS Béziers,0-0,Marseille
+29,30/03/58,Angers,1-2,Nimes
+29,30/03/58,Sedan-Torcy,2-0,Racing Club Paris
+29,30/03/58,Lyon,1-1,Marseille
+29,30/03/58,Toulouse FC,0-0,Sochaux
+29,30/03/58,Lens,0-1,Monaco
+29,30/03/58,Nice,1-1,US Valenciennes-Anzin
+29,30/03/58,Olympique Alès,0-2,Saint-Étienne
+29,30/03/58,Metz,3-1,Stade de Reims
+29,30/03/58,AS Béziers,2-0,Lille
+26,06/04/58,Lille,3-1,Marseille
+23,09/04/58,Metz,1-1,Nice
+30,13/04/58,Stade de Reims,2-2,Toulouse FC
+30,13/04/58,Nimes,2-0,Lyon
+30,13/04/58,Monaco,0-2,Angers
+30,13/04/58,Lille,1-0,Nice
+30,13/04/58,Saint-Étienne,1-2,AS Béziers
+30,13/04/58,Racing Club Paris,1-2,Metz
+30,13/04/58,Sochaux,2-1,Sedan-Torcy
+30,13/04/58,US Valenciennes-Anzin,0-0,Olympique Alès
+30,13/04/58,Marseille,3-2,Lens
+31,20/04/58,Stade de Reims,5-0,Lens
+31,20/04/58,Monaco,1-2,Lyon
+31,20/04/58,Angers,1-1,Sedan-Torcy
+31,20/04/58,Lille,1-3,Toulouse FC
+31,20/04/58,Saint-Étienne,1-1,Nimes
+31,20/04/58,Racing Club Paris,4-3,Marseille
+31,20/04/58,Olympique Alès,2-1,Sochaux
+31,20/04/58,Metz,1-0,US Valenciennes-Anzin
+31,20/04/58,AS Béziers,0-1,Nice
+32,01/05/58,Nimes,1-1,Metz
+32,01/05/58,Sedan-Torcy,3-2,Lille
+32,01/05/58,Lyon,2-0,Olympique Alès
+32,01/05/58,Toulouse FC,3-2,AS Béziers
+32,01/05/58,Lens,1-1,Racing Club Paris
+32,01/05/58,Sochaux,2-1,Angers
+32,01/05/58,Nice,6-1,Saint-Étienne
+32,01/05/58,US Valenciennes-Anzin,0-6,Stade de Reims
+32,01/05/58,Marseille,2-1,Monaco
+33,04/05/58,Nimes,0-0,Monaco
+33,04/05/58,Sedan-Torcy,2-3,Lyon
+33,04/05/58,Saint-Étienne,0-3,Angers
+33,04/05/58,Racing Club Paris,3-2,Olympique Alès
+33,04/05/58,Lens,2-2,Metz
+33,04/05/58,Sochaux,1-2,Marseille
+33,04/05/58,Nice,2-2,Toulouse FC
+33,04/05/58,US Valenciennes-Anzin,0-1,Lille
+33,04/05/58,AS Béziers,2-0,Stade de Reims
+34,10/05/58,Olympique Alès,1-1,Nice
+34,11/05/58,Stade de Reims,4-0,Saint-Étienne
+34,11/05/58,Monaco,3-2,Racing Club Paris

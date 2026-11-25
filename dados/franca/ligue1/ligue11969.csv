@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,05/08/69,Saint-Étienne,3-1,AC Ajaccio
+1,05/08/69,Marseille,0-0,Sochaux
+1,06/08/69,RC Paris-Sedan,1-1,Bordeaux
+1,06/08/69,AS Angoulême,1-0,Nimes
+1,06/08/69,RC Strasbourg,3-2,FC Rouen
+1,06/08/69,Nantes,1-0,Metz
+1,06/08/69,Red Star,3-4,Angers
+1,06/08/69,Stade Rennais UC,1-1,US Valenciennes-Anzin
+1,06/08/69,Bastia,2-4,Lyon
+2,09/08/69,Saint-Étienne,2-0,Metz
+2,09/08/69,Bordeaux,4-2,RC Strasbourg
+2,09/08/69,Sochaux,0-3,Red Star
+2,09/08/69,Nimes,1-1,Marseille
+2,09/08/69,FC Rouen,4-0,Stade Rennais UC
+2,09/08/69,Lyon,4-2,RC Paris-Sedan
+2,09/08/69,AC Ajaccio,2-1,Nantes
+2,09/08/69,US Valenciennes-Anzin,0-1,AS Angoulême
+3,13/08/69,Marseille,3-1,Bordeaux
+3,13/08/69,RC Paris-Sedan,2-2,Angers
+3,13/08/69,AS Angoulême,1-1,FC Rouen
+3,13/08/69,RC Strasbourg,4-2,US Valenciennes-Anzin
+3,13/08/69,Nantes,2-2,Saint-Étienne
+3,13/08/69,Red Star,3-1,Metz
+3,13/08/69,Stade Rennais UC,0-1,AC Ajaccio
+3,13/08/69,Lyon,3-0,Nimes
+3,13/08/69,Bastia,2-0,Sochaux
+2,17/08/69,Angers,5-0,Bastia
+4,20/08/69,Saint-Étienne,8-2,Stade Rennais UC
+4,20/08/69,Bordeaux,1-0,Bastia
+4,20/08/69,Angers,3-2,Lyon
+4,20/08/69,Sochaux,1-0,RC Paris-Sedan
+4,20/08/69,Nimes,1-3,Red Star
+4,20/08/69,FC Rouen,1-0,Nantes
+4,20/08/69,AC Ajaccio,0-0,AS Angoulême
+4,20/08/69,US Valenciennes-Anzin,0-2,Marseille
+4,21/08/69,Metz,2-2,RC Strasbourg
+5,27/08/69,Marseille,2-3,Saint-Étienne
+5,27/08/69,Stade Rennais UC,2-0,Metz
+5,27/08/69,Lyon,2-2,Sochaux
+5,27/08/69,Bastia,2-5,Nimes
+5,29/08/69,RC Strasbourg,2-0,AC Ajaccio
+5,29/08/69,Angers,0-1,US Valenciennes-Anzin
+5,30/08/69,RC Paris-Sedan,1-0,FC Rouen
+5,30/08/69,AS Angoulême,2-2,Nantes
+5,30/08/69,Red Star,1-1,Bordeaux
+6,03/09/69,Saint-Étienne,3-0,RC Strasbourg
+6,03/09/69,Bordeaux,3-0,Lyon
+6,03/09/69,Metz,3-2,AS Angoulême
+6,03/09/69,Sochaux,1-1,Angers
+6,03/09/69,Nantes,6-1,Stade Rennais UC
+6,03/09/69,Nimes,5-1,RC Paris-Sedan
+6,03/09/69,FC Rouen,1-1,Marseille
+6,03/09/69,AC Ajaccio,2-2,Red Star
+6,03/09/69,US Valenciennes-Anzin,2-0,Bastia
+7,17/09/69,Lyon,3-0,FC Rouen
+7,19/09/69,RC Strasbourg,2-1,Nantes
+7,20/09/69,Marseille,1-0,AC Ajaccio
+7,20/09/69,RC Paris-Sedan,0-0,US Valenciennes-Anzin
+7,20/09/69,AS Angoulême,3-0,Stade Rennais UC
+7,20/09/69,Angers,3-1,Bordeaux
+7,20/09/69,Sochaux,2-2,Nimes
+7,20/09/69,Bastia,2-2,Metz
+7,21/09/69,Red Star,1-5,Saint-Étienne
+8,24/09/69,Saint-Étienne,1-1,AS Angoulême
+8,24/09/69,Bordeaux,3-0,Sochaux
+8,24/09/69,Metz,2-1,Marseille
+8,24/09/69,FC Rouen,3-0,Bastia
+8,24/09/69,AC Ajaccio,0-1,RC Paris-Sedan
+8,27/09/69,Nantes,5-2,Lyon
+8,27/09/69,Nimes,1-1,Angers
+8,27/09/69,Stade Rennais UC,4-5,RC Strasbourg
+8,27/09/69,US Valenciennes-Anzin,2-0,Red Star
+9,01/10/69,RC Strasbourg,3-1,AS Angoulême
+9,04/10/69,RC Paris-Sedan,0-0,Metz
+9,04/10/69,Bordeaux,1-0,Nimes
+9,04/10/69,Angers,0-3,Nantes
+9,04/10/69,Sochaux,6-1,US Valenciennes-Anzin
+9,04/10/69,Red Star,2-0,FC Rouen
+9,05/10/69,Marseille,1-0,Stade Rennais UC
+9,05/10/69,Lyon,1-7,Saint-Étienne
+9,05/10/69,Bastia,2-0,AC Ajaccio
+10,18/10/69,Metz,2-1,Angers
+10,18/10/69,Nantes,2-1,Bastia
+10,18/10/69,FC Rouen,1-3,Sochaux
+10,18/10/69,Stade Rennais UC,2-2,Red Star
+10,19/10/69,AC Ajaccio,2-0,Lyon
+10,19/10/69,US Valenciennes-Anzin,1-4,Bordeaux
+10,21/10/69,Saint-Étienne,3-1,RC Paris-Sedan
+10,22/10/69,AS Angoulême,1-3,Marseille
+10,22/10/69,Nimes,3-2,RC Strasbourg
+11,24/10/69,Lyon,1-0,US Valenciennes-Anzin
+11,25/10/69,Bordeaux,1-1,FC Rouen
+11,25/10/69,Angers,3-2,AC Ajaccio
+11,25/10/69,Sochaux,3-3,Saint-Étienne
+11,26/10/69,Marseille,2-0,RC Strasbourg
+11,26/10/69,RC Paris-Sedan,4-0,Nantes
+11,26/10/69,Nimes,2-1,Metz
+11,26/10/69,Red Star,0-0,AS Angoulême
+11,26/10/69,Bastia,4-0,Stade Rennais UC
+12,02/11/69,US Valenciennes-Anzin,0-2,Nimes
+12,04/11/69,Metz,4-1,Bordeaux
+12,04/11/69,Stade Rennais UC,3-3,RC Paris-Sedan
+12,05/11/69,Saint-Étienne,4-2,Bastia
+12,05/11/69,AS Angoulême,1-1,Lyon
+12,05/11/69,RC Strasbourg,5-0,Red Star
+12,05/11/69,Nantes,2-1,Marseille
+12,05/11/69,FC Rouen,5-0,Angers
+12,05/11/69,AC Ajaccio,1-0,Sochaux
+13,08/11/69,Lyon,4-4,Stade Rennais UC
+13,09/11/69,RC Paris-Sedan,2-0,AS Angoulême
+13,09/11/69,Bordeaux,2-1,AC Ajaccio
+13,09/11/69,Nimes,6-1,FC Rouen
+13,09/11/69,Bastia,2-1,RC Strasbourg
+13,09/11/69,US Valenciennes-Anzin,0-0,Metz
+14,15/11/69,Nantes,1-1,Red Star
+14,15/11/69,FC Rouen,3-3,US Valenciennes-Anzin
+14,16/11/69,Saint-Étienne,2-0,Bordeaux
+14,16/11/69,Marseille,4-1,Lyon
+14,16/11/69,AS Angoulême,5-1,Bastia
+14,16/11/69,RC Strasbourg,2-3,RC Paris-Sedan
+14,16/11/69,Metz,1-2,Sochaux
+14,16/11/69,Stade Rennais UC,1-0,Angers
+14,16/11/69,AC Ajaccio,1-0,Nimes
+15,20/11/69,Nimes,1-3,Saint-Étienne
+15,22/11/69,RC Paris-Sedan,0-0,Marseille
+15,22/11/69,Sochaux,2-2,Stade Rennais UC
+15,23/11/69,Bordeaux,3-0,Nantes
+15,23/11/69,Angers,2-2,AS Angoulême
+15,23/11/69,FC Rouen,1-1,Metz
+15,23/11/69,Lyon,0-1,RC Strasbourg
+15,23/11/69,Bastia,3-0,Red Star
+15,23/11/69,US Valenciennes-Anzin,2-1,AC Ajaccio
+16,29/11/69,Nantes,1-0,Nimes
+16,30/11/69,Saint-Étienne,1-0,US Valenciennes-Anzin
+16,30/11/69,Marseille,3-3,Bastia
+16,30/11/69,AS Angoulême,4-0,Sochaux
+16,30/11/69,RC Strasbourg,4-1,Angers
+16,30/11/69,Metz,4-0,Lyon
+16,30/11/69,Red Star,0-2,RC Paris-Sedan
+16,30/11/69,Stade Rennais UC,0-0,Bordeaux
+16,30/11/69,AC Ajaccio,1-0,FC Rouen
+17,07/12/69,RC Paris-Sedan,0-2,Bastia
+17,07/12/69,Bordeaux,5-1,AS Angoulême
+17,07/12/69,Angers,2-1,Marseille
+17,07/12/69,Sochaux,2-0,RC Strasbourg
+17,07/12/69,Nimes,2-3,Stade Rennais UC
+17,07/12/69,FC Rouen,0-2,Saint-Étienne
+17,07/12/69,Lyon,2-0,Red Star
+17,07/12/69,AC Ajaccio,0-0,Metz
+17,07/12/69,US Valenciennes-Anzin,2-1,Nantes
+18,13/12/69,Sochaux,2-1,Bastia
+18,14/12/69,Bordeaux,2-2,Marseille
+18,14/12/69,Angers,1-3,RC Paris-Sedan
+18,14/12/69,Nimes,5-2,Lyon
+18,14/12/69,AC Ajaccio,4-2,Stade Rennais UC
+18,14/12/69,US Valenciennes-Anzin,2-0,RC Strasbourg
+19,21/12/69,Marseille,3-1,US Valenciennes-Anzin
+19,21/12/69,AS Angoulême,2-1,AC Ajaccio
+19,21/12/69,Nantes,0-2,FC Rouen
+19,21/12/69,Red Star,3-0,Nimes
+19,21/12/69,Stade Rennais UC,1-0,Saint-Étienne
+19,21/12/69,Lyon,2-1,Angers
+19,21/12/69,Bastia,2-2,Bordeaux
+13,28/12/69,Angers,0-0,Saint-Étienne
+18,18/01/70,FC Rouen,0-2,AS Angoulême
+20,25/01/70,Marseille,4-0,Nimes
+20,25/01/70,RC Paris-Sedan,1-0,Lyon
+20,25/01/70,AS Angoulême,6-1,US Valenciennes-Anzin
+20,25/01/70,Metz,1-2,Saint-Étienne
+20,25/01/70,Nantes,6-0,AC Ajaccio
+20,25/01/70,Red Star,1-0,Sochaux
+20,25/01/70,Stade Rennais UC,1-1,FC Rouen
+20,25/01/70,Bastia,3-1,Angers
+21,01/02/70,Saint-Étienne,2-1,Marseille
+21,01/02/70,Bordeaux,0-1,Red Star
+21,01/02/70,Metz,2-0,Stade Rennais UC
+21,01/02/70,Sochaux,0-2,Lyon
+21,01/02/70,Nantes,1-1,AS Angoulême
+21,01/02/70,Nimes,4-1,Bastia
+21,01/02/70,FC Rouen,0-0,RC Paris-Sedan
+21,01/02/70,AC Ajaccio,1-0,RC Strasbourg
+21,01/02/70,US Valenciennes-Anzin,0-2,Angers
+22,15/02/70,Marseille,2-0,FC Rouen
+22,15/02/70,RC Paris-Sedan,1-0,Nimes
+22,15/02/70,RC Strasbourg,1-1,Saint-Étienne
+22,15/02/70,Angers,2-2,Sochaux
+22,15/02/70,Red Star,4-1,AC Ajaccio
+22,15/02/70,Stade Rennais UC,1-2,Nantes
+22,15/02/70,Lyon,1-3,Bordeaux
+23,22/02/70,Saint-Étienne,0-0,Red Star
+23,22/02/70,Bordeaux,1-0,Angers
+23,22/02/70,Metz,3-0,Bastia
+23,22/02/70,Nantes,0-1,RC Strasbourg
+23,22/02/70,Nimes,2-0,Sochaux
+23,22/02/70,FC Rouen,1-0,Lyon
+23,22/02/70,Stade Rennais UC,2-0,AS Angoulême
+23,22/02/70,AC Ajaccio,2-4,Marseille
+23,22/02/70,US Valenciennes-Anzin,1-3,RC Paris-Sedan
+24,06/03/70,RC Strasbourg,1-1,Stade Rennais UC
+24,08/03/70,Marseille,3-2,Metz
+24,08/03/70,AS Angoulême,0-1,Saint-Étienne
+24,08/03/70,Angers,1-0,Nimes
+24,08/03/70,Red Star,1-1,US Valenciennes-Anzin
+24,08/03/70,Lyon,2-5,Nantes
+24,08/03/70,Bastia,0-2,FC Rouen
+25,14/03/70,Nantes,1-0,Angers
+25,14/03/70,Nimes,3-0,Bordeaux
+25,14/03/70,FC Rouen,2-0,Red Star
+25,15/03/70,Saint-Étienne,6-0,Lyon
+25,15/03/70,AS Angoulême,1-1,RC Strasbourg
+25,15/03/70,Metz,0-2,RC Paris-Sedan
+25,15/03/70,Stade Rennais UC,1-1,Marseille
+25,15/03/70,AC Ajaccio,2-0,Bastia
+25,15/03/70,US Valenciennes-Anzin,0-1,Sochaux
+20,20/03/70,RC Strasbourg,3-1,Bordeaux
+13,22/03/70,Red Star,1-6,Marseille
+19,22/03/70,RC Paris-Sedan,3-0,Sochaux
+24,27/03/70,Sochaux,3-2,Bordeaux
+24,28/03/70,RC Paris-Sedan,2-0,AC Ajaccio
+26,01/04/70,Marseille,1-1,AS Angoulême
+26,01/04/70,Bordeaux,0-2,US Valenciennes-Anzin
+26,01/04/70,Angers,0-0,Metz
+26,01/04/70,Lyon,2-1,AC Ajaccio
+26,01/04/70,Bastia,3-2,Nantes
+26,04/04/70,Sochaux,1-1,FC Rouen
+26,05/04/70,Red Star,2-4,Stade Rennais UC
+26,11/04/70,RC Strasbourg,4-1,Nimes
+27,14/04/70,Metz,3-1,Nimes
+27,15/04/70,Saint-Étienne,2-0,Sochaux
+27,15/04/70,Nantes,2-2,RC Paris-Sedan
+27,15/04/70,FC Rouen,0-0,Bordeaux
+27,15/04/70,Stade Rennais UC,3-1,Bastia
+27,15/04/70,AC Ajaccio,0-1,Angers
+27,15/04/70,US Valenciennes-Anzin,1-1,Lyon
+27,18/04/70,AS Angoulême,1-1,Red Star
+27,18/04/70,RC Strasbourg,2-3,Marseille
+28,22/04/70,Marseille,4-2,Nantes
+28,22/04/70,RC Paris-Sedan,3-2,Stade Rennais UC
+28,22/04/70,Bordeaux,1-0,Metz
+28,22/04/70,Angers,1-1,FC Rouen
+28,22/04/70,Sochaux,0-2,AC Ajaccio
+28,22/04/70,Nimes,2-1,US Valenciennes-Anzin
+28,22/04/70,Red Star,2-1,RC Strasbourg
+28,22/04/70,Lyon,1-2,AS Angoulême
+28,22/04/70,Bastia,0-1,Saint-Étienne
+18,25/04/70,Metz,2-1,Red Star
+22,03/05/70,AS Angoulême,2-1,Metz
+22,03/05/70,Bastia,3-1,US Valenciennes-Anzin
+19,09/05/70,RC Strasbourg,2-0,Metz
+29,12/05/70,Bordeaux,1-4,Saint-Étienne
+29,12/05/70,Angers,1-0,Stade Rennais UC
+29,13/05/70,RC Paris-Sedan,2-1,RC Strasbourg
+29,13/05/70,Nimes,2-0,AC Ajaccio
+29,13/05/70,Red Star,3-0,Nantes
+29,13/05/70,Lyon,1-0,Marseille
+29,13/05/70,Bastia,1-1,AS Angoulême
+29,13/05/70,US Valenciennes-Anzin,1-3,FC Rouen
+29,16/05/70,Sochaux,4-1,Metz
+30,20/05/70,Saint-Étienne,2-1,Nimes
+30,20/05/70,Marseille,2-0,RC Paris-Sedan
+30,20/05/70,Nantes,1-1,Bordeaux
+30,20/05/70,Red Star,2-1,Bastia
+30,20/05/70,Stade Rennais UC,2-4,Sochaux
+30,22/05/70,AC Ajaccio,3-1,US Valenciennes-Anzin
+30,23/05/70,AS Angoulême,1-1,Angers
+30,23/05/70,RC Strasbourg,2-1,Lyon
+30,23/05/70,Metz,2-0,FC Rouen
+31,27/05/70,Bordeaux,1-1,Stade Rennais UC
+31,27/05/70,Angers,4-1,RC Strasbourg
+31,27/05/70,Nimes,4-2,Nantes
+31,27/05/70,FC Rouen,2-0,AC Ajaccio
+31,27/05/70,Lyon,2-4,Metz
+31,27/05/70,Bastia,3-2,Marseille
+31,27/05/70,US Valenciennes-Anzin,0-3,Saint-Étienne
+31,30/05/70,RC Paris-Sedan,3-0,Red Star
+31,30/05/70,Sochaux,1-0,AS Angoulême
+32,03/06/70,Saint-Étienne,5-0,FC Rouen
+32,03/06/70,Marseille,5-2,Angers
+32,03/06/70,RC Strasbourg,2-2,Sochaux
+32,03/06/70,Nantes,1-2,US Valenciennes-Anzin
+32,03/06/70,Red Star,1-5,Lyon
+32,03/06/70,Stade Rennais UC,1-1,Nimes
+32,03/06/70,Bastia,2-3,RC Paris-Sedan
+32,05/06/70,AS Angoulême,3-2,Bordeaux
+13,06/06/70,Sochaux,0-3,Nantes
+26,06/06/70,RC Paris-Sedan,1-2,Saint-Étienne
+32,06/06/70,Metz,1-0,AC Ajaccio
+34,06/06/70,Marseille,4-0,Red Star
+33,09/06/70,Bordeaux,4-1,RC Paris-Sedan
+33,09/06/70,FC Rouen,1-1,RC Strasbourg
+33,10/06/70,Angers,5-1,Red Star
+33,10/06/70,Metz,2-2,Nantes
+33,10/06/70,Nimes,2-2,AS Angoulême
+33,10/06/70,Lyon,2-1,Bastia
+33,10/06/70,AC Ajaccio,1-2,Saint-Étienne
+33,10/06/70,US Valenciennes-Anzin,0-1,Stade Rennais UC
+18,13/06/70,Saint-Étienne,2-3,Nantes
+33,13/06/70,Sochaux,2-2,Marseille
+34,17/06/70,Saint-Étienne,1-2,Angers
+34,17/06/70,RC Strasbourg,4-0,Bastia

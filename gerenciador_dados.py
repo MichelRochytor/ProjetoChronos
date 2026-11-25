@@ -104,7 +104,8 @@ class GerenciadorDados:
             'La Liga':               'dados/espanha/laligaA/laliga*.csv',
             'Copa do Nordeste':      'dados/brasil/copadonordeste/copadonordeste*.csv',
             'Copa Verde':            'dados/brasil/copaverde/copaverde*.csv',
-            'Italiano':              'dados/italia/serieA*.csv'
+            'Italiano':              'dados/italia/serieA*.csv',
+            'Campeonato Francês':    'dados/franca/ligue1/ligue1*.csv'
         }
 
         resultado = {}
@@ -170,7 +171,7 @@ class GerenciadorDados:
         - Nacionais (Séries A, B, C, D e Copa do Brasil)
         - Estaduais (Paulista desde 1902, Carioca desde 1906, Mineiro, Gaúcho, etc.)
         - Internacionais (Libertadores, Sudamericana, Champions League, etc.)
-        - Ligas Europeias (Premier League desde 1888, La Liga desde 1928)
+        - Ligas Europeias (Premier League desde 1888, La Liga desde 1928, Serie A Italiana desde 1897, Campeonato Francês Ligue 1 desde 1932)
         Executa em tempo ultrarrápido (<0.6s para >220.000 partidas).
         """
         if self.h2h_carregado:
@@ -199,6 +200,8 @@ class GerenciadorDados:
             'dados/italia': 'Italiano',
             'dados/inglaterra/premier': 'Premier League',
             'dados/inglaterra/championship': 'Championship',
+            'dados/franca/ligue1': 'Campeonato Francês',
+            'dados/franca': 'Campeonato Francês',
         }
 
         self.timeline_copas_por_time.clear()
@@ -633,6 +636,7 @@ class GerenciadorDados:
             ('Premier League', f'dados/inglaterra/premier/premier*{ano}.csv'),
             ('La Liga',        f'dados/espanha/laligaA/laliga*{ano}.csv'),
             ('Italiano',       f'dados/italia/serieA*{ano}.csv'),
+            ('Campeonato Francês', f'dados/franca/ligue1/ligue1*{ano}.csv'),
         ]:
             for p in glob.glob(_caminho(rel_pattern)):
                 if os.path.exists(p) and os.path.getsize(p) > 50:

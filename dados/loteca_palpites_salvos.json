@@ -1,0 +1,233 @@
+{
+  "1279": [
+    {
+      "id": "palpite_1279_1793295416_1",
+      "numero_concurso": 1279,
+      "nome": "1279 - Michel",
+      "data_criacao": "29/10/2026 14:36",
+      "timestamp": 1793295416,
+      "palpites": {
+        "1": [
+          "2",
+          "X"
+        ],
+        "2": [
+          "1",
+          "2"
+        ],
+        "3": [
+          "1"
+        ],
+        "4": [
+          "X"
+        ],
+        "5": [
+          "1"
+        ],
+        "6": [
+          "1"
+        ],
+        "7": [
+          "1",
+          "2",
+          "X"
+        ],
+        "8": [
+          "1"
+        ],
+        "9": [
+          "1"
+        ],
+        "10": [
+          "1"
+        ],
+        "11": [
+          "X"
+        ],
+        "12": [
+          "2"
+        ],
+        "13": [
+          "1"
+        ],
+        "14": [
+          "X"
+        ]
+      },
+      "custo": 18.0,
+      "combinacoes": 12,
+      "secos": 11,
+      "duplos": 2,
+      "triplos": 1,
+      "times_resumo": [
+        "PALMEIRAS (SP) x VASCO DA GAMA (RJ)",
+        "VILA NOVA (GO) x JUVENTUDE (RS)",
+        "NAUTICO (PE) x AVAI (SC)",
+        "MILAN x INTER DE MILAO",
+        "BARCELONA x DEPORTIVO ALAVES",
+        "LAZIO x CAGLIARI CALCIO",
+        "JUVENTUS x NAPOLI",
+        "LONDRINA (PR) x AMERICA (MG)",
+        "GREMIO (RS) x ATLETICO (MG)",
+        "NOVORIZONTINO (SP) x OPERARIO (PR)",
+        "CUIABA (MT) x SAO BERNARDO (SP)",
+        "GETAFE x SEVILLA",
+        "ATHLETIC BILBAO x REAL SOCIEDAD",
+        "ELCHE FC x VALENCIA CLUB"
+      ]
+    }
+  ],
+  "1281": [
+    {
+      "id": "palpite_1281_1794099249_1",
+      "numero_concurso": 1281,
+      "nome": "aaaaaaaaaaaaa",
+      "data_criacao": "07/11/2026 21:54",
+      "timestamp": 1794099249,
+      "palpites": {
+        "1": [
+          "X"
+        ],
+        "2": [
+          "1"
+        ],
+        "3": [
+          "2"
+        ],
+        "4": [
+          "2"
+        ],
+        "5": [
+          "X"
+        ],
+        "6": [
+          "1",
+          "2",
+          "X"
+        ],
+        "7": [
+          "1"
+        ],
+        "8": [
+          "X"
+        ],
+        "9": [
+          "1",
+          "2"
+        ],
+        "10": [
+          "1"
+        ],
+        "11": [
+          "X"
+        ],
+        "12": [
+          "X"
+        ],
+        "13": [
+          "1"
+        ],
+        "14": [
+          "2"
+        ]
+      },
+      "custo": 9.0,
+      "combinacoes": 6,
+      "secos": 12,
+      "duplos": 1,
+      "triplos": 1,
+      "times_resumo": [
+        "ATLETICO MADRID x BARCELONA",
+        "BRIGHTON x BRENTFORD",
+        "CRYSTAL PALACE x LIVERPOOL",
+        "SUNDERLAND x CHELSEA",
+        "GENOA x MILAN",
+        "MONZA x ATALANTA BERGAMAS",
+        "REAL SOCIEDAD x RAYO VALLECANO",
+        "MANCHESTER UNITED x ASTON VILLA",
+        "VASCO DA GAMA (RJ) x PALMEIRAS (SP)",
+        "INTER DE MILAO x COMO",
+        "BRESTOIS x LYON",
+        "CEARA (CE) x AMERICA (MG)",
+        "GOIAS (GO) x PONTE PRETA (SP)",
+        "FIORENTINA x JUVENTUS"
+      ]
+    },
+    {
+      "id": "palpite_1281_1794100321_2",
+      "numero_concurso": 1281,
+      "nome": "aaaaaaaaaaaaaaaa2",
+      "data_criacao": "07/11/2026 22:12",
+      "timestamp": 1794100321,
+      "palpites": {
+        "1": [
+          "X"
+        ],
+        "2": [
+          "1"
+        ],
+        "3": [
+          "2"
+        ],
+        "4": [
+          "2"
+        ],
+        "5": [
+          "X"
+        ],
+        "6": [
+          "1",
+          "2",
+          "X"
+        ],
+        "7": [
+          "1"
+        ],
+        "8": [
+          "X"
+        ],
+        "9": [
+          "1",
+          "2"
+        ],
+        "10": [
+          "1"
+        ],
+        "11": [
+          "1",
+          "X"
+        ],
+        "12": [
+          "X"
+        ],
+        "13": [
+          "1"
+        ],
+        "14": [
+          "2"
+        ]
+      },
+      "custo": 18.0,
+      "combinacoes": 12,
+      "secos": 11,
+      "duplos": 2,
+      "triplos": 1,
+      "times_resumo": [
+        "ATLETICO MADRID x BARCELONA",
+        "BRIGHTON x BRENTFORD",
+        "CRYSTAL PALACE x LIVERPOOL",
+        "SUNDERLAND x CHELSEA",
+        "GENOA x MILAN",
+        "MONZA x ATALANTA BERGAMAS",
+        "REAL SOCIEDAD x RAYO VALLECANO",
+        "MANCHESTER UNITED x ASTON VILLA",
+        "VASCO DA GAMA (RJ) x PALMEIRAS (SP)",
+        "INTER DE MILAO x COMO",
+        "BRESTOIS x LYON",
+        "CEARA (CE) x AMERICA (MG)",
+        "GOIAS (GO) x PONTE PRETA (SP)",
+        "FIORENTINA x JUVENTUS"
+      ]
+    }
+  ]
+}

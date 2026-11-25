@@ -16,6 +16,8 @@ from datetime import datetime
 
 from config import THEME, FONTS
 from raspador_loteca import RaspadorLoteca
+from gerenciador_palpites import GerenciadorPalpitesLoteca
+from modais_loteca import ModalSalvarPalpite, ModalConferenciaLoteca, ModalMeusPalpitesLoteca
 
 
 class JanelaLotecaConcursos(tk.Toplevel):
@@ -52,6 +54,8 @@ class JanelaLotecaConcursos(tk.Toplevel):
         # Estado do Volante de Apostas (Seq 1..14 -> set de colunas {'1', 'X', '2'})
         self.palpites_usuario = {i: set() for i in range(1, 15)}
         self.jogo_selecionado_seq = 1
+        self.gerenciador_palpites = GerenciadorPalpitesLoteca()
+        self.palpite_em_edicao_nome = None
 
         self._centralizar_janela(parent)
         self._construir_interface()
@@ -267,68 +271,97 @@ class JanelaLotecaConcursos(tk.Toplevel):
         self.tree_jogos.tag_configure('empate', background='#221a0d', foreground='#fbbf24')
         self.tree_jogos.tag_configure('aguardando', background=THEME['bg_card'], foreground=THEME['text_primary'])
 
+        # Tags de conferência de resultados
+        self.tree_jogos.tag_configure('conferencia_acertou', background='#062d1f', foreground='#34d399')
+        self.tree_jogos.tag_configure('conferencia_errou', background='#2d0e14', foreground='#fb7185')
+        self.tree_jogos.tag_configure('conferencia_pendente', background='#241c0c', foreground='#fbbf24')
+
         # ── 5. TOOLBAR DE SIMULAÇÃO DE VOLANTE (PALPITES INTERATIVOS) ─────
         self.volante_frame = tk.Frame(self, bg=THEME['bg_card'], padx=14, pady=8, highlightbackground=THEME['border'], highlightthickness=1)
         self.volante_frame.pack(fill='x', padx=14, pady=(0, 4))
 
-        # Linha 1: Botões de marcação rápida do jogo selecionado
+        # Linha 1: Botões de marcação rápida do jogo selecionado e surpresinhas
         linha1 = tk.Frame(self.volante_frame, bg=THEME['bg_card'])
-        linha1.pack(fill='x', pady=(0, 4))
+        linha1.pack(fill='x', pady=(0, 5))
 
         self.lbl_jogo_selecionado = tk.Label(
             linha1, text="🎮 Jogo Selecionado: Jogo 1",
             font=FONTS['body_b'], fg=THEME['accent_blue'], bg=THEME['bg_card']
         )
-        self.lbl_jogo_selecionado.pack(side='left', padx=(0, 10))
+        self.lbl_jogo_selecionado.pack(side='left', padx=(0, 8))
 
-        btn_pick_style = {'relief': 'flat', 'font': FONTS['badge'], 'padx': 8, 'pady': 2, 'cursor': 'hand2'}
+        btn_pick_style = {'relief': 'flat', 'font': FONTS['badge'], 'padx': 7, 'pady': 2, 'cursor': 'hand2'}
 
         tk.Button(linha1, text="[ 1 ] Casa", command=lambda: self._marcar_jogo_atual('1'), bg='#065f46', fg='#34d399', **btn_pick_style).pack(side='left', padx=2)
         tk.Button(linha1, text="[ X ] Empate", command=lambda: self._marcar_jogo_atual('X'), bg='#78350f', fg='#fbbf24', **btn_pick_style).pack(side='left', padx=2)
         tk.Button(linha1, text="[ 2 ] Fora", command=lambda: self._marcar_jogo_atual('2'), bg='#881337', fg='#fb7185', **btn_pick_style).pack(side='left', padx=2)
 
-        tk.Label(linha1, text="• Duplos:", font=FONTS['badge'], fg=THEME['text_muted'], bg=THEME['bg_card']).pack(side='left', padx=(6, 2))
+        tk.Label(linha1, text="• Duplos:", font=FONTS['badge'], fg=THEME['text_muted'], bg=THEME['bg_card']).pack(side='left', padx=(5, 2))
         tk.Button(linha1, text="1X", command=lambda: self._definir_duplo_jogo_atual('1', 'X'), bg=THEME['bg_subtle'], fg=THEME['accent_blue'], **btn_pick_style).pack(side='left', padx=2)
         tk.Button(linha1, text="12", command=lambda: self._definir_duplo_jogo_atual('1', '2'), bg=THEME['bg_subtle'], fg=THEME['accent_blue'], **btn_pick_style).pack(side='left', padx=2)
         tk.Button(linha1, text="X2", command=lambda: self._definir_duplo_jogo_atual('X', '2'), bg=THEME['bg_subtle'], fg=THEME['accent_blue'], **btn_pick_style).pack(side='left', padx=2)
 
-        tk.Label(linha1, text="• Triplo:", font=FONTS['badge'], fg=THEME['text_muted'], bg=THEME['bg_card']).pack(side='left', padx=(6, 2))
+        tk.Label(linha1, text="• Triplo:", font=FONTS['badge'], fg=THEME['text_muted'], bg=THEME['bg_card']).pack(side='left', padx=(5, 2))
         tk.Button(linha1, text="1X2 Triplo", command=self._definir_triplo_jogo_atual, bg='#581c87', fg='#c084fc', **btn_pick_style).pack(side='left', padx=2)
 
-        tk.Button(linha1, text="🧹 Limpar Jogo", command=self._limpar_jogo_atual, bg=THEME['bg_subtle'], fg=THEME['text_muted'], **btn_pick_style).pack(side='left', padx=(8, 2))
+        tk.Button(linha1, text="🧹 Limpar Jogo", command=self._limpar_jogo_atual, bg=THEME['bg_subtle'], fg=THEME['text_muted'], **btn_pick_style).pack(side='left', padx=(6, 2))
 
-        # Linha 2: Ações globais do volante (Surpresinha, Copiar, Salvar)
+        # Ações de geração rápida à direita da Linha 1
+        tk.Button(
+            linha1, text="🧹 Limpar Volante", command=self._limpar_volante_inteiro,
+            bg=THEME['bg_subtle'], fg=THEME['loss'], font=FONTS['badge'], relief='flat', padx=7, pady=2, cursor='hand2'
+        ).pack(side='right', padx=2)
+
+        tk.Button(
+            linha1, text="🎲 Gerar 2 Duplos (R$ 6,00)", command=lambda: self._gerar_surpresinha(qtd_duplos=2),
+            bg=THEME['bg_subtle'], fg=THEME['accent_blue'], font=FONTS['badge'], relief='flat', padx=7, pady=2, cursor='hand2'
+        ).pack(side='right', padx=2)
+
+        tk.Button(
+            linha1, text="🎲 Surpresinha (R$ 3,00)", command=lambda: self._gerar_surpresinha(qtd_duplos=1),
+            bg=THEME['bg_subtle'], fg=THEME['win'], font=FONTS['badge'], relief='flat', padx=7, pady=2, cursor='hand2'
+        ).pack(side='right', padx=2)
+
+        # Linha 2: Ações de Simulação, Salvar Palpite e Conferir Resultados
         linha2 = tk.Frame(self.volante_frame, bg=THEME['bg_card'])
         linha2.pack(fill='x', pady=(2, 0))
 
-        tk.Label(linha2, text="Ações do Cartão:", font=FONTS['badge'], fg=THEME['text_secondary'], bg=THEME['bg_card']).pack(side='left', padx=(0, 6))
+        self.lbl_modo_simulador = tk.Label(
+            linha2, text="🎯 SIMULADOR: Marque seus palpites acima, salve ou confira com o resultado oficial",
+            font=FONTS['badge'], fg=THEME['accent_blue'], bg=THEME['bg_card']
+        )
+        self.lbl_modo_simulador.pack(side='left', padx=(0, 6))
 
-        tk.Button(
-            linha2, text="🎲 Surpresinha (R$ 3,00)", command=lambda: self._gerar_surpresinha(qtd_duplos=1),
-            bg=THEME['bg_subtle'], fg=THEME['win'], font=FONTS['badge'], relief='flat', padx=8, pady=2, cursor='hand2'
-        ).pack(side='left', padx=2)
-
-        tk.Button(
-            linha2, text="🎲 Gerar 2 Duplos (R$ 6,00)", command=lambda: self._gerar_surpresinha(qtd_duplos=2),
-            bg=THEME['bg_subtle'], fg=THEME['accent_blue'], font=FONTS['badge'], relief='flat', padx=8, pady=2, cursor='hand2'
-        ).pack(side='left', padx=2)
-
-        tk.Button(
-            linha2, text="🧹 Limpar Volante", command=self._limpar_volante_inteiro,
-            bg=THEME['bg_subtle'], fg=THEME['loss'], font=FONTS['badge'], relief='flat', padx=8, pady=2, cursor='hand2'
-        ).pack(side='left', padx=2)
+        # Botões da direita na Linha 2
+        self.btn_salvar_volante = tk.Button(
+            linha2, text="📄 TXT", command=self._salvar_volante_arquivo,
+            bg=THEME['bg_subtle'], fg=THEME['text_secondary'], font=FONTS['badge'], relief='flat', padx=7, pady=3, cursor='hand2'
+        )
+        self.btn_salvar_volante.pack(side='right', padx=2)
 
         self.btn_copiar_volante = tk.Button(
-            linha2, text="📋 Copiar Volante", command=self._copiar_volante_clipboard,
-            bg=THEME['accent_indigo'], fg='#ffffff', font=FONTS['badge'], relief='flat', padx=10, pady=2, cursor='hand2'
+            linha2, text="📋 Copiar", command=self._copiar_volante_clipboard,
+            bg=THEME['bg_subtle'], fg=THEME['text_primary'], font=FONTS['badge'], relief='flat', padx=8, pady=3, cursor='hand2'
         )
         self.btn_copiar_volante.pack(side='right', padx=2)
 
-        self.btn_salvar_volante = tk.Button(
-            linha2, text="💾 Salvar Palpite (TXT)", command=self._salvar_volante_arquivo,
-            bg=THEME['win'], fg='#ffffff', font=FONTS['badge'], relief='flat', padx=10, pady=2, cursor='hand2'
+        self.btn_meus_palpites = tk.Button(
+            linha2, text="📂 Meus Palpites (0)", command=self._abrir_modal_meus_palpites,
+            bg=THEME['bg_subtle'], fg=THEME['text_secondary'], font=FONTS['body_b'], relief='flat', padx=10, pady=3, cursor='hand2'
         )
-        self.btn_salvar_volante.pack(side='right', padx=2)
+        self.btn_meus_palpites.pack(side='right', padx=2)
+
+        self.btn_salvar_db = tk.Button(
+            linha2, text="💾 Salvar Palpite", command=self._salvar_palpite_db,
+            bg=THEME['accent_blue'], fg='#080c14', font=FONTS['body_b'], relief='flat', padx=11, pady=3, cursor='hand2'
+        )
+        self.btn_salvar_db.pack(side='right', padx=2)
+
+        self.btn_conferir_palpite = tk.Button(
+            linha2, text="🎯 Conferir Palpite", command=self._conferir_palpite_atual,
+            bg=THEME['win'], fg='#ffffff', font=FONTS['body_b'], relief='flat', padx=13, pady=3, cursor='hand2', activebackground='#059669'
+        )
+        self.btn_conferir_palpite.pack(side='right', padx=3)
 
         # ── 6. PAINEL INFERIOR: DETALHES DE PREMIAÇÃO E RATEIO ────────────
         bot_frame = tk.Frame(self, bg=THEME['bg_card'], padx=14, pady=8, highlightbackground=THEME['border'], highlightthickness=1)
@@ -456,72 +489,44 @@ class JanelaLotecaConcursos(tk.Toplevel):
 
         # 2. Atualização da Grade dos 14 Jogos
         self.tree_jogos.delete(*self.tree_jogos.get_children())
+        self.palpites_usuario = {i: set() for i in range(1, 15)}
+        self.palpite_em_edicao_nome = None
+        self._atualizar_contador_palpites_salvos(num)
+
+        # O simulador fica sempre visível e interativo
+        self.volante_frame.pack(fill='x', padx=14, pady=(0, 4), before=self.children[list(self.children.keys())[-1]])
+
         if eh_aberto:
             self.lbl_grade_tit.config(
-                text=f"🟢 GRADE OFICIAL DE APOSTAS — CONCURSO {num} (Clique em [ 1 ], [ X ] ou [ 2 ] para apostar)"
+                text=f"🟢 GRADE OFICIAL DE APOSTAS — CONCURSO {num} (Marque palpites e salve no simulador)"
             )
             self.lbl_instrucao_tabela.config(
-                text="💡 Marque seus palpites diretamente nas colunas ou use a barra de atalhos abaixo"
+                text="💡 Marque palpites em [ 1 ], [ X ], [ 2 ] • Salve para conferir automaticamente quando apurado"
             )
-            self.volante_frame.pack(fill='x', padx=14, pady=(0, 4), before=self.children[list(self.children.keys())[-1]])
+            self.lbl_modo_simulador.config(
+                text=f"🎮 CONCURSO {num} ABERTO: Monte seus palpites e clique em '💾 Salvar Palpite' para conferir após os jogos."
+            )
         else:
             self.lbl_grade_tit.config(
-                text=f"📋 RESULTADOS OFICIAIS — CONCURSO {num} ({dados.get('data_apuracao', '')})"
+                text=f"📋 RESULTADOS OFICIAIS & SIMULADOR — CONCURSO {num} ({dados.get('data_apuracao', '')})"
             )
             self.lbl_instrucao_tabela.config(
-                text="💡 Colunas vencedoras destacadas em verde/âmbar/rosa • Duplo clique para analisar time"
+                text="💡 Colunas com [ ● ] são oficiais • Teste palpites e clique em '🎯 Conferir Palpite' para ver acertos!"
             )
+            qtd_salv = self.gerenciador_palpites.contar_palpites(num)
+            if qtd_salv > 0:
+                self.lbl_modo_simulador.config(
+                    text=f"💡 Concurso {num}: Você possui {qtd_salv} aposta(s) salva(s)! Abra '📂 Meus Palpites' para conferir."
+                )
+            else:
+                self.lbl_modo_simulador.config(
+                    text=f"🎮 SIMULADOR HISTÓRICO: Teste estratégias no Concurso {num} e clique em '🎯 Conferir Palpite'."
+                )
 
         for j in dados.get('jogos', []):
             seq = j.get('seq')
-            mandante = j.get('mandante_completo')
-            visitante = j.get('visitante_completo')
-            coluna = j.get('coluna')
-            dia_data = f"{j.get('data_jogo', '')} ({j.get('dia_semana', '')})".strip()
-            campeonato = j.get('campeonato', '') or 'Loteca'
-
-            if eh_aberto:
-                palpites = self.palpites_usuario.get(seq, set())
-                col1_str = "[ 1 ]" if '1' in palpites else "-"
-                colX_str = "[ X ]" if 'X' in palpites else "-"
-                col2_str = "[ 2 ]" if '2' in palpites else "-"
-
-                qtd = len(palpites)
-                if qtd == 0:
-                    status_palpite = "⚠️ Pendente"
-                    tag = 'palpite_pendente'
-                elif qtd == 1:
-                    status_palpite = f"SECO: {''.join(sorted(palpites))}"
-                    tag = 'palpite_seco'
-                elif qtd == 2:
-                    status_palpite = f"DUPLO: {''.join(sorted(palpites))}"
-                    tag = 'palpite_duplo'
-                else:
-                    status_palpite = "TRIPLO: 1X2"
-                    tag = 'palpite_triplo'
-
-                valores = (
-                    f"Jogo {seq}",status_palpite, mandante,col1_str, colX_str, col2_str, visitante, dia_data, campeonato
-                )
-            else:
-                placar = j.get('placar_str', '- x -')
-                col1_str = "●" if coluna == '1' else ""
-                colX_str = "●" if coluna == 'X' else ""
-                col2_str = "●" if coluna == '2' else ""
-
-                tag = 'aguardando'
-                if coluna == '1':
-                    tag = 'venceu_casa'
-                elif coluna == '2':
-                    tag = 'venceu_fora'
-                elif coluna == 'X':
-                    tag = 'empate'
-
-                valores = (
-                    f"Jogo {seq}",placar, mandante,col1_str or "-", colX_str or "-", col2_str or "-", visitante, dia_data, campeonato
-                )
-
-            self.tree_jogos.insert('', 'end', iid=f"jogo_{seq}", values=valores, tags=(tag,))
+            valores, tags = self._obter_valores_e_tag_linha(seq, j, eh_aberto)
+            self.tree_jogos.insert('', 'end', iid=f"jogo_{seq}", values=valores, tags=tags)
 
         # Seleciona o primeiro jogo por padrão
         primeiro_item = f"jogo_{self.jogo_selecionado_seq}"
@@ -580,12 +585,92 @@ class JanelaLotecaConcursos(tk.Toplevel):
             self.lbl_prox_info.config(text=f"Próximo Concurso {prox_num} em {prox_dt}")
 
     # ── MÉTODOS DO SIMULADOR DE VOLANTE (INTERATIVIDADE) ───────────────────
+    def _obter_valores_e_tag_linha(self, seq: int, jogo: dict, eh_aberto: bool) -> tuple:
+        """Formata os valores e a tag de uma linha da grade da Loteca conforme o modo e palpites."""
+        palpites = self.palpites_usuario.get(seq, set())
+        mandante = jogo.get('mandante_completo')
+        visitante = jogo.get('visitante_completo')
+        coluna_oficial = str(jogo.get('coluna', '-')).strip()
+        dia_data = f"{jogo.get('data_jogo', '')} ({jogo.get('dia_semana', '')})".strip()
+        campeonato = jogo.get('campeonato', '') or 'Loteca'
+
+        if eh_aberto:
+            col1_str = "[ 1 ]" if '1' in palpites else "-"
+            colX_str = "[ X ]" if 'X' in palpites else "-"
+            col2_str = "[ 2 ]" if '2' in palpites else "-"
+
+            qtd = len(palpites)
+            if qtd == 0:
+                status_palpite = "⚠️ Pendente"
+                tag = 'palpite_pendente'
+            elif qtd == 1:
+                status_palpite = f"SECO: {''.join(sorted(palpites))}"
+                tag = 'palpite_seco'
+            elif qtd == 2:
+                status_palpite = f"DUPLO: {''.join(sorted(palpites))}"
+                tag = 'palpite_duplo'
+            else:
+                status_palpite = "TRIPLO: 1X2"
+                tag = 'palpite_triplo'
+
+            valores = (
+                f"Jogo {seq}", status_palpite, mandante, col1_str, colX_str, col2_str, visitante, dia_data, campeonato
+            )
+        else:
+            placar = jogo.get('placar_str', '- x -')
+            if not palpites:
+                col1_str = "●" if coluna_oficial == '1' else ""
+                colX_str = "●" if coluna_oficial == 'X' else ""
+                col2_str = "●" if coluna_oficial == '2' else ""
+
+                tag = 'aguardando'
+                if coluna_oficial == '1':
+                    tag = 'venceu_casa'
+                elif coluna_oficial == '2':
+                    tag = 'venceu_fora'
+                elif coluna_oficial == 'X':
+                    tag = 'empate'
+
+                valores = (
+                    f"Jogo {seq}", placar, mandante, col1_str or "-", colX_str or "-", col2_str or "-",
+                    visitante, dia_data, campeonato
+                )
+            else:
+                def _marca(c):
+                    tem_palp = c in palpites
+                    eh_ofic = (coluna_oficial == c)
+                    if tem_palp and eh_ofic:
+                        return f"[{c}] ●"
+                    elif tem_palp:
+                        return f"[{c}]"
+                    elif eh_ofic:
+                        return "●"
+                    return "-"
+
+                col1_str = _marca('1')
+                colX_str = _marca('X')
+                col2_str = _marca('2')
+
+                if coluna_oficial in ('1', 'X', '2'):
+                    if coluna_oficial in palpites:
+                        tag = 'conferencia_acertou'
+                        status_palpite = f"✅ {placar} (Acertou)"
+                    else:
+                        tag = 'conferencia_errou'
+                        status_palpite = f"❌ {placar} (Errou: [{coluna_oficial}])"
+                else:
+                    tag = 'conferencia_pendente'
+                    status_palpite = f"⏳ {placar} ({''.join(sorted(palpites))})"
+
+                valores = (
+                    f"Jogo {seq}", status_palpite, mandante, col1_str, colX_str, col2_str,
+                    visitante, dia_data, campeonato
+                )
+
+        return valores, (tag,)
+
     def _ao_clicar_treeview(self, event):
         """Ao clicar diretamente nas colunas [ 1 ], [ X ] ou [ 2 ], alterna o palpite do jogo."""
-        eh_aberto = bool(self.concurso_dados.get('aberto_para_apostas', False))
-        if not eh_aberto:
-            return
-
         region = self.tree_jogos.identify_region(event.x, event.y)
         if region != 'cell':
             return
@@ -599,7 +684,7 @@ class JanelaLotecaConcursos(tk.Toplevel):
         self.jogo_selecionado_seq = seq
         self._atualizar_label_jogo_selecionado(seq)
 
-        # Colunas na treeview: #3 é col1, #5 é colX, #6 é col2
+        # Colunas na treeview: #4 é col1, #5 é colX, #6 é col2
         col_map = {'#4': '1', '#5': 'X', '#6': '2'}
         if col in col_map:
             escolha = col_map[col]
@@ -617,12 +702,13 @@ class JanelaLotecaConcursos(tk.Toplevel):
         """Atualiza o texto que indica qual partida está sendo editada na toolbar."""
         jogos = self.concurso_dados.get('jogos', [])
         jogo = next((j for j in jogos if j.get('seq') == seq), None)
+        nome_bilhete = f" [{self.palpite_em_edicao_nome}]" if self.palpite_em_edicao_nome else ""
         if jogo:
             m = jogo.get('mandante_completo')
             v = jogo.get('visitante_completo')
-            self.lbl_jogo_selecionado.config(text=f"🎮 Jogo {seq}: {m} x {v}")
+            self.lbl_jogo_selecionado.config(text=f"🎮 Jogo {seq}: {m} x {v}{nome_bilhete}")
         else:
-            self.lbl_jogo_selecionado.config(text=f"🎮 Jogo {seq}")
+            self.lbl_jogo_selecionado.config(text=f"🎮 Jogo {seq}{nome_bilhete}")
 
     def _alternar_palpite_jogo(self, seq: int, coluna: str):
         """Adiciona ou remove uma coluna do palpite do jogo informado."""
@@ -668,33 +754,9 @@ class JanelaLotecaConcursos(tk.Toplevel):
         if not jogo:
             return
 
-        palpites = self.palpites_usuario.get(seq, set())
-        col1_str = "[ 1 ]" if '1' in palpites else "-"
-        colX_str = "[ X ]" if 'X' in palpites else "-"
-        col2_str = "[ 2 ]" if '2' in palpites else "-"
-
-        qtd = len(palpites)
-        if qtd == 0:
-            status_palpite = "⚠️ Pendente"
-            tag = 'palpite_pendente'
-        elif qtd == 1:
-            status_palpite = f"SECO: {''.join(sorted(palpites))}"
-            tag = 'palpite_seco'
-        elif qtd == 2:
-            status_palpite = f"DUPLO: {''.join(sorted(palpites))}"
-            tag = 'palpite_duplo'
-        else:
-            status_palpite = "TRIPLO: 1X2"
-            tag = 'palpite_triplo'
-
-        dia_data = f"{jogo.get('data_jogo', '')} ({jogo.get('dia_semana', '')})".strip()
-        campeonato = jogo.get('campeonato', '') or 'Loteca'
-
-        novos_valores = (
-            f"Jogo {seq}", status_palpite, jogo.get('mandante_completo'), col1_str, colX_str, col2_str,
-            jogo.get('visitante_completo'), dia_data, campeonato
-        )
-        self.tree_jogos.item(item_id, values=novos_valores, tags=(tag,))
+        eh_aberto = bool(self.concurso_dados.get('aberto_para_apostas', False))
+        valores, tags = self._obter_valores_e_tag_linha(seq, jogo, eh_aberto)
+        self.tree_jogos.item(item_id, values=valores, tags=tags)
 
     def _atualizar_resumo_volante(self):
         """Calcula o total de secos, duplos, triplos, número de combinações e o custo oficial da aposta."""
@@ -713,10 +775,20 @@ class JanelaLotecaConcursos(tk.Toplevel):
             custo = combinacoes * 1.50
             txt_custo = f"R$ {custo:,.2f} ({combinacoes} apostas)"
 
-        self.kpi_labels['info_palpites'].config(
-            text=f"{marcados}/14 jogos ({duplos}D • {triplos}T)", fg=THEME['win'] if marcados == 14 else THEME['draw']
-        )
-        self.kpi_labels['custo_volante'].config(text=txt_custo, fg=THEME['accent_purple'])
+        eh_aberto = bool(self.concurso_dados.get('aberto_para_apostas', False))
+        if eh_aberto or marcados > 0:
+            self.kpi_labels['info_palpites'].config(
+                text=f"{marcados}/14 palpites ({duplos}D • {triplos}T)", fg=THEME['win'] if marcados == 14 else THEME['draw']
+            )
+            self.kpi_labels['custo_volante'].config(text=txt_custo, fg=THEME['accent_purple'])
+        else:
+            col_resumo = self.concurso_dados.get('colunas_resumo', {})
+            self.kpi_labels['info_palpites'].config(
+                text=f"[1]: {col_resumo.get('1', 0)}  |  [X]: {col_resumo.get('X', 0)}  |  [2]: {col_resumo.get('2', 0)}",
+                fg=THEME['text_primary']
+            )
+            arrec = self.concurso_dados.get('arrecadacao_total', 0.0)
+            self.kpi_labels['custo_volante'].config(text=f"Arrecadado: R$ {arrec:,.2f}", fg=THEME['accent_purple'])
 
     def _gerar_surpresinha(self, qtd_duplos: int = 1):
         """Gera um palpite completo com duplos aleatórios e escolhas plausíveis nos 14 jogos."""
@@ -746,7 +818,200 @@ class JanelaLotecaConcursos(tk.Toplevel):
         for i in range(1, 15):
             self.palpites_usuario[i] = set()
             self._atualizar_linha_jogo(i)
+        self.palpite_em_edicao_nome = None
         self._atualizar_resumo_volante()
+        self._atualizar_label_jogo_selecionado(self.jogo_selecionado_seq)
+        self.lbl_modo_simulador.config(text="🧹 Volante limpo. Marque novos palpites para testar ou conferir.")
+
+    def _atualizar_contador_palpites_salvos(self, num: int = None):
+        """Atualiza o contador de apostas salvas exibido no botão da toolbar."""
+        num = num or self.concurso_exibido_numero
+        if not num:
+            return
+        qtd = self.gerenciador_palpites.contar_palpites(num)
+        if qtd > 0:
+            self.btn_meus_palpites.config(
+                text=f"📂 Meus Palpites ({qtd})",
+                bg=THEME['accent_purple'],
+                fg='#ffffff'
+            )
+        else:
+            self.btn_meus_palpites.config(
+                text="📂 Meus Palpites (0)",
+                bg=THEME['bg_subtle'],
+                fg=THEME['text_secondary']
+            )
+
+    def _salvar_palpite_db(self):
+        """Abre modal para salvar os palpites atuais no banco persistente do app."""
+        marcados = sum(1 for p in self.palpites_usuario.values() if len(p) > 0)
+        num = self.concurso_exibido_numero
+
+        if marcados == 0:
+            messagebox.showwarning(
+                "Volante Vazio",
+                "Marque seus palpites no volante antes de salvar.\n\n"
+                "Você pode marcar jogo a jogo ou usar o botão '🎲 Surpresinha'!",
+                parent=self
+            )
+            return
+
+        if marcados < 14:
+            if not messagebox.askyesno(
+                "Aposta Incompleta",
+                f"Você marcou palpites em apenas {marcados} dos 14 jogos.\n\n"
+                "Deseja salvar esta aposta incompleta mesmo assim?",
+                parent=self
+            ):
+                return
+
+        duplos = sum(1 for p in self.palpites_usuario.values() if len(p) == 2)
+        triplos = sum(1 for p in self.palpites_usuario.values() if len(p) == 3)
+        secos = sum(1 for p in self.palpites_usuario.values() if len(p) == 1)
+        combinacoes = (2 ** duplos) * (3 ** triplos)
+        custo = 3.00 if combinacoes <= 2 else combinacoes * 1.50
+
+        times_resumo = [
+            f"{j.get('mandante_completo', '')} x {j.get('visitante_completo', '')}"
+            for j in self.concurso_dados.get('jogos', [])
+        ]
+
+        def _ao_salvar_sucesso(item):
+            self.palpite_em_edicao_nome = item.get('nome')
+            self._atualizar_contador_palpites_salvos()
+            self._atualizar_label_jogo_selecionado(self.jogo_selecionado_seq)
+            self.lbl_modo_simulador.config(
+                text=f"💾 Palpite '{item.get('nome')}' salvo com sucesso! Confira em '📂 Meus Palpites'."
+            )
+
+        ModalSalvarPalpite(
+            parent=self,
+            numero_concurso=num,
+            palpites_dict=self.palpites_usuario,
+            custo=custo,
+            combinacoes=combinacoes,
+            secos=secos,
+            duplos=duplos,
+            triplos=triplos,
+            times_resumo=times_resumo,
+            gerenciador_palpites=self.gerenciador_palpites,
+            ao_salvar_sucesso=_ao_salvar_sucesso
+        )
+
+    def _abrir_modal_meus_palpites(self):
+        """Abre a modal gerenciadora de palpites salvos da Loteca."""
+        ModalMeusPalpitesLoteca(
+            parent=self,
+            numero_concurso=self.concurso_exibido_numero,
+            dados_concurso=self.concurso_dados,
+            gerenciador_palpites=self.gerenciador_palpites,
+            raspador_loteca=self.raspador,
+            ao_carregar_palpite=self._carregar_palpite_no_volante,
+            ao_novo_palpite=self._limpar_volante_inteiro
+        )
+
+    def _conferir_palpite_atual(self):
+        """
+        Confere o volante atual contra os resultados oficiais do concurso exibido.
+        Se concurso apurado: destaca acertos/erros na Treeview e abre relatório completo.
+        Se concurso aberto: informa o status e oferece para salvar a aposta.
+        """
+        marcados = sum(1 for p in self.palpites_usuario.values() if len(p) > 0)
+        num = self.concurso_exibido_numero
+        jogos = self.concurso_dados.get('jogos', [])
+        eh_aberto = bool(self.concurso_dados.get('aberto_para_apostas', False))
+
+        if marcados == 0:
+            qtd_salvos = self.gerenciador_palpites.contar_palpites(num)
+            if qtd_salvos > 0:
+                self._abrir_modal_meus_palpites()
+                return
+            else:
+                messagebox.showwarning(
+                    "Volante Vazio",
+                    "Você ainda não marcou nenhum palpite no volante.\n\n"
+                    "Clique nas colunas [ 1 ], [ X ], [ 2 ] ou gere uma '🎲 Surpresinha' "
+                    "para preencher seus palpites e conferir!",
+                    parent=self
+                )
+                return
+
+        tem_resultado = any(j.get('coluna') in ('1', 'X', '2') for j in jogos)
+
+        if eh_aberto and not tem_resultado:
+            resp = messagebox.askyesno(
+                f"Concurso {num} Aberto",
+                f"O Concurso {num} ainda está com APOSTAS ABERTAS e aguardando a realização das partidas pela Caixa.\n\n"
+                f"Você marcou {marcados}/14 palpites no volante.\n\n"
+                f"Deseja SALVAR esta aposta agora no simulador para poder conferir assim que os resultados saírem?",
+                parent=self
+            )
+            if resp:
+                self._salvar_palpite_db()
+            return
+
+        duplos = sum(1 for p in self.palpites_usuario.values() if len(p) == 2)
+        triplos = sum(1 for p in self.palpites_usuario.values() if len(p) == 3)
+        secos = sum(1 for p in self.palpites_usuario.values() if len(p) == 1)
+        combinacoes = (2 ** duplos) * (3 ** triplos)
+        custo = 3.00 if combinacoes <= 2 else combinacoes * 1.50
+        nome = self.palpite_em_edicao_nome or f"Simulação Concurso {num}"
+
+        palpite_obj = {
+            'nome': nome,
+            'numero_concurso': num,
+            'data_criacao': datetime.now().strftime("%d/%m/%Y %H:%M"),
+            'palpites': {str(k): list(v) for k, v in self.palpites_usuario.items()},
+            'custo': custo,
+            'combinacoes': combinacoes,
+            'secos': secos,
+            'duplos': duplos,
+            'triplos': triplos
+        }
+
+        resultado_conf = self.gerenciador_palpites.conferir_palpite(palpite_obj, jogos)
+
+        # Atualiza a grade para destacar visualmente os acertos
+        for seq in range(1, 15):
+            self._atualizar_linha_jogo(seq)
+
+        ModalConferenciaLoteca(self, resultado_conf, self.concurso_dados)
+
+    def _carregar_palpite_no_volante(self, palpite: dict):
+        """Carrega uma aposta salva no volante da grade principal."""
+        if not palpite:
+            return
+
+        c_num = palpite.get('numero_concurso')
+        if c_num and c_num != self.concurso_exibido_numero:
+            self._carregar_concurso_especifico(c_num)
+            def _aplicar():
+                self._aplicar_dados_palpite_no_volante(palpite)
+            self.after(600, _aplicar)
+        else:
+            self._aplicar_dados_palpite_no_volante(palpite)
+
+    def _aplicar_dados_palpite_no_volante(self, palpite: dict):
+        """Aplica os palpites do dicionário e atualiza a interface."""
+        palpites_dict = palpite.get('palpites', {})
+        for seq in range(1, 15):
+            cols = palpites_dict.get(str(seq)) or palpites_dict.get(seq) or []
+            self.palpites_usuario[seq] = set(cols)
+            self._atualizar_linha_jogo(seq)
+
+        self.palpite_em_edicao_nome = palpite.get('nome')
+        self._atualizar_resumo_volante()
+        self._atualizar_label_jogo_selecionado(self.jogo_selecionado_seq)
+
+        eh_aberto = bool(self.concurso_dados.get('aberto_para_apostas', False))
+        if not eh_aberto:
+            self.lbl_modo_simulador.config(
+                text=f"🎯 Palpite '{palpite.get('nome')}' carregado! Clique em '🎯 Conferir Palpite' para o relatório."
+            )
+        else:
+            self.lbl_modo_simulador.config(
+                text=f"🎯 Palpite '{palpite.get('nome')}' carregado no volante para o Concurso {self.concurso_exibido_numero}."
+            )
 
     def _formatar_texto_volante(self) -> str:
         """Gera texto organizado e legível com o cartão de apostas para impressão ou envio."""

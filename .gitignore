@@ -1,0 +1,12 @@
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Estado temporário em tempo de execução do Tor embutido
+.tor_bin/data/

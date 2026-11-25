@@ -9,6 +9,7 @@ Acervo Histórico Completo:
 - Copa Libertadores: todas as edições locais (2006 a 2022)
 - Copa Sudamericana: todas as edições locais (2006 a 2022)
 - Campeonatos Estaduais: Paulista, Carioca, Mineiro, Gaúcho, Goiano, Baiano, Capixaba, etc.
+- Ligas Europeias: Premier League (1888-2026), La Liga (1928-2026), Italiano Serie A (1897-2026), Campeonato Francês Ligue 1 (1932-2026)
 - Cruzamento e Contexto de Copas (Desgaste, Calendário, Risco de Poupança)
 - Histórico H2H Bilateral Multicompetições (acumulado desde 1971)
 - Importador O Gol 2.0 integrado com múltiplos navegadores concorrentes em background.
@@ -53,6 +54,7 @@ from janela_raio_x import JanelaRaioXJogo
 from raspador_gol import RaspadorGol
 from janela_importacao import JanelaGerenciadorImportacao
 from raspador_loteca import RaspadorLoteca
+from gerenciador_palpites import GerenciadorPalpitesLoteca
 from janela_loteca import JanelaLotecaConcursos
 from app_analise_loteca import AppAnaliseLoteca
 

@@ -1,8 +1,8 @@
 {
   "_configuracoes": {
-    "num_navegadores": 50,
+    "num_navegadores": 5,
     "motor": "turbo",
-    "usar_tor": false
+    "usar_tor": true
   },
   "paulista": {
     "nome": "Campeonato Paulista",
@@ -13,7 +13,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/paulista-1902/34653/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-paulista-2026/209364/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:49.550451"
+    "ultima_atualizacao": "2026-11-07T20:13:59.348403"
   },
   "carioca": {
     "nome": "Campeonato Carioca",
@@ -24,7 +24,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-carioca-1906/38570/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-carioca-2026/203735/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:52.533911"
+    "ultima_atualizacao": "2026-11-07T20:14:23.465231"
   },
   "mineiro": {
     "nome": "Campeonato Mineiro",
@@ -35,7 +35,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-mineiro-1915/23268/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-mineiro-2026/209315/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:51.361987"
+    "ultima_atualizacao": "2026-11-07T20:14:23.403252"
   },
   "gaucho": {
     "nome": "Campeonato Gaúcho",
@@ -46,7 +46,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-gaucho-1919/40315/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-gaucho-2026/209327/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:55.803592"
+    "ultima_atualizacao": "2026-11-07T20:14:56.104082"
   },
   "goiano": {
     "nome": "Campeonato Goiano",
@@ -57,7 +57,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/goiano-1944/26949/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-goiano-2026/209896/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:52.493840"
+    "ultima_atualizacao": "2026-11-07T20:14:53.003409"
   },
   "capixaba": {
     "nome": "Campeonato Capixaba",
@@ -68,7 +68,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-capixaba-1918/40710/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-capixaba-2026/210101/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:51.359757"
+    "ultima_atualizacao": "2026-11-07T20:15:32.119574"
   },
   "bahia": {
     "nome": "Campeonato Baiano",
@@ -79,7 +79,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-baiano-1905/111995/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-baiano-2026/209293/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:51.035669"
+    "ultima_atualizacao": "2026-11-07T20:15:41.214654"
   },
   "pernambucano": {
     "nome": "Campeonato Pernambucano",
@@ -90,7 +90,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-pernambucano-1915/131645/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-pernambucano-2026/210257/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:47.772142"
+    "ultima_atualizacao": "2026-11-06T23:08:30.611204"
   },
   "paranaense": {
     "nome": "Campeonato Paranaense",
@@ -101,7 +101,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/paranaense-1915/41236/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-paranaense-2026/209317/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:54.422990"
+    "ultima_atualizacao": "2026-11-06T23:08:34.428553"
   },
   "catarinense": {
     "nome": "Campeonato Catarinense",
@@ -112,7 +112,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-catarinense-1924/38804/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-catarinense-2026/209359/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:47:08.484316"
+    "ultima_atualizacao": "2026-11-06T23:08:52.050330"
   },
   "cearense": {
     "nome": "Campeonato Cearense",
@@ -123,7 +123,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-cearense-1915/41729/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-cearense-2026/209357/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:50.941726"
+    "ultima_atualizacao": "2026-11-06T23:08:55.045385"
   },
   "matogrossense": {
     "nome": "Campeonato Matogrossense",
@@ -134,7 +134,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/mato-grosso-1945/46089/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-mato-grossense-2026/210057/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:52.818367"
+    "ultima_atualizacao": "2026-11-06T23:08:55.956741"
   },
   "sulmatogrossense": {
     "nome": "Campeonato Sul-Matogrossense",
@@ -145,7 +145,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/sul-mato-grossense-1979/45963/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-sul-mato-grossense-2026/209884/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:49.578457"
+    "ultima_atualizacao": "2026-11-07T20:16:24.503414"
   },
   "paraibano": {
     "nome": "Campeonato Paraibano",
@@ -156,7 +156,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-paraibano-1913/41923/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-paraibano-2026/210106/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:52.031422"
+    "ultima_atualizacao": "2026-11-07T20:16:31.889600"
   },
   "alagoano": {
     "nome": "Campeonato Alagoano",
@@ -167,7 +167,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-alagoano-1927/40152/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-alagoano-2026/209897/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:49.889576"
+    "ultima_atualizacao": "2026-11-07T20:16:49.420801"
   },
   "sergipano": {
     "nome": "Campeonato Sergipano",
@@ -178,7 +178,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonto-sergipano-1918/46593/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-sergipano-2026/210122/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:52.016880"
+    "ultima_atualizacao": "2026-11-07T20:16:56.859896"
   },
   "potiguar": {
     "nome": "Campeonato Potiguar",
@@ -189,7 +189,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-potiguar-1919/46821/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-potiguar-2026/209477/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:47.816620"
+    "ultima_atualizacao": "2026-11-07T20:16:57.818560"
   },
   "maranhense": {
     "nome": "Campeonato Maranhense",
@@ -200,7 +200,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-maranhense-1918/127897/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-maranhense-2026/210046/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:47.580766"
+    "ultima_atualizacao": "2026-11-07T20:17:05.137219"
   },
   "paraense": {
     "nome": "Campeonato Paraense",
@@ -211,7 +211,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-paraense-1908/112528/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-paraense-2026/210124/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:50.777602"
+    "ultima_atualizacao": "2026-11-07T20:17:12.520081"
   },
   "amazonense": {
     "nome": "Campeonato Amazonense",
@@ -222,7 +222,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-amazonense-1914/143390/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-amazonense-2026/210086/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:50.778990"
+    "ultima_atualizacao": "2026-11-07T20:17:22.759333"
   },
   "brasiliense": {
     "nome": "Campeonato Brasiliense (Candangão)",
@@ -233,7 +233,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-brasiliense-1960/47101/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-brasiliense-2026/209362/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:54.459537"
+    "ultima_atualizacao": "2026-11-07T20:17:30.058037"
   },
   "piauiense": {
     "nome": "Campeonato Piauiense",
@@ -244,7 +244,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-piauiense-1916/135867/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-piauiense-2026/209812/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:47.106217"
+    "ultima_atualizacao": "2026-11-07T20:17:37.494511"
   },
   "acreano": {
     "nome": "Campeonato Acreano",
@@ -255,7 +255,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-acreano-1919/115700/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-acreano-2026/209769/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:48.185852"
+    "ultima_atualizacao": "2026-11-07T20:17:38.449309"
   },
   "rondoniense": {
     "nome": "Campeonato Rondoniense",
@@ -266,7 +266,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-rondoniense-1945/109536/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-rondoniense-2026/210837/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:47:02.034050"
+    "ultima_atualizacao": "2026-11-07T20:17:45.766986"
   },
   "roraimense": {
     "nome": "Campeonato Roraimense",
@@ -277,7 +277,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/roraima-1960/46205/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-roraimense-2026/210613/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:50.589466"
+    "ultima_atualizacao": "2026-11-07T20:17:53.145395"
   },
   "amapaense": {
     "nome": "Campeonato Amapaense",
@@ -288,7 +288,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-amapaense-1944/110037/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-amapaense-2026/210103/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:47.251775"
+    "ultima_atualizacao": "2026-11-07T20:18:03.402144"
   },
   "tocantinense": {
     "nome": "Campeonato Tocantinense",
@@ -299,7 +299,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-tocantinense-1989/112489/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/campeonato-tocantinense-2026/210612/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:46.964197"
+    "ultima_atualizacao": "2026-11-07T20:18:10.688229"
   },
   "brasileiraoA": {
     "nome": "Brasileirão Série A",
@@ -310,7 +310,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-nacional-de-clubes-1971/2477/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/brasileirao-serie-a-2026/210277/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:47:22.431785"
+    "ultima_atualizacao": "2026-11-07T20:36:02.152702"
   },
   "brasileiraoB": {
     "nome": "Brasileirão Série B",
@@ -321,7 +321,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-nacional-da-primeira-divisao-1971/14183/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/brasileirao-serie-b-2026/210278/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:47:24.415287"
+    "ultima_atualizacao": "2026-11-07T20:37:59.457880"
   },
   "brasileiraoC": {
     "nome": "Brasileirão Série C",
@@ -332,7 +332,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-brasileiro-serie-c-1981/15745/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/brasileirao-serie-c-2026/210279/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:47:04.380574"
+    "ultima_atualizacao": "2026-11-07T20:18:26.402505"
   },
   "brasileiraoD": {
     "nome": "Brasileirão Série D",
@@ -343,7 +343,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/brasileirao-serie-d-2009/14068/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/brasileirao-serie-d-2026/212952/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:47:55.793676"
+    "ultima_atualizacao": "2026-11-06T23:11:50.720651"
   },
   "copadobrasil": {
     "nome": "Copa do Brasil",
@@ -354,7 +354,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/copa-do-brasil-1989/4374/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/copa-do-brasil-2026/212381/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:47:07.637857"
+    "ultima_atualizacao": "2026-11-07T20:30:37.354897"
   },
   "libertadores": {
     "nome": "Copa Libertadores",
@@ -365,7 +365,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/copa-libertadores-1960/11986/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/copa-libertadores-2026/210893/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:47:01.206847"
+    "ultima_atualizacao": "2026-11-07T20:29:01.709452"
   },
   "sudamericana": {
     "nome": "Copa Sudamericana",
@@ -376,7 +376,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/copa-sudamericana-2002/12394/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/copa-sudamericana-2026/210894/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:50.229433"
+    "ultima_atualizacao": "2026-11-06T23:12:30.985505"
   },
   "championsleague": {
     "nome": "UEFA Champions League",
@@ -387,7 +387,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/european-cup-1955-56/660/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/uefa-champions-league-2026-27/219094/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:50.777703"
+    "ultima_atualizacao": "2026-11-05T09:36:39.292311"
   },
   "premierleague": {
     "nome": "Premier League",
@@ -398,7 +398,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/division-one-1888-89/813/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/premier-league-2026-27/219695/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:47:15.243464"
+    "ultima_atualizacao": "2026-11-07T20:38:39.634802"
   },
   "laliga": {
     "nome": "Campeonato Espanhol",
@@ -409,7 +409,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/la-liga-1928-1929/2107/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/laliga-ea-sports-2026-27/219487/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:47:19.946644"
+    "ultima_atualizacao": "2026-11-07T20:38:57.656254"
   },
   "europaleague": {
     "nome": "UEFA Europa League",
@@ -420,7 +420,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/uefa-cup-1971-72/1712/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/uefa-europa-league-2026-27/219039/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:46:54.994579"
+    "ultima_atualizacao": "2026-11-07T20:29:02.070844"
   },
   "serieA": {
     "nome": "Campeonato Italiano Serie A",
@@ -431,6 +431,17 @@
     "url_inicial": "https://www.ogol.com.br/edicao/liga-italiana-1897-98/26217/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/serie-a-2026-27/219486/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-10-25T13:47:18.611257"
+    "ultima_atualizacao": "2026-11-07T20:38:38.085397"
+  },
+  "ligue1": {
+    "nome": "Campeonato Francês Ligue 1",
+    "prefixo": "ligue1",
+    "categoria": "Internacional",
+    "pasta_destino": "dados/franca/ligue1",
+    "ano_inicial": 1932,
+    "url_inicial": "https://www.ogol.com.br/edicao/ligue-1-1932-33/23132/calendario",
+    "url_atual": "https://www.ogol.com.br/edicao/ligue-1-mcdonald-s-2026-27/219588/calendario",
+    "ativo": true,
+    "ultima_atualizacao": "2026-11-18T11:12:09.439983"
   }
 }

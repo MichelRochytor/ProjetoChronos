@@ -95,25 +95,25 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 10,24/10/26,Valencia CF,1-2,Villarreal CF
 10,24/10/26,Atlético de Madrid,1-0,Deportivo
 10,25/10/26,Athletic Bilbao,4-0,Getafe CF
-10,25/10/26,Celta de Vigo,vs,Real Betis
-10,25/10/26,Real Sociedad,vs,Levante
-10,25/10/26,Barcelona,vs,Real Madrid
-10,26/10/26,Sevilla FC,vs,Osasuna
-11,30/10/26,Villarreal CF,vs,Espanyol
-11,31/10/26,Levante,vs,Atlético de Madrid
-11,31/10/26,Rayo Vallecano,vs,Celta de Vigo
-11,31/10/26,Real Betis,vs,Málaga CF
-11,31/10/26,Barcelona,vs,Alavés
-11,01/11/26,Getafe CF,vs,Sevilla FC
-11,01/11/26,Racing Santander,vs,Real Madrid
-11,01/11/26,Elche CF,vs,Valencia CF
-11,01/11/26,Athletic Bilbao,vs,Real Sociedad
-11,02/11/26,Deportivo,vs,Osasuna
-12,06/11/26,Sevilla FC,vs,Alavés
-12,07/11/26,Málaga CF,vs,Racing Santander
-12,07/11/26,Espanyol,vs,Deportivo
-12,07/11/26,Osasuna,vs,Athletic Bilbao
-12,07/11/26,Valencia CF,vs,Real Madrid
+10,25/10/26,Celta de Vigo,0-0,Real Betis
+10,25/10/26,Real Sociedad,2-1,Levante
+10,25/10/26,Barcelona,1-2,Real Madrid
+10,26/10/26,Sevilla FC,2-0,Osasuna
+11,30/10/26,Villarreal CF,0-1,Espanyol
+11,31/10/26,Levante,0-2,Atlético de Madrid
+11,31/10/26,Rayo Vallecano,3-0,Celta de Vigo
+11,31/10/26,Real Betis,2-1,Málaga CF
+11,31/10/26,Barcelona,6-1,Alavés
+11,01/11/26,Getafe CF,3-1,Sevilla FC
+11,01/11/26,Racing Santander,0-3,Real Madrid
+11,01/11/26,Elche CF,0-1,Valencia CF
+11,01/11/26,Athletic Bilbao,2-1,Real Sociedad
+11,02/11/26,Deportivo,2-1,Osasuna
+12,06/11/26,Sevilla FC,0-0,Alavés
+12,07/11/26,Málaga CF,1-2,Racing Santander
+12,07/11/26,Espanyol,0-0,Deportivo
+12,07/11/26,Osasuna,1-1,Athletic Bilbao
+12,07/11/26,Valencia CF,0-3,Real Madrid
 12,08/11/26,Elche CF,vs,Real Betis
 12,08/11/26,Real Sociedad,vs,Rayo Vallecano
 12,08/11/26,Celta de Vigo,vs,Levante
@@ -129,16 +129,18 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 13,22/11/26,Osasuna,vs,Málaga CF
 13,22/11/26,Getafe CF,vs,Atlético de Madrid
 13,23/11/26,Levante,vs,Elche CF
-14,29/11/26,Real Betis,vs,Rayo Vallecano
-14,29/11/26,Celta de Vigo,vs,Villarreal CF
-14,29/11/26,Deportivo,vs,Barcelona
-14,29/11/26,Elche CF,vs,Atlético de Madrid
-14,29/11/26,Espanyol,vs,Getafe CF
-14,29/11/26,Levante,vs,Racing Santander
-14,29/11/26,Málaga CF,vs,Athletic Bilbao
-14,29/11/26,Real Madrid,vs,Alavés
-14,29/11/26,Real Sociedad,vs,Sevilla FC
+14,27/11/26,Levante,vs,Racing Santander
+14,28/11/26,Real Betis,vs,Rayo Vallecano
+14,28/11/26,Málaga CF,vs,Athletic Bilbao
+14,28/11/26,Elche CF,vs,Atlético de Madrid
+14,28/11/26,Real Madrid,vs,Alavés
 14,29/11/26,Valencia CF,vs,Osasuna
+14,29/11/26,Deportivo,vs,Barcelona
+14,29/11/26,Celta de Vigo,vs,Villarreal CF
+14,29/11/26,Real Sociedad,vs,Sevilla FC
+14,30/11/26,Espanyol,vs,Getafe CF
+23,02/12/26,Real Sociedad,vs,Real Madrid
+23,02/12/26,Barcelona,vs,Atlético de Madrid
 15,06/12/26,Alavés,vs,Espanyol
 15,06/12/26,Athletic Bilbao,vs,Real Madrid
 15,06/12/26,Atlético de Madrid,vs,Real Betis
@@ -221,13 +223,11 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 22,31/01/27,Villarreal CF,vs,Racing Santander
 23,07/02/27,Alavés,vs,Celta de Vigo
 23,07/02/27,Athletic Bilbao,vs,Osasuna
-23,07/02/27,Barcelona,vs,Atlético de Madrid
 23,07/02/27,Real Betis,vs,Sevilla FC
 23,07/02/27,Deportivo,vs,Málaga CF
 23,07/02/27,Elche CF,vs,Levante
 23,07/02/27,Espanyol,vs,Rayo Vallecano
 23,07/02/27,Getafe CF,vs,Villarreal CF
-23,07/02/27,Real Sociedad,vs,Real Madrid
 23,07/02/27,Valencia CF,vs,Racing Santander
 24,14/02/27,Celta de Vigo,vs,Rayo Vallecano
 24,14/02/27,Elche CF,vs,Deportivo

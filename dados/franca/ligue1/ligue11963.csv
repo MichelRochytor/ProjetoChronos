@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,01/09/63,Saint-Étienne,1-1,US Valenciennes-Anzin
+1,01/09/63,Monaco,2-1,FC Rouen
+1,01/09/63,Lens,1-2,Lyon
+1,01/09/63,Nantes,2-2,Sedan-Torcy
+1,01/09/63,RC Strasbourg,3-1,Bordeaux
+1,01/09/63,Stade Rennais UC,2-2,Racing Club Paris
+1,01/09/63,Stade Français,2-2,Angers
+1,01/09/63,Stade de Reims,0-0,Nimes
+1,01/09/63,Nice,2-4,Toulouse FC
+2,07/09/63,Monaco,0-0,Nice
+2,07/09/63,Lyon,0-1,FC Rouen
+2,07/09/63,Toulouse FC,4-0,Saint-Étienne
+2,07/09/63,US Valenciennes-Anzin,0-0,Stade Rennais UC
+2,07/09/63,Bordeaux,4-2,Stade de Reims
+2,07/09/63,Sedan-Torcy,2-1,RC Strasbourg
+2,07/09/63,Nimes,3-0,Stade Français
+2,08/09/63,Angers,1-2,Lens
+2,08/09/63,Racing Club Paris,3-0,Nantes
+3,13/09/63,Saint-Étienne,4-1,Monaco
+3,13/09/63,Nantes,3-1,US Valenciennes-Anzin
+3,13/09/63,RC Strasbourg,2-1,Racing Club Paris
+3,13/09/63,FC Rouen,0-0,Angers
+3,13/09/63,Nice,1-2,Lyon
+3,14/09/63,Lens,4-2,Nimes
+3,14/09/63,Stade Rennais UC,4-2,Toulouse FC
+3,14/09/63,Sedan-Torcy,2-4,Bordeaux
+3,14/09/63,Stade Français,0-2,Stade de Reims
+4,21/09/63,Toulouse FC,1-0,Nantes
+4,21/09/63,US Valenciennes-Anzin,1-0,RC Strasbourg
+4,21/09/63,Nimes,0-2,FC Rouen
+4,21/09/63,Racing Club Paris,2-2,Sedan-Torcy
+4,21/09/63,Stade de Reims,1-0,Lens
+4,22/09/63,Monaco,3-2,Stade Rennais UC
+4,22/09/63,Lyon,4-5,Saint-Étienne
+4,22/09/63,Bordeaux,4-1,Stade Français
+4,22/09/63,Angers,0-3,Nice
+5,05/10/63,RC Strasbourg,1-1,Toulouse FC
+5,06/10/63,Saint-Étienne,2-2,Angers
+5,06/10/63,Lens,3-0,Stade Français
+5,06/10/63,Nantes,1-3,Monaco
+5,06/10/63,Stade Rennais UC,2-3,Lyon
+5,06/10/63,Sedan-Torcy,0-2,US Valenciennes-Anzin
+5,06/10/63,FC Rouen,3-4,Stade de Reims
+5,06/10/63,Racing Club Paris,3-1,Bordeaux
+5,06/10/63,Nice,3-2,Nimes
+6,12/10/63,Toulouse FC,2-0,Sedan-Torcy
+6,12/10/63,Nantes,3-1,Lyon
+6,13/10/63,Monaco,4-2,RC Strasbourg
+6,13/10/63,US Valenciennes-Anzin,1-3,Racing Club Paris
+6,13/10/63,Bordeaux,1-1,Lens
+6,13/10/63,Angers,1-1,Stade Rennais UC
+6,13/10/63,Nimes,0-2,Saint-Étienne
+6,13/10/63,Stade Français,5-2,FC Rouen
+7,19/10/63,Nantes,1-0,Angers
+7,19/10/63,FC Rouen,3-0,Lens
+7,20/10/63,Saint-Étienne,1-1,Stade de Reims
+7,20/10/63,US Valenciennes-Anzin,1-0,Bordeaux
+7,20/10/63,RC Strasbourg,5-0,Lyon
+7,20/10/63,Stade Rennais UC,3-1,Nimes
+7,20/10/63,Sedan-Torcy,4-0,Monaco
+7,20/10/63,Racing Club Paris,1-1,Toulouse FC
+7,20/10/63,Nice,3-1,Stade Français
+8,31/10/63,Monaco,5-3,Racing Club Paris
+8,31/10/63,Lens,2-1,Nice
+8,31/10/63,Lyon,2-0,Sedan-Torcy
+8,31/10/63,Toulouse FC,2-1,US Valenciennes-Anzin
+8,31/10/63,Stade de Reims,3-3,Stade Rennais UC
+8,01/11/63,Bordeaux,2-0,FC Rouen
+8,01/11/63,Angers,1-1,RC Strasbourg
+8,01/11/63,Nimes,3-0,Nantes
+8,01/11/63,Stade Français,1-3,Saint-Étienne
+9,03/11/63,Saint-Étienne,1-0,Lens
+9,03/11/63,Toulouse FC,0-1,Bordeaux
+9,03/11/63,US Valenciennes-Anzin,0-0,Monaco
+9,03/11/63,Nantes,0-0,Stade de Reims
+9,03/11/63,RC Strasbourg,3-0,Nimes
+9,03/11/63,Stade Rennais UC,4-3,Stade Français
+9,03/11/63,Sedan-Torcy,2-1,Angers
+9,03/11/63,Racing Club Paris,1-3,Lyon
+9,03/11/63,Nice,2-0,FC Rouen
+10,10/11/63,Bordeaux,6-2,Nice
+10,10/11/63,Angers,2-1,Racing Club Paris
+10,10/11/63,Stade de Reims,0-0,RC Strasbourg
+10,13/11/63,Lens,5-0,Stade Rennais UC
+10,13/11/63,Lyon,1-1,US Valenciennes-Anzin
+10,13/11/63,Nimes,4-2,Sedan-Torcy
+10,13/11/63,Stade Français,4-0,Nantes
+10,14/11/63,Monaco,5-0,Toulouse FC
+11,17/11/63,Saint-Étienne,2-2,Nice
+11,17/11/63,Toulouse FC,1-0,Lyon
+11,17/11/63,US Valenciennes-Anzin,1-3,Angers
+11,17/11/63,Nantes,2-1,Lens
+11,17/11/63,RC Strasbourg,1-1,Stade Français
+11,17/11/63,Stade Rennais UC,2-1,FC Rouen
+11,17/11/63,Sedan-Torcy,2-0,Stade de Reims
+11,17/11/63,Racing Club Paris,5-0,Nimes
+11,19/11/63,Monaco,2-0,Bordeaux
+12,24/11/63,Lens,2-1,RC Strasbourg
+12,24/11/63,Lyon,5-1,Monaco
+12,24/11/63,Bordeaux,2-3,Saint-Étienne
+12,24/11/63,Angers,4-3,Toulouse FC
+12,24/11/63,Nimes,2-0,US Valenciennes-Anzin
+12,24/11/63,FC Rouen,5-2,Nantes
+12,24/11/63,Stade Français,3-2,Sedan-Torcy
+12,24/11/63,Stade de Reims,1-4,Racing Club Paris
+12,24/11/63,Nice,0-2,Stade Rennais UC
+6,27/11/63,Stade de Reims,2-0,Nice
+13,01/12/63,Monaco,0-1,Angers
+13,01/12/63,Lyon,3-1,Bordeaux
+13,01/12/63,Toulouse FC,1-1,Nimes
+13,01/12/63,US Valenciennes-Anzin,2-1,Stade de Reims
+13,01/12/63,Nantes,3-0,Nice
+13,01/12/63,RC Strasbourg,1-0,FC Rouen
+13,01/12/63,Stade Rennais UC,1-1,Saint-Étienne
+13,01/12/63,Sedan-Torcy,2-3,Lens
+13,01/12/63,Racing Club Paris,3-2,Stade Français
+14,07/12/63,Bordeaux,3-1,Stade Rennais UC
+14,08/12/63,Saint-Étienne,6-1,Nantes
+14,08/12/63,Lens,10-2,Racing Club Paris
+14,08/12/63,Angers,1-1,Lyon
+14,08/12/63,Nimes,1-0,Monaco
+14,08/12/63,FC Rouen,2-2,Sedan-Torcy
+14,08/12/63,Stade Français,0-2,US Valenciennes-Anzin
+14,08/12/63,Stade de Reims,1-3,Toulouse FC
+14,08/12/63,Nice,1-1,RC Strasbourg
+15,14/12/63,Toulouse FC,0-2,Stade Français
+15,15/12/63,Monaco,1-0,Stade de Reims
+15,15/12/63,Lyon,2-1,Nimes
+15,15/12/63,US Valenciennes-Anzin,0-0,Lens
+15,15/12/63,Nantes,2-1,Stade Rennais UC
+15,15/12/63,RC Strasbourg,2-0,Saint-Étienne
+15,15/12/63,Angers,1-1,Bordeaux
+15,15/12/63,Sedan-Torcy,8-1,Nice
+15,15/12/63,Racing Club Paris,2-2,FC Rouen
+16,22/12/63,Lens,2-1,Toulouse FC
+16,22/12/63,Bordeaux,2-0,Nantes
+16,22/12/63,Stade Rennais UC,0-0,RC Strasbourg
+16,22/12/63,Nimes,2-0,Angers
+16,22/12/63,FC Rouen,0-4,US Valenciennes-Anzin
+16,22/12/63,Stade Français,1-0,Monaco
+16,22/12/63,Nice,1-1,Racing Club Paris
+17,29/12/63,Monaco,5-0,Lens
+17,29/12/63,Lyon,2-0,Stade Français
+17,29/12/63,Toulouse FC,2-2,FC Rouen
+17,29/12/63,US Valenciennes-Anzin,7-2,Nice
+17,29/12/63,RC Strasbourg,0-0,Nantes
+17,29/12/63,Angers,3-1,Stade de Reims
+17,29/12/63,Sedan-Torcy,5-0,Stade Rennais UC
+17,29/12/63,Nimes,0-0,Bordeaux
+17,29/12/63,Racing Club Paris,1-3,Saint-Étienne
+18,05/01/64,Saint-Étienne,2-1,Racing Club Paris
+18,05/01/64,Lens,0-0,Monaco
+18,05/01/64,Bordeaux,2-2,Nimes
+18,05/01/64,Nantes,2-1,RC Strasbourg
+18,05/01/64,Stade Rennais UC,1-0,Sedan-Torcy
+18,05/01/64,FC Rouen,2-1,Toulouse FC
+18,05/01/64,Stade Français,1-2,Lyon
+18,05/01/64,Stade de Reims,1-1,Angers
+18,05/01/64,Nice,1-3,US Valenciennes-Anzin
+19,19/01/64,Toulouse FC,2-1,Nice
+19,19/01/64,US Valenciennes-Anzin,1-2,Saint-Étienne
+19,19/01/64,Bordeaux,2-0,RC Strasbourg
+19,19/01/64,Angers,1-3,Stade Français
+19,19/01/64,Sedan-Torcy,2-0,Nantes
+19,19/01/64,Nimes,4-0,Stade de Reims
+19,19/01/64,FC Rouen,4-0,Monaco
+19,19/01/64,Racing Club Paris,0-2,Stade Rennais UC
+20,26/01/64,Saint-Étienne,7-1,Toulouse FC
+20,26/01/64,Lens,4-0,Angers
+20,26/01/64,Nantes,1-0,Racing Club Paris
+20,26/01/64,Stade Rennais UC,2-1,US Valenciennes-Anzin
+20,26/01/64,FC Rouen,2-2,Lyon
+20,26/01/64,Stade Français,0-0,Nimes
+20,26/01/64,Stade de Reims,1-0,Bordeaux
+20,26/01/64,Nice,0-2,Monaco
+19,30/01/64,Lyon,1-1,Lens
+21,02/02/64,Monaco,2-1,Saint-Étienne
+21,02/02/64,Lyon,0-0,Nice
+21,02/02/64,Toulouse FC,1-1,Stade Rennais UC
+21,02/02/64,US Valenciennes-Anzin,0-0,Nantes
+21,02/02/64,Bordeaux,3-2,Sedan-Torcy
+21,02/02/64,Angers,3-0,FC Rouen
+21,02/02/64,Nimes,1-1,Lens
+21,02/02/64,Racing Club Paris,3-0,RC Strasbourg
+21,02/02/64,Stade de Reims,0-3,Stade Français
+22,16/02/64,Saint-Étienne,2-1,Lyon
+22,16/02/64,Lens,2-1,Stade de Reims
+22,16/02/64,Nantes,2-2,Toulouse FC
+22,16/02/64,RC Strasbourg,1-0,US Valenciennes-Anzin
+22,16/02/64,Stade Rennais UC,2-1,Monaco
+22,16/02/64,Sedan-Torcy,1-0,Racing Club Paris
+22,16/02/64,FC Rouen,1-0,Nimes
+22,16/02/64,Stade Français,2-0,Bordeaux
+22,16/02/64,Nice,3-1,Angers
+23,23/02/64,Monaco,3-1,Nantes
+23,23/02/64,Lyon,4-1,Stade Rennais UC
+23,23/02/64,Toulouse FC,3-2,RC Strasbourg
+23,23/02/64,US Valenciennes-Anzin,2-0,Sedan-Torcy
+23,23/02/64,Bordeaux,2-2,Racing Club Paris
+23,23/02/64,Angers,3-1,Saint-Étienne
+23,23/02/64,Nimes,0-0,Nice
+23,23/02/64,Stade Français,1-0,Lens
+23,23/02/64,Stade de Reims,0-0,FC Rouen
+10,26/02/64,FC Rouen,0-0,Saint-Étienne
+24,08/03/64,Saint-Étienne,3-0,Nimes
+24,08/03/64,Lens,8-1,Bordeaux
+24,08/03/64,Lyon,1-1,Nantes
+24,08/03/64,RC Strasbourg,1-1,Monaco
+24,08/03/64,Stade Rennais UC,2-4,Angers
+24,08/03/64,Sedan-Torcy,1-1,Toulouse FC
+24,08/03/64,FC Rouen,2-0,Stade Français
+24,08/03/64,Racing Club Paris,1-3,US Valenciennes-Anzin
+25,13/03/64,Lyon,1-1,RC Strasbourg
+25,14/03/64,Bordeaux,0-3,US Valenciennes-Anzin
+25,14/03/64,Stade de Reims,3-1,Saint-Étienne
+25,15/03/64,Monaco,3-1,Sedan-Torcy
+25,15/03/64,Lens,0-2,FC Rouen
+25,15/03/64,Toulouse FC,2-2,Racing Club Paris
+25,15/03/64,Angers,3-3,Nantes
+25,15/03/64,Nimes,3-1,Stade Rennais UC
+25,15/03/64,Stade Français,2-2,Nice
+16,18/03/64,Saint-Étienne,2-1,Sedan-Torcy
+16,25/03/64,Stade de Reims,2-2,Lyon
+26,26/03/64,Racing Club Paris,1-5,Monaco
+26,27/03/64,US Valenciennes-Anzin,2-3,Toulouse FC
+26,27/03/64,RC Strasbourg,2-1,Angers
+26,28/03/64,Saint-Étienne,0-1,Stade Français
+26,28/03/64,Nantes,2-1,Nimes
+26,28/03/64,Stade Rennais UC,2-0,Stade de Reims
+26,29/03/64,Sedan-Torcy,2-0,Lyon
+26,29/03/64,FC Rouen,0-0,Bordeaux
+26,29/03/64,Nice,3-2,Lens
+27,01/04/64,Lens,2-0,Nantes
+27,01/04/64,Lyon,1-2,Toulouse FC
+27,01/04/64,Bordeaux,0-0,Monaco
+27,01/04/64,Angers,3-2,US Valenciennes-Anzin
+27,01/04/64,FC Rouen,3-1,Stade Rennais UC
+27,01/04/64,Stade Français,1-0,RC Strasbourg
+27,01/04/64,Stade de Reims,1-0,Sedan-Torcy
+27,01/04/64,Nice,1-1,Saint-Étienne
+28,04/04/64,Bordeaux,2-1,Toulouse FC
+28,04/04/64,Stade de Reims,1-1,Nantes
+28,05/04/64,Monaco,3-0,US Valenciennes-Anzin
+28,05/04/64,Lens,4-2,Saint-Étienne
+28,05/04/64,Angers,1-0,Sedan-Torcy
+28,05/04/64,Nimes,1-1,RC Strasbourg
+28,05/04/64,FC Rouen,3-0,Nice
+28,05/04/64,Stade Français,4-2,Stade Rennais UC
+29,11/04/64,Nantes,3-1,Stade Français
+29,11/04/64,Sedan-Torcy,3-1,Nimes
+29,12/04/64,Saint-Étienne,1-0,FC Rouen
+29,12/04/64,Toulouse FC,1-1,Monaco
+29,12/04/64,US Valenciennes-Anzin,0-1,Lyon
+29,12/04/64,RC Strasbourg,1-2,Stade de Reims
+29,12/04/64,Stade Rennais UC,0-0,Lens
+29,12/04/64,Racing Club Paris,3-4,Angers
+29,12/04/64,Nice,2-0,Bordeaux
+20,15/04/64,RC Strasbourg,2-0,Sedan-Torcy
+27,18/04/64,Nimes,3-1,Racing Club Paris
+24,19/04/64,Nice,1-1,Stade de Reims
+30,29/04/64,Saint-Étienne,4-0,Bordeaux
+30,29/04/64,Monaco,0-1,Lyon
+30,29/04/64,Nantes,7-1,FC Rouen
+30,29/04/64,Racing Club Paris,2-1,Stade de Reims
+30,30/04/64,Toulouse FC,4-0,Angers
+30,30/04/64,US Valenciennes-Anzin,1-0,Nimes
+30,30/04/64,RC Strasbourg,1-2,Lens
+30,30/04/64,Sedan-Torcy,2-0,Stade Français
+30,01/05/64,Stade Rennais UC,3-1,Nice
+31,03/05/64,Saint-Étienne,3-0,Stade Rennais UC
+31,03/05/64,Lens,3-1,Sedan-Torcy
+31,03/05/64,Angers,4-4,Monaco
+31,03/05/64,Nimes,1-0,Toulouse FC
+31,03/05/64,FC Rouen,3-0,RC Strasbourg
+31,03/05/64,Stade Français,2-3,Racing Club Paris
+31,03/05/64,Stade de Reims,1-4,US Valenciennes-Anzin
+31,03/05/64,Nice,1-2,Nantes
+28,13/05/64,Lyon,5-1,Racing Club Paris
+32,17/05/64,Monaco,2-0,Nimes
+32,17/05/64,Lyon,2-2,Angers
+32,17/05/64,Toulouse FC,2-2,Stade de Reims
+32,17/05/64,US Valenciennes-Anzin,0-0,Stade Français
+32,17/05/64,Nantes,1-3,Saint-Étienne
+32,17/05/64,RC Strasbourg,2-1,Nice
+32,17/05/64,Stade Rennais UC,2-2,Bordeaux
+32,17/05/64,Sedan-Torcy,2-1,FC Rouen
+32,17/05/64,Racing Club Paris,3-2,Lens
+31,26/05/64,Bordeaux,4-0,Lyon
+33,30/05/64,US Valenciennes-Anzin,2-1,FC Rouen
+33,31/05/64,Monaco,0-1,Stade Français
+33,31/05/64,Lyon,3-1,Stade de Reims
+33,31/05/64,Toulouse FC,4-2,Lens
+33,31/05/64,Nantes,4-1,Bordeaux
+33,31/05/64,RC Strasbourg,2-1,Stade Rennais UC
+33,31/05/64,Angers,0-1,Nimes
+33,31/05/64,Sedan-Torcy,3-0,Saint-Étienne
+33,31/05/64,Racing Club Paris,3-2,Nice
+34,06/06/64,Stade de Reims,2-3,Monaco
+34,07/06/64,Saint-Étienne,2-2,RC Strasbourg
+34,07/06/64,Lens,2-0,US Valenciennes-Anzin

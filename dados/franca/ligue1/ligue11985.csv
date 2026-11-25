@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,16/07/85,Toulouse,4-1,Nancy
+1,16/07/85,Bastia,2-4,PSG
+1,16/07/85,Lille,3-1,Brest
+1,16/07/85,Metz,2-3,Lens
+1,16/07/85,Le Havre,1-0,Marseille
+1,16/07/85,Bordeaux,1-0,Nice
+1,16/07/85,RC Strasbourg,1-1,Rennes
+1,16/07/85,Monaco,1-1,Sochaux
+1,16/07/85,SC Toulon-Var,0-0,Nantes
+1,16/07/85,Stade Lavallois,0-0,Auxerre
+2,19/07/85,Lens,6-0,Bastia
+2,19/07/85,PSG,3-0,Lille
+2,19/07/85,Brest,0-1,Bordeaux
+2,19/07/85,Sochaux,4-1,Toulouse
+2,19/07/85,Auxerre,2-0,Marseille
+2,19/07/85,SC Toulon-Var,1-0,RC Strasbourg
+2,19/07/85,Nancy,3-0,Le Havre
+2,19/07/85,Nantes,1-1,Monaco
+2,19/07/85,Rennes,0-0,Metz
+2,19/07/85,Nice,0-0,Stade Lavallois
+3,26/07/85,Toulouse,1-3,PSG
+3,26/07/85,Bordeaux,2-1,Lens
+3,26/07/85,Monaco,0-2,SC Toulon-Var
+3,26/07/85,Le Havre,3-3,Auxerre
+3,26/07/85,Bastia,0-2,Rennes
+3,26/07/85,Lille,3-1,Nancy
+3,26/07/85,RC Strasbourg,1-2,Nantes
+3,26/07/85,Metz,2-0,Sochaux
+3,26/07/85,Stade Lavallois,0-0,Brest
+3,26/07/85,Marseille,2-1,Nice
+4,30/07/85,PSG,1-0,Bordeaux
+4,30/07/85,SC Toulon-Var,2-1,Metz
+4,30/07/85,Lens,2-0,Toulouse
+4,30/07/85,Nantes,2-0,Bastia
+4,30/07/85,Nice,1-1,Auxerre
+4,30/07/85,Sochaux,1-1,Le Havre
+4,30/07/85,Rennes,0-1,Monaco
+4,30/07/85,RC Strasbourg,2-1,Lille
+4,30/07/85,Nancy,1-0,Stade Lavallois
+4,30/07/85,Brest,2-1,Marseille
+5,02/08/85,Stade Lavallois,2-2,PSG
+5,02/08/85,Bordeaux,1-0,Nancy
+5,02/08/85,Marseille,3-3,Lens
+5,02/08/85,Bastia,2-1,SC Toulon-Var
+5,02/08/85,Metz,0-0,Nantes
+5,02/08/85,Lille,2-1,Sochaux
+5,02/08/85,Monaco,2-0,RC Strasbourg
+5,02/08/85,Auxerre,1-2,Brest
+5,02/08/85,Toulouse,4-1,Rennes
+5,02/08/85,Le Havre,1-2,Nice
+6,06/08/85,Sochaux,2-0,Bastia
+6,09/08/85,PSG,2-0,Marseille
+6,09/08/85,Lens,3-1,Stade Lavallois
+6,09/08/85,Nantes,1-0,Toulouse
+6,09/08/85,SC Toulon-Var,1-1,Bordeaux
+6,09/08/85,Monaco,0-0,Metz
+6,09/08/85,RC Strasbourg,2-1,Le Havre
+6,09/08/85,Rennes,2-0,Lille
+6,09/08/85,Nancy,1-0,Auxerre
+6,09/08/85,Brest,1-1,Nice
+7,15/08/85,Metz,0-0,RC Strasbourg
+7,16/08/85,Auxerre,0-1,PSG
+7,16/08/85,Lille,0-1,Nantes
+7,16/08/85,Bordeaux,3-2,Rennes
+7,16/08/85,Nice,1-1,Lens
+7,16/08/85,Bastia,0-0,Monaco
+7,16/08/85,Marseille,2-3,Nancy
+7,16/08/85,Toulouse,4-0,SC Toulon-Var
+7,16/08/85,Stade Lavallois,3-1,Sochaux
+7,16/08/85,Le Havre,2-0,Brest
+8,23/08/85,Nancy,3-0,Nice
+8,24/08/85,PSG,2-0,Brest
+8,24/08/85,Nantes,1-0,Stade Lavallois
+8,24/08/85,Lens,4-1,Le Havre
+8,24/08/85,RC Strasbourg,3-2,Bordeaux
+8,24/08/85,Monaco,3-0,Toulouse
+8,24/08/85,SC Toulon-Var,1-1,Lille
+8,24/08/85,Metz,3-0,Bastia
+8,24/08/85,Rennes,4-1,Auxerre
+8,24/08/85,Sochaux,1-1,Marseille
+9,27/08/85,Stade Lavallois,2-0,SC Toulon-Var
+9,30/08/85,Nice,0-0,PSG
+9,30/08/85,Bordeaux,5-1,Monaco
+9,30/08/85,Marseille,1-0,Nantes
+9,30/08/85,Lille,1-0,Lens
+9,30/08/85,Brest,0-2,Nancy
+9,30/08/85,Toulouse,2-0,Metz
+9,30/08/85,Le Havre,1-0,Rennes
+9,30/08/85,Bastia,2-0,RC Strasbourg
+9,30/08/85,Auxerre,3-2,Sochaux
+10,03/09/85,PSG,2-0,Nancy
+10,03/09/85,Nantes,2-1,Le Havre
+10,03/09/85,Lens,1-0,Brest
+10,03/09/85,Sochaux,2-1,Bordeaux
+10,03/09/85,Metz,4-0,Lille
+10,03/09/85,RC Strasbourg,0-3,Toulouse
+10,03/09/85,Rennes,1-0,Stade Lavallois
+10,03/09/85,Monaco,0-1,Nice
+10,03/09/85,SC Toulon-Var,0-0,Marseille
+10,03/09/85,Bastia,0-0,Auxerre
+11,13/09/85,Stade Lavallois,1-1,Metz
+11,13/09/85,Auxerre,2-0,RC Strasbourg
+11,13/09/85,Brest,2-1,SC Toulon-Var
+11,13/09/85,Marseille,1-2,Rennes
+11,13/09/85,Nancy,2-1,Lens
+11,14/09/85,Le Havre,1-2,PSG
+11,14/09/85,Bordeaux,2-1,Nantes
+11,14/09/85,Toulouse,3-1,Bastia
+11,14/09/85,Lille,2-2,Monaco
+11,14/09/85,Nice,2-0,Sochaux
+12,20/09/85,Lens,2-3,PSG
+12,20/09/85,Sochaux,1-1,Nancy
+12,20/09/85,Toulouse,1-0,Le Havre
+12,20/09/85,Rennes,0-4,Brest
+12,20/09/85,Bastia,2-0,Lille
+12,20/09/85,RC Strasbourg,0-0,Marseille
+12,21/09/85,Metz,2-3,Bordeaux
+12,21/09/85,Nantes,1-1,Nice
+12,21/09/85,SC Toulon-Var,0-1,Auxerre
+12,21/09/85,Monaco,1-1,Stade Lavallois
+13,27/09/85,PSG,4-1,Sochaux
+13,27/09/85,Bordeaux,2-2,Bastia
+13,27/09/85,Brest,1-3,Nantes
+13,27/09/85,Nancy,5-3,SC Toulon-Var
+13,27/09/85,Auxerre,0-0,Lens
+13,27/09/85,Lille,2-0,Toulouse
+13,27/09/85,Nice,2-1,Rennes
+13,27/09/85,Marseille,2-2,Monaco
+13,27/09/85,Le Havre,0-0,Metz
+13,27/09/85,Stade Lavallois,4-1,RC Strasbourg
+14,04/10/85,Rennes,2-3,PSG
+14,04/10/85,Sochaux,1-3,Lens
+14,04/10/85,Lille,1-3,Stade Lavallois
+14,04/10/85,SC Toulon-Var,4-0,Nice
+14,04/10/85,RC Strasbourg,0-1,Brest
+14,04/10/85,Bastia,2-1,Le Havre
+14,05/10/85,Toulouse,1-2,Bordeaux
+14,05/10/85,Nantes,2-0,Nancy
+14,05/10/85,Monaco,1-0,Auxerre
+14,05/10/85,Metz,3-0,Marseille
+15,11/10/85,PSG,2-1,Nantes
+15,11/10/85,Bordeaux,1-1,Lille
+15,11/10/85,Lens,1-1,SC Toulon-Var
+15,11/10/85,Nancy,0-0,Rennes
+15,11/10/85,Nice,5-1,RC Strasbourg
+15,11/10/85,Le Havre,1-1,Monaco
+15,11/10/85,Auxerre,2-1,Metz
+15,11/10/85,Brest,3-1,Sochaux
+15,11/10/85,Marseille,0-0,Bastia
+15,12/10/85,Stade Lavallois,3-2,Toulouse
+16,18/10/85,SC Toulon-Var,1-1,PSG
+16,18/10/85,Nantes,4-0,Lens
+16,18/10/85,Bordeaux,0-0,Auxerre
+16,18/10/85,RC Strasbourg,1-0,Nancy
+16,18/10/85,Monaco,3-1,Brest
+16,18/10/85,Bastia,0-0,Stade Lavallois
+16,18/10/85,Metz,3-0,Nice
+16,18/10/85,Toulouse,1-0,Marseille
+16,18/10/85,Rennes,0-0,Sochaux
+16,18/10/85,Lille,0-0,Le Havre
+17,25/10/85,PSG,1-1,RC Strasbourg
+17,25/10/85,Lens,0-0,Rennes
+17,25/10/85,Nancy,1-1,Monaco
+17,25/10/85,Auxerre,2-1,Toulouse
+17,25/10/85,Nice,1-0,Bastia
+17,25/10/85,Brest,1-1,Metz
+17,25/10/85,Le Havre,4-3,SC Toulon-Var
+17,25/10/85,Marseille,1-0,Lille
+17,25/10/85,Sochaux,1-1,Nantes
+17,25/10/85,Stade Lavallois,0-0,Bordeaux
+18,02/11/85,Monaco,1-1,PSG
+18,02/11/85,Nantes,1-0,Rennes
+18,02/11/85,Bordeaux,2-1,Marseille
+18,02/11/85,RC Strasbourg,0-0,Lens
+18,02/11/85,Lille,0-1,Auxerre
+18,02/11/85,Metz,3-1,Nancy
+18,02/11/85,Stade Lavallois,2-2,Le Havre
+18,02/11/85,Toulouse,0-0,Nice
+18,02/11/85,SC Toulon-Var,2-2,Sochaux
+18,02/11/85,Bastia,3-2,Brest
+19,08/11/85,PSG,2-1,Metz
+19,08/11/85,Le Havre,0-1,Bordeaux
+19,08/11/85,Lens,1-1,Monaco
+19,08/11/85,Nancy,4-1,Bastia
+19,08/11/85,Nice,0-0,Lille
+19,08/11/85,Marseille,4-0,Stade Lavallois
+19,08/11/85,Brest,2-2,Toulouse
+19,08/11/85,Rennes,1-0,SC Toulon-Var
+19,08/11/85,Sochaux,3-1,RC Strasbourg
+19,09/11/85,Auxerre,0-0,Nantes
+20,19/11/85,Bordeaux,4-0,Brest
+20,19/11/85,Bastia,0-1,Lens
+20,19/11/85,Metz,4-1,Rennes
+20,19/11/85,Le Havre,2-0,Nancy
+20,19/11/85,Stade Lavallois,2-1,Nice
+20,19/11/85,Marseille,2-1,Auxerre
+20,19/11/85,Toulouse,3-0,Sochaux
+20,19/11/85,RC Strasbourg,1-1,SC Toulon-Var
+20,20/11/85,Monaco,1-1,Nantes
+21,22/11/85,PSG,3-0,Toulouse
+21,22/11/85,Lens,1-0,Bordeaux
+21,22/11/85,Sochaux,1-2,Metz
+21,22/11/85,Nancy,3-0,Lille
+21,22/11/85,Auxerre,3-0,Le Havre
+21,22/11/85,Nice,1-0,Marseille
+21,22/11/85,Brest,2-1,Stade Lavallois
+21,22/11/85,Rennes,3-1,Bastia
+21,23/11/85,Nantes,2-0,RC Strasbourg
+21,23/11/85,SC Toulon-Var,1-1,Monaco
+22,29/11/85,Bordeaux,0-0,PSG
+22,29/11/85,Toulouse,1-1,Lens
+22,29/11/85,Monaco,1-0,Rennes
+22,29/11/85,Stade Lavallois,2-0,Nancy
+22,29/11/85,Marseille,3-0,Brest
+22,29/11/85,Le Havre,1-0,Sochaux
+22,29/11/85,Lille,2-0,RC Strasbourg
+22,30/11/85,Bastia,2-3,Nantes
+22,30/11/85,Auxerre,1-2,Nice
+22,30/11/85,Metz,0-2,SC Toulon-Var
+23,06/12/85,Nantes,1-0,Metz
+23,07/12/85,PSG,5-1,Stade Lavallois
+23,07/12/85,Nancy,1-1,Bordeaux
+23,07/12/85,Lens,2-1,Marseille
+23,07/12/85,Brest,1-3,Auxerre
+23,07/12/85,Nice,0-3,Le Havre
+23,07/12/85,Rennes,2-1,Toulouse
+23,07/12/85,SC Toulon-Var,1-1,Bastia
+23,08/12/85,RC Strasbourg,1-1,Monaco
+23,08/12/85,Sochaux,3-1,Lille
+24,14/12/85,Bordeaux,2-1,SC Toulon-Var
+24,14/12/85,Toulouse,4-2,Nantes
+24,14/12/85,Stade Lavallois,2-1,Lens
+24,14/12/85,Auxerre,3-0,Nancy
+24,14/12/85,Nice,2-2,Brest
+24,14/12/85,Le Havre,4-1,RC Strasbourg
+24,14/12/85,Lille,2-0,Rennes
+24,14/12/85,Bastia,0-0,Sochaux
+24,15/12/85,Marseille,0-0,PSG
+24,15/12/85,Metz,3-2,Monaco
+25,21/12/85,PSG,4-0,Auxerre
+25,21/12/85,Nantes,5-1,Lille
+25,21/12/85,Rennes,0-0,Bordeaux
+25,21/12/85,Lens,2-0,Nice
+25,21/12/85,Monaco,2-1,Bastia
+25,21/12/85,SC Toulon-Var,1-1,Toulouse
+25,21/12/85,Brest,1-1,Le Havre
+25,22/12/85,RC Strasbourg,0-0,Metz
+25,22/12/85,Sochaux,1-0,Stade Lavallois
+25,22/12/85,Nancy,0-2,Marseille
+26,11/01/86,Brest,1-1,PSG
+26,11/01/86,Stade Lavallois,0-0,Nantes
+26,11/01/86,Bordeaux,1-0,RC Strasbourg
+26,11/01/86,Le Havre,3-0,Lens
+26,11/01/86,Auxerre,1-0,Rennes
+26,11/01/86,Toulouse,2-1,Monaco
+26,11/01/86,Bastia,0-0,Metz
+26,11/01/86,Nice,3-1,Nancy
+26,11/01/86,Lille,1-0,SC Toulon-Var
+26,12/01/86,Marseille,1-2,Sochaux
+27,18/01/86,PSG,3-2,Nice
+27,18/01/86,Nantes,0-2,Marseille
+27,18/01/86,Monaco,9-0,Bordeaux
+27,18/01/86,Lens,1-4,Lille
+27,18/01/86,SC Toulon-Var,3-0,Stade Lavallois
+27,18/01/86,Rennes,2-1,Le Havre
+27,19/01/86,Sochaux,2-0,Auxerre
+27,19/01/86,Metz,1-1,Toulouse
+27,19/01/86,Nancy,2-0,Brest
+27,19/01/86,RC Strasbourg,6-1,Bastia
+20,22/01/86,Lille,2-0,PSG
+28,31/01/86,Le Havre,0-1,Nantes
+28,01/02/86,Bordeaux,1-1,Sochaux
+28,01/02/86,Auxerre,2-0,Bastia
+28,01/02/86,Nice,1-0,Monaco
+28,01/02/86,Brest,2-0,Lens
+28,01/02/86,Toulouse,3-0,RC Strasbourg
+28,01/02/86,Lille,1-0,Metz
+28,01/02/86,Stade Lavallois,1-0,Rennes
+28,02/02/86,Nancy,1-0,PSG
+28,02/02/86,Marseille,2-3,SC Toulon-Var
+29,08/02/86,PSG,1-0,Le Havre
+29,08/02/86,Nantes,0-0,Bordeaux
+29,08/02/86,Monaco,3-2,Lille
+29,08/02/86,Lens,1-0,Nancy
+29,08/02/86,Bastia,0-2,Toulouse
+29,08/02/86,Rennes,1-2,Marseille
+29,08/02/86,SC Toulon-Var,2-3,Brest
+29,09/02/86,RC Strasbourg,1-3,Auxerre
+29,09/02/86,Metz,2-1,Stade Lavallois
+29,09/02/86,Sochaux,2-0,Nice
+30,22/02/86,PSG,2-2,Lens
+30,22/02/86,Nice,0-0,Nantes
+30,22/02/86,Bordeaux,3-1,Metz
+30,22/02/86,Auxerre,0-0,SC Toulon-Var
+30,22/02/86,Stade Lavallois,0-0,Monaco
+30,22/02/86,Le Havre,1-0,Toulouse
+30,22/02/86,Lille,2-2,Bastia
+30,23/02/86,Nancy,3-0,Sochaux
+30,23/02/86,Marseille,0-1,RC Strasbourg
+31,01/03/86,SC Toulon-Var,1-0,Nancy
+31,01/03/86,Rennes,2-0,Nice
+31,01/03/86,Monaco,0-0,Marseille
+31,01/03/86,Toulouse,1-0,Lille
+32,07/03/86,Nice,2-1,SC Toulon-Var
+32,07/03/86,Le Havre,5-2,Bastia
+32,07/03/86,Brest,2-1,RC Strasbourg
+32,08/03/86,PSG,1-0,Rennes
+32,08/03/86,Nancy,1-3,Nantes
+32,08/03/86,Bordeaux,1-1,Toulouse
+32,08/03/86,Auxerre,1-0,Monaco
+32,08/03/86,Lens,3-1,Sochaux
+32,08/03/86,Marseille,0-0,Metz
+32,08/03/86,Stade Lavallois,2-2,Lille
+30,11/03/86,Brest,2-1,Rennes
+31,11/03/86,Bastia,0-2,Bordeaux
+33,14/03/86,Nantes,2-0,PSG
+33,14/03/86,Lille,1-0,Bordeaux
+33,14/03/86,SC Toulon-Var,0-0,Lens
+33,14/03/86,Monaco,2-2,Le Havre
+33,14/03/86,RC Strasbourg,2-0,Nice
+33,14/03/86,Bastia,0-3,Marseille
+33,15/03/86,Toulouse,2-0,Stade Lavallois
+33,15/03/86,Metz,2-0,Auxerre
+33,15/03/86,Rennes,1-0,Nancy
+33,15/03/86,Sochaux,4-2,Brest
+34,21/03/86,Brest,2-1,Monaco
+34,21/03/86,Nice,2-0,Metz
+34,21/03/86,Le Havre,0-0,Lille
+34,21/03/86,Nancy,1-1,RC Strasbourg
+34,22/03/86,PSG,1-0,SC Toulon-Var
+34,22/03/86,Lens,0-0,Nantes
+34,22/03/86,Auxerre,2-2,Bordeaux
+34,22/03/86,Marseille,1-1,Toulouse
+34,22/03/86,Stade Lavallois,1-0,Bastia
+34,22/03/86,Sochaux,0-0,Rennes
+31,28/03/86,Metz,3-0,Le Havre
+35,04/04/86,RC Strasbourg,1-0,PSG
+35,04/04/86,Nantes,3-2,Sochaux
+35,04/04/86,Bordeaux,2-1,Stade Lavallois
+35,04/04/86,Toulouse,2-0,Auxerre
+35,04/04/86,Metz,3-1,Brest
+35,04/04/86,Rennes,2-0,Lens
+35,04/04/86,Monaco,1-1,Nancy
+35,04/04/86,Bastia,0-1,Nice
+35,04/04/86,Lille,0-0,Marseille
+35,04/04/86,SC Toulon-Var,1-0,Le Havre
+31,08/04/86,Sochaux,1-1,PSG
+31,08/04/86,Lens,2-1,Auxerre
+31,08/04/86,RC Strasbourg,2-1,Stade Lavallois
+31,08/04/86,Nantes,3-1,Brest
+36,11/04/86,PSG,1-0,Monaco
+36,11/04/86,Rennes,0-0,Nantes
+36,11/04/86,Marseille,4-0,Bordeaux
+36,11/04/86,Lens,0-0,RC Strasbourg
+36,11/04/86,Nancy,0-2,Metz
+36,11/04/86,Nice,3-1,Toulouse
+36,11/04/86,Auxerre,2-0,Lille
+36,11/04/86,Brest,7-0,Bastia
+36,11/04/86,Le Havre,1-1,Stade Lavallois
+36,12/04/86,Sochaux,1-0,SC Toulon-Var
+37,18/04/86,Metz,3-1,PSG
+37,18/04/86,Nantes,2-1,Auxerre
+37,18/04/86,Bordeaux,5-3,Le Havre
+37,18/04/86,Monaco,1-2,Lens
+37,18/04/86,Toulouse,2-0,Brest
+37,18/04/86,Lille,1-0,Nice
+37,18/04/86,Stade Lavallois,1-0,Marseille
+37,18/04/86,Bastia,2-2,Nancy
+37,18/04/86,SC Toulon-Var,1-1,Rennes
+37,18/04/86,RC Strasbourg,3-0,Sochaux
+38,25/04/86,PSG,3-1,Bastia
+38,25/04/86,Nantes,1-1,SC Toulon-Var
+38,25/04/86,Nice,1-1,Bordeaux
+38,25/04/86,Nancy,0-1,Toulouse
+38,25/04/86,Lens,0-0,Metz
+38,25/04/86,Auxerre,2-0,Stade Lavallois
+38,25/04/86,Sochaux,1-1,Monaco
+38,25/04/86,Brest,1-1,Lille
+38,25/04/86,Marseille,1-1,Le Havre
+38,25/04/86,Rennes,1-1,RC Strasbourg

@@ -23,7 +23,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 try:
-    from curl_cffi import requests as curl_requests
+    from curl_cffi import requests as curl_requests # type: ignore
 except ImportError:
     curl_requests = None
 
@@ -686,6 +686,22 @@ class RaspadorGol:
                 nome_campeonato=nome, usar_tor=usar_tor
             )
             if jogos:
+                linhas_antigas = 0
+                if os.path.exists(caminho_csv):
+                    try:
+                        with open(caminho_csv, mode='r', encoding='utf-8', errors='ignore') as f_old:
+                            linhas_antigas = max(0, sum(1 for _ in f_old) - 1)
+                    except Exception:
+                        linhas_antigas = 0
+
+                if linhas_antigas >= 20 and len(jogos) < int(linhas_antigas * 0.7):
+                    if callback_log:
+                        callback_log(
+                            f"⚠️ [Worker {worker_id}] {nome}: Extração parcial ({len(jogos)} vs {linhas_antigas} jogos existentes). "
+                            f"Preservando CSV atual completo!"
+                        )
+                    return False
+
                 with open(caminho_csv, mode='w', newline='', encoding='utf-8') as f:
                     escritor = csv.writer(f)
                     escritor.writerow(['Rodada', 'Data', 'Time da Casa', 'Placar', 'Time Visitante'])
@@ -694,7 +710,8 @@ class RaspadorGol:
                     callback_log(f"💾 [Worker {worker_id}] {nome}: {len(jogos)} jogos salvos em {nome_arquivo}!")
             else:
                 if callback_log:
-                    callback_log(f"ℹ️ [Worker {worker_id}] {nome}: Nenhum jogo encontrado nesta edição.")
+                    callback_log(f"ℹ️ [Worker {worker_id}] {nome}: Nenhum jogo retornado nesta tentativa.")
+                return False
 
         elif modo == 'ano_especifico':
             ano_esp = int(ano_filtro or 2026)

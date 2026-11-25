@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,17/08/84,PSG,2-4,Nancy
+1,17/08/84,Marseille,3-1,Sochaux
+1,17/08/84,Nantes,3-1,SC Toulon-Var
+1,17/08/84,Auxerre,2-0,RC Strasbourg
+1,17/08/84,Metz,2-0,Racing Club Paris
+1,17/08/84,Bordeaux,2-1,Toulouse
+1,17/08/84,Lens,1-0,FC Rouen
+1,17/08/84,Bastia,1-0,Monaco
+1,17/08/84,Tours,1-1,Stade Lavallois
+1,17/08/84,Brest,0-0,Lille
+2,21/08/84,Nantes,3-0,Marseille
+2,21/08/84,Nancy,0-1,Bordeaux
+2,21/08/84,Lille,3-1,PSG
+2,21/08/84,Stade Lavallois,2-1,Auxerre
+2,21/08/84,Monaco,4-0,Tours
+2,21/08/84,Toulouse,3-0,Bastia
+2,21/08/84,RC Strasbourg,4-1,Metz
+2,21/08/84,Racing Club Paris,2-1,Lens
+2,21/08/84,SC Toulon-Var,2-1,Brest
+2,21/08/84,FC Rouen,1-1,Sochaux
+3,24/08/84,Bordeaux,2-0,Lille
+3,24/08/84,Metz,0-2,Stade Lavallois
+3,24/08/84,Brest,4-2,Nantes
+3,24/08/84,Auxerre,2-0,Monaco
+3,24/08/84,Marseille,3-2,FC Rouen
+3,24/08/84,Sochaux,6-1,Racing Club Paris
+3,24/08/84,Tours,2-2,Toulouse
+3,24/08/84,Bastia,1-1,Nancy
+3,24/08/84,Lens,0-0,RC Strasbourg
+3,24/08/84,PSG,0-0,SC Toulon-Var
+4,28/08/84,SC Toulon-Var,1-2,Bordeaux
+4,28/08/84,Nantes,2-0,PSG
+4,28/08/84,Toulouse,1-3,Auxerre
+4,28/08/84,Brest,3-0,Marseille
+4,28/08/84,RC Strasbourg,4-2,Sochaux
+4,28/08/84,Nancy,1-0,Tours
+4,28/08/84,Stade Lavallois,1-3,Lens
+4,28/08/84,Lille,1-2,Bastia
+4,28/08/84,Monaco,7-0,Metz
+4,28/08/84,Racing Club Paris,1-0,FC Rouen
+5,31/08/84,Bordeaux,2-1,Nantes
+5,31/08/84,Auxerre,1-0,Nancy
+5,31/08/84,Bastia,3-2,SC Toulon-Var
+5,31/08/84,PSG,1-1,Brest
+5,31/08/84,Lens,2-2,Monaco
+5,31/08/84,Marseille,0-2,Racing Club Paris
+5,31/08/84,Sochaux,2-0,Stade Lavallois
+5,31/08/84,FC Rouen,1-0,RC Strasbourg
+5,31/08/84,Tours,2-0,Lille
+5,31/08/84,Metz,2-1,Toulouse
+6,07/09/84,RC Strasbourg,3-0,Racing Club Paris
+6,07/09/84,Nancy,2-1,Metz
+6,07/09/84,SC Toulon-Var,2-0,Tours
+6,08/09/84,Brest,0-0,Bordeaux
+6,08/09/84,Lille,1-1,Auxerre
+6,08/09/84,Nantes,3-0,Bastia
+6,08/09/84,Monaco,2-0,Sochaux
+6,08/09/84,Stade Lavallois,2-0,FC Rouen
+6,08/09/84,PSG,2-1,Marseille
+6,11/09/84,Toulouse,1-0,Lens
+7,11/09/84,Bordeaux,3-1,PSG
+7,11/09/84,Auxerre,1-1,SC Toulon-Var
+7,11/09/84,Bastia,2-0,Brest
+7,11/09/84,Racing Club Paris,2-0,Stade Lavallois
+7,11/09/84,FC Rouen,2-1,Monaco
+7,11/09/84,Marseille,2-1,RC Strasbourg
+7,11/09/84,Metz,2-0,Lille
+7,14/09/84,Tours,0-1,Nantes
+7,14/09/84,Lens,3-0,Nancy
+7,14/09/84,Sochaux,0-1,Toulouse
+8,21/09/84,Stade Lavallois,2-1,RC Strasbourg
+8,21/09/84,Brest,3-3,Tours
+8,21/09/84,Lille,2-0,Lens
+8,21/09/84,Toulouse,1-1,FC Rouen
+8,21/09/84,Nancy,2-2,Sochaux
+8,22/09/84,Bordeaux,4-1,Marseille
+8,22/09/84,Nantes,2-1,Auxerre
+8,22/09/84,Monaco,3-0,Racing Club Paris
+8,22/09/84,PSG,7-1,Bastia
+8,22/09/84,SC Toulon-Var,0-2,Metz
+9,25/09/84,Bastia,0-0,Bordeaux
+9,25/09/84,Metz,1-1,Nantes
+9,25/09/84,Auxerre,3-1,Brest
+9,25/09/84,RC Strasbourg,3-3,Monaco
+9,25/09/84,Lens,3-0,SC Toulon-Var
+9,25/09/84,FC Rouen,0-1,Nancy
+9,25/09/84,Marseille,0-0,Stade Lavallois
+9,25/09/84,Racing Club Paris,3-1,Toulouse
+9,25/09/84,Sochaux,1-0,Lille
+9,25/09/84,Tours,2-3,PSG
+10,28/09/84,Bordeaux,2-1,Tours
+10,28/09/84,Nantes,2-0,Lens
+10,28/09/84,PSG,0-0,Auxerre
+10,28/09/84,Nancy,4-0,Racing Club Paris
+10,28/09/84,Bastia,1-0,Marseille
+10,28/09/84,Monaco,0-0,Stade Lavallois
+10,28/09/84,Brest,0-1,Metz
+10,28/09/84,Toulouse,2-1,RC Strasbourg
+10,28/09/84,SC Toulon-Var,1-0,Sochaux
+10,28/09/84,Lille,0-0,FC Rouen
+11,05/10/84,Sochaux,0-1,Nantes
+11,05/10/84,RC Strasbourg,2-1,Nancy
+11,05/10/84,Stade Lavallois,3-3,Toulouse
+11,05/10/84,Tours,2-0,Bastia
+11,05/10/84,Lens,1-1,Brest
+11,05/10/84,Racing Club Paris,2-2,Lille
+11,05/10/84,FC Rouen,1-0,SC Toulon-Var
+11,06/10/84,Auxerre,1-1,Bordeaux
+11,06/10/84,Metz,2-1,PSG
+11,06/10/84,Marseille,3-0,Monaco
+12,16/10/84,Bordeaux,6-0,Metz
+12,16/10/84,Nantes,2-1,FC Rouen
+12,16/10/84,Bastia,2-2,Auxerre
+12,16/10/84,Nancy,2-3,Stade Lavallois
+12,16/10/84,Toulouse,1-2,Monaco
+12,16/10/84,PSG,4-3,Lens
+12,16/10/84,Brest,1-0,Sochaux
+12,16/10/84,SC Toulon-Var,1-0,Racing Club Paris
+12,16/10/84,Lille,3-0,RC Strasbourg
+12,16/10/84,Tours,2-2,Marseille
+13,19/10/84,Lens,2-1,Bordeaux
+13,19/10/84,Auxerre,1-0,Tours
+13,19/10/84,Monaco,1-0,Nancy
+13,19/10/84,Stade Lavallois,1-1,Lille
+13,19/10/84,Metz,1-0,Bastia
+13,19/10/84,FC Rouen,2-2,Brest
+13,19/10/84,RC Strasbourg,0-1,SC Toulon-Var
+13,19/10/84,Marseille,2-1,Toulouse
+13,19/10/84,Sochaux,4-1,PSG
+13,20/10/84,Racing Club Paris,1-2,Nantes
+14,26/10/84,Nantes,2-2,RC Strasbourg
+14,26/10/84,Auxerre,4-2,Marseille
+14,26/10/84,Lille,1-1,Monaco
+14,26/10/84,SC Toulon-Var,1-1,Stade Lavallois
+14,26/10/84,Bastia,2-1,Lens
+14,26/10/84,Brest,3-0,Racing Club Paris
+14,26/10/84,Nancy,1-1,Toulouse
+14,27/10/84,PSG,3-2,FC Rouen
+14,27/10/84,Bordeaux,1-0,Sochaux
+14,27/10/84,Tours,2-1,Metz
+15,01/11/84,RC Strasbourg,1-1,Brest
+15,02/11/84,FC Rouen,0-0,Bordeaux
+15,02/11/84,Stade Lavallois,0-1,Nantes
+15,02/11/84,Metz,2-1,Auxerre
+15,02/11/84,Monaco,0-2,SC Toulon-Var
+15,02/11/84,Lens,6-1,Tours
+15,02/11/84,Marseille,0-1,Nancy
+15,02/11/84,Racing Club Paris,0-1,PSG
+15,02/11/84,Sochaux,4-0,Bastia
+15,02/11/84,Toulouse,1-0,Lille
+16,09/11/84,Nantes,1-0,Monaco
+16,09/11/84,Auxerre,0-0,Lens
+16,09/11/84,Brest,3-0,Stade Lavallois
+16,09/11/84,SC Toulon-Var,2-1,Toulouse
+16,09/11/84,Bastia,3-0,FC Rouen
+16,09/11/84,Lille,4-0,Nancy
+16,09/11/84,Tours,2-2,Sochaux
+16,10/11/84,Bordeaux,1-0,Racing Club Paris
+16,10/11/84,Metz,3-0,Marseille
+17,13/11/84,Toulouse,1-3,Nantes
+17,13/11/84,RC Strasbourg,2-2,Bordeaux
+17,13/11/84,Sochaux,2-1,Auxerre
+17,13/11/84,Lens,0-0,Metz
+17,13/11/84,Nancy,0-2,SC Toulon-Var
+17,13/11/84,Monaco,0-0,Brest
+17,13/11/84,Racing Club Paris,0-0,Bastia
+17,13/11/84,Stade Lavallois,0-0,PSG
+17,13/11/84,Marseille,2-0,Lille
+17,13/11/84,FC Rouen,0-0,Tours
+18,24/11/84,Nantes,2-1,Nancy
+18,24/11/84,Bordeaux,5-2,Stade Lavallois
+18,24/11/84,Auxerre,2-0,FC Rouen
+18,24/11/84,SC Toulon-Var,2-1,Lille
+18,24/11/84,Metz,1-1,Sochaux
+18,24/11/84,Bastia,2-1,RC Strasbourg
+18,24/11/84,Lens,3-0,Marseille
+18,24/11/84,Brest,2-2,Toulouse
+18,24/11/84,PSG,2-1,Monaco
+18,24/11/84,Tours,2-0,Racing Club Paris
+16,27/11/84,PSG,2-0,RC Strasbourg
+19,01/12/84,Lille,1-1,Nantes
+19,01/12/84,Monaco,3-0,Bordeaux
+19,01/12/84,Racing Club Paris,1-3,Auxerre
+19,01/12/84,Toulouse,0-1,PSG
+19,01/12/84,FC Rouen,1-0,Metz
+19,01/12/84,Stade Lavallois,2-1,Bastia
+19,02/12/84,Sochaux,1-2,Lens
+19,02/12/84,Nancy,0-2,Brest
+19,02/12/84,Marseille,4-2,SC Toulon-Var
+19,02/12/84,RC Strasbourg,1-0,Tours
+20,14/12/84,Marseille,0-2,Nantes
+20,14/12/84,Bordeaux,3-1,Nancy
+20,14/12/84,Auxerre,2-1,Stade Lavallois
+20,14/12/84,Lens,1-0,Racing Club Paris
+20,14/12/84,Brest,0-1,SC Toulon-Var
+20,14/12/84,Metz,1-0,RC Strasbourg
+20,14/12/84,PSG,2-3,Lille
+20,14/12/84,Bastia,4-0,Toulouse
+20,14/12/84,Tours,2-1,Monaco
+20,16/12/84,Sochaux,4-0,FC Rouen
+21,21/12/84,Lille,0-1,Bordeaux
+21,21/12/84,Nantes,0-2,Brest
+21,21/12/84,Monaco,0-0,Auxerre
+21,21/12/84,SC Toulon-Var,5-1,PSG
+21,21/12/84,Stade Lavallois,1-4,Metz
+21,21/12/84,RC Strasbourg,1-1,Lens
+21,21/12/84,Nancy,2-0,Bastia
+21,21/12/84,Racing Club Paris,0-2,Sochaux
+21,21/12/84,Toulouse,3-1,Tours
+21,21/12/84,FC Rouen,1-1,Marseille
+23,26/01/85,Nantes,0-1,Bordeaux
+23,26/01/85,SC Toulon-Var,1-0,Bastia
+23,26/01/85,Toulouse,1-1,Metz
+23,26/01/85,Brest,3-1,PSG
+23,26/01/85,Monaco,3-0,Lens
+23,26/01/85,Stade Lavallois,2-1,Sochaux
+23,26/01/85,Lille,3-0,Tours
+23,26/01/85,Racing Club Paris,0-2,Marseille
+23,27/01/85,Nancy,1-1,Auxerre
+24,02/02/85,Bordeaux,3-0,Brest
+24,02/02/85,Bastia,1-1,Nantes
+24,02/02/85,Auxerre,3-0,Lille
+24,02/02/85,Tours,0-1,SC Toulon-Var
+24,02/02/85,Lens,0-0,Toulouse
+24,02/02/85,FC Rouen,2-0,Stade Lavallois
+24,02/02/85,Racing Club Paris,2-2,RC Strasbourg
+24,03/02/85,Metz,2-2,Nancy
+24,03/02/85,Sochaux,1-2,Monaco
+24,03/02/85,Marseille,3-1,PSG
+22,12/02/85,Bordeaux,2-0,SC Toulon-Var
+25,16/02/85,Nantes,4-0,Tours
+25,16/02/85,SC Toulon-Var,2-0,Auxerre
+25,16/02/85,Brest,4-2,Bastia
+25,16/02/85,Lille,1-0,Metz
+25,16/02/85,Monaco,2-0,FC Rouen
+25,16/02/85,Toulouse,0-0,Sochaux
+25,17/02/85,Nancy,2-1,Lens
+25,19/02/85,PSG,1-2,Bordeaux
+25,19/02/85,Stade Lavallois,1-0,Racing Club Paris
+26,23/02/85,Marseille,0-1,Bordeaux
+26,23/02/85,Metz,1-0,SC Toulon-Var
+26,23/02/85,Racing Club Paris,0-1,Monaco
+26,23/02/85,Tours,1-1,Brest
+26,23/02/85,Lens,2-0,Lille
+26,23/02/85,Bastia,1-2,PSG
+26,23/02/85,FC Rouen,0-2,Toulouse
+26,24/02/85,Auxerre,1-0,Nantes
+27,27/02/85,Bordeaux,4-0,Bastia
+27,01/03/85,Nantes,1-0,Metz
+27,01/03/85,SC Toulon-Var,1-0,Lens
+27,01/03/85,Brest,2-0,Auxerre
+27,01/03/85,Monaco,3-0,RC Strasbourg
+27,01/03/85,PSG,2-0,Tours
+27,01/03/85,Stade Lavallois,4-2,Marseille
+27,01/03/85,Lille,1-1,Sochaux
+27,01/03/85,Nancy,2-2,FC Rouen
+27,01/03/85,Toulouse,1-3,Racing Club Paris
+22,05/03/85,PSG,2-3,Nantes
+22,05/03/85,Auxerre,2-0,Toulouse
+22,05/03/85,Metz,1-1,Monaco
+22,05/03/85,Marseille,3-2,Brest
+22,05/03/85,Lens,3-0,Stade Lavallois
+22,05/03/85,Bastia,2-1,Lille
+22,05/03/85,Sochaux,3-1,RC Strasbourg
+22,05/03/85,Tours,1-3,Nancy
+22,05/03/85,FC Rouen,1-1,Racing Club Paris
+26,08/03/85,RC Strasbourg,2-0,Stade Lavallois
+28,15/03/85,Tours,1-0,Bordeaux
+28,15/03/85,Lens,0-1,Nantes
+28,15/03/85,Auxerre,2-1,PSG
+28,15/03/85,Sochaux,0-0,SC Toulon-Var
+28,15/03/85,Stade Lavallois,0-0,Monaco
+28,15/03/85,Metz,2-0,Brest
+28,15/03/85,Marseille,5-0,Bastia
+28,15/03/85,FC Rouen,0-0,Lille
+28,15/03/85,RC Strasbourg,1-0,Toulouse
+28,16/03/85,Racing Club Paris,1-0,Nancy
+23,19/03/85,RC Strasbourg,1-1,FC Rouen
+29,22/03/85,Nantes,1-1,Sochaux
+29,22/03/85,SC Toulon-Var,1-1,FC Rouen
+29,22/03/85,Monaco,3-0,Marseille
+29,22/03/85,PSG,1-2,Metz
+29,22/03/85,Brest,3-2,Lens
+29,22/03/85,Bastia,2-2,Tours
+29,22/03/85,Lille,2-1,Racing Club Paris
+29,22/03/85,Nancy,1-1,RC Strasbourg
+29,22/03/85,Toulouse,1-1,Stade Lavallois
+29,23/03/85,Bordeaux,6-1,Auxerre
+30,26/03/85,Metz,1-1,Bordeaux
+30,26/03/85,FC Rouen,1-0,Nantes
+30,26/03/85,Racing Club Paris,0-1,SC Toulon-Var
+30,26/03/85,Monaco,0-0,Toulouse
+30,26/03/85,Sochaux,4-2,Brest
+30,26/03/85,Lens,4-2,PSG
+30,26/03/85,Marseille,3-2,Tours
+30,26/03/85,Stade Lavallois,2-2,Nancy
+30,26/03/85,RC Strasbourg,2-1,Lille
+30,27/03/85,Auxerre,3-1,Bastia
+26,29/03/85,Sochaux,1-0,Nancy
+31,05/04/85,SC Toulon-Var,3-1,RC Strasbourg
+31,05/04/85,Tours,3-1,Auxerre
+31,05/04/85,Bastia,1-3,Metz
+31,05/04/85,Brest,0-2,FC Rouen
+31,05/04/85,PSG,1-1,Sochaux
+31,05/04/85,Lille,0-0,Stade Lavallois
+31,05/04/85,Toulouse,2-0,Marseille
+31,06/04/85,Bordeaux,2-1,Lens
+31,06/04/85,Nantes,1-1,Racing Club Paris
+31,06/04/85,Nancy,1-1,Monaco
+32,12/04/85,RC Strasbourg,1-3,Nantes
+32,12/04/85,Marseille,1-1,Auxerre
+32,12/04/85,Stade Lavallois,1-0,SC Toulon-Var
+32,12/04/85,Monaco,6-1,Lille
+32,12/04/85,Metz,1-1,Tours
+32,12/04/85,Lens,3-0,Bastia
+32,12/04/85,Racing Club Paris,3-0,Brest
+32,12/04/85,FC Rouen,0-1,PSG
+32,12/04/85,Toulouse,1-0,Nancy
+32,13/04/85,Sochaux,1-1,Bordeaux
+25,16/04/85,RC Strasbourg,2-1,Marseille
+33,19/04/85,Bordeaux,2-0,FC Rouen
+33,19/04/85,Nantes,2-0,Stade Lavallois
+33,19/04/85,Auxerre,2-0,Metz
+33,19/04/85,SC Toulon-Var,0-1,Monaco
+33,19/04/85,Tours,1-1,Lens
+33,19/04/85,Bastia,1-1,Sochaux
+33,19/04/85,Brest,1-1,RC Strasbourg
+33,19/04/85,PSG,2-2,Racing Club Paris
+33,19/04/85,Nancy,3-1,Marseille
+33,19/04/85,Lille,0-0,Toulouse
+34,23/04/85,Monaco,1-1,Nantes
+34,23/04/85,Lens,1-0,Auxerre
+34,23/04/85,Toulouse,2-0,SC Toulon-Var
+34,23/04/85,Marseille,2-1,Metz
+34,23/04/85,Sochaux,2-2,Tours
+34,23/04/85,Stade Lavallois,0-0,Brest
+34,23/04/85,Nancy,1-0,Lille
+34,23/04/85,RC Strasbourg,1-1,PSG
+34,23/04/85,FC Rouen,1-1,Bastia
+34,27/04/85,Racing Club Paris,0-0,Bordeaux
+35,07/05/85,Bordeaux,3-2,RC Strasbourg
+35,07/05/85,Nantes,2-2,Toulouse
+35,07/05/85,Brest,0-2,Monaco
+35,07/05/85,Auxerre,0-0,Sochaux
+35,07/05/85,SC Toulon-Var,3-1,Nancy
+35,07/05/85,Metz,4-1,Lens
+35,07/05/85,PSG,0-1,Stade Lavallois
+35,07/05/85,Lille,1-1,Marseille
+35,07/05/85,Bastia,0-0,Racing Club Paris
+35,07/05/85,Tours,2-0,FC Rouen
+36,14/05/85,Stade Lavallois,0-2,Bordeaux
+36,14/05/85,Nancy,1-2,Nantes
+36,14/05/85,Monaco,4-1,PSG
+36,14/05/85,FC Rouen,1-2,Auxerre
+36,14/05/85,Lille,1-1,SC Toulon-Var
+36,14/05/85,Sochaux,1-1,Metz
+36,14/05/85,Marseille,1-2,Lens
+36,14/05/85,Toulouse,0-0,Brest
+36,14/05/85,RC Strasbourg,1-1,Bastia
+36,14/05/85,Racing Club Paris,3-1,Tours
+37,24/05/85,Bordeaux,0-0,Monaco
+37,24/05/85,Nantes,1-0,Lille
+37,24/05/85,Auxerre,1-0,Racing Club Paris
+37,24/05/85,SC Toulon-Var,2-0,Marseille
+37,24/05/85,Metz,1-0,FC Rouen
+37,24/05/85,Lens,3-1,Sochaux
+37,24/05/85,Brest,2-2,Nancy
+37,24/05/85,Bastia,1-0,Stade Lavallois
+37,24/05/85,PSG,3-1,Toulouse
+37,24/05/85,Tours,1-0,RC Strasbourg
+38,28/05/85,Toulouse,2-1,Bordeaux
+38,28/05/85,SC Toulon-Var,1-2,Nantes
+38,28/05/85,Monaco,4-0,Bastia
+38,28/05/85,RC Strasbourg,1-1,Auxerre
+38,28/05/85,Racing Club Paris,0-2,Metz
+38,28/05/85,FC Rouen,1-0,Lens
+38,28/05/85,Sochaux,2-0,Marseille
+38,28/05/85,Lille,2-0,Brest
+38,28/05/85,Stade Lavallois,3-1,Tours
+38,28/05/85,Nancy,6-1,PSG

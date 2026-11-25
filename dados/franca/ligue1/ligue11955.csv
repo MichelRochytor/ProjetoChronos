@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,21/08/55,Nice,2-1,RC Strasbourg
+1,21/08/55,Saint-Étienne,3-1,Stade de Reims
+1,21/08/55,Marseille,2-2,Lens
+1,21/08/55,Sedan-Torcy,2-2,Lyon
+1,21/08/55,Nimes,1-5,Racing Club Paris
+1,21/08/55,Metz,3-1,Sochaux
+1,21/08/55,Lille,2-0,Monaco
+1,21/08/55,Bordeaux,3-3,FC Nancy
+1,21/08/55,Troyes,0-2,Toulouse
+2,28/08/55,Lens,3-1,Nimes
+2,28/08/55,Monaco,2-3,Saint-Étienne
+2,28/08/55,Racing Club Paris,3-0,Bordeaux
+2,28/08/55,Toulouse,1-1,Sedan-Torcy
+2,28/08/55,Lyon,2-4,Nice
+2,28/08/55,Stade de Reims,1-1,Marseille
+2,28/08/55,Sochaux,5-1,Troyes
+2,28/08/55,FC Nancy,1-2,Metz
+2,28/08/55,RC Strasbourg,3-1,Lille
+3,04/09/55,Lens,1-0,RC Strasbourg
+3,04/09/55,Monaco,0-2,Sedan-Torcy
+3,04/09/55,Saint-Étienne,4-0,Troyes
+3,04/09/55,Marseille,4-0,Metz
+3,04/09/55,Racing Club Paris,1-2,Lyon
+3,04/09/55,Stade de Reims,1-3,Nice
+3,04/09/55,Sochaux,3-3,Lille
+3,04/09/55,FC Nancy,1-2,Toulouse
+3,04/09/55,Nimes,3-0,Bordeaux
+4,11/09/55,Nice,5-2,Lens
+4,11/09/55,Toulouse,0-1,Sochaux
+4,11/09/55,Lyon,2-0,FC Nancy
+4,11/09/55,Sedan-Torcy,1-1,Stade de Reims
+4,11/09/55,RC Strasbourg,1-4,Racing Club Paris
+4,11/09/55,Metz,5-2,Saint-Étienne
+4,11/09/55,Lille,3-2,Nimes
+4,11/09/55,Bordeaux,1-0,Marseille
+4,11/09/55,Troyes,2-5,Monaco
+5,18/09/55,Nice,7-1,Lille
+5,18/09/55,Lens,2-2,Saint-Étienne
+5,18/09/55,Racing Club Paris,4-0,Marseille
+5,18/09/55,Toulouse,4-1,Metz
+5,18/09/55,Lyon,3-0,Troyes
+5,18/09/55,Stade de Reims,0-2,Monaco
+5,18/09/55,Sochaux,2-4,Bordeaux
+5,18/09/55,FC Nancy,3-1,Nimes
+5,18/09/55,RC Strasbourg,3-0,Sedan-Torcy
+6,25/09/55,Monaco,5-2,Lens
+6,25/09/55,Saint-Étienne,3-2,Racing Club Paris
+6,25/09/55,Marseille,1-2,FC Nancy
+6,25/09/55,Sedan-Torcy,0-1,Nice
+6,25/09/55,Sochaux,1-0,Nimes
+6,25/09/55,Metz,1-1,Lyon
+6,25/09/55,Lille,2-2,Stade de Reims
+6,25/09/55,Bordeaux,3-4,Toulouse
+6,25/09/55,Troyes,3-0,RC Strasbourg
+7,02/10/55,Lens,3-2,FC Nancy
+7,02/10/55,Monaco,1-0,Toulouse
+7,02/10/55,Saint-Étienne,0-1,Lyon
+7,02/10/55,Marseille,3-1,RC Strasbourg
+7,02/10/55,Racing Club Paris,2-1,Lille
+7,02/10/55,Stade de Reims,3-0,Sochaux
+7,02/10/55,Nimes,1-1,Nice
+7,02/10/55,Metz,2-1,Troyes
+7,02/10/55,Bordeaux,2-1,Sedan-Torcy
+8,12/10/55,Troyes,1-1,Bordeaux
+8,13/10/55,Nice,1-2,Marseille
+8,13/10/55,Toulouse,0-2,Stade de Reims
+8,13/10/55,Lyon,1-1,Monaco
+8,13/10/55,Sedan-Torcy,2-1,Nimes
+8,13/10/55,Sochaux,3-1,Lens
+8,13/10/55,FC Nancy,2-3,Racing Club Paris
+8,13/10/55,RC Strasbourg,5-2,Saint-Étienne
+8,13/10/55,Lille,4-1,Metz
+9,16/10/55,Nice,1-0,Toulouse
+9,16/10/55,Marseille,1-1,Monaco
+9,16/10/55,Sedan-Torcy,2-1,Sochaux
+9,16/10/55,Nimes,2-2,Stade de Reims
+9,16/10/55,RC Strasbourg,1-2,Lyon
+9,16/10/55,Metz,1-3,Racing Club Paris
+9,16/10/55,Lille,0-2,Saint-Étienne
+9,16/10/55,Bordeaux,1-2,Lens
+9,16/10/55,Troyes,4-4,FC Nancy
+10,30/10/55,Lens,4-1,Metz
+10,30/10/55,Monaco,1-0,Nimes
+10,30/10/55,Saint-Étienne,3-1,Marseille
+10,30/10/55,Racing Club Paris,1-1,Troyes
+10,30/10/55,Toulouse,4-4,RC Strasbourg
+10,30/10/55,Lyon,2-1,Lille
+10,30/10/55,Stade de Reims,3-0,Bordeaux
+10,30/10/55,Sochaux,0-0,Nice
+10,30/10/55,FC Nancy,4-2,Sedan-Torcy
+11,01/11/55,Lens,1-0,Lille
+11,01/11/55,Monaco,2-2,FC Nancy
+11,01/11/55,Saint-Étienne,0-0,Sochaux
+11,01/11/55,Marseille,3-0,Toulouse
+11,01/11/55,Stade de Reims,2-1,Racing Club Paris
+11,01/11/55,Metz,2-0,Nice
+11,01/11/55,Bordeaux,3-0,RC Strasbourg
+11,01/11/55,Troyes,2-1,Sedan-Torcy
+12,06/11/55,Nice,2-0,Bordeaux
+12,06/11/55,Racing Club Paris,0-1,Lens
+12,06/11/55,Toulouse,2-2,Saint-Étienne
+12,06/11/55,Lyon,1-1,Marseille
+12,06/11/55,Sedan-Torcy,4-2,Metz
+12,06/11/55,Sochaux,3-1,Monaco
+12,06/11/55,FC Nancy,1-4,Stade de Reims
+12,06/11/55,RC Strasbourg,2-1,Nimes
+12,06/11/55,Lille,4-0,Troyes
+13,12/11/55,Bordeaux,2-1,Metz
+13,13/11/55,Lens,1-0,Toulouse
+13,13/11/55,Monaco,0-0,RC Strasbourg
+13,13/11/55,Saint-Étienne,3-3,Nice
+13,13/11/55,Marseille,2-2,Sedan-Torcy
+13,13/11/55,Racing Club Paris,2-5,Sochaux
+13,13/11/55,Stade de Reims,3-0,Lyon
+13,13/11/55,FC Nancy,3-1,Lille
+13,13/11/55,Nimes,5-2,Troyes
+14,20/11/55,Monaco,4-2,Nice
+14,20/11/55,Toulouse,0-0,Racing Club Paris
+14,20/11/55,Lyon,0-1,Lens
+14,20/11/55,Sedan-Torcy,3-0,Saint-Étienne
+14,20/11/55,Sochaux,0-0,FC Nancy
+14,20/11/55,RC Strasbourg,0-1,Stade de Reims
+14,20/11/55,Metz,2-2,Nimes
+14,20/11/55,Lille,2-1,Bordeaux
+14,20/11/55,Troyes,0-1,Marseille
+11,24/11/55,Nimes,2-1,Lyon
+15,27/11/55,Nice,2-0,Troyes
+15,27/11/55,Saint-Étienne,1-1,FC Nancy
+15,27/11/55,Marseille,1-0,Sochaux
+15,27/11/55,Racing Club Paris,2-1,Monaco
+15,27/11/55,Stade de Reims,3-0,Lens
+15,27/11/55,Nimes,2-1,Toulouse
+15,27/11/55,Metz,2-2,RC Strasbourg
+15,27/11/55,Lille,0-1,Sedan-Torcy
+15,27/11/55,Bordeaux,2-0,Lyon
+16,04/12/55,Lens,4-0,Sedan-Torcy
+16,04/12/55,Monaco,4-0,Metz
+16,04/12/55,Saint-Étienne,3-0,Bordeaux
+16,04/12/55,Marseille,2-0,Nimes
+16,04/12/55,Racing Club Paris,4-2,Nice
+16,04/12/55,Toulouse,4-2,Lille
+16,04/12/55,Stade de Reims,2-1,Troyes
+16,04/12/55,Sochaux,1-2,Lyon
+16,04/12/55,FC Nancy,3-1,RC Strasbourg
+17,11/12/55,Nice,3-0,FC Nancy
+17,11/12/55,Lyon,2-2,Toulouse
+17,11/12/55,Sedan-Torcy,3-0,Racing Club Paris
+17,11/12/55,Nimes,1-1,Saint-Étienne
+17,11/12/55,RC Strasbourg,1-0,Sochaux
+17,11/12/55,Metz,1-1,Stade de Reims
+17,11/12/55,Lille,0-3,Marseille
+17,11/12/55,Bordeaux,0-2,Monaco
+17,11/12/55,Troyes,3-0,Lens
+18,18/12/55,Nice,2-1,Saint-Étienne
+18,18/12/55,Toulouse,4-2,Lens
+18,18/12/55,Lyon,2-1,Stade de Reims
+18,18/12/55,Sedan-Torcy,2-1,Marseille
+18,18/12/55,Sochaux,1-1,Racing Club Paris
+18,18/12/55,RC Strasbourg,2-1,Monaco
+18,18/12/55,Metz,1-1,Bordeaux
+18,18/12/55,Lille,1-2,FC Nancy
+18,18/12/55,Troyes,4-2,Nimes
+19,01/01/56,Lens,2-0,Bordeaux
+19,01/01/56,Monaco,3-0,Marseille
+19,01/01/56,Saint-Étienne,4-1,Lille
+19,01/01/56,Racing Club Paris,1-2,Metz
+19,01/01/56,Toulouse,1-1,Nice
+19,01/01/56,Lyon,2-0,RC Strasbourg
+19,01/01/56,Stade de Reims,1-1,Nimes
+19,01/01/56,Sochaux,0-2,Sedan-Torcy
+19,01/01/56,FC Nancy,1-0,Troyes
+20,15/01/56,Nice,1-2,Sochaux
+20,15/01/56,Marseille,2-2,Saint-Étienne
+20,15/01/56,Sedan-Torcy,1-0,FC Nancy
+20,15/01/56,Nimes,6-2,Monaco
+20,15/01/56,RC Strasbourg,1-2,Toulouse
+20,15/01/56,Metz,2-3,Lens
+20,15/01/56,Lille,4-1,Lyon
+20,15/01/56,Bordeaux,2-3,Stade de Reims
+20,15/01/56,Troyes,0-2,Racing Club Paris
+21,22/01/56,Nice,2-1,Nimes
+21,22/01/56,Toulouse,3-1,Monaco
+21,22/01/56,Lyon,2-1,Saint-Étienne
+21,22/01/56,Sedan-Torcy,1-1,Bordeaux
+21,22/01/56,Sochaux,4-3,Stade de Reims
+21,22/01/56,FC Nancy,1-0,Lens
+21,22/01/56,RC Strasbourg,5-0,Marseille
+21,22/01/56,Lille,6-1,Racing Club Paris
+21,22/01/56,Troyes,1-1,Metz
+22,29/01/56,Lens,2-1,Sochaux
+22,29/01/56,Monaco,2-1,Lyon
+22,29/01/56,Saint-Étienne,3-1,RC Strasbourg
+22,29/01/56,Marseille,0-0,Nice
+22,29/01/56,Racing Club Paris,3-4,FC Nancy
+22,29/01/56,Stade de Reims,0-1,Toulouse
+22,29/01/56,Nimes,6-2,Sedan-Torcy
+22,29/01/56,Metz,2-0,Lille
+22,29/01/56,Bordeaux,2-2,Troyes
+23,12/02/56,Lens,4-1,Stade de Reims
+23,12/02/56,Monaco,0-0,Racing Club Paris
+23,12/02/56,Toulouse,2-2,Nimes
+23,12/02/56,Lyon,5-2,Bordeaux
+23,12/02/56,Sedan-Torcy,2-1,Lille
+23,12/02/56,Sochaux,3-1,Marseille
+23,12/02/56,FC Nancy,2-2,Saint-Étienne
+23,12/02/56,RC Strasbourg,3-1,Metz
+23,12/02/56,Troyes,2-2,Nice
+24,11/03/56,Nice,3-2,Sedan-Torcy
+24,11/03/56,Lens,1-2,Monaco
+24,11/03/56,Racing Club Paris,3-0,Saint-Étienne
+24,11/03/56,Toulouse,2-1,Bordeaux
+24,11/03/56,Lyon,2-1,Metz
+24,11/03/56,Stade de Reims,1-1,Lille
+24,11/03/56,FC Nancy,0-0,Marseille
+24,11/03/56,Nimes,1-0,Sochaux
+24,11/03/56,RC Strasbourg,2-1,Troyes
+25,18/03/56,Monaco,2-1,Stade de Reims
+25,18/03/56,Saint-Étienne,0-0,Lens
+25,18/03/56,Marseille,1-4,Racing Club Paris
+25,18/03/56,Sedan-Torcy,5-2,RC Strasbourg
+25,18/03/56,Nimes,6-1,FC Nancy
+25,18/03/56,Metz,1-0,Toulouse
+25,18/03/56,Lille,2-1,Nice
+25,18/03/56,Bordeaux,0-1,Sochaux
+25,18/03/56,Troyes,1-3,Lyon
+26,01/04/56,Saint-Étienne,1-0,Monaco
+26,02/04/56,Nice,2-0,Lyon
+26,02/04/56,Marseille,1-0,Stade de Reims
+26,02/04/56,Sedan-Torcy,1-1,Toulouse
+26,02/04/56,Nimes,3-1,Lens
+26,02/04/56,Metz,2-0,FC Nancy
+26,02/04/56,Lille,4-0,RC Strasbourg
+26,02/04/56,Bordeaux,1-4,Racing Club Paris
+26,02/04/56,Troyes,1-1,Sochaux
+27,15/04/56,Lens,4-0,Marseille
+27,15/04/56,Monaco,2-0,Lille
+27,15/04/56,Racing Club Paris,3-2,Nimes
+27,15/04/56,Toulouse,2-1,Troyes
+27,15/04/56,Lyon,0-0,Sedan-Torcy
+27,15/04/56,Stade de Reims,1-2,Saint-Étienne
+27,15/04/56,Sochaux,0-1,Metz
+27,15/04/56,FC Nancy,1-0,Bordeaux
+27,15/04/56,RC Strasbourg,1-0,Nice
+28,22/04/56,Nice,1-1,Monaco
+28,22/04/56,Lens,1-0,Lyon
+28,22/04/56,Saint-Étienne,3-2,Sedan-Torcy
+28,22/04/56,Marseille,3-0,Troyes
+28,22/04/56,Racing Club Paris,3-0,Toulouse
+28,22/04/56,Stade de Reims,6-2,RC Strasbourg
+28,22/04/56,FC Nancy,0-1,Sochaux
+28,22/04/56,Nimes,0-0,Metz
+28,22/04/56,Bordeaux,2-1,Lille
+29,29/04/56,Nice,1-0,Stade de Reims
+29,29/04/56,Toulouse,1-0,FC Nancy
+29,29/04/56,Lyon,3-1,Racing Club Paris
+29,29/04/56,Sedan-Torcy,2-1,Monaco
+29,29/04/56,RC Strasbourg,1-0,Lens
+29,29/04/56,Metz,2-3,Marseille
+29,29/04/56,Lille,1-2,Sochaux
+29,29/04/56,Bordeaux,2-1,Nimes
+29,29/04/56,Troyes,1-1,Saint-Étienne
+30,01/05/56,Nice,2-0,Racing Club Paris
+30,01/05/56,Lyon,3-1,Sochaux
+30,01/05/56,Sedan-Torcy,1-0,Lens
+30,01/05/56,Nimes,1-1,Marseille
+30,01/05/56,RC Strasbourg,4-0,FC Nancy
+30,01/05/56,Metz,1-2,Monaco
+30,01/05/56,Lille,1-2,Toulouse
+30,01/05/56,Bordeaux,4-3,Saint-Étienne
+30,01/05/56,Troyes,2-3,Stade de Reims
+31,10/05/56,Lens,4-0,Nice
+31,10/05/56,Monaco,1-1,Troyes
+31,10/05/56,Saint-Étienne,5-0,Metz
+31,10/05/56,Marseille,3-0,Bordeaux
+31,10/05/56,Racing Club Paris,2-2,RC Strasbourg
+31,10/05/56,Stade de Reims,1-1,Sedan-Torcy
+31,10/05/56,Sochaux,0-0,Toulouse
+31,10/05/56,FC Nancy,2-0,Lyon
+31,10/05/56,Nimes,2-0,Lille
+32,13/05/56,Nice,1-0,Metz
+32,13/05/56,Racing Club Paris,2-1,Stade de Reims
+32,13/05/56,Toulouse,2-3,Marseille
+32,13/05/56,Lyon,0-0,Nimes
+32,13/05/56,Sedan-Torcy,1-3,Troyes
+32,13/05/56,Sochaux,2-3,Saint-Étienne
+32,13/05/56,FC Nancy,1-3,Monaco
+32,13/05/56,RC Strasbourg,1-1,Bordeaux
+32,13/05/56,Lille,1-1,Lens
+33,19/05/56,Nimes,4-0,RC Strasbourg
+33,20/05/56,Lens,7-3,Racing Club Paris
+33,20/05/56,Monaco,4-0,Sochaux
+33,20/05/56,Saint-Étienne,0-0,Toulouse
+33,20/05/56,Marseille,5-1,Lyon
+33,20/05/56,Stade de Reims,1-2,FC Nancy
+33,20/05/56,Metz,3-1,Sedan-Torcy
+33,20/05/56,Bordeaux,1-2,Nice
+33,20/05/56,Troyes,1-6,Lille
+34,02/06/56,Racing Club Paris,4-0,Sedan-Torcy
+34,03/06/56,Lens,3-1,Troyes
+34,03/06/56,Monaco,4-2,Bordeaux

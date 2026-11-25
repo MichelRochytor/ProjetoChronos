@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,18/08/66,Bordeaux,2-0,Stade Rennais UC
+1,19/08/66,Toulouse FC,0-2,Saint-Étienne
+1,19/08/66,Marseille,2-1,US Valenciennes-Anzin
+1,20/08/66,Nantes,5-2,Lyon
+1,20/08/66,RC Strasbourg,4-2,Monaco
+1,20/08/66,Stade de Reims,0-1,Lille
+1,20/08/66,FC Rouen,0-1,Stade Français
+1,20/08/66,Lens,2-2,RC Paris-Sedan
+1,21/08/66,Nice,1-4,Sochaux
+1,21/08/66,Angers,1-2,Nimes
+3,24/08/66,RC Paris-Sedan,3-3,Nantes
+2,26/08/66,US Valenciennes-Anzin,0-1,Bordeaux
+2,26/08/66,Nimes,1-1,Nice
+2,27/08/66,Nantes,3-1,Lens
+2,27/08/66,Sochaux,3-0,FC Rouen
+2,27/08/66,Saint-Étienne,2-0,Marseille
+2,27/08/66,Stade Français,0-0,RC Strasbourg
+2,27/08/66,Lille,0-0,Angers
+2,27/08/66,Stade Rennais UC,5-0,RC Paris-Sedan
+2,27/08/66,Monaco,4-0,Lyon
+2,27/08/66,Stade de Reims,1-3,Toulouse FC
+3,31/08/66,Nice,1-2,Saint-Étienne
+3,31/08/66,Lyon,0-0,Sochaux
+3,31/08/66,RC Strasbourg,4-1,US Valenciennes-Anzin
+3,31/08/66,Bordeaux,1-1,Monaco
+3,31/08/66,Marseille,1-2,Stade Français
+3,31/08/66,Toulouse FC,2-1,Lille
+3,31/08/66,Lens,2-1,Stade Rennais UC
+3,31/08/66,FC Rouen,2-0,Nimes
+3,31/08/66,Angers,2-2,Stade de Reims
+4,03/09/66,Nantes,1-0,Stade Rennais UC
+4,03/09/66,Saint-Étienne,1-1,Bordeaux
+4,03/09/66,Sochaux,0-1,Marseille
+4,03/09/66,Angers,3-1,RC Strasbourg
+4,03/09/66,Nimes,2-0,Toulouse FC
+4,03/09/66,Stade Français,0-1,Lyon
+4,03/09/66,Stade de Reims,2-0,Nice
+4,04/09/66,Monaco,4-2,RC Paris-Sedan
+4,04/09/66,US Valenciennes-Anzin,1-3,Lens
+4,04/09/66,Lille,1-0,FC Rouen
+5,09/09/66,Nice,1-2,Lille
+5,09/09/66,Toulouse FC,1-1,Angers
+5,09/09/66,Lyon,0-0,US Valenciennes-Anzin
+5,10/09/66,Bordeaux,0-1,Nantes
+5,10/09/66,Lens,4-1,Stade Français
+5,10/09/66,RC Strasbourg,2-1,Saint-Étienne
+5,10/09/66,RC Paris-Sedan,1-1,Sochaux
+5,10/09/66,Marseille,4-0,Nimes
+5,10/09/66,FC Rouen,2-0,Stade de Reims
+5,11/09/66,Stade Rennais UC,3-1,Monaco
+6,14/09/66,Monaco,0-0,Nantes
+6,14/09/66,Saint-Étienne,3-0,FC Rouen
+6,14/09/66,Lille,0-0,Marseille
+6,14/09/66,Sochaux,1-1,Bordeaux
+6,14/09/66,Toulouse FC,3-2,Lens
+6,14/09/66,Nimes,1-0,RC Strasbourg
+6,14/09/66,Angers,1-0,Nice
+6,14/09/66,Stade Français,1-1,RC Paris-Sedan
+6,14/09/66,Stade de Reims,2-0,Lyon
+6,14/09/66,US Valenciennes-Anzin,3-1,Stade Rennais UC
+7,17/09/66,Nantes,1-1,Sochaux
+7,17/09/66,Marseille,0-0,Stade de Reims
+7,17/09/66,Bordeaux,0-0,Stade Français
+7,17/09/66,FC Rouen,1-0,Angers
+7,17/09/66,Lyon,3-1,Nimes
+7,17/09/66,RC Paris-Sedan,0-0,US Valenciennes-Anzin
+7,18/09/66,Stade Rennais UC,1-1,Saint-Étienne
+7,18/09/66,RC Strasbourg,3-1,Lille
+7,18/09/66,Lens,2-1,Monaco
+7,18/09/66,Nice,3-1,Toulouse FC
+8,23/09/66,Saint-Étienne,1-0,RC Paris-Sedan
+8,23/09/66,Sochaux,2-5,Lens
+8,23/09/66,Stade Français,1-0,Nantes
+8,23/09/66,Angers,5-0,Marseille
+8,23/09/66,Stade de Reims,2-1,RC Strasbourg
+8,23/09/66,Toulouse FC,1-1,FC Rouen
+8,23/09/66,Nimes,1-2,Stade Rennais UC
+8,23/09/66,US Valenciennes-Anzin,2-0,Monaco
+8,24/09/66,Nice,2-1,Bordeaux
+8,24/09/66,Lille,0-1,Lyon
+9,01/10/66,Nantes,3-1,US Valenciennes-Anzin
+9,01/10/66,Bordeaux,2-0,Nimes
+9,01/10/66,Marseille,2-0,Toulouse FC
+9,01/10/66,FC Rouen,1-0,Nice
+9,02/10/66,Lens,1-1,Lille
+9,02/10/66,Lyon,3-0,Saint-Étienne
+9,02/10/66,Stade Rennais UC,2-3,Angers
+9,02/10/66,RC Strasbourg,3-1,Sochaux
+9,02/10/66,Monaco,0-1,Stade Français
+9,02/10/66,RC Paris-Sedan,1-0,Stade de Reims
+10,08/10/66,Nimes,1-2,Lens
+10,08/10/66,Toulouse FC,1-1,RC Strasbourg
+10,08/10/66,Lille,2-2,RC Paris-Sedan
+10,08/10/66,Stade de Reims,4-1,Bordeaux
+10,08/10/66,Sochaux,0-0,Monaco
+10,08/10/66,FC Rouen,1-0,Stade Rennais UC
+10,09/10/66,Saint-Étienne,3-3,Nantes
+10,09/10/66,Angers,0-2,Lyon
+10,09/10/66,Nice,0-0,Marseille
+10,09/10/66,Stade Français,0-2,US Valenciennes-Anzin
+11,12/10/66,Nantes,6-2,Stade de Reims
+11,12/10/66,Lens,2-0,Saint-Étienne
+11,12/10/66,Monaco,1-5,Angers
+11,12/10/66,Lyon,1-1,Toulouse FC
+11,12/10/66,Bordeaux,1-3,Lille
+11,12/10/66,Marseille,0-0,FC Rouen
+11,12/10/66,Stade Rennais UC,2-1,Stade Français
+11,12/10/66,US Valenciennes-Anzin,2-0,Sochaux
+11,12/10/66,RC Paris-Sedan,2-2,Nimes
+12,15/10/66,FC Rouen,0-2,Lens
+12,15/10/66,Saint-Étienne,3-1,US Valenciennes-Anzin
+12,15/10/66,Stade de Reims,2-4,Stade Rennais UC
+12,15/10/66,Sochaux,3-0,Stade Français
+12,16/10/66,Lille,2-4,Nantes
+12,16/10/66,Marseille,0-1,RC Strasbourg
+12,16/10/66,Angers,2-5,RC Paris-Sedan
+12,16/10/66,Nice,4-3,Lyon
+12,16/10/66,Toulouse FC,2-1,Bordeaux
+12,16/10/66,Nimes,3-2,Monaco
+13,28/10/66,Nantes,5-3,Nimes
+13,28/10/66,RC Strasbourg,1-0,FC Rouen
+13,30/10/66,Lens,1-3,Nice
+13,30/10/66,Stade Français,1-1,Saint-Étienne
+13,30/10/66,Bordeaux,1-4,Angers
+13,30/10/66,Lyon,2-2,Marseille
+13,30/10/66,RC Paris-Sedan,1-0,Toulouse FC
+13,30/10/66,Stade Rennais UC,1-1,Sochaux
+13,30/10/66,US Valenciennes-Anzin,2-0,Stade de Reims
+13,30/10/66,Monaco,3-0,Lille
+14,01/11/66,Angers,1-1,Nantes
+14,01/11/66,Saint-Étienne,1-0,Sochaux
+14,01/11/66,RC Strasbourg,0-3,Bordeaux
+14,01/11/66,Nimes,0-1,Stade Français
+14,01/11/66,Nice,5-1,RC Paris-Sedan
+14,01/11/66,Stade de Reims,2-0,Monaco
+14,02/11/66,Marseille,1-0,Lens
+14,02/11/66,FC Rouen,3-2,Lyon
+14,02/11/66,Lille,1-0,US Valenciennes-Anzin
+14,02/11/66,Toulouse FC,1-1,Stade Rennais UC
+15,06/11/66,Nantes,2-2,Toulouse FC
+15,06/11/66,Lens,1-1,Angers
+15,06/11/66,Lyon,2-1,RC Strasbourg
+15,06/11/66,Stade Français,0-2,Lille
+15,06/11/66,Bordeaux,2-0,Marseille
+15,06/11/66,RC Paris-Sedan,1-0,FC Rouen
+15,06/11/66,Stade Rennais UC,0-1,Nice
+15,06/11/66,US Valenciennes-Anzin,2-0,Nimes
+15,06/11/66,Sochaux,1-1,Stade de Reims
+16,13/11/66,Saint-Étienne,3-1,Nimes
+16,13/11/66,Lyon,2-2,Stade Rennais UC
+16,13/11/66,Toulouse FC,3-0,Monaco
+16,13/11/66,Marseille,1-1,RC Paris-Sedan
+16,13/11/66,Stade de Reims,1-0,Stade Français
+16,15/11/66,Nice,3-1,Nantes
+16,15/11/66,Angers,3-1,US Valenciennes-Anzin
+16,15/11/66,RC Strasbourg,1-0,Lens
+16,15/11/66,Lille,6-0,Sochaux
+16,15/11/66,FC Rouen,1-1,Bordeaux
+17,19/11/66,Monaco,0-0,Nice
+17,20/11/66,Nantes,0-0,FC Rouen
+17,20/11/66,Saint-Étienne,4-1,Lille
+17,20/11/66,Lens,5-2,Stade de Reims
+17,20/11/66,Stade Français,1-1,Angers
+17,20/11/66,RC Paris-Sedan,3-0,RC Strasbourg
+17,20/11/66,Bordeaux,4-1,Lyon
+17,20/11/66,Stade Rennais UC,2-1,Marseille
+17,20/11/66,US Valenciennes-Anzin,2-0,Toulouse FC
+17,20/11/66,Sochaux,2-2,Nimes
+15,29/11/66,Monaco,1-0,Saint-Étienne
+18,04/12/66,Stade de Reims,1-2,Saint-Étienne
+18,04/12/66,Marseille,1-0,Nantes
+18,04/12/66,Bordeaux,1-1,Lens
+18,04/12/66,Angers,1-1,Sochaux
+18,04/12/66,Lille,4-0,Nimes
+18,04/12/66,RC Strasbourg,5-3,Stade Rennais UC
+18,04/12/66,Lyon,0-3,RC Paris-Sedan
+18,04/12/66,Nice,5-2,US Valenciennes-Anzin
+18,04/12/66,Toulouse FC,0-0,Stade Français
+18,04/12/66,FC Rouen,0-0,Monaco
+19,11/12/66,Saint-Étienne,4-2,Angers
+19,11/12/66,Nantes,4-0,RC Strasbourg
+19,11/12/66,Lens,4-1,Lyon
+19,11/12/66,Stade Rennais UC,1-2,Lille
+19,11/12/66,RC Paris-Sedan,0-3,Bordeaux
+19,11/12/66,Monaco,0-1,Marseille
+19,11/12/66,Stade Français,2-0,Nice
+19,11/12/66,US Valenciennes-Anzin,3-0,FC Rouen
+19,11/12/66,Sochaux,1-0,Toulouse FC
+19,11/12/66,Nimes,2-2,Stade de Reims
+11,14/12/66,RC Strasbourg,3-1,Nice
+20,18/12/66,Saint-Étienne,3-0,Toulouse FC
+20,18/12/66,Lyon,1-2,Nantes
+20,18/12/66,RC Paris-Sedan,3-0,Lens
+20,18/12/66,Nimes,1-4,Angers
+20,18/12/66,Lille,1-1,Stade de Reims
+20,18/12/66,Monaco,1-1,RC Strasbourg
+20,18/12/66,Stade Rennais UC,0-1,Bordeaux
+20,18/12/66,US Valenciennes-Anzin,2-1,Marseille
+20,18/12/66,Sochaux,4-0,Nice
+20,18/12/66,Stade Français,1-2,FC Rouen
+21,08/01/67,Marseille,2-2,Saint-Étienne
+21,08/01/67,Lens,4-0,Nantes
+21,08/01/67,Angers,2-1,Lille
+21,08/01/67,RC Strasbourg,1-0,Stade Français
+21,08/01/67,RC Paris-Sedan,4-0,Stade Rennais UC
+21,08/01/67,Bordeaux,0-0,US Valenciennes-Anzin
+21,08/01/67,Nice,4-1,Nimes
+22,22/01/67,Saint-Étienne,7-0,Nice
+22,22/01/67,Nantes,3-1,RC Paris-Sedan
+22,22/01/67,Stade de Reims,0-3,Angers
+22,22/01/67,Stade Rennais UC,3-0,Lens
+22,22/01/67,Lille,3-1,Toulouse FC
+22,22/01/67,US Valenciennes-Anzin,1-0,RC Strasbourg
+22,22/01/67,Monaco,1-1,Bordeaux
+22,22/01/67,Sochaux,1-1,Lyon
+22,22/01/67,Nimes,1-0,FC Rouen
+23,28/01/67,Nice,1-0,Stade de Reims
+23,29/01/67,Bordeaux,1-0,Saint-Étienne
+23,29/01/67,Stade Rennais UC,2-2,Nantes
+23,29/01/67,RC Strasbourg,0-0,Angers
+23,29/01/67,Lens,0-0,US Valenciennes-Anzin
+23,29/01/67,FC Rouen,3-0,Lille
+23,29/01/67,RC Paris-Sedan,1-1,Monaco
+23,29/01/67,Marseille,1-0,Sochaux
+23,29/01/67,Lyon,0-0,Stade Français
+23,29/01/67,Toulouse FC,0-1,Nimes
+24,05/02/67,Saint-Étienne,2-1,RC Strasbourg
+24,05/02/67,Nantes,1-1,Bordeaux
+24,05/02/67,Angers,1-1,Toulouse FC
+24,05/02/67,Stade Français,0-1,Lens
+24,05/02/67,Lille,3-0,Nice
+24,05/02/67,US Valenciennes-Anzin,0-0,Lyon
+24,05/02/67,Sochaux,1-0,RC Paris-Sedan
+24,05/02/67,Nimes,0-1,Marseille
+24,05/02/67,Stade de Reims,1-0,FC Rouen
+24,05/02/67,Monaco,0-0,Stade Rennais UC
+21,12/02/67,Toulouse FC,1-0,Stade de Reims
+25,19/02/67,FC Rouen,0-1,Saint-Étienne
+25,19/02/67,Nice,3-1,Angers
+25,19/02/67,Bordeaux,1-0,Sochaux
+25,19/02/67,Marseille,2-1,Lille
+25,19/02/67,RC Paris-Sedan,0-0,Stade Français
+25,19/02/67,RC Strasbourg,1-2,Nimes
+25,19/02/67,Stade Rennais UC,1-0,US Valenciennes-Anzin
+25,19/02/67,Lyon,3-1,Stade de Reims
+26,26/02/67,Saint-Étienne,4-1,Stade Rennais UC
+26,26/02/67,Sochaux,1-1,Nantes
+26,26/02/67,Angers,5-2,FC Rouen
+26,26/02/67,Stade Français,0-0,Bordeaux
+26,26/02/67,Monaco,2-1,Lens
+26,26/02/67,Lille,2-1,RC Strasbourg
+26,26/02/67,US Valenciennes-Anzin,0-0,RC Paris-Sedan
+26,26/02/67,Stade de Reims,1-0,Marseille
+26,26/02/67,Toulouse FC,3-0,Nice
+26,26/02/67,Nimes,1-0,Lyon
+27,04/03/67,RC Paris-Sedan,1-0,Saint-Étienne
+27,04/03/67,Nantes,3-0,Stade Français
+27,05/03/67,Marseille,1-1,Angers
+27,05/03/67,Lyon,0-1,Lille
+27,05/03/67,Bordeaux,1-1,Nice
+27,05/03/67,Lens,1-1,Sochaux
+27,05/03/67,RC Strasbourg,5-0,Stade de Reims
+27,05/03/67,Monaco,2-2,US Valenciennes-Anzin
+27,05/03/67,Stade Rennais UC,3-0,Nimes
+27,05/03/67,FC Rouen,0-2,Toulouse FC
+28,17/03/67,Toulouse FC,1-0,Marseille
+28,18/03/67,Sochaux,1-0,RC Strasbourg
+28,19/03/67,Saint-Étienne,2-1,Lyon
+28,19/03/67,US Valenciennes-Anzin,0-0,Nantes
+28,19/03/67,Angers,0-0,Stade Rennais UC
+28,19/03/67,Lille,2-1,Lens
+28,19/03/67,Nimes,1-2,Bordeaux
+28,19/03/67,Stade de Reims,1-4,RC Paris-Sedan
+28,19/03/67,Nice,2-0,FC Rouen
+28,19/03/67,Stade Français,1-1,Monaco
+29,23/03/67,RC Strasbourg,4-0,Toulouse FC
+29,24/03/67,Bordeaux,1-0,Stade de Reims
+29,24/03/67,US Valenciennes-Anzin,2-0,Stade Français
+29,25/03/67,Nantes,4-1,Saint-Étienne
+29,25/03/67,Lyon,1-1,Angers
+29,25/03/67,RC Paris-Sedan,4-1,Lille
+29,25/03/67,Lens,2-1,Nimes
+29,25/03/67,Marseille,1-1,Nice
+29,25/03/67,Stade Rennais UC,2-1,FC Rouen
+29,26/03/67,Monaco,3-0,Sochaux
+21,05/04/67,Lyon,1-0,Monaco
+30,07/04/67,Nice,2-1,RC Strasbourg
+30,08/04/67,Saint-Étienne,4-0,Lens
+30,08/04/67,Stade de Reims,1-1,Nantes
+30,08/04/67,Lille,1-2,Bordeaux
+30,08/04/67,Nimes,2-2,RC Paris-Sedan
+30,08/04/67,Sochaux,0-1,US Valenciennes-Anzin
+30,08/04/67,FC Rouen,5-1,Marseille
+30,08/04/67,Toulouse FC,2-2,Lyon
+30,09/04/67,Angers,0-0,Monaco
+30,09/04/67,Stade Français,0-2,Stade Rennais UC
+31,14/04/67,Lyon,1-0,Nice
+31,15/04/67,Nantes,4-0,Lille
+31,15/04/67,Bordeaux,2-1,Toulouse FC
+31,15/04/67,Lens,1-1,FC Rouen
+31,15/04/67,Stade Rennais UC,3-0,Stade de Reims
+31,15/04/67,Monaco,0-1,Nimes
+31,16/04/67,US Valenciennes-Anzin,0-3,Saint-Étienne
+31,16/04/67,RC Paris-Sedan,1-1,Angers
+31,16/04/67,RC Strasbourg,2-1,Marseille
+31,16/04/67,Stade Français,0-3,Sochaux
+25,22/04/67,Lens,0-0,Toulouse FC
+22,23/04/67,Stade Français,0-2,Marseille
+25,23/04/67,Nantes,2-1,Monaco
+21,25/04/67,FC Rouen,3-0,Sochaux
+32,28/04/67,Saint-Étienne,7-1,Stade Français
+32,28/04/67,Toulouse FC,2-3,RC Paris-Sedan
+32,28/04/67,Lille,2-1,Monaco
+32,28/04/67,Nice,1-0,Lens
+32,28/04/67,Marseille,4-1,Lyon
+32,29/04/67,Nimes,1-0,Nantes
+32,29/04/67,Angers,2-0,Bordeaux
+32,29/04/67,FC Rouen,0-0,RC Strasbourg
+32,29/04/67,Stade de Reims,1-0,US Valenciennes-Anzin
+33,03/05/67,Sochaux,0-3,Saint-Étienne
+33,03/05/67,Nantes,2-1,Angers
+33,03/05/67,Bordeaux,4-1,RC Strasbourg
+33,03/05/67,RC Paris-Sedan,0-1,Nice
+33,03/05/67,Lens,2-2,Marseille
+33,03/05/67,Stade Rennais UC,1-2,Toulouse FC
+33,03/05/67,Stade Français,1-2,Nimes
+33,03/05/67,Monaco,5-0,Stade de Reims
+33,04/05/67,US Valenciennes-Anzin,3-0,Lille
+34,06/05/67,Toulouse FC,2-2,Nantes
+34,06/05/67,Marseille,3-2,Bordeaux
+34,06/05/67,Angers,2-0,Lens
+34,06/05/67,FC Rouen,3-0,RC Paris-Sedan
+34,06/05/67,Nimes,1-2,US Valenciennes-Anzin
+34,06/05/67,Lille,0-0,Stade Français
+34,06/05/67,RC Strasbourg,0-0,Lyon
+34,06/05/67,Stade de Reims,1-1,Sochaux
+34,07/05/67,Saint-Étienne,1-3,Monaco
+34,07/05/67,Nice,4-0,Stade Rennais UC
+35,12/05/67,Bordeaux,3-0,FC Rouen
+35,12/05/67,US Valenciennes-Anzin,0-0,Angers
+35,12/05/67,Sochaux,1-0,Lille
+35,13/05/67,Nimes,1-1,Saint-Étienne
+35,13/05/67,Nantes,4-1,Nice
+35,13/05/67,RC Paris-Sedan,0-0,Marseille
+35,13/05/67,Lens,2-1,RC Strasbourg
+35,13/05/67,Stade Rennais UC,4-0,Lyon
+35,13/05/67,Monaco,1-0,Toulouse FC
+35,14/05/67,Stade Français,0-1,Stade de Reims
+36,19/05/67,Toulouse FC,0-2,US Valenciennes-Anzin
+36,19/05/67,Marseille,1-1,Stade Rennais UC
+36,19/05/67,Stade de Reims,4-0,Lens
+36,20/05/67,Lille,0-1,Saint-Étienne
+36,20/05/67,FC Rouen,3-3,Nantes
+36,20/05/67,Angers,1-1,Stade Français
+36,20/05/67,RC Strasbourg,0-0,RC Paris-Sedan
+36,21/05/67,Nice,0-0,Monaco
+36,24/05/67,Nimes,3-0,Sochaux
+36,24/05/67,Lyon,1-0,Bordeaux
+37,27/05/67,Lens,3-2,Bordeaux
+37,27/05/67,Stade Rennais UC,4-3,RC Strasbourg
+37,28/05/67,Saint-Étienne,3-0,Stade de Reims
+37,28/05/67,Nantes,3-3,Marseille
+37,28/05/67,Sochaux,2-5,Angers
+37,28/05/67,RC Paris-Sedan,0-0,Lyon
+37,28/05/67,US Valenciennes-Anzin,0-1,Nice
+37,28/05/67,Nimes,0-0,Lille
+37,28/05/67,Monaco,0-0,FC Rouen
+37,28/05/67,Stade Français,0-0,Toulouse FC
+33,02/06/67,Lyon,1-1,FC Rouen
+32,07/06/67,Sochaux,3-1,Stade Rennais UC
+38,09/06/67,Nice,0-0,Stade Français
+38,10/06/67,RC Strasbourg,1-1,Nantes
+38,10/06/67,Bordeaux,2-5,RC Paris-Sedan
+38,10/06/67,FC Rouen,1-1,US Valenciennes-Anzin
+38,10/06/67,Lyon,0-0,Lens
+38,10/06/67,Marseille,1-2,Monaco
+38,10/06/67,Lille,0-0,Stade Rennais UC
+38,10/06/67,Toulouse FC,1-2,Sochaux
+38,10/06/67,Stade de Reims,1-1,Nimes
+38,11/06/67,Angers,0-3,Saint-Étienne

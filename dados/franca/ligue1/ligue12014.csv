@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,08/08/14,Stade de Reims,2-2,PSG
+1,09/08/14,Bastia,3-3,Marseille
+1,09/08/14,Evian TG,0-3,Caen
+1,09/08/14,Guingamp,0-2,Saint-Étienne
+1,09/08/14,Lille,0-0,Metz
+1,09/08/14,Montpellier,0-1,Bordeaux
+1,09/08/14,Nantes,1-0,Lens
+1,09/08/14,Nice,3-2,Toulouse
+1,10/08/14,Lyon,2-0,Rennes
+1,10/08/14,Monaco,1-2,FC Lorient
+2,15/08/14,Caen,0-1,Lille
+2,16/08/14,PSG,2-0,Bastia
+2,16/08/14,Lens,0-1,Guingamp
+2,16/08/14,FC Lorient,0-0,Nice
+2,16/08/14,Metz,1-1,Nantes
+2,16/08/14,Rennes,6-2,Evian TG
+2,16/08/14,Toulouse,2-1,Lyon
+2,17/08/14,Marseille,0-2,Montpellier
+2,17/08/14,Saint-Étienne,3-1,Stade de Reims
+2,17/08/14,Bordeaux,4-1,Monaco
+3,22/08/14,Evian TG,0-0,PSG
+3,23/08/14,Guingamp,0-1,Marseille
+3,23/08/14,Bastia,1-0,Toulouse
+3,23/08/14,Lille,2-0,FC Lorient
+3,23/08/14,Montpellier,2-0,Metz
+3,23/08/14,Nice,1-3,Bordeaux
+3,23/08/14,Stade de Reims,0-2,Caen
+3,24/08/14,Lyon,0-1,Lens
+3,24/08/14,Saint-Étienne,0-0,Rennes
+3,24/08/14,Nantes,0-1,Monaco
+4,29/08/14,Marseille,4-0,Nice
+4,30/08/14,Monaco,1-1,Lille
+4,30/08/14,Caen,0-1,Rennes
+4,30/08/14,Lens,4-2,Stade de Reims
+4,30/08/14,FC Lorient,4-0,Guingamp
+4,30/08/14,Nantes,1-0,Montpellier
+4,30/08/14,Toulouse,1-0,Evian TG
+4,31/08/14,Bordeaux,1-1,Bastia
+4,31/08/14,Metz,2-1,Lyon
+4,31/08/14,PSG,5-0,Saint-Étienne
+5,12/09/14,Lyon,2-1,Monaco
+5,13/09/14,Rennes,1-1,PSG
+5,13/09/14,Bastia,1-1,Lens
+5,13/09/14,Montpellier,1-0,FC Lorient
+5,13/09/14,Nice,1-0,Metz
+5,13/09/14,Stade de Reims,2-0,Toulouse
+5,13/09/14,Saint-Étienne,1-0,Caen
+5,14/09/14,Lille,2-0,Nantes
+5,14/09/14,Guingamp,2-1,Bordeaux
+5,14/09/14,Evian TG,1-3,Marseille
+6,19/09/14,Bordeaux,2-1,Evian TG
+6,20/09/14,Marseille,3-0,Rennes
+6,20/09/14,FC Lorient,0-1,Stade de Reims
+6,20/09/14,Metz,3-1,Bastia
+6,20/09/14,Nantes,2-1,Nice
+6,20/09/14,Toulouse,3-3,Caen
+6,21/09/14,Lille,0-0,Montpellier
+6,21/09/14,Lens,0-1,Saint-Étienne
+6,21/09/14,Monaco,1-0,Guingamp
+6,21/09/14,PSG,1-1,Lyon
+7,23/09/14,Stade de Reims,0-5,Marseille
+7,23/09/14,Rennes,0-3,Toulouse
+7,24/09/14,Bastia,0-0,Nantes
+7,24/09/14,Evian TG,2-1,Lens
+7,24/09/14,Guingamp,0-1,Metz
+7,24/09/14,Lyon,4-0,FC Lorient
+7,24/09/14,Montpellier,0-1,Monaco
+7,24/09/14,Nice,1-0,Lille
+7,24/09/14,Caen,0-2,PSG
+7,25/09/14,Saint-Étienne,1-1,Bordeaux
+8,27/09/14,Monaco,0-1,Nice
+8,27/09/14,Toulouse,1-1,PSG
+8,27/09/14,Lille,1-0,Bastia
+8,27/09/14,FC Lorient,0-2,Evian TG
+8,27/09/14,Metz,3-0,Stade de Reims
+8,27/09/14,Montpellier,2-1,Guingamp
+8,28/09/14,Bordeaux,2-1,Rennes
+8,28/09/14,Lens,0-0,Caen
+8,28/09/14,Nantes,1-1,Lyon
+8,28/09/14,Marseille,2-1,Saint-Étienne
+9,03/10/14,Stade de Reims,1-0,Bordeaux
+9,04/10/14,Caen,1-2,Marseille
+9,04/10/14,Bastia,0-2,FC Lorient
+9,04/10/14,Evian TG,3-0,Metz
+9,04/10/14,Nice,1-1,Montpellier
+9,04/10/14,Rennes,2-0,Lens
+9,05/10/14,Saint-Étienne,0-1,Toulouse
+9,05/10/14,Guingamp,0-1,Nantes
+9,05/10/14,Lyon,3-0,Lille
+9,05/10/14,PSG,1-1,Monaco
+10,17/10/14,Lens,1-3,PSG
+10,18/10/14,FC Lorient,0-1,Saint-Étienne
+10,18/10/14,Lille,1-2,Guingamp
+10,18/10/14,Metz,0-0,Rennes
+10,18/10/14,Monaco,2-0,Evian TG
+10,18/10/14,Nantes,1-1,Stade de Reims
+10,18/10/14,Nice,0-1,Bastia
+10,19/10/14,Marseille,2-0,Toulouse
+10,19/10/14,Bordeaux,1-1,Caen
+10,19/10/14,Lyon,5-1,Montpellier
+11,24/10/14,Toulouse,0-2,Lens
+11,25/10/14,PSG,3-0,Bordeaux
+11,25/10/14,Bastia,1-3,Monaco
+11,25/10/14,Caen,2-1,FC Lorient
+11,25/10/14,Evian TG,0-2,Nantes
+11,25/10/14,Stade de Reims,1-0,Montpellier
+11,26/10/14,Rennes,2-0,Lille
+11,26/10/14,Guingamp,2-7,Nice
+11,26/10/14,Saint-Étienne,1-0,Metz
+11,26/10/14,Lyon,1-0,Marseille
+12,31/10/14,Monaco,1-1,Stade de Reims
+12,01/11/14,FC Lorient,1-2,PSG
+12,01/11/14,Guingamp,1-0,Bastia
+12,01/11/14,Lille,1-1,Saint-Étienne
+12,01/11/14,Metz,3-2,Caen
+12,01/11/14,Montpellier,2-0,Evian TG
+12,01/11/14,Nice,1-3,Lyon
+12,02/11/14,Nantes,1-1,Rennes
+12,02/11/14,Bordeaux,2-1,Toulouse
+12,02/11/14,Marseille,2-1,Lens
+13,07/11/14,Rennes,1-0,FC Lorient
+13,08/11/14,Lens,1-2,Bordeaux
+13,08/11/14,Bastia,2-0,Montpellier
+13,08/11/14,Caen,1-2,Nantes
+13,08/11/14,Evian TG,1-0,Nice
+13,08/11/14,Toulouse,3-0,Metz
+13,09/11/14,Lyon,3-1,Guingamp
+13,09/11/14,Stade de Reims,2-0,Lille
+13,09/11/14,Saint-Étienne,1-1,Monaco
+13,09/11/14,PSG,2-0,Marseille
+14,21/11/14,Metz,2-3,PSG
+14,22/11/14,Bastia,0-0,Lyon
+14,22/11/14,Guingamp,0-1,Rennes
+14,22/11/14,FC Lorient,1-0,Lens
+14,22/11/14,Monaco,2-2,Caen
+14,22/11/14,Nice,0-0,Stade de Reims
+14,23/11/14,Nantes,0-0,Saint-Étienne
+14,23/11/14,Montpellier,2-0,Toulouse
+14,23/11/14,Marseille,3-1,Bordeaux
+15,28/11/14,Marseille,2-0,Nantes
+15,29/11/14,PSG,1-0,Nice
+15,29/11/14,Caen,1-1,Montpellier
+15,29/11/14,Lens,2-0,Metz
+15,29/11/14,Stade de Reims,2-1,Bastia
+15,29/11/14,Rennes,2-0,Monaco
+15,29/11/14,Toulouse,2-3,FC Lorient
+15,30/11/14,Bordeaux,1-0,Lille
+15,30/11/14,Evian TG,2-0,Guingamp
+15,30/11/14,Saint-Étienne,3-0,Lyon
+16,02/12/14,FC Lorient,1-1,Marseille
+16,02/12/14,Nantes,1-2,Toulouse
+16,02/12/14,Monaco,2-0,Lens
+16,03/12/14,Bastia,1-2,Evian TG
+16,03/12/14,Guingamp,5-1,Caen
+16,03/12/14,Metz,0-0,Bordeaux
+16,03/12/14,Montpellier,0-2,Saint-Étienne
+16,03/12/14,Nice,1-2,Rennes
+16,03/12/14,Lille,1-1,PSG
+16,04/12/14,Lyon,2-1,Stade de Reims
+17,05/12/14,Toulouse,0-2,Monaco
+17,06/12/14,PSG,2-1,Nantes
+17,06/12/14,Bordeaux,3-2,FC Lorient
+17,06/12/14,Caen,2-3,Nice
+17,06/12/14,Rennes,0-4,Montpellier
+17,06/12/14,Saint-Étienne,1-0,Bastia
+17,07/12/14,Evian TG,2-3,Lyon
+17,07/12/14,Lens,1-1,Lille
+17,07/12/14,Stade de Reims,2-3,Guingamp
+17,07/12/14,Marseille,3-1,Metz
+18,12/12/14,Lyon,3-0,Caen
+18,13/12/14,Nantes,2-1,Bordeaux
+18,13/12/14,Bastia,2-0,Rennes
+18,13/12/14,FC Lorient,3-1,Metz
+18,13/12/14,Montpellier,3-3,Lens
+18,13/12/14,Stade de Reims,3-2,Evian TG
+18,14/12/14,Nice,0-0,Saint-Étienne
+18,14/12/14,Guingamp,1-0,PSG
+18,14/12/14,Lille,3-0,Toulouse
+18,14/12/14,Monaco,1-0,Marseille
+19,19/12/14,Lens,2-0,Nice
+19,20/12/14,PSG,0-0,Montpellier
+19,20/12/14,Caen,1-1,Bastia
+19,20/12/14,FC Lorient,1-2,Nantes
+19,20/12/14,Metz,0-1,Monaco
+19,20/12/14,Rennes,1-3,Stade de Reims
+19,20/12/14,Toulouse,1-1,Guingamp
+19,21/12/14,Marseille,2-1,Lille
+19,21/12/14,Saint-Étienne,3-0,Evian TG
+19,21/12/14,Bordeaux,0-5,Lyon
+14,07/01/15,Lille,1-0,Evian TG
+20,09/01/15,Montpellier,2-1,Marseille
+20,10/01/15,Bastia,4-2,PSG
+20,10/01/15,Lille,1-0,Caen
+20,10/01/15,Guingamp,2-0,Lens
+20,10/01/15,Nice,3-1,FC Lorient
+20,10/01/15,Evian TG,1-1,Rennes
+20,10/01/15,Stade de Reims,1-2,Saint-Étienne
+20,11/01/15,Nantes,0-0,Metz
+20,11/01/15,Lyon,3-0,Toulouse
+20,11/01/15,Monaco,0-0,Bordeaux
+21,16/01/15,Bordeaux,1-2,Nice
+21,17/01/15,Lens,0-2,Lyon
+21,17/01/15,Toulouse,1-1,Bastia
+21,17/01/15,FC Lorient,1-0,Lille
+21,17/01/15,Metz,2-3,Montpellier
+21,17/01/15,Monaco,1-0,Nantes
+21,17/01/15,Caen,4-1,Stade de Reims
+21,18/01/15,PSG,4-2,Evian TG
+21,18/01/15,Rennes,0-0,Saint-Étienne
+21,18/01/15,Marseille,2-1,Guingamp
+22,23/01/15,Nice,2-1,Marseille
+22,24/01/15,Lille,0-1,Monaco
+22,24/01/15,Bastia,0-0,Bordeaux
+22,24/01/15,Guingamp,3-2,FC Lorient
+22,24/01/15,Montpellier,4-0,Nantes
+22,25/01/15,Lyon,2-0,Metz
+22,25/01/15,Evian TG,1-0,Toulouse
+22,25/01/15,Rennes,1-4,Caen
+22,25/01/15,Stade de Reims,0-0,Lens
+22,25/01/15,Saint-Étienne,0-1,PSG
+23,30/01/15,PSG,1-0,Rennes
+23,31/01/15,Marseille,1-0,Evian TG
+23,31/01/15,Lens,1-1,Bastia
+23,31/01/15,Nantes,1-1,Lille
+23,31/01/15,FC Lorient,0-0,Montpellier
+23,31/01/15,Metz,0-0,Nice
+23,31/01/15,Toulouse,1-0,Stade de Reims
+23,01/02/15,Caen,1-0,Saint-Étienne
+23,01/02/15,Bordeaux,1-1,Guingamp
+23,01/02/15,Monaco,0-0,Lyon
+24,06/02/15,Saint-Étienne,3-3,Lens
+24,07/02/15,Rennes,1-1,Marseille
+24,07/02/15,Evian TG,0-1,Bordeaux
+24,07/02/15,Montpellier,1-2,Lille
+24,07/02/15,Stade de Reims,1-3,FC Lorient
+24,07/02/15,Bastia,2-0,Metz
+24,07/02/15,Caen,2-0,Toulouse
+24,08/02/15,Guingamp,1-0,Monaco
+24,08/02/15,Nice,0-0,Nantes
+24,08/02/15,Lyon,1-1,PSG
+25,13/02/15,Marseille,2-2,Stade de Reims
+25,14/02/15,PSG,2-2,Caen
+25,14/02/15,Nantes,0-2,Bastia
+25,14/02/15,Lens,0-2,Evian TG
+25,14/02/15,Lille,0-0,Nice
+25,14/02/15,Toulouse,2-1,Rennes
+25,15/02/15,Bordeaux,1-0,Saint-Étienne
+25,15/02/15,Metz,0-2,Guingamp
+25,15/02/15,FC Lorient,1-1,Lyon
+26,20/02/15,Nice,0-1,Monaco
+26,21/02/15,PSG,3-1,Toulouse
+26,21/02/15,Rennes,1-1,Bordeaux
+26,21/02/15,Caen,4-1,Lens
+26,21/02/15,Bastia,2-1,Lille
+26,22/02/15,Guingamp,0-2,Montpellier
+26,22/02/15,Stade de Reims,0-0,Metz
+26,22/02/15,Lyon,1-0,Nantes
+26,22/02/15,Saint-Étienne,2-2,Marseille
+27,27/02/15,Marseille,2-3,Caen
+27,28/02/15,Lille,2-1,Lyon
+27,28/02/15,FC Lorient,2-0,Bastia
+27,28/02/15,Metz,1-2,Evian TG
+27,28/02/15,Bordeaux,1-1,Stade de Reims
+27,28/02/15,Lens,0-1,Rennes
+27,28/02/15,Toulouse,1-1,Saint-Étienne
+27,01/03/15,Nantes,1-0,Guingamp
+27,01/03/15,Montpellier,2-1,Nice
+27,01/03/15,Monaco,0-0,PSG
+26,04/03/15,Evian TG,1-0,FC Lorient
+28,06/03/15,Toulouse,1-6,Marseille
+28,07/03/15,PSG,4-1,Lens
+28,07/03/15,Caen,1-2,Bordeaux
+28,07/03/15,Rennes,1-0,Metz
+28,07/03/15,Evian TG,1-3,Monaco
+28,07/03/15,Stade de Reims,3-1,Nantes
+28,07/03/15,Bastia,2-1,Nice
+28,08/03/15,Saint-Étienne,2-0,FC Lorient
+28,08/03/15,Guingamp,0-1,Lille
+28,08/03/15,Montpellier,1-5,Lyon
+29,13/03/15,Monaco,3-0,Bastia
+29,13/03/15,Nice,1-2,Guingamp
+29,14/03/15,Metz,2-3,Saint-Étienne
+29,14/03/15,FC Lorient,2-1,Caen
+29,14/03/15,Nantes,2-1,Evian TG
+29,14/03/15,Montpellier,3-1,Stade de Reims
+29,14/03/15,Lens,1-0,Toulouse
+29,15/03/15,Lille,3-0,Rennes
+29,15/03/15,Bordeaux,3-2,PSG
+29,15/03/15,Marseille,0-0,Lyon
+30,20/03/15,PSG,3-1,FC Lorient
+30,21/03/15,Lyon,1-2,Nice
+30,21/03/15,Toulouse,2-1,Bordeaux
+30,21/03/15,Bastia,0-0,Guingamp
+30,21/03/15,Caen,0-0,Metz
+30,21/03/15,Evian TG,1-0,Montpellier
+30,21/03/15,Rennes,0-0,Nantes
+30,22/03/15,Saint-Étienne,2-0,Lille
+30,22/03/15,Stade de Reims,1-3,Monaco
+30,22/03/15,Lens,0-4,Marseille
+31,03/04/15,Monaco,1-1,Saint-Étienne
+31,04/04/15,Guingamp,1-3,Lyon
+31,04/04/15,Montpellier,3-1,Bastia
+31,04/04/15,Nice,2-2,Evian TG
+31,04/04/15,Lille,3-1,Stade de Reims
+31,04/04/15,FC Lorient,0-3,Rennes
+31,04/04/15,Metz,3-2,Toulouse
+31,05/04/15,Bordeaux,2-1,Lens
+31,05/04/15,Nantes,1-2,Caen
+31,05/04/15,Marseille,2-3,PSG
+25,07/04/15,Monaco,0-0,Montpellier
+32,10/04/15,Caen,0-3,Monaco
+32,12/04/15,Saint-Étienne,1-0,Nantes
+32,12/04/15,Rennes,1-0,Guingamp
+32,12/04/15,Evian TG,0-1,Lille
+32,12/04/15,Lens,0-0,FC Lorient
+32,12/04/15,Toulouse,1-0,Montpellier
+32,12/04/15,Stade de Reims,0-1,Nice
+32,12/04/15,Bordeaux,1-0,Marseille
+32,15/04/15,Lyon,2-0,Bastia
+33,17/04/15,Nantes,1-0,Marseille
+33,18/04/15,Nice,1-3,PSG
+33,18/04/15,Guingamp,1-1,Evian TG
+33,18/04/15,Metz,3-1,Lens
+33,18/04/15,Bastia,1-2,Stade de Reims
+33,18/04/15,Monaco,1-1,Rennes
+33,18/04/15,FC Lorient,0-1,Toulouse
+33,19/04/15,Lille,2-0,Bordeaux
+33,19/04/15,Montpellier,1-0,Caen
+33,19/04/15,Lyon,2-2,Saint-Étienne
+34,24/04/15,Marseille,3-5,FC Lorient
+34,25/04/15,PSG,6-1,Lille
+34,25/04/15,Evian TG,1-2,Bastia
+34,25/04/15,Caen,0-2,Guingamp
+34,25/04/15,Bordeaux,1-1,Metz
+34,25/04/15,Toulouse,1-1,Nantes
+34,25/04/15,Rennes,2-1,Nice
+34,26/04/15,Saint-Étienne,1-0,Montpellier
+34,26/04/15,Lens,0-3,Monaco
+34,26/04/15,Stade de Reims,2-4,Lyon
+32,28/04/15,PSG,3-1,Metz
+35,01/05/15,Metz,0-2,Marseille
+35,02/05/15,Lyon,2-0,Evian TG
+35,02/05/15,FC Lorient,0-0,Bordeaux
+35,02/05/15,Nice,1-1,Caen
+35,02/05/15,Guingamp,2-0,Stade de Reims
+35,02/05/15,Montpellier,0-0,Rennes
+35,02/05/15,Bastia,1-0,Saint-Étienne
+35,03/05/15,Lille,3-1,Lens
+35,03/05/15,Monaco,4-1,Toulouse
+35,03/05/15,Nantes,0-2,PSG
+36,08/05/15,PSG,6-0,Guingamp
+36,09/05/15,Caen,3-0,Lyon
+36,09/05/15,Rennes,0-1,Bastia
+36,09/05/15,Toulouse,3-2,Lille
+36,09/05/15,Metz,0-4,FC Lorient
+36,09/05/15,Bordeaux,2-1,Nantes
+36,09/05/15,Evian TG,2-3,Stade de Reims
+36,10/05/15,Lens,0-1,Montpellier
+36,10/05/15,Saint-Étienne,5-0,Nice
+36,10/05/15,Marseille,2-1,Monaco
+37,16/05/15,Lyon,1-1,Bordeaux
+37,16/05/15,Bastia,1-1,Caen
+37,16/05/15,Nice,2-1,Lens
+37,16/05/15,Nantes,1-1,FC Lorient
+37,16/05/15,Lille,0-4,Marseille
+37,16/05/15,Monaco,2-0,Metz
+37,16/05/15,Montpellier,1-2,PSG
+37,16/05/15,Stade de Reims,1-0,Rennes
+37,16/05/15,Evian TG,1-2,Saint-Étienne
+37,16/05/15,Guingamp,2-1,Toulouse
+38,23/05/15,Marseille,3-0,Bastia
+38,23/05/15,Caen,3-2,Evian TG
+38,23/05/15,Saint-Étienne,2-1,Guingamp
+38,23/05/15,Metz,1-4,Lille
+38,23/05/15,Rennes,0-1,Lyon
+38,23/05/15,FC Lorient,0-1,Monaco
+38,23/05/15,Bordeaux,2-1,Montpellier
+38,23/05/15,Lens,1-0,Nantes
+38,23/05/15,Toulouse,2-3,Nice
+38,23/05/15,PSG,3-2,Stade de Reims

@@ -1,17 +1,18 @@
 """
 LOTECA ANALYTICS PRO — Janela Principal da Aplicação
 Interface gráfica profissional com filtros dinâmicos, KPIs em tempo real,
-ordenação de colunas, busca fonética/sem acento, auto-atualização em segundo plano no startup
-e integração completa ao Importador O Gol 2.0 multi-navegador.
+ordenação de colunas, busca fonética/sem acento, carregamento direto do dataset
+(atualizado automaticamente às 18h e 00h via GitHub Actions) e integração ao Importador O Gol 2.0.
 """
 
+import os
 import tkinter as tk
 from tkinter import ttk, messagebox
 import threading
 import re
 import pandas as pd # type: ignore
 
-from config import THEME, FONTS, COMPETICOES, ABREV_COMPETICAO
+from config import THEME, FONTS, COMPETICOES, ABREV_COMPETICAO, _caminho
 from utils import peso_ordem_fase, normalizar_texto
 from gerenciador_dados import GerenciadorDados
 from janela_raio_x import JanelaRaioXJogo
@@ -53,6 +54,7 @@ class AppAnaliseLoteca(tk.Tk):
         self.sort_coluna = None
         self.sort_desc = False
 
+        self._configurar_icone()
         self._centralizar_janela()
         self._configurar_estilos()
         self._construir_interface()
@@ -60,8 +62,9 @@ class AppAnaliseLoteca(tk.Tk):
 
         self._mostrar_splash_screen()
 
-        # Inicia a verificação/atualização em segundo plano imediatamente durante a splash
-        self.after(100, self._auto_atualizar_startup)
+        # Carrega diretamente o dataset na abertura (sem rodar o raspador O Gol no startup;
+        # a atualização automática ocorre às 18h e 00h via GitHub Actions)
+        self.after(100, self._iniciar_carregamento)
 
     def _mostrar_splash_screen(self):
         """Exibe uma tela de carregamento animada chamada 'Projeto Chronos'."""
@@ -102,6 +105,16 @@ class AppAnaliseLoteca(tk.Tk):
         )
         self.progresso_splash.pack(pady=(0, 40))
         self.progresso_splash.start(10)
+
+    def _configurar_icone(self):
+        """Define o ícone oficial do Projeto Chronos na janela e barra de tarefas do sistema."""
+        try:
+            caminho_ico = _caminho("assets/icon.png")
+            if os.path.exists(caminho_ico):
+                self._app_icon = tk.PhotoImage(file=caminho_ico)
+                self.iconphoto(True, self._app_icon)
+        except Exception:
+            pass
 
     def _centralizar_janela(self):
         """Centraliza a janela na tela do usuário."""
@@ -503,54 +516,8 @@ class AppAnaliseLoteca(tk.Tk):
         self._iniciar_carregamento()
 
     def _auto_atualizar_startup(self):
-        """Verifica se há campeonatos ativos pendentes de atualização hoje e roda em segundo plano."""
-        chaves_pendentes = []
-        for chave, camp in self.raspador.catalogo.items():
-            if camp.get('ativo', True):
-                if not self.raspador.esta_atualizado(camp, modo='rapido'):
-                    chaves_pendentes.append(chave)
-
-        if not chaves_pendentes:
-            self.lbl_status.config(text="✅ Todos os jogos já estão 100% atualizados hoje! (Economizou tempo)")
-            self._iniciar_carregamento()
-            return
-
-        motor = self.raspador.obter_motor_preferido()
-        tipo_w = "threads" if motor == 'turbo' else "navegadores"
-        num_nav = min(3, len(chaves_pendentes))
-        self.box_prog_bg.pack(side='right', padx=10)
-        self.lbl_scraping_info.config(text=f"🔄 Atualizando {len(chaves_pendentes)} torneios ({num_nav} {tipo_w})...")
-        self.progress_bar_bg['value'] = 0
-
-        if hasattr(self, 'lbl_splash_status') and hasattr(self, 'splash') and self.splash.winfo_exists():
-            self.lbl_splash_status.config(text=f"Baixando dados do O Gol ({len(chaves_pendentes)} torneios)...")
-
-        def _ao_progredir_auto(pct, msg, worker_id):
-            def _update():
-                self.progress_bar_bg['value'] = pct
-                tag_w = f"⚡ W{worker_id}" if motor == 'turbo' else f"🤖 Nav {worker_id}"
-                self.lbl_scraping_info.config(text=f"{tag_w}: {msg[:25]}...")
-                if hasattr(self, 'lbl_splash_status') and hasattr(self, 'splash') and self.splash.winfo_exists():
-                    self.lbl_splash_status.config(text=f"O Gol: {msg[:35]}...")
-            self.after(0, _update)
-
-        def _ao_concluir_auto(atualizados, poupados):
-            def _finish():
-                self.box_prog_bg.pack_forget()
-                self.lbl_status.config(text=f"✅ Atualização concluída com sucesso! ({atualizados} atualizados, {poupados} poupados)")
-                self.gerenciador.invalidar_cache()
-                self._iniciar_carregamento()
-            self.after(0, _finish)
-
-        # Executa em segundo plano com o motor preferido (padrão Turbo HTTP)
-        self.raspador.executar_raspagem_paralela(
-            chaves_selecionadas=chaves_pendentes,
-            num_navegadores=num_nav,
-            modo='rapido',
-            motor=motor,
-            callback_progresso=_ao_progredir_auto,
-            callback_concluido=_ao_concluir_auto
-        )
+        """Carrega diretamente o dataset local sem acionar o raspador O Gol na abertura do app."""
+        self._iniciar_carregamento()
 
     # ── MÉTODOS DE CONTROLE DA TABELA E INTERFACE ──────────────────────────
     def _set_filtro_rapido(self, tipo: str):
@@ -608,6 +575,11 @@ class AppAnaliseLoteca(tk.Tk):
             self.after(0, self._falha_carregamento, str(e))
 
     def _falha_carregamento(self, erro_msg: str):
+        if hasattr(self, 'splash') and self.splash.winfo_exists():
+            self.progresso_splash.stop()
+            self.splash.destroy()
+            self.deiconify()
+            self.lift()
         self.btn_carregar.config(state='normal', text="⚡ Atualizar")
         self.lbl_status.config(text=f"❌ Erro: {erro_msg}")
         messagebox.showerror("Erro ao Carregar Temporada", erro_msg)

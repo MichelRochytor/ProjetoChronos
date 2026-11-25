@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,21/08/65,Toulouse FC,1-0,Angers
+1,22/08/65,Sedan-Torcy,3-1,Stade Rennais UC
+1,22/08/65,Nantes,2-0,Lyon
+1,22/08/65,Red Star,2-0,US Valenciennes-Anzin
+1,22/08/65,Monaco,2-0,Lille
+1,22/08/65,Saint-Étienne,2-1,Nimes
+1,22/08/65,Cannes,2-1,Bordeaux
+1,22/08/65,Lens,1-0,Stade Français
+1,22/08/65,Sochaux,1-0,Nice
+1,22/08/65,RC Strasbourg,0-0,FC Rouen
+2,28/08/65,Sedan-Torcy,3-0,Sochaux
+2,28/08/65,Nantes,4-2,Lens
+2,28/08/65,Saint-Étienne,1-3,Monaco
+2,28/08/65,Nice,0-2,RC Strasbourg
+2,28/08/65,FC Rouen,1-0,Cannes
+2,28/08/65,Nimes,3-1,Red Star
+2,28/08/65,Lille,1-0,Toulouse FC
+2,28/08/65,US Valenciennes-Anzin,2-1,Stade Rennais UC
+2,28/08/65,Bordeaux,2-2,Lyon
+2,29/08/65,Angers,0-0,Stade Français
+3,01/09/65,Monaco,3-0,FC Rouen
+3,01/09/65,Stade Français,0-1,Nantes
+3,01/09/65,RC Strasbourg,3-3,Sedan-Torcy
+3,01/09/65,Cannes,2-0,Lille
+3,01/09/65,Sochaux,2-3,Saint-Étienne
+3,01/09/65,Nimes,2-2,US Valenciennes-Anzin
+3,01/09/65,Lyon,2-0,Nice
+3,01/09/65,Toulouse FC,0-0,Bordeaux
+3,01/09/65,Lens,2-2,Angers
+3,01/09/65,Stade Rennais UC,2-1,Red Star
+4,04/09/65,Nantes,5-3,Angers
+4,04/09/65,Sedan-Torcy,2-0,Nimes
+4,04/09/65,Saint-Étienne,3-0,Toulouse FC
+4,04/09/65,US Valenciennes-Anzin,3-2,RC Strasbourg
+4,04/09/65,Bordeaux,10-0,Stade Français
+4,04/09/65,FC Rouen,0-0,Lyon
+4,05/09/65,Nice,1-2,Monaco
+4,05/09/65,Stade Rennais UC,2-2,Cannes
+4,05/09/65,Lille,1-1,Lens
+4,05/09/65,Red Star,1-1,Sochaux
+5,09/09/65,Monaco,3-3,Sedan-Torcy
+5,09/09/65,Lens,0-0,FC Rouen
+5,10/09/65,Toulouse FC,0-0,Nantes
+5,10/09/65,Cannes,2-8,Saint-Étienne
+5,10/09/65,RC Strasbourg,7-1,Red Star
+5,10/09/65,Lyon,6-3,Lille
+5,10/09/65,Sochaux,1-1,US Valenciennes-Anzin
+5,10/09/65,Angers,0-0,Bordeaux
+5,10/09/65,Nimes,2-2,Stade Rennais UC
+5,10/09/65,Stade Français,2-1,Nice
+6,17/09/65,Nice,2-1,Toulouse FC
+6,18/09/65,Bordeaux,1-2,Nantes
+6,18/09/65,Saint-Étienne,5-1,RC Strasbourg
+6,18/09/65,Sedan-Torcy,3-1,Cannes
+6,18/09/65,FC Rouen,2-1,Stade Français
+6,18/09/65,Stade Rennais UC,4-3,Sochaux
+6,19/09/65,US Valenciennes-Anzin,1-0,Monaco
+6,19/09/65,Red Star,2-2,Lyon
+6,19/09/65,Lille,1-0,Angers
+7,24/09/65,Lyon,2-1,Sedan-Torcy
+7,24/09/65,Cannes,0-1,US Valenciennes-Anzin
+7,25/09/65,Nantes,2-1,Nice
+7,25/09/65,Angers,1-1,Saint-Étienne
+7,25/09/65,Monaco,2-1,Red Star
+7,25/09/65,RC Strasbourg,3-1,Stade Rennais UC
+7,25/09/65,Lens,0-1,Bordeaux
+7,25/09/65,Toulouse FC,6-5,FC Rouen
+7,25/09/65,Sochaux,3-1,Nimes
+7,26/09/65,Stade Français,1-1,Lille
+8,28/09/65,US Valenciennes-Anzin,1-0,Lyon
+8,29/09/65,FC Rouen,0-0,Nantes
+8,29/09/65,Saint-Étienne,0-0,Stade Français
+8,29/09/65,Sedan-Torcy,3-1,Angers
+8,29/09/65,Lille,0-0,Bordeaux
+8,29/09/65,Nimes,4-1,RC Strasbourg
+8,29/09/65,Sochaux,0-1,Toulouse FC
+8,29/09/65,Nice,0-3,Lens
+8,29/09/65,Red Star,3-2,Cannes
+9,02/10/65,Nantes,3-1,Lille
+9,02/10/65,Monaco,4-0,Nimes
+9,02/10/65,RC Strasbourg,5-1,Sochaux
+9,03/10/65,Lyon,1-1,Saint-Étienne
+9,03/10/65,Toulouse FC,2-2,Sedan-Torcy
+9,03/10/65,Lens,1-1,US Valenciennes-Anzin
+9,03/10/65,Bordeaux,4-1,FC Rouen
+9,03/10/65,Stade Français,1-1,Red Star
+9,03/10/65,Angers,5-3,Stade Rennais UC
+9,03/10/65,Cannes,1-3,Nice
+6,06/10/65,Nimes,4-5,Lens
+8,12/10/65,Stade Rennais UC,0-1,Monaco
+11,13/10/65,Stade Français,1-1,Sedan-Torcy
+11,13/10/65,Lens,2-1,Saint-Étienne
+10,16/10/65,FC Rouen,1-1,Lille
+10,17/10/65,Saint-Étienne,0-3,Nantes
+10,17/10/65,Sochaux,2-1,Monaco
+10,17/10/65,US Valenciennes-Anzin,1-0,Stade Français
+10,17/10/65,Sedan-Torcy,1-3,Lens
+10,17/10/65,Nice,1-2,Bordeaux
+10,17/10/65,RC Strasbourg,1-1,Angers
+10,17/10/65,Stade Rennais UC,5-2,Lyon
+10,17/10/65,Red Star,1-1,Toulouse FC
+10,17/10/65,Nimes,1-1,Cannes
+11,20/10/65,Nantes,7-2,Red Star
+11,20/10/65,Toulouse FC,1-2,US Valenciennes-Anzin
+11,20/10/65,Monaco,0-0,RC Strasbourg
+11,20/10/65,Bordeaux,2-1,Stade Rennais UC
+11,20/10/65,Lyon,3-1,Nimes
+11,20/10/65,Lille,2-1,Nice
+11,20/10/65,Angers,6-0,FC Rouen
+11,20/10/65,Cannes,1-1,Sochaux
+12,24/10/65,US Valenciennes-Anzin,2-2,Nantes
+12,24/10/65,Monaco,0-0,Cannes
+12,24/10/65,Sedan-Torcy,1-1,Bordeaux
+12,24/10/65,Saint-Étienne,7-4,Lille
+12,24/10/65,RC Strasbourg,1-0,Lens
+12,24/10/65,Sochaux,7-2,Lyon
+12,24/10/65,Red Star,0-2,Angers
+12,24/10/65,Stade Rennais UC,4-3,Stade Français
+12,24/10/65,Nimes,2-0,Toulouse FC
+12,24/10/65,Nice,6-0,FC Rouen
+13,29/10/65,Toulouse FC,4-1,Stade Rennais UC
+13,29/10/65,Lyon,1-0,Monaco
+13,30/10/65,Lille,3-0,Red Star
+13,30/10/65,Nantes,4-2,Sedan-Torcy
+13,30/10/65,FC Rouen,2-0,Saint-Étienne
+13,31/10/65,Bordeaux,2-0,US Valenciennes-Anzin
+13,31/10/65,Cannes,2-1,RC Strasbourg
+13,31/10/65,Lens,0-1,Sochaux
+13,31/10/65,Angers,1-0,Nice
+13,31/10/65,Stade Français,2-1,Nimes
+14,10/11/65,Sedan-Torcy,4-4,FC Rouen
+14,10/11/65,Monaco,3-0,Lens
+14,11/11/65,Stade Rennais UC,2-0,Nantes
+14,11/11/65,US Valenciennes-Anzin,2-0,Lille
+14,11/11/65,Saint-Étienne,5-1,Nice
+14,11/11/65,Red Star,2-0,Bordeaux
+14,11/11/65,RC Strasbourg,0-0,Lyon
+14,11/11/65,Sochaux,1-0,Stade Français
+14,11/11/65,Nimes,1-0,Angers
+14,11/11/65,Cannes,5-3,Toulouse FC
+15,13/11/65,Nantes,4-1,Nimes
+15,14/11/65,FC Rouen,1-3,US Valenciennes-Anzin
+15,14/11/65,Bordeaux,4-0,Saint-Étienne
+15,14/11/65,Toulouse FC,5-1,Monaco
+15,14/11/65,Stade Français,0-2,RC Strasbourg
+15,14/11/65,Lille,1-1,Sedan-Torcy
+15,14/11/65,Lyon,2-0,Cannes
+15,14/11/65,Lens,4-1,Stade Rennais UC
+15,14/11/65,Angers,2-2,Sochaux
+15,14/11/65,Nice,4-0,Red Star
+16,19/11/65,Monaco,3-1,Stade Français
+16,20/11/65,Sochaux,3-1,Nantes
+16,21/11/65,US Valenciennes-Anzin,4-2,Nice
+16,21/11/65,Nimes,1-1,Bordeaux
+16,21/11/65,Sedan-Torcy,4-1,Saint-Étienne
+16,21/11/65,Lyon,2-1,Angers
+16,21/11/65,RC Strasbourg,2-2,Toulouse FC
+16,21/11/65,Cannes,1-1,Lens
+16,21/11/65,Stade Rennais UC,4-0,Lille
+16,21/11/65,Red Star,0-1,FC Rouen
+17,28/11/65,Nantes,2-0,RC Strasbourg
+17,28/11/65,Saint-Étienne,5-1,US Valenciennes-Anzin
+17,28/11/65,Bordeaux,4-2,Sochaux
+17,28/11/65,Angers,1-1,Monaco
+17,28/11/65,Nice,1-0,Sedan-Torcy
+17,28/11/65,Lens,3-0,Red Star
+17,28/11/65,Toulouse FC,1-0,Lyon
+17,28/11/65,FC Rouen,2-2,Stade Rennais UC
+17,28/11/65,Lille,1-2,Nimes
+17,28/11/65,Stade Français,3-1,Cannes
+18,05/12/65,Monaco,1-3,Nantes
+18,05/12/65,US Valenciennes-Anzin,0-4,Sedan-Torcy
+18,05/12/65,RC Strasbourg,3-0,Bordeaux
+18,05/12/65,Red Star,1-5,Saint-Étienne
+18,05/12/65,Lyon,2-0,Stade Français
+18,05/12/65,Sochaux,1-0,Lille
+18,05/12/65,Toulouse FC,4-1,Lens
+18,05/12/65,Cannes,2-5,Angers
+18,05/12/65,Stade Rennais UC,3-0,Nice
+18,05/12/65,Nimes,2-1,FC Rouen
+19,12/12/65,Nantes,1-0,Cannes
+19,12/12/65,Angers,0-1,US Valenciennes-Anzin
+19,12/12/65,Bordeaux,5-0,Monaco
+19,12/12/65,Saint-Étienne,4-0,Stade Rennais UC
+19,12/12/65,Sedan-Torcy,5-2,Red Star
+19,12/12/65,Lens,2-1,Lyon
+19,12/12/65,FC Rouen,1-1,Sochaux
+19,12/12/65,Lille,2-1,RC Strasbourg
+19,12/12/65,Stade Français,2-0,Toulouse FC
+19,12/12/65,Nice,4-1,Nimes
+20,19/12/65,Lyon,0-2,Nantes
+20,19/12/65,US Valenciennes-Anzin,1-0,Red Star
+20,19/12/65,Bordeaux,1-0,Cannes
+20,19/12/65,Nimes,1-1,Saint-Étienne
+20,19/12/65,Stade Rennais UC,4-2,Sedan-Torcy
+20,19/12/65,Lille,2-1,Monaco
+20,19/12/65,FC Rouen,0-0,RC Strasbourg
+20,19/12/65,Stade Français,3-1,Lens
+20,19/12/65,Nice,3-1,Sochaux
+20,19/12/65,Angers,2-0,Toulouse FC
+21,08/01/66,Toulouse FC,2-0,Lille
+21,09/01/66,Lens,1-1,Nantes
+21,09/01/66,Stade Rennais UC,1-1,US Valenciennes-Anzin
+21,09/01/66,Lyon,1-4,Bordeaux
+21,09/01/66,Monaco,1-1,Saint-Étienne
+21,09/01/66,Sochaux,0-1,Sedan-Torcy
+21,09/01/66,RC Strasbourg,1-3,Nice
+21,09/01/66,Stade Français,2-1,Angers
+21,09/01/66,Cannes,1-2,FC Rouen
+21,09/01/66,Red Star,3-3,Nimes
+22,23/01/66,Nantes,2-1,Stade Français
+22,23/01/66,US Valenciennes-Anzin,3-0,Nimes
+22,23/01/66,Bordeaux,3-0,Toulouse FC
+22,23/01/66,Saint-Étienne,3-1,Sochaux
+22,23/01/66,Nice,4-2,Lyon
+22,23/01/66,Lille,2-0,Cannes
+23,30/01/66,Angers,1-1,Nantes
+23,30/01/66,Stade Français,2-4,Bordeaux
+23,30/01/66,RC Strasbourg,0-0,US Valenciennes-Anzin
+23,30/01/66,Toulouse FC,2-0,Saint-Étienne
+23,30/01/66,Nimes,1-0,Sedan-Torcy
+23,30/01/66,Lens,2-0,Lille
+23,30/01/66,Monaco,0-3,Nice
+23,30/01/66,Sochaux,3-0,Red Star
+23,30/01/66,Lyon,0-0,FC Rouen
+23,30/01/66,Cannes,1-0,Stade Rennais UC
+24,06/02/66,Nantes,2-0,Toulouse FC
+24,06/02/66,Bordeaux,2-0,Angers
+24,06/02/66,US Valenciennes-Anzin,0-0,Sochaux
+24,06/02/66,Saint-Étienne,1-1,Cannes
+24,06/02/66,FC Rouen,1-3,Lens
+24,06/02/66,Sedan-Torcy,0-2,Monaco
+24,06/02/66,Red Star,2-2,RC Strasbourg
+24,06/02/66,Stade Rennais UC,3-1,Nimes
+24,06/02/66,Lille,1-0,Lyon
+24,06/02/66,Nice,1-1,Stade Français
+22,13/02/66,FC Rouen,1-2,Monaco
+22,16/02/66,Sedan-Torcy,0-0,RC Strasbourg
+25,20/02/66,Nantes,2-2,Bordeaux
+25,20/02/66,Monaco,0-2,US Valenciennes-Anzin
+25,20/02/66,RC Strasbourg,0-1,Saint-Étienne
+25,20/02/66,Lens,1-1,Nimes
+25,20/02/66,Sochaux,3-2,Stade Rennais UC
+25,20/02/66,Toulouse FC,2-1,Nice
+25,20/02/66,Lyon,0-0,Red Star
+25,20/02/66,Angers,3-1,Lille
+25,20/02/66,Stade Français,0-0,FC Rouen
+26,27/02/66,Nice,0-0,Nantes
+26,27/02/66,Bordeaux,2-1,Lens
+26,27/02/66,US Valenciennes-Anzin,3-0,Cannes
+26,27/02/66,Saint-Étienne,4-0,Angers
+26,27/02/66,Sedan-Torcy,2-0,Lyon
+26,27/02/66,FC Rouen,0-1,Toulouse FC
+26,27/02/66,Red Star,2-0,Monaco
+26,27/02/66,Nimes,1-0,Sochaux
+26,27/02/66,Stade Rennais UC,2-1,RC Strasbourg
+26,27/02/66,Lille,3-3,Stade Français
+27,02/03/66,Nantes,2-1,FC Rouen
+27,02/03/66,Bordeaux,1-0,Lille
+27,02/03/66,Stade Français,1-2,Saint-Étienne
+27,02/03/66,Lens,4-2,Nice
+27,02/03/66,Angers,2-0,Sedan-Torcy
+27,02/03/66,Toulouse FC,1-1,Sochaux
+27,02/03/66,Monaco,1-1,Stade Rennais UC
+27,02/03/66,RC Strasbourg,1-0,Nimes
+27,02/03/66,Cannes,1-1,Red Star
+28,06/03/66,Lille,0-1,Nantes
+28,06/03/66,FC Rouen,0-0,Bordeaux
+28,06/03/66,US Valenciennes-Anzin,2-0,Lens
+28,06/03/66,Saint-Étienne,2-1,Lyon
+28,06/03/66,Sedan-Torcy,0-1,Toulouse FC
+28,06/03/66,Sochaux,2-1,RC Strasbourg
+28,06/03/66,Nimes,4-0,Monaco
+28,06/03/66,Stade Rennais UC,4-4,Angers
+28,06/03/66,Nice,1-1,Cannes
+28,06/03/66,Red Star,1-5,Stade Français
+22,23/03/66,Angers,3-2,Lens
+29,26/03/66,Nantes,5-0,Saint-Étienne
+29,26/03/66,Bordeaux,0-2,Nice
+29,26/03/66,Monaco,1-1,Sochaux
+29,26/03/66,Lyon,1-2,Stade Rennais UC
+29,26/03/66,Lille,2-1,FC Rouen
+29,27/03/66,Stade Français,1-1,US Valenciennes-Anzin
+29,27/03/66,Toulouse FC,1-0,Red Star
+29,27/03/66,Lens,1-1,Sedan-Torcy
+29,27/03/66,Angers,0-3,RC Strasbourg
+29,27/03/66,Cannes,1-2,Nimes
+25,03/04/66,Cannes,2-1,Sedan-Torcy
+30,08/04/66,Red Star,0-3,Nantes
+30,08/04/66,US Valenciennes-Anzin,1-1,Toulouse FC
+30,08/04/66,Saint-Étienne,2-0,Lens
+30,08/04/66,Sochaux,3-1,Cannes
+30,08/04/66,RC Strasbourg,1-1,Monaco
+30,08/04/66,Nimes,0-0,Lyon
+30,08/04/66,FC Rouen,4-0,Angers
+30,09/04/66,Stade Rennais UC,2-0,Bordeaux
+30,09/04/66,Sedan-Torcy,0-0,Stade Français
+30,10/04/66,Nice,2-0,Lille
+31,13/04/66,Nantes,1-1,US Valenciennes-Anzin
+31,13/04/66,Bordeaux,4-2,Sedan-Torcy
+31,13/04/66,Lille,3-0,Saint-Étienne
+31,13/04/66,Toulouse FC,3-0,Nimes
+31,13/04/66,Lyon,1-0,Sochaux
+31,13/04/66,Cannes,0-3,Monaco
+31,13/04/66,Lens,0-0,RC Strasbourg
+31,13/04/66,Stade Français,2-1,Stade Rennais UC
+31,13/04/66,Angers,2-2,Red Star
+31,13/04/66,FC Rouen,1-0,Nice
+32,17/04/66,Sedan-Torcy,3-0,Nantes
+32,17/04/66,US Valenciennes-Anzin,2-2,Bordeaux
+32,17/04/66,Saint-Étienne,2-2,FC Rouen
+32,17/04/66,Stade Rennais UC,2-1,Toulouse FC
+32,17/04/66,Sochaux,3-2,Lens
+32,17/04/66,Monaco,2-0,Lyon
+32,17/04/66,RC Strasbourg,5-0,Cannes
+32,17/04/66,Nice,5-2,Angers
+32,17/04/66,Nimes,0-0,Stade Français
+32,17/04/66,Red Star,6-4,Lille
+33,22/04/66,Toulouse FC,6-1,Cannes
+33,23/04/66,Nantes,4-0,Stade Rennais UC
+33,23/04/66,Bordeaux,6-0,Red Star
+33,23/04/66,Stade Français,1-1,Sochaux
+33,23/04/66,Lens,0-0,Monaco
+33,23/04/66,Lyon,2-0,RC Strasbourg
+33,23/04/66,FC Rouen,3-1,Sedan-Torcy
+33,23/04/66,Angers,3-0,Nimes
+33,24/04/66,Lille,6-1,US Valenciennes-Anzin
+33,24/04/66,Nice,4-2,Saint-Étienne
+27,28/04/66,Lyon,0-1,US Valenciennes-Anzin
+22,29/04/66,Red Star,0-2,Stade Rennais UC
+34,07/05/66,Nimes,1-2,Nantes
+34,07/05/66,US Valenciennes-Anzin,1-1,FC Rouen
+34,07/05/66,Saint-Étienne,2-1,Bordeaux
+34,07/05/66,Sochaux,3-2,Angers
+34,07/05/66,Stade Rennais UC,4-1,Lens
+34,07/05/66,RC Strasbourg,4-0,Stade Français
+34,07/05/66,Sedan-Torcy,1-0,Lille
+34,07/05/66,Cannes,0-0,Lyon
+34,08/05/66,Red Star,2-3,Nice
+34,10/05/66,Monaco,2-3,Toulouse FC
+35,14/05/66,Nantes,2-1,Sochaux
+35,14/05/66,Bordeaux,5-2,Nimes
+35,14/05/66,Saint-Étienne,2-1,Sedan-Torcy
+35,14/05/66,Lille,1-3,Stade Rennais UC
+35,14/05/66,Lens,1-0,Cannes
+35,14/05/66,Angers,4-1,Lyon
+35,14/05/66,FC Rouen,1-0,Red Star
+35,15/05/66,Nice,1-1,US Valenciennes-Anzin
+35,15/05/66,Toulouse FC,2-0,RC Strasbourg
+35,15/05/66,Stade Français,1-0,Monaco
+36,18/05/66,Sochaux,0-1,Bordeaux
+36,18/05/66,US Valenciennes-Anzin,3-1,Saint-Étienne
+36,18/05/66,Lyon,0-1,Toulouse FC
+36,18/05/66,Sedan-Torcy,2-0,Nice
+36,18/05/66,Monaco,1-3,Angers
+36,18/05/66,Nimes,4-1,Lille
+36,19/05/66,Red Star,1-2,Lens
+36,19/05/66,Cannes,0-4,Stade Français
+36,21/05/66,Stade Rennais UC,4-0,FC Rouen
+36,25/05/66,RC Strasbourg,1-0,Nantes
+37,27/05/66,Saint-Étienne,7-0,Red Star
+37,27/05/66,Lille,2-1,Sochaux
+37,27/05/66,Angers,4-1,Cannes
+37,27/05/66,FC Rouen,1-0,Nimes
+37,27/05/66,Stade Français,0-1,Lyon
+37,28/05/66,Nantes,2-1,Monaco
+37,28/05/66,Bordeaux,4-0,RC Strasbourg
+37,28/05/66,Sedan-Torcy,2-2,US Valenciennes-Anzin
+37,28/05/66,Lens,0-1,Toulouse FC
+38,10/06/66,US Valenciennes-Anzin,4-1,Angers
+38,10/06/66,Sochaux,4-0,FC Rouen
+38,10/06/66,Red Star,3-3,Sedan-Torcy
+38,11/06/66,Cannes,1-6,Nantes
+38,11/06/66,Toulouse FC,1-1,Stade Français
+38,11/06/66,Stade Rennais UC,2-0,Saint-Étienne
+38,11/06/66,RC Strasbourg,4-1,Lille
+38,11/06/66,Lyon,3-2,Lens
+38,11/06/66,Nimes,1-0,Nice
+38,12/06/66,Monaco,0-2,Bordeaux
+37,15/06/66,Nice,3-2,Stade Rennais UC

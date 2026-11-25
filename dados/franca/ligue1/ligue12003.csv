@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,31/07/03,Lille,1-0,Lyon
+1,01/08/03,Auxerre,1-2,Nice
+1,01/08/03,Guingamp,0-1,Marseille
+1,01/08/03,Lens,0-0,Le Mans UC 72
+1,01/08/03,Metz,0-1,AC Ajaccio
+1,01/08/03,Monaco,2-0,Bordeaux
+1,01/08/03,Montpellier,1-1,Rennes
+1,01/08/03,PSG,0-0,Bastia
+1,01/08/03,Sochaux,2-1,Nantes
+1,01/08/03,Toulouse,1-1,RC Strasbourg
+2,07/08/03,Marseille,1-0,Auxerre
+2,08/08/03,Bastia,0-2,Metz
+2,08/08/03,Bordeaux,0-1,Montpellier
+2,08/08/03,Le Mans UC 72,0-1,AC Ajaccio
+2,08/08/03,Lille,1-0,PSG
+2,08/08/03,Lyon,3-1,Monaco
+2,08/08/03,Nantes,2-0,Lens
+2,08/08/03,Nice,1-0,Sochaux
+2,08/08/03,Rennes,1-0,Toulouse
+2,08/08/03,RC Strasbourg,2-0,Guingamp
+3,15/08/03,AC Ajaccio,1-3,Nantes
+3,15/08/03,Auxerre,3-2,RC Strasbourg
+3,15/08/03,Guingamp,1-3,Bordeaux
+3,15/08/03,Le Mans UC 72,1-1,Nice
+3,15/08/03,Metz,0-1,PSG
+3,15/08/03,Monaco,2-0,Bastia
+3,15/08/03,Montpellier,0-2,Lyon
+3,15/08/03,Sochaux,1-1,Rennes
+3,15/08/03,Toulouse,0-3,Lille
+3,16/08/03,Lens,2-1,Marseille
+4,22/08/03,Bastia,1-0,Montpellier
+4,22/08/03,Bordeaux,2-0,Auxerre
+4,22/08/03,Lille,1-1,Metz
+4,22/08/03,Lyon,0-0,Toulouse
+4,22/08/03,Marseille,2-0,Sochaux
+4,22/08/03,Nantes,1-0,Le Mans UC 72
+4,22/08/03,Nice,2-2,AC Ajaccio
+4,22/08/03,Rennes,0-0,Guingamp
+4,22/08/03,RC Strasbourg,0-1,Lens
+4,23/08/03,PSG,2-4,Monaco
+5,29/08/03,Auxerre,2-1,Rennes
+5,29/08/03,Guingamp,2-0,Lyon
+5,29/08/03,Le Mans UC 72,0-3,RC Strasbourg
+5,29/08/03,Montpellier,3-2,PSG
+5,29/08/03,Nantes,0-0,Bordeaux
+5,29/08/03,Sochaux,2-1,Lille
+5,29/08/03,Toulouse,0-2,Bastia
+5,30/08/03,AC Ajaccio,0-1,Marseille
+5,30/08/03,Lens,1-0,Nice
+5,30/08/03,Monaco,1-0,Metz
+6,12/09/03,Bastia,4-2,Guingamp
+6,12/09/03,Bordeaux,1-3,Sochaux
+6,12/09/03,Lille,1-1,Monaco
+6,12/09/03,Lyon,1-1,Auxerre
+6,12/09/03,Marseille,5-0,Le Mans UC 72
+6,12/09/03,Metz,2-1,Montpellier
+6,12/09/03,Nice,1-0,Nantes
+6,12/09/03,Rennes,2-0,Lens
+6,12/09/03,RC Strasbourg,3-2,AC Ajaccio
+6,13/09/03,PSG,2-1,Toulouse
+7,19/09/03,AC Ajaccio,1-0,Rennes
+7,19/09/03,Auxerre,4-1,Bastia
+7,19/09/03,Guingamp,0-2,PSG
+7,19/09/03,Lens,1-0,Bordeaux
+7,19/09/03,Nice,2-0,Lille
+7,19/09/03,Sochaux,3-0,RC Strasbourg
+7,19/09/03,Toulouse,1-0,Metz
+7,20/09/03,Le Mans UC 72,0-2,Lyon
+7,20/09/03,Montpellier,1-2,Monaco
+7,20/09/03,Nantes,1-0,Marseille
+8,26/09/03,Bastia,2-0,Sochaux
+8,26/09/03,Lille,1-1,Montpellier
+8,26/09/03,Lyon,4-0,Lens
+8,26/09/03,Marseille,2-1,Nice
+8,26/09/03,Metz,1-1,Guingamp
+8,26/09/03,Monaco,3-0,Toulouse
+8,26/09/03,PSG,1-0,Auxerre
+8,26/09/03,Rennes,2-0,Le Mans UC 72
+8,27/09/03,Bordeaux,1-0,AC Ajaccio
+8,27/09/03,RC Strasbourg,1-0,Nantes
+9,03/10/03,AC Ajaccio,2-4,Lyon
+9,03/10/03,Auxerre,3-0,Lille
+9,03/10/03,Guingamp,1-2,Monaco
+9,03/10/03,Le Mans UC 72,0-0,Bordeaux
+9,03/10/03,Lens,0-2,Metz
+9,03/10/03,Nantes,1-0,Rennes
+9,03/10/03,Nice,0-0,RC Strasbourg
+9,03/10/03,Sochaux,0-1,PSG
+9,03/10/03,Toulouse,2-2,Montpellier
+9,04/10/03,Marseille,3-1,Bastia
+10,17/10/03,RC Strasbourg,4-1,Marseille
+10,18/10/03,Monaco,1-1,Auxerre
+10,18/10/03,Bastia,3-1,Lens
+10,18/10/03,Bordeaux,1-2,Toulouse
+10,18/10/03,Lille,0-0,AC Ajaccio
+10,18/10/03,Lyon,1-1,Sochaux
+10,18/10/03,Metz,1-3,Nantes
+10,18/10/03,Montpellier,2-0,Guingamp
+10,18/10/03,PSG,5-1,Le Mans UC 72
+10,18/10/03,Rennes,0-0,Nice
+11,25/10/03,Nantes,0-1,Lyon
+11,25/10/03,AC Ajaccio,0-0,PSG
+11,25/10/03,Auxerre,0-1,Montpellier
+11,25/10/03,Guingamp,1-0,Toulouse
+11,25/10/03,Le Mans UC 72,1-1,Bastia
+11,25/10/03,Lens,2-1,Lille
+11,25/10/03,Marseille,2-0,Rennes
+11,25/10/03,Nice,0-0,Bordeaux
+11,25/10/03,RC Strasbourg,0-2,Metz
+11,26/10/03,Sochaux,1-1,Monaco
+12,01/11/03,Lyon,5-0,Nice
+12,01/11/03,Bastia,1-1,AC Ajaccio
+12,01/11/03,Bordeaux,1-0,Marseille
+12,01/11/03,Lille,1-3,Guingamp
+12,01/11/03,Metz,0-1,Sochaux
+12,01/11/03,Monaco,4-2,Le Mans UC 72
+12,01/11/03,Montpellier,4-1,Nantes
+12,01/11/03,Rennes,1-1,RC Strasbourg
+12,01/11/03,Toulouse,0-3,Auxerre
+12,02/11/03,PSG,0-1,Lens
+13,08/11/03,Nice,2-0,Bastia
+13,08/11/03,Le Mans UC 72,2-0,Metz
+13,08/11/03,Nantes,0-1,PSG
+13,08/11/03,Rennes,2-2,Lille
+13,09/11/03,AC Ajaccio,0-1,Monaco
+13,09/11/03,Auxerre,3-0,Guingamp
+13,09/11/03,Lens,3-2,Montpellier
+13,09/11/03,Sochaux,3-1,Toulouse
+13,09/11/03,RC Strasbourg,1-1,Bordeaux
+13,09/11/03,Marseille,1-4,Lyon
+14,22/11/03,Monaco,2-0,Lens
+14,22/11/03,Bastia,1-3,Nantes
+14,22/11/03,Bordeaux,2-1,Rennes
+14,22/11/03,Guingamp,1-2,Sochaux
+14,22/11/03,Lille,0-2,Marseille
+14,22/11/03,Lyon,1-0,RC Strasbourg
+14,22/11/03,Metz,0-2,Auxerre
+14,22/11/03,Montpellier,3-1,AC Ajaccio
+14,22/11/03,Toulouse,1-1,Le Mans UC 72
+14,23/11/03,PSG,0-0,Nice
+15,29/11/03,Rennes,3-1,Lyon
+15,29/11/03,AC Ajaccio,2-1,Toulouse
+15,29/11/03,Le Mans UC 72,4-0,Montpellier
+15,29/11/03,Nantes,0-1,Monaco
+15,29/11/03,Nice,1-1,Metz
+15,29/11/03,RC Strasbourg,2-2,Lille
+15,30/11/03,Bordeaux,1-1,Bastia
+15,30/11/03,Lens,2-1,Guingamp
+15,30/11/03,Sochaux,3-2,Auxerre
+15,30/11/03,Marseille,0-1,PSG
+16,03/12/03,Auxerre,1-0,Le Mans UC 72
+16,03/12/03,Bastia,3-2,Rennes
+16,03/12/03,Guingamp,2-0,AC Ajaccio
+16,03/12/03,Lille,2-0,Nantes
+16,03/12/03,PSG,3-2,RC Strasbourg
+16,03/12/03,Toulouse,1-2,Lens
+17,05/12/03,Lyon,2-1,Metz
+17,05/12/03,Marseille,1-2,Monaco
+17,06/12/03,Lens,0-3,Sochaux
+17,06/12/03,AC Ajaccio,1-2,Auxerre
+17,06/12/03,Bordeaux,2-1,Lille
+17,06/12/03,Nantes,1-1,Toulouse
+17,06/12/03,Rennes,1-1,PSG
+17,06/12/03,RC Strasbourg,4-2,Bastia
+17,07/12/03,Nice,2-1,Montpellier
+17,07/12/03,Le Mans UC 72,2-0,Guingamp
+18,13/12/03,PSG,2-1,Bordeaux
+18,13/12/03,Auxerre,2-0,Lens
+18,13/12/03,Bastia,0-0,Lyon
+18,13/12/03,Guingamp,1-1,Nantes
+18,13/12/03,Lille,1-1,Le Mans UC 72
+18,13/12/03,Metz,1-1,Rennes
+18,13/12/03,Sochaux,2-0,AC Ajaccio
+18,13/12/03,Toulouse,1-1,Nice
+18,14/12/03,Monaco,2-0,RC Strasbourg
+19,19/12/03,Lyon,1-1,PSG
+19,20/12/03,Marseille,1-0,Toulouse
+19,20/12/03,AC Ajaccio,2-0,Lens
+19,20/12/03,Bastia,0-2,Lille
+19,20/12/03,Bordeaux,2-0,Metz
+19,20/12/03,Le Mans UC 72,2-2,Sochaux
+19,20/12/03,Nantes,1-0,Auxerre
+19,20/12/03,Nice,2-0,Guingamp
+19,20/12/03,Rennes,1-0,Monaco
+19,20/12/03,RC Strasbourg,4-2,Montpellier
+20,09/01/04,Monaco,3-0,Lyon
+20,10/01/04,PSG,1-0,Lille
+20,10/01/04,AC Ajaccio,2-0,Le Mans UC 72
+20,10/01/04,Auxerre,2-0,Marseille
+20,10/01/04,Guingamp,3-2,RC Strasbourg
+20,10/01/04,Lens,0-0,Nantes
+20,10/01/04,Metz,1-0,Bastia
+20,10/01/04,Montpellier,1-2,Bordeaux
+20,10/01/04,Sochaux,0-0,Nice
+20,10/01/04,Toulouse,2-0,Rennes
+21,17/01/04,Bastia,0-0,Monaco
+21,17/01/04,Bordeaux,2-0,Guingamp
+21,17/01/04,Lille,0-1,Toulouse
+21,17/01/04,Lyon,3-0,Montpellier
+21,17/01/04,Nantes,4-0,AC Ajaccio
+21,17/01/04,Nice,0-1,Le Mans UC 72
+21,17/01/04,PSG,0-0,Metz
+21,17/01/04,Rennes,4-0,Sochaux
+21,17/01/04,RC Strasbourg,0-2,Auxerre
+21,18/01/04,Marseille,3-2,Lens
+16,21/01/04,Monaco,1-1,Nice
+16,21/01/04,Montpellier,1-3,Sochaux
+16,27/01/04,Metz,1-1,Marseille
+16,28/01/04,Lyon,3-0,Bordeaux
+22,30/01/04,Monaco,1-1,PSG
+22,31/01/04,Auxerre,5-0,Bordeaux
+22,31/01/04,AC Ajaccio,1-1,Nice
+22,31/01/04,Guingamp,0-2,Rennes
+22,31/01/04,Le Mans UC 72,0-1,Nantes
+22,31/01/04,Lens,2-1,RC Strasbourg
+22,31/01/04,Metz,0-1,Lille
+22,31/01/04,Montpellier,1-1,Bastia
+22,31/01/04,Sochaux,2-1,Marseille
+22,31/01/04,Toulouse,0-1,Lyon
+18,04/02/04,Montpellier,0-1,Marseille
+23,06/02/04,Bordeaux,2-0,Nantes
+23,07/02/04,Marseille,2-1,AC Ajaccio
+23,07/02/04,Bastia,1-0,Toulouse
+23,07/02/04,Lille,2-0,Sochaux
+23,07/02/04,Lyon,0-1,Guingamp
+23,07/02/04,Metz,0-2,Monaco
+23,07/02/04,Nice,4-0,Lens
+23,07/02/04,PSG,6-1,Montpellier
+23,07/02/04,Rennes,0-2,Auxerre
+23,07/02/04,RC Strasbourg,3-0,Le Mans UC 72
+24,14/02/04,Sochaux,1-1,Bordeaux
+24,14/02/04,AC Ajaccio,0-0,RC Strasbourg
+24,14/02/04,Guingamp,1-0,Bastia
+24,14/02/04,Le Mans UC 72,0-0,Marseille
+24,14/02/04,Lens,2-1,Rennes
+24,14/02/04,Monaco,0-1,Lille
+24,14/02/04,Montpellier,0-1,Metz
+24,14/02/04,Nantes,3-1,Nice
+24,14/02/04,Toulouse,0-1,PSG
+24,15/02/04,Auxerre,1-2,Lyon
+25,20/02/04,Monaco,4-0,Montpellier
+25,21/02/04,Bastia,0-0,Auxerre
+25,21/02/04,Bordeaux,0-0,Lens
+25,21/02/04,Lille,1-2,Nice
+25,21/02/04,Lyon,2-0,Le Mans UC 72
+25,21/02/04,Metz,0-2,Toulouse
+25,21/02/04,PSG,2-0,Guingamp
+25,21/02/04,Rennes,4-1,AC Ajaccio
+25,21/02/04,RC Strasbourg,0-2,Sochaux
+25,22/02/04,Marseille,1-1,Nantes
+26,28/02/04,Nantes,1-1,RC Strasbourg
+26,28/02/04,Le Mans UC 72,2-2,Rennes
+26,28/02/04,Lens,1-1,Lyon
+26,28/02/04,Montpellier,0-2,Lille
+26,28/02/04,Toulouse,1-1,Monaco
+26,29/02/04,AC Ajaccio,1-0,Bordeaux
+26,29/02/04,Nice,0-0,Marseille
+26,29/02/04,Sochaux,2-1,Bastia
+26,29/02/04,Auxerre,1-1,PSG
+27,05/03/04,Lyon,4-0,AC Ajaccio
+27,05/03/04,Monaco,3-1,Guingamp
+27,06/03/04,Lille,1-0,Auxerre
+27,06/03/04,Bordeaux,2-0,Le Mans UC 72
+27,06/03/04,Metz,0-2,Lens
+27,06/03/04,Montpellier,0-1,Toulouse
+27,06/03/04,PSG,1-1,Sochaux
+27,06/03/04,Rennes,0-3,Nantes
+27,06/03/04,RC Strasbourg,2-2,Nice
+27,07/03/04,Bastia,4-1,Marseille
+28,13/03/04,Le Mans UC 72,0-1,PSG
+28,13/03/04,AC Ajaccio,0-3,Lille
+28,13/03/04,Guingamp,4-3,Montpellier
+28,13/03/04,Lens,0-0,Bastia
+28,13/03/04,Nantes,2-2,Metz
+28,13/03/04,Nice,3-1,Rennes
+28,13/03/04,Sochaux,1-2,Lyon
+28,14/03/04,Marseille,4-0,RC Strasbourg
+28,14/03/04,Toulouse,1-0,Bordeaux
+28,14/03/04,Auxerre,0-0,Monaco
+29,19/03/04,Toulouse,0-0,Guingamp
+29,20/03/04,Bastia,0-0,Le Mans UC 72
+29,20/03/04,Bordeaux,1-1,Nice
+29,20/03/04,Lille,1-1,Lens
+29,20/03/04,Lyon,1-0,Nantes
+29,20/03/04,Metz,1-0,RC Strasbourg
+29,20/03/04,Monaco,1-1,Sochaux
+29,20/03/04,Montpellier,1-0,Auxerre
+29,20/03/04,PSG,1-0,AC Ajaccio
+29,21/03/04,Rennes,4-3,Marseille
+30,27/03/04,Sochaux,2-0,Metz
+30,27/03/04,AC Ajaccio,1-0,Bastia
+30,27/03/04,Guingamp,2-1,Lille
+30,27/03/04,Le Mans UC 72,0-1,Monaco
+30,27/03/04,Nantes,3-2,Montpellier
+30,27/03/04,Nice,0-1,Lyon
+30,27/03/04,RC Strasbourg,0-3,Rennes
+30,28/03/04,Auxerre,3-2,Toulouse
+30,28/03/04,Marseille,1-1,Bordeaux
+30,28/03/04,Lens,1-0,PSG
+31,02/04/04,Monaco,3-3,AC Ajaccio
+31,03/04/04,Lyon,1-2,Marseille
+31,03/04/04,Bastia,2-1,Nice
+31,03/04/04,Bordeaux,1-1,RC Strasbourg
+31,03/04/04,Lille,1-0,Rennes
+31,03/04/04,Metz,5-0,Le Mans UC 72
+31,03/04/04,Montpellier,1-0,Lens
+31,03/04/04,PSG,3-2,Nantes
+31,03/04/04,Toulouse,0-0,Sochaux
+31,04/04/04,Guingamp,2-2,Auxerre
+32,10/04/04,Lens,0-0,Monaco
+32,10/04/04,AC Ajaccio,0-0,Montpellier
+32,10/04/04,Auxerre,2-1,Metz
+32,10/04/04,Le Mans UC 72,2-1,Toulouse
+32,10/04/04,Nantes,1-1,Bastia
+32,10/04/04,Nice,1-2,PSG
+32,10/04/04,Sochaux,2-0,Guingamp
+32,11/04/04,RC Strasbourg,0-1,Lyon
+26,16/04/04,Guingamp,1-1,Metz
+32,18/04/04,Marseille,2-1,Lille
+32,18/04/04,Rennes,3-1,Bordeaux
+33,24/04/04,Monaco,0-1,Nantes
+33,24/04/04,Auxerre,2-1,Sochaux
+33,24/04/04,Bastia,0-2,Bordeaux
+33,24/04/04,Guingamp,1-0,Lens
+33,24/04/04,Lille,0-1,RC Strasbourg
+33,24/04/04,Lyon,3-0,Rennes
+33,24/04/04,Metz,1-0,Nice
+33,24/04/04,Montpellier,0-3,Le Mans UC 72
+33,24/04/04,Toulouse,3-1,AC Ajaccio
+33,25/04/04,PSG,2-1,Marseille
+34,30/04/04,Nice,1-2,Monaco
+34,01/05/04,Marseille,0-1,Metz
+34,01/05/04,AC Ajaccio,0-0,Guingamp
+34,01/05/04,Le Mans UC 72,2-1,Auxerre
+34,01/05/04,Lens,1-1,Toulouse
+34,01/05/04,Nantes,2-0,Lille
+34,01/05/04,Rennes,4-0,Bastia
+34,01/05/04,Sochaux,3-1,Montpellier
+34,01/05/04,RC Strasbourg,0-0,PSG
+34,02/05/04,Bordeaux,1-1,Lyon
+35,08/05/04,PSG,1-0,Rennes
+35,08/05/04,Auxerre,1-1,AC Ajaccio
+35,08/05/04,Bastia,0-0,RC Strasbourg
+35,08/05/04,Guingamp,2-4,Le Mans UC 72
+35,08/05/04,Lille,2-1,Bordeaux
+35,08/05/04,Metz,1-2,Lyon
+35,08/05/04,Montpellier,2-2,Nice
+35,08/05/04,Sochaux,0-3,Lens
+35,08/05/04,Toulouse,0-1,Nantes
+35,09/05/04,Monaco,1-0,Marseille
+36,11/05/04,Lens,1-3,Auxerre
+36,11/05/04,Bordeaux,3-0,PSG
+36,12/05/04,AC Ajaccio,1-0,Sochaux
+36,12/05/04,Le Mans UC 72,1-1,Lille
+36,12/05/04,Lyon,1-0,Bastia
+36,12/05/04,Marseille,1-1,Montpellier
+36,12/05/04,Nantes,0-0,Guingamp
+36,12/05/04,Nice,1-1,Toulouse
+36,12/05/04,Rennes,0-0,Metz
+36,12/05/04,RC Strasbourg,0-0,Monaco
+37,15/05/04,Auxerre,2-0,Nantes
+37,15/05/04,Guingamp,1-2,Nice
+37,15/05/04,Lens,2-0,AC Ajaccio
+37,15/05/04,Lille,2-0,Bastia
+37,15/05/04,Metz,3-1,Bordeaux
+37,15/05/04,Monaco,1-4,Rennes
+37,15/05/04,Montpellier,1-2,RC Strasbourg
+37,15/05/04,PSG,1-0,Lyon
+37,15/05/04,Sochaux,3-0,Le Mans UC 72
+37,15/05/04,Toulouse,2-1,Marseille
+38,21/05/04,Bordeaux,1-3,Monaco
+38,23/05/04,AC Ajaccio,3-1,Metz
+38,23/05/04,Bastia,0-1,PSG
+38,23/05/04,Le Mans UC 72,3-0,Lens
+38,23/05/04,Lyon,3-0,Lille
+38,23/05/04,Marseille,2-1,Guingamp
+38,23/05/04,Nantes,3-1,Sochaux
+38,23/05/04,Nice,1-1,Auxerre
+38,23/05/04,Rennes,4-0,Montpellier
+38,23/05/04,RC Strasbourg,0-0,Toulouse

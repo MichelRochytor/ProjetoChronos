@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+13,01/08/56,Toulouse,0-1,Marseille
+1,19/08/56,Marseille,2-0,Monaco
+1,19/08/56,Sochaux,2-0,Stade de Reims
+1,19/08/56,Toulouse,3-3,Racing Club Paris
+1,19/08/56,Angers,1-1,Nimes
+1,19/08/56,Lyon,1-1,Sedan-Torcy
+1,19/08/56,Nice,2-2,Saint-Étienne
+1,19/08/56,US Valenciennes-Anzin,0-0,FC Nancy
+1,19/08/56,Metz,1-5,Lens
+1,19/08/56,RC Strasbourg,2-0,Stade Rennais UC
+2,26/08/56,Saint-Étienne,6-3,Marseille
+2,26/08/56,Lens,0-2,RC Strasbourg
+2,26/08/56,Stade de Reims,3-1,Nice
+2,26/08/56,Racing Club Paris,6-2,Angers
+2,26/08/56,Monaco,2-1,Metz
+2,26/08/56,Sedan-Torcy,1-0,Sochaux
+2,26/08/56,Nimes,0-1,Toulouse
+2,26/08/56,Stade Rennais UC,3-0,US Valenciennes-Anzin
+2,26/08/56,FC Nancy,2-2,Lyon
+3,02/09/56,Saint-Étienne,3-1,Lens
+3,02/09/56,Stade de Reims,5-1,Monaco
+3,02/09/56,Marseille,1-0,Stade Rennais UC
+3,02/09/56,Toulouse,2-3,Sedan-Torcy
+3,02/09/56,Angers,3-0,FC Nancy
+3,02/09/56,Nice,4-2,Sochaux
+3,02/09/56,US Valenciennes-Anzin,1-2,Lyon
+3,02/09/56,Metz,2-2,Racing Club Paris
+3,02/09/56,RC Strasbourg,0-4,Nimes
+4,09/09/56,Lens,6-1,Nice
+4,09/09/56,Sochaux,0-0,Angers
+4,09/09/56,Toulouse,1-2,Metz
+4,09/09/56,Sedan-Torcy,1-1,Marseille
+4,09/09/56,Nimes,3-1,Monaco
+4,09/09/56,Lyon,0-3,Stade de Reims
+4,09/09/56,Stade Rennais UC,2-2,Racing Club Paris
+4,09/09/56,RC Strasbourg,6-0,US Valenciennes-Anzin
+4,09/09/56,FC Nancy,1-7,Saint-Étienne
+5,16/09/56,Stade de Reims,2-0,Nimes
+5,16/09/56,Racing Club Paris,5-0,Lens
+5,16/09/56,Monaco,0-2,FC Nancy
+5,16/09/56,Marseille,3-1,Nice
+5,16/09/56,Sedan-Torcy,2-6,Saint-Étienne
+5,16/09/56,Angers,2-0,Stade Rennais UC
+5,16/09/56,Lyon,3-1,RC Strasbourg
+5,16/09/56,US Valenciennes-Anzin,1-0,Toulouse
+5,16/09/56,Metz,1-3,Sochaux
+6,23/09/56,Saint-Étienne,2-0,Metz
+6,23/09/56,Sochaux,2-2,Lens
+6,23/09/56,Toulouse,3-0,Monaco
+6,23/09/56,Sedan-Torcy,0-4,Stade de Reims
+6,23/09/56,Nimes,2-1,Stade Rennais UC
+6,23/09/56,Angers,0-2,Lyon
+6,23/09/56,Nice,1-1,Racing Club Paris
+6,23/09/56,US Valenciennes-Anzin,2-2,Marseille
+6,23/09/56,FC Nancy,3-3,RC Strasbourg
+7,30/09/56,Stade de Reims,4-5,Saint-Étienne
+7,30/09/56,Racing Club Paris,6-1,FC Nancy
+7,30/09/56,Monaco,6-0,US Valenciennes-Anzin
+7,30/09/56,Marseille,2-3,Sochaux
+7,30/09/56,Lyon,4-1,Nimes
+7,30/09/56,Metz,0-1,Angers
+7,30/09/56,Stade Rennais UC,2-3,Nice
+7,30/09/56,RC Strasbourg,0-0,Toulouse
+8,14/10/56,Saint-Étienne,3-0,Angers
+8,14/10/56,Marseille,3-3,Metz
+8,14/10/56,Sochaux,1-1,Monaco
+8,14/10/56,Toulouse,4-0,Stade de Reims
+8,14/10/56,Sedan-Torcy,3-1,RC Strasbourg
+8,14/10/56,Nice,1-0,Lyon
+8,14/10/56,US Valenciennes-Anzin,3-1,Racing Club Paris
+8,14/10/56,Stade Rennais UC,1-4,Lens
+8,14/10/56,FC Nancy,1-0,Nimes
+9,28/10/56,Lens,0-0,US Valenciennes-Anzin
+9,28/10/56,Stade de Reims,4-1,FC Nancy
+9,28/10/56,Racing Club Paris,2-0,RC Strasbourg
+9,28/10/56,Monaco,2-1,Nice
+9,28/10/56,Sochaux,3-1,Stade Rennais UC
+9,28/10/56,Nimes,2-0,Marseille
+9,28/10/56,Angers,2-5,Toulouse
+9,28/10/56,Lyon,1-3,Saint-Étienne
+9,28/10/56,Metz,3-1,Sedan-Torcy
+7,01/11/56,Lens,1-0,Sedan-Torcy
+10,04/11/56,Lens,3-1,Monaco
+10,04/11/56,Stade de Reims,1-1,Marseille
+10,04/11/56,Racing Club Paris,1-2,Saint-Étienne
+10,04/11/56,Nimes,2-1,Sedan-Torcy
+10,04/11/56,Lyon,1-3,Toulouse
+10,04/11/56,Nice,2-2,US Valenciennes-Anzin
+10,04/11/56,Stade Rennais UC,1-0,Metz
+10,04/11/56,RC Strasbourg,0-2,Angers
+10,04/11/56,FC Nancy,1-3,Sochaux
+11,18/11/56,Saint-Étienne,2-2,RC Strasbourg
+11,18/11/56,Marseille,1-4,Lens
+11,18/11/56,Sochaux,3-5,Racing Club Paris
+11,18/11/56,Toulouse,6-0,Stade Rennais UC
+11,18/11/56,Sedan-Torcy,1-1,FC Nancy
+11,18/11/56,Angers,2-2,Stade de Reims
+11,18/11/56,US Valenciennes-Anzin,0-0,Nimes
+11,18/11/56,Metz,3-3,Nice
+11,19/11/56,Monaco,2-0,Lyon
+12,25/11/56,Saint-Étienne,6-0,Sochaux
+12,25/11/56,Lens,3-1,Lyon
+12,25/11/56,Stade de Reims,1-1,US Valenciennes-Anzin
+12,25/11/56,Racing Club Paris,1-3,Marseille
+12,25/11/56,Nimes,1-1,Metz
+12,25/11/56,Nice,1-1,Angers
+12,25/11/56,Stade Rennais UC,2-0,Sedan-Torcy
+12,25/11/56,RC Strasbourg,2-4,Monaco
+12,25/11/56,FC Nancy,1-1,Toulouse
+13,02/12/56,Monaco,1-1,Angers
+13,02/12/56,Sedan-Torcy,3-3,Nice
+13,02/12/56,Nimes,4-2,Racing Club Paris
+13,02/12/56,Lyon,1-0,Metz
+13,02/12/56,US Valenciennes-Anzin,3-1,Sochaux
+13,02/12/56,Stade Rennais UC,1-0,Saint-Étienne
+13,02/12/56,RC Strasbourg,1-3,Stade de Reims
+13,02/12/56,FC Nancy,0-2,Lens
+14,09/12/56,Saint-Étienne,0-1,Monaco
+14,09/12/56,Lens,4-0,Nimes
+14,09/12/56,Stade de Reims,3-1,Stade Rennais UC
+14,09/12/56,Racing Club Paris,1-2,Sedan-Torcy
+14,09/12/56,Marseille,3-2,Lyon
+14,09/12/56,Sochaux,6-0,RC Strasbourg
+14,09/12/56,Angers,2-0,US Valenciennes-Anzin
+14,09/12/56,Nice,1-0,Toulouse
+14,09/12/56,Metz,1-1,FC Nancy
+15,16/12/56,Lens,4-1,Toulouse
+15,16/12/56,Stade de Reims,2-4,Racing Club Paris
+15,16/12/56,Monaco,2-1,Sedan-Torcy
+15,16/12/56,Nimes,3-2,Nice
+15,16/12/56,Angers,2-2,Marseille
+15,16/12/56,Lyon,0-1,Sochaux
+15,16/12/56,US Valenciennes-Anzin,1-1,Saint-Étienne
+15,16/12/56,RC Strasbourg,1-0,Metz
+15,16/12/56,FC Nancy,4-0,Stade Rennais UC
+16,23/12/56,Saint-Étienne,0-0,Toulouse
+16,23/12/56,Lens,0-3,Angers
+16,23/12/56,Racing Club Paris,2-1,Monaco
+16,23/12/56,Marseille,3-1,RC Strasbourg
+16,23/12/56,Sochaux,3-1,Nimes
+16,23/12/56,Sedan-Torcy,3-0,US Valenciennes-Anzin
+16,23/12/56,Nice,3-2,FC Nancy
+16,23/12/56,Metz,2-5,Stade de Reims
+16,23/12/56,Stade Rennais UC,2-1,Lyon
+17,25/12/56,Saint-Étienne,4-0,Nimes
+17,25/12/56,Lens,2-1,Stade de Reims
+17,25/12/56,Racing Club Paris,1-2,Lyon
+17,25/12/56,Marseille,3-1,FC Nancy
+17,25/12/56,Sochaux,1-3,Toulouse
+17,25/12/56,Sedan-Torcy,1-1,Angers
+17,25/12/56,Nice,1-0,RC Strasbourg
+17,25/12/56,Metz,2-2,US Valenciennes-Anzin
+17,25/12/56,Stade Rennais UC,0-1,Monaco
+18,30/12/56,Stade de Reims,2-1,Metz
+18,30/12/56,Monaco,1-0,Marseille
+18,30/12/56,Toulouse,3-0,Saint-Étienne
+18,30/12/56,Nimes,3-0,Sochaux
+18,30/12/56,Angers,1-0,Lens
+18,30/12/56,Lyon,2-0,Stade Rennais UC
+18,30/12/56,US Valenciennes-Anzin,2-1,Nice
+18,30/12/56,RC Strasbourg,0-0,Sedan-Torcy
+18,30/12/56,FC Nancy,2-5,Racing Club Paris
+19,01/01/57,Stade de Reims,3-2,Lens
+19,01/01/57,Monaco,4-0,Stade Rennais UC
+19,01/01/57,Toulouse,2-0,Sochaux
+19,01/01/57,Nimes,0-0,Saint-Étienne
+19,01/01/57,Lyon,2-0,Marseille
+19,01/01/57,US Valenciennes-Anzin,1-1,Metz
+19,01/01/57,RC Strasbourg,2-1,Racing Club Paris
+19,01/01/57,FC Nancy,3-2,Sedan-Torcy
+20,06/01/57,Saint-Étienne,6-1,FC Nancy
+20,06/01/57,Racing Club Paris,4-2,Stade de Reims
+20,06/01/57,Marseille,0-0,Angers
+20,06/01/57,Sochaux,4-0,US Valenciennes-Anzin
+20,06/01/57,Toulouse,1-2,Lens
+20,06/01/57,Sedan-Torcy,2-2,Lyon
+20,06/01/57,Nice,5-2,Nimes
+20,06/01/57,Metz,1-2,Monaco
+20,06/01/57,Stade Rennais UC,2-1,RC Strasbourg
+19,17/01/57,Angers,0-1,Nice
+21,20/01/57,Lens,0-2,Saint-Étienne
+21,20/01/57,Stade de Reims,1-0,Sochaux
+21,20/01/57,Racing Club Paris,3-0,Stade Rennais UC
+21,20/01/57,Monaco,1-1,Toulouse
+21,20/01/57,Marseille,3-1,Nimes
+21,20/01/57,Angers,0-0,Sedan-Torcy
+21,20/01/57,Lyon,1-0,US Valenciennes-Anzin
+21,20/01/57,RC Strasbourg,2-2,Nice
+21,20/01/57,FC Nancy,0-2,Metz
+22,27/01/57,Saint-Étienne,3-1,Racing Club Paris
+22,27/01/57,Monaco,1-2,Lens
+22,27/01/57,Toulouse,5-0,Angers
+22,27/01/57,Nimes,2-0,Lyon
+22,27/01/57,Nice,1-3,Marseille
+22,27/01/57,US Valenciennes-Anzin,1-5,Stade de Reims
+22,27/01/57,Metz,2-0,RC Strasbourg
+22,27/01/57,Stade Rennais UC,0-3,FC Nancy
+23,10/02/57,Saint-Étienne,3-2,Lyon
+23,10/02/57,Lens,3-1,Sochaux
+23,10/02/57,Racing Club Paris,4-1,Metz
+23,10/02/57,Marseille,1-2,Stade de Reims
+23,10/02/57,Toulouse,4-0,US Valenciennes-Anzin
+23,10/02/57,Sedan-Torcy,1-1,Stade Rennais UC
+23,10/02/57,Nimes,4-1,RC Strasbourg
+23,10/02/57,FC Nancy,4-2,Nice
+24,17/02/57,Stade de Reims,2-0,Toulouse
+24,17/02/57,Monaco,3-1,Saint-Étienne
+24,17/02/57,Sochaux,3-1,FC Nancy
+24,17/02/57,Lyon,1-2,Racing Club Paris
+24,17/02/57,Nice,1-0,Sedan-Torcy
+24,17/02/57,US Valenciennes-Anzin,1-0,Angers
+24,17/02/57,Metz,3-1,Nimes
+24,17/02/57,Stade Rennais UC,1-1,Marseille
+24,17/02/57,RC Strasbourg,1-4,Lens
+25,24/02/57,Saint-Étienne,0-0,Stade de Reims
+25,24/02/57,Lens,3-1,FC Nancy
+25,24/02/57,Racing Club Paris,3-2,Nice
+25,24/02/57,Monaco,4-1,Nimes
+25,24/02/57,Marseille,4-1,US Valenciennes-Anzin
+25,24/02/57,Sedan-Torcy,1-1,Toulouse
+25,24/02/57,Metz,3-1,Lyon
+25,24/02/57,Stade Rennais UC,4-1,Angers
+25,24/02/57,RC Strasbourg,3-2,Sochaux
+23,07/03/57,Angers,0-2,Monaco
+26,10/03/57,Saint-Étienne,5-4,US Valenciennes-Anzin
+26,10/03/57,Lens,3-1,Metz
+26,10/03/57,Sochaux,3-1,Lyon
+26,10/03/57,Toulouse,1-1,RC Strasbourg
+26,10/03/57,Sedan-Torcy,3-3,Monaco
+26,10/03/57,Nimes,1-2,Stade de Reims
+26,10/03/57,Angers,1-1,Racing Club Paris
+26,10/03/57,Nice,0-2,Stade Rennais UC
+26,10/03/57,FC Nancy,0-1,Marseille
+27,17/03/57,Stade de Reims,3-1,RC Strasbourg
+27,17/03/57,Racing Club Paris,3-1,Sochaux
+27,17/03/57,Marseille,4-3,Saint-Étienne
+27,17/03/57,Lyon,3-0,Lens
+27,17/03/57,Nice,0-2,Monaco
+27,17/03/57,US Valenciennes-Anzin,0-4,Sedan-Torcy
+27,17/03/57,Metz,4-1,Toulouse
+27,17/03/57,Stade Rennais UC,2-1,Nimes
+27,17/03/57,FC Nancy,2-2,Angers
+22,28/03/57,Sochaux,5-2,Sedan-Torcy
+28,31/03/57,Saint-Étienne,4-2,Nice
+28,31/03/57,Monaco,1-1,Stade de Reims
+28,31/03/57,Toulouse,1-2,FC Nancy
+28,31/03/57,Sedan-Torcy,1-1,Racing Club Paris
+28,31/03/57,Nimes,2-3,Lens
+28,31/03/57,Angers,4-0,Sochaux
+28,31/03/57,US Valenciennes-Anzin,5-2,Stade Rennais UC
+28,31/03/57,Metz,1-0,Marseille
+28,31/03/57,RC Strasbourg,2-0,Lyon
+29,14/04/57,Lens,3-0,Stade Rennais UC
+29,14/04/57,Stade de Reims,0-1,Sedan-Torcy
+29,14/04/57,Monaco,1-2,RC Strasbourg
+29,14/04/57,Marseille,0-3,Racing Club Paris
+29,14/04/57,Sochaux,1-1,Metz
+29,14/04/57,Toulouse,4-3,Nice
+29,14/04/57,Nimes,2-3,US Valenciennes-Anzin
+29,14/04/57,Angers,0-1,Saint-Étienne
+29,14/04/57,Lyon,0-1,FC Nancy
+30,21/04/57,Racing Club Paris,0-0,Nimes
+30,21/04/57,Sochaux,1-1,Saint-Étienne
+30,21/04/57,Sedan-Torcy,4-4,Lens
+30,21/04/57,Lyon,2-1,Angers
+30,21/04/57,Nice,1-1,Metz
+30,21/04/57,US Valenciennes-Anzin,2-1,Monaco
+30,21/04/57,Stade Rennais UC,1-0,Toulouse
+30,21/04/57,RC Strasbourg,2-3,Marseille
+30,21/04/57,FC Nancy,0-0,Stade de Reims
+31,28/04/57,Saint-Étienne,2-2,Sedan-Torcy
+31,28/04/57,Lens,2-0,Marseille
+31,28/04/57,Racing Club Paris,3-1,US Valenciennes-Anzin
+31,28/04/57,Monaco,2-1,Sochaux
+31,28/04/57,Toulouse,2-2,Lyon
+31,28/04/57,Nimes,4-0,FC Nancy
+31,28/04/57,Angers,4-1,RC Strasbourg
+31,28/04/57,Nice,2-1,Stade de Reims
+31,28/04/57,Metz,1-1,Stade Rennais UC
+32,01/05/57,Stade de Reims,1-2,Angers
+32,01/05/57,Monaco,1-1,Racing Club Paris
+32,01/05/57,Marseille,3-0,Sedan-Torcy
+32,01/05/57,Toulouse,0-1,Nimes
+32,01/05/57,Lyon,1-0,Nice
+32,01/05/57,US Valenciennes-Anzin,2-1,Lens
+32,01/05/57,Metz,1-2,Saint-Étienne
+32,01/05/57,Stade Rennais UC,2-0,Sochaux
+32,01/05/57,RC Strasbourg,0-0,FC Nancy
+33,12/05/57,Racing Club Paris,6-2,Toulouse
+33,12/05/57,Sochaux,3-0,Marseille
+33,12/05/57,Sedan-Torcy,3-2,Metz
+33,12/05/57,Nimes,3-1,Angers
+33,12/05/57,Lyon,1-0,Monaco
+33,12/05/57,Nice,3-2,Lens
+33,12/05/57,Stade Rennais UC,1-1,Stade de Reims
+33,12/05/57,RC Strasbourg,1-1,Saint-Étienne
+33,12/05/57,FC Nancy,1-4,US Valenciennes-Anzin
+34,19/05/57,Saint-Étienne,2-0,Stade Rennais UC
+34,19/05/57,Lens,2-0,Racing Club Paris
+34,19/05/57,Stade de Reims,4-1,Lyon

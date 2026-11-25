@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,06/08/21,Monaco,1-1,Nantes
+1,07/08/21,Lyon,1-1,Brest
+1,07/08/21,Troyes,1-2,PSG
+1,08/08/21,Rennes,1-1,Lens
+1,08/08/21,Bordeaux,0-2,Clermont
+1,08/08/21,Nice,0-0,Stade de Reims
+1,08/08/21,Saint-Étienne,1-1,FC Lorient
+1,08/08/21,Strasbourg,0-2,Angers
+1,08/08/21,Metz,3-3,Lille
+1,08/08/21,Montpellier,2-3,Marseille
+2,13/08/21,FC Lorient,1-0,Monaco
+2,14/08/21,Lille,0-4,Nice
+2,14/08/21,PSG,4-2,Strasbourg
+2,15/08/21,Angers,3-0,Lyon
+2,15/08/21,Brest,1-1,Rennes
+2,15/08/21,Clermont,2-0,Troyes
+2,15/08/21,Nantes,2-0,Metz
+2,15/08/21,Stade de Reims,3-3,Montpellier
+2,15/08/21,Lens,2-2,Saint-Étienne
+2,15/08/21,Marseille,2-2,Bordeaux
+3,20/08/21,Brest,2-4,PSG
+3,21/08/21,Monaco,0-2,Lens
+3,21/08/21,Saint-Étienne,1-1,Lille
+3,22/08/21,Lyon,3-3,Clermont
+3,22/08/21,Bordeaux,1-1,Angers
+3,22/08/21,Metz,1-1,Stade de Reims
+3,22/08/21,Montpellier,3-1,FC Lorient
+3,22/08/21,Strasbourg,1-1,Troyes
+3,22/08/21,Rennes,1-0,Nantes
+4,27/08/21,Nantes,0-1,Lyon
+4,28/08/21,Nice,4-0,Bordeaux
+4,28/08/21,Marseille,3-1,Saint-Étienne
+4,29/08/21,Troyes,1-2,Monaco
+4,29/08/21,Angers,2-0,Rennes
+4,29/08/21,Clermont,2-2,Metz
+4,29/08/21,Lens,2-2,FC Lorient
+4,29/08/21,Strasbourg,3-1,Brest
+4,29/08/21,Lille,2-1,Montpellier
+4,29/08/21,Stade de Reims,0-2,PSG
+5,10/09/21,FC Lorient,2-1,Lille
+5,11/09/21,PSG,4-0,Clermont
+5,11/09/21,Monaco,0-2,Marseille
+5,12/09/21,Montpellier,2-0,Saint-Étienne
+5,12/09/21,Bordeaux,2-3,Lens
+5,12/09/21,Brest,1-1,Angers
+5,12/09/21,Metz,0-2,Troyes
+5,12/09/21,Rennes,0-2,Stade de Reims
+5,12/09/21,Nantes,0-2,Nice
+5,12/09/21,Lyon,3-1,Strasbourg
+6,17/09/21,Strasbourg,3-0,Metz
+6,18/09/21,Lens,1-0,Lille
+6,18/09/21,Saint-Étienne,1-2,Bordeaux
+6,19/09/21,Nice,2-2,Monaco
+6,19/09/21,Angers,1-4,Nantes
+6,19/09/21,Clermont,1-1,Brest
+6,19/09/21,Stade de Reims,0-0,FC Lorient
+6,19/09/21,Troyes,1-1,Montpellier
+6,19/09/21,Marseille,2-0,Rennes
+6,19/09/21,PSG,2-1,Lyon
+7,22/09/21,Lille,2-1,Stade de Reims
+7,22/09/21,Monaco,3-1,Saint-Étienne
+7,22/09/21,Montpellier,3-3,Bordeaux
+7,22/09/21,Nantes,3-1,Brest
+7,22/09/21,Rennes,6-0,Clermont
+7,22/09/21,Angers,0-0,Marseille
+7,22/09/21,Lens,0-1,Strasbourg
+7,22/09/21,FC Lorient,1-0,Nice
+7,22/09/21,Lyon,3-1,Troyes
+7,22/09/21,Metz,1-2,PSG
+8,25/09/21,Saint-Étienne,0-3,Nice
+8,25/09/21,Strasbourg,1-2,Lille
+8,25/09/21,Lyon,1-1,FC Lorient
+8,25/09/21,PSG,2-0,Montpellier
+8,26/09/21,Bordeaux,1-1,Rennes
+8,26/09/21,Brest,1-2,Metz
+8,26/09/21,Stade de Reims,3-1,Nantes
+8,26/09/21,Troyes,1-1,Angers
+8,26/09/21,Clermont,1-3,Monaco
+8,26/09/21,Marseille,2-3,Lens
+9,01/10/21,Lens,2-0,Stade de Reims
+9,02/10/21,Montpellier,1-1,Strasbourg
+9,02/10/21,Nice,2-1,Brest
+9,03/10/21,Rennes,2-0,PSG
+9,03/10/21,Angers,3-2,Metz
+9,03/10/21,FC Lorient,1-1,Clermont
+9,03/10/21,Monaco,3-0,Bordeaux
+9,03/10/21,Nantes,2-0,Troyes
+9,03/10/21,Lille,2-0,Marseille
+9,03/10/21,Saint-Étienne,1-1,Lyon
+10,15/10/21,PSG,2-1,Angers
+10,16/10/21,Clermont,1-0,Lille
+10,16/10/21,Lyon,2-0,Monaco
+10,17/10/21,Troyes,1-0,Nice
+10,17/10/21,Bordeaux,1-1,Nantes
+10,17/10/21,Brest,1-1,Stade de Reims
+10,17/10/21,Metz,0-3,Rennes
+10,17/10/21,Strasbourg,5-1,Saint-Étienne
+10,17/10/21,Montpellier,1-0,Lens
+10,17/10/21,Marseille,4-1,FC Lorient
+11,22/10/21,Saint-Étienne,2-2,Angers
+11,23/10/21,Nantes,2-1,Clermont
+11,23/10/21,Lille,1-1,Brest
+11,24/10/21,Nice,3-2,Lyon
+11,24/10/21,Lens,4-1,Metz
+11,24/10/21,FC Lorient,1-1,Bordeaux
+11,24/10/21,Stade de Reims,1-2,Troyes
+11,24/10/21,Rennes,1-0,Strasbourg
+11,24/10/21,Monaco,3-1,Montpellier
+11,24/10/21,Marseille,0-0,PSG
+3,27/10/21,Nice,1-1,Marseille
+12,29/10/21,PSG,2-1,Lille
+12,30/10/21,Metz,1-1,Saint-Étienne
+12,30/10/21,Lyon,2-1,Lens
+12,31/10/21,Angers,1-2,Nice
+12,31/10/21,Bordeaux,3-2,Stade de Reims
+12,31/10/21,Montpellier,2-0,Nantes
+12,31/10/21,Strasbourg,4-0,FC Lorient
+12,31/10/21,Troyes,2-2,Rennes
+12,31/10/21,Brest,2-0,Monaco
+12,31/10/21,Clermont,0-1,Marseille
+13,05/11/21,Lens,4-0,Troyes
+13,06/11/21,Lille,1-1,Angers
+13,06/11/21,Bordeaux,2-3,PSG
+13,07/11/21,Marseille,0-0,Metz
+13,07/11/21,FC Lorient,1-2,Brest
+13,07/11/21,Nantes,2-2,Strasbourg
+13,07/11/21,Stade de Reims,0-0,Monaco
+13,07/11/21,Saint-Étienne,3-2,Clermont
+13,07/11/21,Nice,0-1,Montpellier
+13,07/11/21,Rennes,4-1,Lyon
+14,19/11/21,Monaco,2-2,Lille
+14,20/11/21,PSG,3-1,Nantes
+14,20/11/21,Rennes,2-0,Montpellier
+14,21/11/21,Brest,4-0,Lens
+14,21/11/21,Angers,1-0,FC Lorient
+14,21/11/21,Metz,3-3,Bordeaux
+14,21/11/21,Strasbourg,1-1,Stade de Reims
+14,21/11/21,Troyes,0-1,Saint-Étienne
+14,21/11/21,Clermont,1-2,Nice
+15,26/11/21,Lens,2-2,Angers
+15,27/11/21,Lille,1-1,Nantes
+15,27/11/21,Nice,0-1,Metz
+15,28/11/21,Saint-Étienne,1-3,PSG
+15,28/11/21,Bordeaux,1-2,Brest
+15,28/11/21,FC Lorient,0-2,Rennes
+15,28/11/21,Monaco,1-1,Strasbourg
+15,28/11/21,Stade de Reims,1-0,Clermont
+15,28/11/21,Montpellier,0-1,Lyon
+15,28/11/21,Marseille,1-0,Troyes
+16,01/12/21,Angers,1-3,Monaco
+16,01/12/21,Brest,1-0,Saint-Étienne
+16,01/12/21,Metz,1-3,Montpellier
+16,01/12/21,Strasbourg,5-2,Bordeaux
+16,01/12/21,Troyes,2-0,FC Lorient
+16,01/12/21,Clermont,2-2,Lens
+16,01/12/21,Lyon,1-2,Stade de Reims
+16,01/12/21,Nantes,0-1,Marseille
+16,01/12/21,PSG,0-0,Nice
+16,01/12/21,Rennes,1-2,Lille
+17,04/12/21,Marseille,1-2,Brest
+17,04/12/21,Lille,2-1,Troyes
+17,04/12/21,Lens,1-1,PSG
+17,05/12/21,Saint-Étienne,0-5,Rennes
+17,05/12/21,FC Lorient,0-1,Nantes
+17,05/12/21,Monaco,4-0,Metz
+17,05/12/21,Montpellier,1-0,Clermont
+17,05/12/21,Stade de Reims,1-2,Angers
+17,05/12/21,Nice,0-3,Strasbourg
+17,05/12/21,Bordeaux,2-2,Lyon
+18,10/12/21,Nantes,3-2,Lens
+18,11/12/21,Brest,0-4,Montpellier
+18,11/12/21,Stade de Reims,2-0,Saint-Étienne
+18,12/12/21,Lille,0-0,Lyon
+18,12/12/21,Angers,0-1,Clermont
+18,12/12/21,Metz,4-1,FC Lorient
+18,12/12/21,Rennes,1-2,Nice
+18,12/12/21,Troyes,1-2,Bordeaux
+18,12/12/21,Strasbourg,0-2,Marseille
+18,12/12/21,PSG,2-0,Monaco
+19,22/12/21,Bordeaux,2-3,Lille
+19,22/12/21,FC Lorient,1-1,PSG
+19,22/12/21,Lyon,1-1,Metz
+19,22/12/21,Marseille,1-1,Stade de Reims
+19,22/12/21,Monaco,2-1,Rennes
+19,22/12/21,Montpellier,4-1,Angers
+19,22/12/21,Nice,2-1,Lens
+19,22/12/21,Saint-Étienne,0-1,Nantes
+19,22/12/21,Troyes,1-1,Brest
+20,07/01/22,Bordeaux,0-1,Marseille
+20,08/01/22,Lens,1-0,Rennes
+20,09/01/22,Brest,0-3,Nice
+20,09/01/22,Clermont,0-0,Stade de Reims
+20,09/01/22,Metz,0-2,Strasbourg
+20,09/01/22,Nantes,0-0,Monaco
+20,09/01/22,Lyon,1-1,PSG
+21,14/01/22,Nice,2-1,Nantes
+21,15/01/22,Saint-Étienne,1-2,Lens
+21,15/01/22,PSG,2-0,Brest
+21,16/01/22,Rennes,6-0,Bordeaux
+21,16/01/22,FC Lorient,0-0,Angers
+21,16/01/22,Monaco,4-0,Clermont
+21,16/01/22,Stade de Reims,0-1,Metz
+21,16/01/22,Strasbourg,3-1,Montpellier
+21,16/01/22,Troyes,0-1,Lyon
+21,16/01/22,Marseille,1-1,Lille
+19,19/01/22,Clermont,0-2,Strasbourg
+20,19/01/22,Lille,3-1,FC Lorient
+20,19/01/22,Montpellier,0-1,Troyes
+22,21/01/22,Lyon,1-0,Saint-Étienne
+22,22/01/22,Brest,2-0,Lille
+22,22/01/22,Lens,0-2,Marseille
+22,23/01/22,Metz,0-2,Nice
+22,23/01/22,Angers,2-1,Troyes
+22,23/01/22,Bordeaux,4-3,Strasbourg
+22,23/01/22,Clermont,2-1,Rennes
+22,23/01/22,Nantes,4-2,FC Lorient
+22,23/01/22,Montpellier,3-2,Monaco
+22,23/01/22,PSG,4-0,Stade de Reims
+20,26/01/22,Angers,0-1,Saint-Étienne
+14,01/02/22,Lyon,2-1,Marseille
+23,04/02/22,Marseille,5-2,Angers
+23,05/02/22,Saint-Étienne,3-1,Montpellier
+23,05/02/22,Monaco,2-0,Lyon
+23,06/02/22,FC Lorient,2-0,Lens
+23,06/02/22,Nice,0-1,Clermont
+23,06/02/22,Stade de Reims,5-0,Bordeaux
+23,06/02/22,Strasbourg,1-0,Nantes
+23,06/02/22,Troyes,0-0,Metz
+23,06/02/22,Rennes,2-0,Brest
+23,06/02/22,Lille,1-5,PSG
+24,11/02/22,PSG,1-0,Rennes
+24,12/02/22,Montpellier,0-1,Lille
+24,12/02/22,Lyon,2-0,Nice
+24,13/02/22,Monaco,0-0,FC Lorient
+24,13/02/22,Angers,0-1,Strasbourg
+24,13/02/22,Brest,5-1,Troyes
+24,13/02/22,Clermont,1-2,Saint-Étienne
+24,13/02/22,Nantes,1-0,Stade de Reims
+24,13/02/22,Lens,3-2,Bordeaux
+24,13/02/22,Metz,1-2,Marseille
+25,18/02/22,Lille,0-0,Metz
+25,19/02/22,Lens,1-1,Lyon
+25,19/02/22,Nantes,3-1,PSG
+25,20/02/22,Nice,1-0,Angers
+25,20/02/22,FC Lorient,0-1,Montpellier
+25,20/02/22,Stade de Reims,1-1,Brest
+25,20/02/22,Rennes,4-1,Troyes
+25,20/02/22,Saint-Étienne,2-2,Strasbourg
+25,20/02/22,Bordeaux,1-1,Monaco
+25,20/02/22,Marseille,0-2,Clermont
+26,25/02/22,Montpellier,2-4,Rennes
+26,26/02/22,Strasbourg,0-0,Nice
+26,26/02/22,PSG,3-1,Saint-Étienne
+26,27/02/22,Monaco,1-2,Stade de Reims
+26,27/02/22,Angers,1-2,Lens
+26,27/02/22,Brest,0-1,FC Lorient
+26,27/02/22,Clermont,1-1,Bordeaux
+26,27/02/22,Metz,0-0,Nantes
+26,27/02/22,Troyes,1-1,Marseille
+26,27/02/22,Lyon,0-1,Lille
+27,04/03/22,FC Lorient,1-4,Lyon
+27,05/03/22,Lens,0-1,Brest
+27,05/03/22,Nice,1-0,PSG
+27,06/03/22,Saint-Étienne,1-0,Metz
+27,06/03/22,Bordeaux,0-2,Troyes
+27,06/03/22,Nantes,2-0,Montpellier
+27,06/03/22,Stade de Reims,1-1,Strasbourg
+27,06/03/22,Rennes,2-0,Angers
+27,06/03/22,Lille,4-0,Clermont
+27,06/03/22,Marseille,0-1,Monaco
+28,11/03/22,Lille,0-0,Saint-Étienne
+28,12/03/22,Montpellier,0-0,Nice
+28,12/03/22,Troyes,1-0,Nantes
+28,13/03/22,PSG,3-0,Bordeaux
+28,13/03/22,Angers,0-1,Stade de Reims
+28,13/03/22,Clermont,0-2,FC Lorient
+28,13/03/22,Metz,0-0,Lens
+28,13/03/22,Strasbourg,1-0,Monaco
+28,13/03/22,Lyon,2-4,Rennes
+28,13/03/22,Brest,1-4,Marseille
+29,18/03/22,Saint-Étienne,1-1,Troyes
+29,19/03/22,Lens,3-1,Clermont
+29,19/03/22,Nantes,0-1,Lille
+29,20/03/22,Monaco,3-0,PSG
+29,20/03/22,Angers,1-0,Brest
+29,20/03/22,Bordeaux,0-2,Montpellier
+29,20/03/22,FC Lorient,0-0,Strasbourg
+29,20/03/22,Rennes,6-1,Metz
+29,20/03/22,Stade de Reims,0-0,Lyon
+29,20/03/22,Marseille,2-1,Nice
+30,02/04/22,Nice,1-1,Rennes
+30,02/04/22,Lille,0-0,Bordeaux
+30,03/04/22,Strasbourg,1-0,Lens
+30,03/04/22,Clermont,2-3,Nantes
+30,03/04/22,Metz,1-2,Monaco
+30,03/04/22,Montpellier,1-2,Brest
+30,03/04/22,Saint-Étienne,2-4,Marseille
+30,03/04/22,Troyes,1-0,Stade de Reims
+30,03/04/22,Lyon,3-2,Angers
+30,03/04/22,PSG,5-1,FC Lorient
+31,08/04/22,FC Lorient,6-2,Saint-Étienne
+31,09/04/22,Stade de Reims,2-3,Rennes
+31,09/04/22,Clermont,1-6,PSG
+31,10/04/22,Bordeaux,3-1,Metz
+31,10/04/22,Angers,1-1,Lille
+31,10/04/22,Brest,1-1,Nantes
+31,10/04/22,Monaco,2-1,Troyes
+31,10/04/22,Lens,3-0,Nice
+31,10/04/22,Strasbourg,1-1,Lyon
+31,10/04/22,Marseille,2-0,Montpellier
+32,15/04/22,Rennes,2-3,Monaco
+32,16/04/22,Saint-Étienne,2-1,Brest
+32,16/04/22,Lille,1-2,Lens
+32,17/04/22,Nice,2-1,FC Lorient
+32,17/04/22,Metz,1-1,Clermont
+32,17/04/22,Montpellier,0-0,Stade de Reims
+32,17/04/22,Nantes,1-1,Angers
+32,17/04/22,Troyes,1-1,Strasbourg
+32,17/04/22,Lyon,6-1,Bordeaux
+32,17/04/22,PSG,2-1,Marseille
+33,20/04/22,Bordeaux,2-2,Saint-Étienne
+33,20/04/22,FC Lorient,1-0,Metz
+33,20/04/22,Monaco,1-0,Nice
+33,20/04/22,Stade de Reims,2-1,Lille
+33,20/04/22,Troyes,0-1,Clermont
+33,20/04/22,Angers,0-3,PSG
+33,20/04/22,Brest,2-1,Lyon
+33,20/04/22,Lens,2-0,Montpellier
+33,20/04/22,Marseille,3-2,Nantes
+33,20/04/22,Strasbourg,2-1,Rennes
+34,23/04/22,Lyon,5-2,Montpellier
+34,23/04/22,Saint-Étienne,1-4,Monaco
+34,23/04/22,PSG,1-1,Lens
+34,24/04/22,Rennes,5-0,FC Lorient
+34,24/04/22,Clermont,2-2,Angers
+34,24/04/22,Metz,0-1,Brest
+34,24/04/22,Nantes,5-3,Bordeaux
+34,24/04/22,Nice,1-0,Troyes
+34,24/04/22,Lille,1-0,Strasbourg
+34,24/04/22,Stade de Reims,0-1,Marseille
+35,29/04/22,Strasbourg,3-3,PSG
+35,30/04/22,Lens,2-2,Nantes
+35,30/04/22,Rennes,2-0,Saint-Étienne
+35,01/05/22,Troyes,3-0,Lille
+35,01/05/22,Brest,2-0,Clermont
+35,01/05/22,FC Lorient,1-2,Stade de Reims
+35,01/05/22,Monaco,2-0,Angers
+35,01/05/22,Montpellier,2-2,Metz
+35,01/05/22,Bordeaux,0-1,Nice
+35,01/05/22,Marseille,0-3,Lyon
+36,06/05/22,Lille,1-2,Monaco
+36,07/05/22,Brest,0-1,Strasbourg
+36,08/05/22,Metz,3-2,Lyon
+36,08/05/22,Angers,4-1,Bordeaux
+36,08/05/22,Clermont,2-1,Montpellier
+36,08/05/22,Stade de Reims,1-2,Lens
+36,08/05/22,FC Lorient,0-3,Marseille
+36,08/05/22,PSG,2-2,Troyes
+36,11/05/22,Nice,4-2,Saint-Étienne
+36,11/05/22,Nantes,2-1,Rennes
+37,14/05/22,Bordeaux,0-0,FC Lorient
+37,14/05/22,Lyon,3-2,Nantes
+37,14/05/22,Metz,1-0,Angers
+37,14/05/22,Monaco,4-2,Brest
+37,14/05/22,Montpellier,0-4,PSG
+37,14/05/22,Nice,1-3,Lille
+37,14/05/22,Rennes,2-0,Marseille
+37,14/05/22,Saint-Étienne,1-2,Stade de Reims
+37,14/05/22,Strasbourg,1-0,Clermont
+37,14/05/22,Troyes,1-3,Lens
+38,21/05/22,Angers,2-0,Montpellier
+38,21/05/22,Brest,2-4,Bordeaux
+38,21/05/22,Clermont,1-2,Lyon
+38,21/05/22,Lens,2-2,Monaco
+38,21/05/22,Lille,2-2,Rennes
+38,21/05/22,FC Lorient,1-1,Troyes
+38,21/05/22,Marseille,4-0,Strasbourg
+38,21/05/22,Nantes,1-1,Saint-Étienne
+38,21/05/22,PSG,5-0,Metz
+38,21/05/22,Stade de Reims,2-3,Nice

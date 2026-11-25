@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/07/88,Nantes,1-1,Monaco
+1,16/07/88,RC Strasbourg,0-3,Sochaux
+1,16/07/88,Bordeaux,2-0,Auxerre
+1,16/07/88,Cannes,2-0,Caen
+1,16/07/88,Stade Lavallois,1-2,Lille
+1,16/07/88,Lens,0-1,SC Toulon-Var
+1,16/07/88,Matra Racing,0-1,Toulouse
+1,16/07/88,Nice,1-0,Saint-Étienne
+1,16/07/88,Metz,0-1,PSG
+1,16/07/88,Marseille,1-1,Montpellier Paillade SC
+2,23/07/88,Sochaux,2-0,Matra Racing
+2,23/07/88,Lille,2-1,Marseille
+2,23/07/88,Toulouse,2-1,Lens
+2,23/07/88,SC Toulon-Var,1-0,Metz
+2,23/07/88,Monaco,2-0,Cannes
+2,23/07/88,Caen,2-3,Nantes
+2,23/07/88,Montpellier Paillade SC,1-1,Nice
+2,23/07/88,Auxerre,2-1,Stade Lavallois
+2,23/07/88,Saint-Étienne,0-0,RC Strasbourg
+3,26/07/88,Bordeaux,2-1,Montpellier Paillade SC
+3,27/07/88,Marseille,0-0,Sochaux
+3,27/07/88,Monaco,1-1,Lille
+3,27/07/88,Nantes,0-0,SC Toulon-Var
+3,27/07/88,Cannes,0-3,PSG
+3,27/07/88,Stade Lavallois,2-0,Toulouse
+3,27/07/88,Lens,0-1,Auxerre
+3,27/07/88,RC Strasbourg,3-0,Nice
+3,27/07/88,Matra Racing,3-1,Saint-Étienne
+3,27/07/88,Metz,1-0,Caen
+4,30/07/88,Sochaux,3-0,Stade Lavallois
+4,30/07/88,SC Toulon-Var,3-0,Cannes
+4,30/07/88,Caen,0-3,Monaco
+4,30/07/88,PSG,1-0,Nantes
+4,30/07/88,Lille,0-1,Bordeaux
+4,30/07/88,Auxerre,2-1,Metz
+4,30/07/88,Toulouse,0-0,Marseille
+4,30/07/88,Nice,3-2,Matra Racing
+4,30/07/88,Montpellier Paillade SC,1-0,RC Strasbourg
+4,30/07/88,Saint-Étienne,2-4,Lens
+5,06/08/88,Lens,2-2,Sochaux
+5,06/08/88,Monaco,1-0,PSG
+5,06/08/88,Bordeaux,1-1,SC Toulon-Var
+5,06/08/88,Nantes,3-2,Auxerre
+5,06/08/88,Caen,0-1,Montpellier Paillade SC
+5,06/08/88,Marseille,3-2,Nice
+5,06/08/88,Metz,3-1,Lille
+5,06/08/88,Cannes,5-1,Toulouse
+5,06/08/88,Matra Racing,2-1,RC Strasbourg
+5,06/08/88,Stade Lavallois,1-1,Saint-Étienne
+6,12/08/88,Saint-Étienne,0-0,Marseille
+6,13/08/88,SC Toulon-Var,1-0,Monaco
+6,13/08/88,Sochaux,1-1,Bordeaux
+6,13/08/88,PSG,3-0,Caen
+6,13/08/88,Lille,0-1,Nantes
+6,13/08/88,Montpellier Paillade SC,0-0,Matra Racing
+6,13/08/88,Auxerre,0-0,Cannes
+6,13/08/88,Nice,1-0,Stade Lavallois
+6,13/08/88,Toulouse,2-1,Metz
+6,13/08/88,RC Strasbourg,4-1,Lens
+7,17/08/88,Bordeaux,5-0,Saint-Étienne
+7,17/08/88,PSG,1-0,Sochaux
+7,17/08/88,Caen,2-1,SC Toulon-Var
+7,17/08/88,Monaco,1-2,Auxerre
+7,17/08/88,Nantes,1-2,Toulouse
+7,17/08/88,Marseille,2-0,Matra Racing
+7,17/08/88,Lens,0-0,Montpellier Paillade SC
+7,17/08/88,Cannes,1-0,Lille
+7,17/08/88,Metz,1-0,Nice
+7,17/08/88,Stade Lavallois,1-0,RC Strasbourg
+8,20/08/88,SC Toulon-Var,0-1,PSG
+8,20/08/88,Toulouse,1-1,Bordeaux
+8,20/08/88,Sochaux,1-0,Metz
+8,20/08/88,Auxerre,3-0,Caen
+8,20/08/88,Saint-Étienne,0-1,Monaco
+8,20/08/88,Montpellier Paillade SC,1-4,Nantes
+8,20/08/88,RC Strasbourg,2-3,Marseille
+8,20/08/88,Nice,2-1,Cannes
+8,20/08/88,Lille,1-0,Lens
+8,20/08/88,Matra Racing,2-2,Stade Lavallois
+9,27/08/88,Bordeaux,2-0,RC Strasbourg
+9,27/08/88,PSG,2-2,Auxerre
+9,27/08/88,Monaco,1-0,Toulouse
+9,27/08/88,Stade Lavallois,0-1,Marseille
+9,27/08/88,Cannes,2-0,Sochaux
+9,27/08/88,Nantes,1-1,Saint-Étienne
+9,27/08/88,SC Toulon-Var,0-0,Nice
+9,27/08/88,Metz,1-2,Montpellier Paillade SC
+9,27/08/88,Lens,1-1,Matra Racing
+9,27/08/88,Caen,2-1,Lille
+10,02/09/88,Matra Racing,3-0,Monaco
+10,03/09/88,Auxerre,3-0,SC Toulon-Var
+10,03/09/88,Marseille,5-2,Lens
+10,03/09/88,Nice,1-0,Bordeaux
+10,03/09/88,Lille,2-1,PSG
+10,03/09/88,Sochaux,0-1,Nantes
+10,03/09/88,Montpellier Paillade SC,6-2,Stade Lavallois
+10,03/09/88,Saint-Étienne,0-1,Metz
+10,03/09/88,Toulouse,0-0,Caen
+10,03/09/88,RC Strasbourg,0-0,Cannes
+11,09/09/88,Cannes,1-0,Saint-Étienne
+11,10/09/88,Auxerre,1-0,Lille
+11,10/09/88,PSG,2-1,Toulouse
+11,10/09/88,Bordeaux,0-0,Marseille
+11,10/09/88,Nantes,2-2,RC Strasbourg
+11,10/09/88,SC Toulon-Var,1-1,Montpellier Paillade SC
+11,10/09/88,Monaco,1-1,Nice
+11,10/09/88,Caen,0-0,Sochaux
+11,10/09/88,Metz,1-1,Matra Racing
+11,10/09/88,Lens,0-2,Stade Lavallois
+2,14/09/88,PSG,1-1,Bordeaux
+12,17/09/88,Montpellier Paillade SC,0-0,PSG
+12,17/09/88,Toulouse,0-0,Auxerre
+12,17/09/88,Marseille,2-1,Cannes
+12,17/09/88,Stade Lavallois,1-0,Bordeaux
+12,17/09/88,Nice,3-0,Lens
+12,17/09/88,Matra Racing,2-0,Nantes
+12,17/09/88,Sochaux,0-0,Monaco
+12,17/09/88,Lille,0-0,SC Toulon-Var
+12,17/09/88,RC Strasbourg,1-2,Metz
+12,17/09/88,Saint-Étienne,1-1,Caen
+13,20/09/88,SC Toulon-Var,1-1,Toulouse
+13,21/09/88,PSG,3-1,Saint-Étienne
+13,21/09/88,Auxerre,1-0,Montpellier Paillade SC
+13,21/09/88,Nantes,1-1,Marseille
+13,21/09/88,Bordeaux,4-1,Lens
+13,21/09/88,Monaco,4-1,RC Strasbourg
+13,21/09/88,Caen,2-1,Nice
+13,21/09/88,Cannes,2-1,Matra Racing
+13,21/09/88,Lille,2-0,Sochaux
+13,21/09/88,Metz,0-0,Stade Lavallois
+14,01/10/88,Marseille,3-2,Metz
+14,01/10/88,Nice,3-1,PSG
+14,01/10/88,Sochaux,3-2,Auxerre
+14,01/10/88,Matra Racing,4-1,Bordeaux
+14,01/10/88,Stade Lavallois,0-2,Nantes
+14,01/10/88,Montpellier Paillade SC,4-2,Monaco
+14,01/10/88,Lens,2-2,Cannes
+14,01/10/88,Saint-Étienne,2-1,SC Toulon-Var
+14,01/10/88,Toulouse,1-1,Lille
+14,01/10/88,RC Strasbourg,1-2,Caen
+15,08/10/88,Auxerre,2-0,Saint-Étienne
+15,08/10/88,PSG,1-0,RC Strasbourg
+15,08/10/88,Monaco,3-0,Marseille
+15,08/10/88,Nantes,3-1,Lens
+15,08/10/88,Metz,3-0,Bordeaux
+15,08/10/88,Toulouse,2-1,Nice
+15,08/10/88,Cannes,3-2,Stade Lavallois
+15,08/10/88,SC Toulon-Var,0-0,Sochaux
+15,08/10/88,Lille,3-1,Montpellier Paillade SC
+15,08/10/88,Caen,1-1,Matra Racing
+16,14/10/88,Matra Racing,0-2,PSG
+16,15/10/88,Marseille,4-2,Caen
+16,15/10/88,Nice,1-0,Auxerre
+16,15/10/88,Bordeaux,5-0,Nantes
+16,15/10/88,Stade Lavallois,0-0,Monaco
+16,15/10/88,Montpellier Paillade SC,0-0,Cannes
+16,15/10/88,Sochaux,2-2,Toulouse
+16,15/10/88,Lens,0-2,Metz
+16,15/10/88,Saint-Étienne,2-0,Lille
+16,15/10/88,RC Strasbourg,2-1,SC Toulon-Var
+17,29/10/88,PSG,0-0,Marseille
+17,29/10/88,Auxerre,2-1,RC Strasbourg
+17,29/10/88,Monaco,1-0,Lens
+17,29/10/88,Nantes,1-0,Metz
+17,29/10/88,Cannes,1-1,Bordeaux
+17,29/10/88,Sochaux,2-0,Montpellier Paillade SC
+17,29/10/88,Lille,2-0,Nice
+17,29/10/88,Toulouse,3-1,Saint-Étienne
+17,29/10/88,SC Toulon-Var,1-0,Matra Racing
+17,29/10/88,Caen,1-1,Stade Lavallois
+18,04/11/88,Bordeaux,1-1,Monaco
+18,05/11/88,Stade Lavallois,1-2,PSG
+18,05/11/88,Matra Racing,1-2,Auxerre
+18,05/11/88,Marseille,1-0,SC Toulon-Var
+18,05/11/88,Lens,5-0,Caen
+18,05/11/88,Saint-Étienne,1-2,Sochaux
+18,05/11/88,Nice,1-0,Nantes
+18,05/11/88,RC Strasbourg,1-3,Lille
+18,05/11/88,Metz,2-1,Cannes
+18,05/11/88,Montpellier Paillade SC,1-0,Toulouse
+19,12/11/88,PSG,3-2,Lens
+19,12/11/88,Auxerre,1-0,Marseille
+19,12/11/88,Monaco,1-1,Metz
+19,12/11/88,Sochaux,1-0,Nice
+19,12/11/88,Cannes,1-2,Nantes
+19,12/11/88,Caen,3-0,Bordeaux
+19,12/11/88,Lille,3-0,Matra Racing
+19,12/11/88,Montpellier Paillade SC,2-0,Saint-Étienne
+19,12/11/88,Toulouse,4-0,RC Strasbourg
+19,12/11/88,SC Toulon-Var,0-0,Stade Lavallois
+20,25/11/88,Marseille,1-1,Lille
+20,26/11/88,Bordeaux,0-1,PSG
+20,26/11/88,Stade Lavallois,0-1,Auxerre
+20,26/11/88,Matra Racing,0-2,Sochaux
+20,26/11/88,Nantes,3-1,Caen
+20,26/11/88,Cannes,3-2,Monaco
+20,26/11/88,Nice,3-3,Montpellier Paillade SC
+20,26/11/88,Lens,1-1,Toulouse
+20,26/11/88,Metz,1-2,SC Toulon-Var
+20,26/11/88,RC Strasbourg,0-1,Saint-Étienne
+21,03/12/88,PSG,1-0,Cannes
+21,03/12/88,Auxerre,1-0,Lens
+21,03/12/88,Sochaux,0-0,Marseille
+21,03/12/88,Lille,2-4,Monaco
+21,03/12/88,SC Toulon-Var,1-0,Nantes
+21,03/12/88,Nice,1-0,RC Strasbourg
+21,03/12/88,Montpellier Paillade SC,2-2,Bordeaux
+21,03/12/88,Toulouse,0-0,Stade Lavallois
+21,03/12/88,Caen,0-0,Metz
+21,03/12/88,Saint-Étienne,4-3,Matra Racing
+22,10/12/88,Nantes,1-1,PSG
+22,10/12/88,Metz,2-1,Auxerre
+22,10/12/88,Marseille,3-1,Toulouse
+22,10/12/88,Monaco,3-1,Caen
+22,10/12/88,Stade Lavallois,1-1,Sochaux
+22,10/12/88,Matra Racing,1-1,Nice
+22,10/12/88,Bordeaux,0-0,Lille
+22,10/12/88,RC Strasbourg,3-1,Montpellier Paillade SC
+22,10/12/88,Cannes,1-0,SC Toulon-Var
+22,10/12/88,Lens,1-3,Saint-Étienne
+23,13/12/88,Nice,2-2,Marseille
+23,13/12/88,Sochaux,2-1,Lens
+23,14/12/88,Toulouse,4-1,Cannes
+23,14/12/88,Auxerre,1-0,Nantes
+23,14/12/88,PSG,0-2,Monaco
+23,14/12/88,Montpellier Paillade SC,1-0,Caen
+23,14/12/88,Lille,1-1,Metz
+23,14/12/88,SC Toulon-Var,1-0,Bordeaux
+23,14/12/88,RC Strasbourg,1-1,Matra Racing
+23,14/12/88,Saint-Étienne,1-0,Stade Lavallois
+24,17/12/88,Caen,0-1,PSG
+24,17/12/88,Cannes,3-0,Auxerre
+24,17/12/88,Marseille,2-0,Saint-Étienne
+24,17/12/88,Bordeaux,1-2,Sochaux
+24,17/12/88,Monaco,2-2,SC Toulon-Var
+24,17/12/88,Nantes,1-0,Lille
+24,17/12/88,Stade Lavallois,1-2,Nice
+24,17/12/88,Metz,1-1,Toulouse
+24,17/12/88,Matra Racing,4-0,Montpellier Paillade SC
+24,17/12/88,Lens,1-3,RC Strasbourg
+25,04/02/89,Matra Racing,0-2,Marseille
+25,04/02/89,Auxerre,0-0,Monaco
+25,04/02/89,Toulouse,1-2,Nantes
+25,04/02/89,Nice,1-1,Metz
+25,04/02/89,SC Toulon-Var,1-0,Caen
+25,04/02/89,Montpellier Paillade SC,2-0,Lens
+25,04/02/89,Lille,1-0,Cannes
+25,04/02/89,Saint-Étienne,1-0,Bordeaux
+25,04/02/89,RC Strasbourg,3-0,Stade Lavallois
+25,05/02/89,Sochaux,2-1,PSG
+26,10/02/89,Nantes,2-1,Montpellier Paillade SC
+26,11/02/89,Marseille,3-1,RC Strasbourg
+26,11/02/89,PSG,0-0,SC Toulon-Var
+26,11/02/89,Caen,1-0,Auxerre
+26,11/02/89,Monaco,2-2,Saint-Étienne
+26,11/02/89,Cannes,2-0,Nice
+26,11/02/89,Lens,1-2,Lille
+26,11/02/89,Bordeaux,1-1,Toulouse
+26,11/02/89,Stade Lavallois,4-2,Matra Racing
+26,12/02/89,Metz,1-0,Sochaux
+27,18/02/89,Marseille,1-0,Stade Lavallois
+27,18/02/89,Auxerre,0-0,PSG
+27,18/02/89,Sochaux,4-0,Cannes
+27,18/02/89,Saint-Étienne,1-1,Nantes
+27,18/02/89,Toulouse,2-0,Monaco
+27,18/02/89,Nice,1-0,SC Toulon-Var
+27,18/02/89,Lille,1-1,Caen
+27,18/02/89,Montpellier Paillade SC,5-3,Metz
+27,19/02/89,RC Strasbourg,3-2,Bordeaux
+28,21/02/89,Caen,3-0,Toulouse
+28,21/02/89,Monaco,1-0,Matra Racing
+28,22/02/89,Lens,0-1,Marseille
+28,22/02/89,PSG,1-1,Lille
+28,22/02/89,SC Toulon-Var,1-2,Auxerre
+28,22/02/89,Nantes,0-0,Sochaux
+28,22/02/89,Stade Lavallois,0-1,Montpellier Paillade SC
+28,22/02/89,Bordeaux,2-0,Nice
+28,22/02/89,Cannes,4-1,RC Strasbourg
+28,22/02/89,Metz,1-2,Saint-Étienne
+27,28/02/89,Matra Racing,3-0,Lens
+29,11/03/89,Marseille,2-2,Bordeaux
+29,11/03/89,Toulouse,0-0,PSG
+29,11/03/89,Sochaux,1-0,Caen
+29,11/03/89,Lille,1-0,Auxerre
+29,11/03/89,Nice,1-1,Monaco
+29,11/03/89,RC Strasbourg,2-0,Nantes
+29,11/03/89,Montpellier Paillade SC,0-1,SC Toulon-Var
+29,11/03/89,Matra Racing,1-4,Metz
+29,11/03/89,Saint-Étienne,1-0,Cannes
+29,11/03/89,Stade Lavallois,2-1,Lens
+30,14/03/89,PSG,3-2,Montpellier Paillade SC
+30,17/03/89,Metz,1-1,RC Strasbourg
+30,18/03/89,Cannes,3-1,Marseille
+30,18/03/89,Monaco,0-0,Sochaux
+30,18/03/89,Auxerre,0-0,Toulouse
+30,18/03/89,Nantes,1-0,Matra Racing
+30,18/03/89,SC Toulon-Var,2-1,Lille
+30,18/03/89,Lens,2-0,Nice
+30,18/03/89,Bordeaux,2-1,Stade Lavallois
+30,18/03/89,Caen,2-3,Saint-Étienne
+31,25/03/89,Saint-Étienne,0-0,PSG
+31,25/03/89,Sochaux,2-0,Lille
+31,25/03/89,RC Strasbourg,1-2,Monaco
+31,25/03/89,Montpellier Paillade SC,1-0,Auxerre
+31,25/03/89,Nice,5-0,Caen
+31,25/03/89,Toulouse,1-0,SC Toulon-Var
+31,25/03/89,Lens,0-2,Bordeaux
+31,25/03/89,Matra Racing,1-0,Cannes
+31,25/03/89,Stade Lavallois,3-0,Metz
+32,01/04/89,PSG,1-0,Nice
+32,01/04/89,Metz,1-3,Marseille
+32,01/04/89,Auxerre,2-1,Sochaux
+32,01/04/89,Monaco,4-2,Montpellier Paillade SC
+32,01/04/89,Nantes,1-1,Stade Lavallois
+32,01/04/89,Lille,0-0,Toulouse
+32,01/04/89,Bordeaux,3-2,Matra Racing
+32,01/04/89,Cannes,3-0,Lens
+32,01/04/89,SC Toulon-Var,0-0,Saint-Étienne
+32,01/04/89,Caen,3-3,RC Strasbourg
+31,04/04/89,Marseille,1-0,Nantes
+33,11/04/89,Marseille,2-2,Monaco
+33,12/04/89,RC Strasbourg,0-0,PSG
+33,12/04/89,Sochaux,2-1,SC Toulon-Var
+33,12/04/89,Saint-Étienne,1-1,Auxerre
+33,12/04/89,Lens,0-0,Nantes
+33,12/04/89,Nice,2-0,Toulouse
+33,12/04/89,Bordeaux,4-1,Metz
+33,12/04/89,Montpellier Paillade SC,2-3,Lille
+33,12/04/89,Stade Lavallois,2-0,Cannes
+33,12/04/89,Matra Racing,3-1,Caen
+34,21/04/89,Nantes,1-0,Bordeaux
+34,22/04/89,Caen,0-0,Marseille
+34,22/04/89,PSG,2-1,Matra Racing
+34,22/04/89,Toulouse,2-1,Sochaux
+34,22/04/89,Monaco,1-0,Stade Lavallois
+34,22/04/89,Auxerre,1-0,Nice
+34,22/04/89,Lille,2-2,Saint-Étienne
+34,22/04/89,Cannes,0-1,Montpellier Paillade SC
+34,22/04/89,SC Toulon-Var,0-0,RC Strasbourg
+34,22/04/89,Metz,4-0,Lens
+35,05/05/89,Marseille,1-0,PSG
+35,06/05/89,Montpellier Paillade SC,1-2,Sochaux
+35,06/05/89,Lens,1-1,Monaco
+35,06/05/89,RC Strasbourg,1-0,Auxerre
+35,06/05/89,Metz,0-0,Nantes
+35,06/05/89,Nice,0-1,Lille
+35,06/05/89,Bordeaux,0-0,Cannes
+35,06/05/89,Saint-Étienne,3-2,Toulouse
+35,06/05/89,Matra Racing,1-1,SC Toulon-Var
+35,06/05/89,Stade Lavallois,1-1,Caen
+36,12/05/89,PSG,3-0,Stade Lavallois
+36,13/05/89,SC Toulon-Var,1-2,Marseille
+36,13/05/89,Sochaux,1-0,Saint-Étienne
+36,13/05/89,Monaco,4-2,Bordeaux
+36,13/05/89,Auxerre,1-1,Matra Racing
+36,13/05/89,Nantes,0-1,Nice
+36,13/05/89,Lille,1-1,RC Strasbourg
+36,13/05/89,Toulouse,2-2,Montpellier Paillade SC
+36,13/05/89,Cannes,1-1,Metz
+36,13/05/89,Caen,1-0,Lens
+37,20/05/89,Marseille,2-1,Auxerre
+37,20/05/89,Lens,0-0,PSG
+37,20/05/89,Metz,0-3,Monaco
+37,20/05/89,Nice,3-2,Sochaux
+37,20/05/89,Nantes,1-1,Cannes
+37,20/05/89,Matra Racing,1-0,Lille
+37,20/05/89,RC Strasbourg,4-1,Toulouse
+37,20/05/89,Bordeaux,2-3,Caen
+37,20/05/89,Stade Lavallois,0-0,SC Toulon-Var
+37,20/05/89,Saint-Étienne,1-0,Montpellier Paillade SC
+38,31/05/89,Montpellier Paillade SC,1-0,Marseille
+38,31/05/89,PSG,2-2,Metz
+38,31/05/89,Monaco,4-1,Nantes
+38,31/05/89,Sochaux,3-0,RC Strasbourg
+38,31/05/89,Auxerre,1-1,Bordeaux
+38,31/05/89,Lille,8-0,Stade Lavallois
+38,31/05/89,Saint-Étienne,0-0,Nice
+38,31/05/89,Toulouse,2-1,Matra Racing
+38,31/05/89,SC Toulon-Var,3-1,Lens
+38,31/05/89,Caen,3-0,Cannes

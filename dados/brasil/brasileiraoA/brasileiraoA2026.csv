@@ -198,7 +198,6 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 20,26/07/26,Grêmio,1-1,Fluminense
 20,26/07/26,Palmeiras,1-2,Atlético Mineiro
 20,26/07/26,Remo,2-0,Vitória
-21,28/07/26,Chapecoense,ADI,Vasco
 21,29/07/26,Mirassol,2-1,Remo
 21,29/07/26,Internacional,1-1,Flamengo
 21,29/07/26,Fluminense,0-0,Bahia
@@ -317,48 +316,49 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 32,24/10/26,Palmeiras,2-0,Red Bull Bragantino
 32,24/10/26,Chapecoense,2-1,Fluminense
 32,24/10/26,Santos,1-1,Bahia
-32,26/10/26,Coritiba,vs,Grêmio
-32,26/10/26,Flamengo,vs,Atlético Mineiro
-33,28/10/26,Fluminense,vs,Internacional
-33,28/10/26,Santos,vs,Palmeiras
-33,28/10/26,Red Bull Bragantino,vs,Chapecoense
-33,28/10/26,Bahia,vs,São Paulo
-33,28/10/26,Remo,vs,Botafogo
-33,29/10/26,Atlético Mineiro,vs,Cruzeiro
-33,29/10/26,Vasco,vs,Flamengo
-33,29/10/26,Grêmio,vs,Athletico Paranaense
-33,30/10/26,Corinthians,vs,Mirassol
-33,31/10/26,Coritiba,vs,Vitória
-34,02/11/26,Red Bull Bragantino,vs,Santos
-34,03/11/26,Chapecoense,vs,Mirassol
-34,03/11/26,Internacional,vs,Coritiba
-34,04/11/26,Flamengo,vs,Grêmio
-34,04/11/26,Athletico Paranaense,vs,Vasco
-34,04/11/26,Botafogo,vs,Atlético Mineiro
-34,04/11/26,São Paulo,vs,Corinthians
-34,05/11/26,Palmeiras,vs,Remo
-34,05/11/26,Cruzeiro,vs,Bahia
-34,06/11/26,Vitória,vs,Fluminense
-35,18/11/26,Flamengo,vs,Athletico Paranaense
-35,18/11/26,Vasco,vs,Internacional
-35,18/11/26,São Paulo,vs,Fluminense
-35,18/11/26,Corinthians,vs,Botafogo
-35,18/11/26,Mirassol,vs,Atlético Mineiro
-35,18/11/26,Cruzeiro,vs,Palmeiras
-35,18/11/26,Grêmio,vs,Bahia
+32,26/10/26,Coritiba,0-1,Grêmio
+32,26/10/26,Flamengo,3-2,Atlético Mineiro
+33,28/10/26,Fluminense,2-1,Internacional
+33,28/10/26,Santos,0-0,Palmeiras
+33,28/10/26,Red Bull Bragantino,3-0,Chapecoense
+33,28/10/26,Bahia,3-2,São Paulo
+33,28/10/26,Remo,2-1,Botafogo
+33,29/10/26,Atlético Mineiro,0-1,Cruzeiro
+33,29/10/26,Vasco,1-4,Flamengo
+33,29/10/26,Grêmio,2-0,Athletico Paranaense
+33,30/10/26,Corinthians,2-0,Mirassol
+33,31/10/26,Coritiba,2-0,Vitória
+34,02/11/26,Red Bull Bragantino,2-1,Santos
+34,03/11/26,Chapecoense,1-2,Mirassol
+34,03/11/26,Internacional,1-0,Coritiba
+34,04/11/26,Flamengo,3-1,Grêmio
+34,04/11/26,Athletico Paranaense,1-3,Vasco
+34,04/11/26,Botafogo,1-0,Atlético Mineiro
+34,04/11/26,São Paulo,0-0,Corinthians
+34,05/11/26,Palmeiras,6-1,Remo
+34,05/11/26,Cruzeiro,3-2,Bahia
+34,06/11/26,Vitória,0-3,Fluminense
+35,14/11/26,Mirassol,vs,Atlético Mineiro
+21,14/11/26,Chapecoense,vs,Vasco
 35,18/11/26,Coritiba,vs,Santos
-35,18/11/26,Vitória,vs,Red Bull Bragantino
 35,18/11/26,Remo,vs,Chapecoense
-36,20/11/26,Fluminense,vs,Mirassol
-36,20/11/26,Botafogo,vs,São Paulo
-36,20/11/26,Santos,vs,Grêmio
-36,20/11/26,Palmeiras,vs,Flamengo
-36,20/11/26,Red Bull Bragantino,vs,Vasco
-36,20/11/26,Atlético Mineiro,vs,Corinthians
-36,20/11/26,Internacional,vs,Vitória
-36,20/11/26,Athletico Paranaense,vs,Remo
-36,20/11/26,Bahia,vs,Coritiba
-36,20/11/26,Chapecoense,vs,Cruzeiro
+35,18/11/26,Flamengo,vs,Athletico Paranaense
+35,18/11/26,Cruzeiro,vs,Palmeiras
+35,18/11/26,Corinthians,vs,Botafogo
+35,18/11/26,Grêmio,vs,Bahia
+35,19/11/26,Vasco,vs,Internacional
+35,19/11/26,Vitória,vs,Red Bull Bragantino
+35,19/11/26,São Paulo,vs,Fluminense
+36,21/11/26,Palmeiras,vs,Flamengo
+36,21/11/26,Bahia,vs,Coritiba
+36,21/11/26,Chapecoense,vs,Cruzeiro
+36,22/11/26,Athletico Paranaense,vs,Remo
+36,22/11/26,Fluminense,vs,Mirassol
+36,22/11/26,Red Bull Bragantino,vs,Vasco
+36,23/11/26,Internacional,vs,Vitória
+36,23/11/26,Botafogo,vs,São Paulo
+36,23/11/26,Santos,vs,Grêmio
+36,25/11/26,Atlético Mineiro,vs,Corinthians
 37,27/11/26,Fluminense,vs,Cruzeiro
 37,27/11/26,Botafogo,vs,Bahia
 37,27/11/26,São Paulo,vs,Remo
@@ -368,7 +368,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 37,27/11/26,Internacional,vs,Red Bull Bragantino
 37,27/11/26,Coritiba,vs,Flamengo
 37,27/11/26,Vitória,vs,Santos
-37,27/11/26,Chapecoense,vs,Palmeiras
+37,27/11/26,Chapecoense,ADI,Palmeiras
 38,02/12/26,Flamengo,vs,Chapecoense
 38,02/12/26,Vasco,vs,Vitória
 38,02/12/26,Santos,vs,Botafogo

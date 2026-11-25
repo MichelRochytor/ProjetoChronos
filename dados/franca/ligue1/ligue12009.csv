@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,08/08/09,Auxerre,0-1,Sochaux
+1,08/08/09,Grenoble,0-2,Marseille
+1,08/08/09,Le Mans UC 72,2-2,Lyon
+1,08/08/09,Monaco,1-0,Toulouse
+1,08/08/09,Montpellier,1-1,PSG
+1,08/08/09,Rennes,3-0,US Boulogne
+1,08/08/09,Saint-Étienne,0-2,Nice
+1,08/08/09,Valenciennes,1-3,Nancy
+1,09/08/09,Lille,1-2,FC Lorient
+1,09/08/09,Bordeaux,4-1,Lens
+2,15/08/09,Lens,2-0,Auxerre
+2,15/08/09,FC Lorient,2-2,Montpellier
+2,15/08/09,Lyon,1-0,Valenciennes
+2,15/08/09,Nancy,4-0,Monaco
+2,15/08/09,PSG,3-1,Le Mans UC 72
+2,15/08/09,Sochaux,2-3,Bordeaux
+2,15/08/09,Toulouse,3-1,Saint-Étienne
+2,16/08/09,US Boulogne,2-1,Grenoble
+2,16/08/09,Nice,1-1,Rennes
+2,16/08/09,Marseille,1-0,Lille
+3,22/08/09,Auxerre,0-3,Lyon
+3,22/08/09,Le Mans UC 72,2-1,Nancy
+3,22/08/09,Monaco,2-0,FC Lorient
+3,22/08/09,Montpellier,2-0,Sochaux
+3,22/08/09,Saint-Étienne,0-1,US Boulogne
+3,22/08/09,Valenciennes,2-3,PSG
+3,22/08/09,Rennes,1-1,Marseille
+3,23/08/09,Bordeaux,4-0,Nice
+3,23/08/09,Grenoble,1-2,Lens
+3,23/08/09,Lille,1-1,Toulouse
+4,29/08/09,US Boulogne,0-0,Auxerre
+4,29/08/09,Lens,2-2,Rennes
+4,29/08/09,FC Lorient,1-0,Le Mans UC 72
+4,29/08/09,Nice,0-3,Montpellier
+4,29/08/09,Saint-Étienne,1-0,Grenoble
+4,29/08/09,Sochaux,1-0,Monaco
+4,29/08/09,Lyon,3-1,Nancy
+4,30/08/09,PSG,3-0,Lille
+4,30/08/09,Toulouse,0-1,Valenciennes
+4,30/08/09,Marseille,0-0,Bordeaux
+5,12/09/09,Le Mans UC 72,1-2,Marseille
+5,12/09/09,Lille,1-0,Sochaux
+5,12/09/09,Lyon,1-0,FC Lorient
+5,12/09/09,Montpellier,1-0,Lens
+5,12/09/09,Nancy,0-0,Toulouse
+5,12/09/09,Valenciennes,1-1,US Boulogne
+5,12/09/09,Bordeaux,1-0,Grenoble
+5,13/09/09,Auxerre,2-0,Nice
+5,13/09/09,Rennes,1-0,Saint-Étienne
+5,13/09/09,Monaco,2-0,PSG
+6,19/09/09,US Boulogne,0-2,Bordeaux
+6,19/09/09,Grenoble,0-4,Rennes
+6,19/09/09,FC Lorient,3-1,Nancy
+6,19/09/09,Nice,1-3,Monaco
+6,19/09/09,Saint-Étienne,1-1,Auxerre
+6,19/09/09,Sochaux,2-5,Valenciennes
+6,19/09/09,Marseille,4-2,Montpellier
+6,20/09/09,Lens,1-1,Lille
+6,20/09/09,Toulouse,2-0,Le Mans UC 72
+6,20/09/09,PSG,1-1,Lyon
+7,26/09/09,Auxerre,2-0,Grenoble
+7,26/09/09,FC Lorient,1-1,PSG
+7,26/09/09,Monaco,1-2,Saint-Étienne
+7,26/09/09,Montpellier,1-0,US Boulogne
+7,26/09/09,Nancy,2-1,Sochaux
+7,26/09/09,Valenciennes,3-2,Marseille
+7,26/09/09,Lyon,2-1,Toulouse
+7,27/09/09,Le Mans UC 72,3-0,Lens
+7,27/09/09,Lille,1-1,Nice
+7,27/09/09,Bordeaux,1-0,Rennes
+8,03/10/09,Grenoble,2-3,Montpellier
+8,03/10/09,Nice,3-2,Valenciennes
+8,03/10/09,PSG,1-1,Nancy
+8,03/10/09,Rennes,0-1,Auxerre
+8,03/10/09,Saint-Étienne,3-1,Bordeaux
+8,03/10/09,Sochaux,1-0,Le Mans UC 72
+8,03/10/09,Lens,0-2,Lyon
+8,04/10/09,US Boulogne,2-3,Lille
+8,04/10/09,Toulouse,0-1,FC Lorient
+8,04/10/09,Marseille,1-2,Monaco
+9,17/10/09,Auxerre,1-0,Bordeaux
+9,17/10/09,Le Mans UC 72,1-1,US Boulogne
+9,17/10/09,Lyon,0-2,Sochaux
+9,17/10/09,Montpellier,2-1,Saint-Étienne
+9,17/10/09,Nancy,0-3,Marseille
+9,17/10/09,Valenciennes,2-0,Grenoble
+9,17/10/09,Lille,0-0,Rennes
+9,18/10/09,FC Lorient,4-1,Nice
+9,18/10/09,Monaco,2-0,Lens
+9,18/10/09,Toulouse,1-0,PSG
+10,24/10/09,Bordeaux,3-0,Le Mans UC 72
+10,24/10/09,US Boulogne,1-3,Monaco
+10,24/10/09,Grenoble,1-2,Nancy
+10,24/10/09,Nice,4-1,Lyon
+10,24/10/09,Saint-Étienne,0-2,Valenciennes
+10,24/10/09,Sochaux,1-0,FC Lorient
+10,24/10/09,Rennes,3-0,Montpellier
+10,25/10/09,Auxerre,3-2,Lille
+10,25/10/09,Lens,0-2,Toulouse
+12,31/10/09,Auxerre,2-1,Montpellier
+12,31/10/09,Bordeaux,1-0,Monaco
+12,31/10/09,US Boulogne,1-2,Nancy
+12,31/10/09,Grenoble,0-2,Lille
+12,31/10/09,Lens,1-1,FC Lorient
+12,31/10/09,Marseille,1-1,Toulouse
+12,31/10/09,Saint-Étienne,0-1,Lyon
+12,01/11/09,Nice,1-0,Le Mans UC 72
+12,01/11/09,Rennes,0-3,Valenciennes
+12,01/11/09,Sochaux,1-4,PSG
+13,07/11/09,Le Mans UC 72,0-1,Auxerre
+13,07/11/09,FC Lorient,5-0,US Boulogne
+13,07/11/09,Monaco,0-0,Grenoble
+13,07/11/09,Nancy,0-1,Saint-Étienne
+13,07/11/09,PSG,0-1,Nice
+13,07/11/09,Valenciennes,1-1,Montpellier
+13,07/11/09,Sochaux,1-2,Lens
+13,08/11/09,Lille,2-0,Bordeaux
+13,08/11/09,Toulouse,3-2,Rennes
+13,08/11/09,Lyon,5-5,Marseille
+10,20/11/09,Marseille,1-0,PSG
+14,21/11/09,Bordeaux,0-1,Valenciennes
+14,21/11/09,Grenoble,1-1,Lyon
+14,21/11/09,Lens,2-1,Nancy
+14,21/11/09,Rennes,2-1,Le Mans UC 72
+14,21/11/09,Auxerre,2-0,Monaco
+14,22/11/09,Nice,1-0,Toulouse
+14,22/11/09,Saint-Étienne,0-2,FC Lorient
+14,22/11/09,Montpellier,2-0,Lille
+15,28/11/09,Lille,4-0,Valenciennes
+15,28/11/09,FC Lorient,2-2,Grenoble
+15,28/11/09,PSG,1-0,Auxerre
+15,28/11/09,Sochaux,1-0,Nice
+15,28/11/09,Toulouse,1-0,US Boulogne
+15,28/11/09,Lens,1-0,Marseille
+15,29/11/09,Le Mans UC 72,1-1,Saint-Étienne
+15,29/11/09,Nancy,0-3,Bordeaux
+15,29/11/09,Lyon,1-1,Rennes
+14,02/12/09,US Boulogne,2-5,PSG
+16,05/12/09,Montpellier,2-1,Le Mans UC 72
+16,05/12/09,Nice,1-3,Marseille
+16,05/12/09,Rennes,1-0,FC Lorient
+16,05/12/09,Saint-Étienne,0-0,Sochaux
+16,05/12/09,Valenciennes,3-1,Monaco
+16,05/12/09,Bordeaux,1-0,PSG
+16,06/12/09,Auxerre,1-3,Nancy
+16,06/12/09,US Boulogne,2-1,Lens
+16,06/12/09,Grenoble,1-0,Toulouse
+16,06/12/09,Lille,4-3,Lyon
+11,10/12/09,Lille,4-0,Saint-Étienne
+11,10/12/09,Toulouse,2-0,Sochaux
+17,12/12/09,Le Mans UC 72,2-1,Valenciennes
+17,12/12/09,Lens,2-0,Nice
+17,12/12/09,Marseille,2-0,US Boulogne
+17,12/12/09,Nancy,1-2,Rennes
+17,12/12/09,FC Lorient,0-0,Auxerre
+17,13/12/09,Monaco,0-4,Lille
+17,13/12/09,PSG,3-0,Saint-Étienne
+17,13/12/09,Sochaux,1-0,Grenoble
+17,13/12/09,Toulouse,0-1,Montpellier
+17,13/12/09,Lyon,0-1,Bordeaux
+11,15/12/09,Valenciennes,0-0,Auxerre
+11,16/12/09,Le Mans UC 72,1-0,Grenoble
+11,16/12/09,FC Lorient,1-2,Marseille
+11,16/12/09,Lyon,2-0,US Boulogne
+11,16/12/09,Monaco,1-0,Rennes
+11,16/12/09,Montpellier,0-1,Bordeaux
+11,16/12/09,Nancy,2-0,Nice
+11,16/12/09,PSG,1-1,Lens
+18,19/12/09,Bordeaux,4-1,FC Lorient
+18,19/12/09,Grenoble,1-1,Nice
+18,19/12/09,Montpellier,0-2,Nancy
+18,19/12/09,Rennes,1-0,PSG
+18,19/12/09,Valenciennes,0-0,Lens
+18,19/12/09,Saint-Étienne,0-0,Marseille
+18,20/12/09,Auxerre,1-1,Toulouse
+18,20/12/09,Lille,3-0,Le Mans UC 72
+18,20/12/09,Monaco,1-1,Lyon
+19,22/12/09,Lens,1-0,Saint-Étienne
+19,23/12/09,Le Mans UC 72,1-1,Monaco
+19,23/12/09,FC Lorient,3-2,Valenciennes
+19,23/12/09,Lyon,1-2,Montpellier
+19,23/12/09,Marseille,0-2,Auxerre
+19,23/12/09,Nancy,0-4,Lille
+19,23/12/09,Nice,2-2,US Boulogne
+19,23/12/09,PSG,4-0,Grenoble
+19,23/12/09,Sochaux,2-0,Rennes
+19,23/12/09,Toulouse,1-2,Bordeaux
+15,13/01/10,Monaco,4-0,Montpellier
+18,13/01/10,US Boulogne,0-0,Sochaux
+20,16/01/10,Auxerre,0-0,US Boulogne
+20,16/01/10,Rennes,1-1,Lens
+20,16/01/10,Le Mans UC 72,0-3,FC Lorient
+20,16/01/10,Nancy,0-2,Lyon
+20,16/01/10,Montpellier,1-0,Nice
+20,16/01/10,Lille,3-1,PSG
+20,16/01/10,Grenoble,1-2,Saint-Étienne
+20,16/01/10,Monaco,2-0,Sochaux
+20,16/01/10,Valenciennes,1-3,Toulouse
+20,17/01/10,Bordeaux,1-1,Marseille
+21,19/01/10,Saint-Étienne,0-0,Rennes
+21,20/01/10,Nice,0-1,Auxerre
+21,20/01/10,Grenoble,1-3,Bordeaux
+21,20/01/10,Marseille,2-1,Le Mans UC 72
+21,20/01/10,Sochaux,2-1,Lille
+21,20/01/10,FC Lorient,1-3,Lyon
+21,20/01/10,PSG,0-1,Monaco
+21,20/01/10,Lens,0-1,Montpellier
+21,20/01/10,Toulouse,0-0,Nancy
+21,20/01/10,US Boulogne,0-2,Valenciennes
+22,30/01/10,Bordeaux,0-0,US Boulogne
+22,30/01/10,Rennes,4-0,Grenoble
+22,30/01/10,Lille,1-0,Lens
+22,30/01/10,Nancy,1-0,FC Lorient
+22,30/01/10,Monaco,3-2,Nice
+22,30/01/10,Le Mans UC 72,1-3,Toulouse
+22,30/01/10,Montpellier,2-0,Marseille
+22,31/01/10,Auxerre,1-0,Saint-Étienne
+22,31/01/10,Valenciennes,1-1,Sochaux
+22,31/01/10,Lyon,2-1,PSG
+23,06/02/10,US Boulogne,0-2,Montpellier
+23,06/02/10,Sochaux,1-1,Nancy
+23,06/02/10,Grenoble,5-0,Auxerre
+23,06/02/10,Lens,2-1,Le Mans UC 72
+23,06/02/10,Nice,1-1,Lille
+23,06/02/10,PSG,0-3,FC Lorient
+23,06/02/10,Rennes,4-2,Bordeaux
+23,07/02/10,Toulouse,0-0,Lyon
+23,07/02/10,Saint-Étienne,3-0,Monaco
+23,07/02/10,Marseille,5-1,Valenciennes
+24,13/02/10,Lille,3-1,US Boulogne
+24,13/02/10,Montpellier,1-0,Grenoble
+24,13/02/10,Monaco,1-2,Marseille
+24,13/02/10,Valenciennes,2-1,Nice
+24,13/02/10,Nancy,0-0,PSG
+24,13/02/10,Le Mans UC 72,0-0,Sochaux
+24,13/02/10,Lyon,1-0,Lens
+24,14/02/10,Auxerre,1-0,Rennes
+24,14/02/10,FC Lorient,1-1,Toulouse
+24,14/02/10,Bordeaux,3-1,Saint-Étienne
+25,20/02/10,US Boulogne,1-3,Le Mans UC 72
+25,20/02/10,Nice,1-0,FC Lorient
+25,20/02/10,Lens,3-0,Monaco
+25,20/02/10,Saint-Étienne,1-0,Montpellier
+25,20/02/10,Grenoble,0-1,Valenciennes
+25,20/02/10,PSG,1-0,Toulouse
+25,21/02/10,Sochaux,0-4,Lyon
+25,21/02/10,Marseille,3-1,Nancy
+25,21/02/10,Rennes,1-2,Lille
+26,27/02/10,Monaco,1-0,US Boulogne
+26,27/02/10,Nancy,0-2,Grenoble
+26,27/02/10,Toulouse,1-0,Lens
+26,27/02/10,Lyon,2-0,Nice
+26,27/02/10,Valenciennes,1-0,Saint-Étienne
+26,27/02/10,FC Lorient,1-0,Sochaux
+26,27/02/10,Montpellier,3-1,Rennes
+26,28/02/10,Lille,1-2,Auxerre
+26,28/02/10,PSG,0-3,Marseille
+27,06/03/10,US Boulogne,0-0,Lyon
+27,06/03/10,Rennes,1-0,Monaco
+27,06/03/10,Nice,2-3,Nancy
+27,06/03/10,Lens,1-1,PSG
+27,06/03/10,Sochaux,1-0,Toulouse
+27,06/03/10,Auxerre,1-0,Valenciennes
+27,06/03/10,Saint-Étienne,1-1,Lille
+27,07/03/10,Grenoble,1-1,Le Mans UC 72
+27,07/03/10,Marseille,1-1,FC Lorient
+27,07/03/10,Bordeaux,1-1,Montpellier
+25,10/03/10,Bordeaux,1-2,Auxerre
+28,13/03/10,Montpellier,1-1,Auxerre
+28,13/03/10,Monaco,0-0,Bordeaux
+28,13/03/10,Nancy,1-3,US Boulogne
+28,13/03/10,FC Lorient,1-0,Lens
+28,13/03/10,Le Mans UC 72,0-1,Nice
+28,13/03/10,PSG,4-1,Sochaux
+28,13/03/10,Lyon,1-1,Saint-Étienne
+28,14/03/10,Lille,1-0,Grenoble
+28,14/03/10,Valenciennes,0-2,Rennes
+28,14/03/10,Toulouse,1-1,Marseille
+29,20/03/10,Auxerre,2-1,Le Mans UC 72
+29,20/03/10,US Boulogne,2-0,FC Lorient
+29,20/03/10,Grenoble,0-0,Monaco
+29,20/03/10,Saint-Étienne,0-0,Nancy
+29,20/03/10,Nice,1-0,PSG
+29,20/03/10,Rennes,4-1,Toulouse
+29,20/03/10,Lens,0-0,Sochaux
+29,21/03/10,Bordeaux,3-1,Lille
+29,21/03/10,Montpellier,2-1,Valenciennes
+29,21/03/10,Marseille,2-1,Lyon
+30,27/03/10,Lyon,2-0,Grenoble
+30,28/03/10,PSG,3-0,US Boulogne
+30,28/03/10,Nancy,5-1,Lens
+30,28/03/10,Toulouse,0-2,Nice
+30,28/03/10,Le Mans UC 72,1-3,Rennes
+30,28/03/10,FC Lorient,4-0,Saint-Étienne
+30,28/03/10,Lille,4-1,Montpellier
+30,29/03/10,Monaco,0-0,Auxerre
+31,03/04/10,Saint-Étienne,2-0,Le Mans UC 72
+31,03/04/10,Valenciennes,1-0,Lille
+31,03/04/10,Grenoble,1-2,FC Lorient
+31,03/04/10,Rennes,1-2,Lyon
+31,03/04/10,Bordeaux,1-2,Nancy
+31,03/04/10,Nice,0-0,Sochaux
+31,03/04/10,Montpellier,0-0,Monaco
+31,04/04/10,Marseille,1-0,Lens
+31,04/04/10,US Boulogne,1-1,Toulouse
+31,04/04/10,Auxerre,1-1,PSG
+14,07/04/10,Marseille,3-0,Sochaux
+32,10/04/10,Lens,3-0,US Boulogne
+32,10/04/10,Toulouse,4-0,Grenoble
+32,10/04/10,Le Mans UC 72,2-2,Montpellier
+32,10/04/10,FC Lorient,1-1,Rennes
+32,10/04/10,Sochaux,0-2,Saint-Étienne
+32,10/04/10,Monaco,2-1,Valenciennes
+32,10/04/10,PSG,3-1,Bordeaux
+32,11/04/10,Nancy,0-1,Auxerre
+32,11/04/10,Lyon,1-1,Lille
+32,11/04/10,Marseille,4-1,Nice
+26,14/04/10,Le Mans UC 72,2-1,Bordeaux
+30,14/04/10,Sochaux,0-1,Marseille
+33,17/04/10,Valenciennes,0-1,Le Mans UC 72
+33,17/04/10,Nice,0-0,Lens
+33,17/04/10,Auxerre,4-1,FC Lorient
+33,17/04/10,US Boulogne,1-2,Marseille
+33,17/04/10,Rennes,0-0,Nancy
+33,17/04/10,Grenoble,2-2,Sochaux
+33,17/04/10,Bordeaux,2-2,Lyon
+33,18/04/10,Lille,4-0,Monaco
+33,18/04/10,Montpellier,1-1,Toulouse
+33,18/04/10,Saint-Étienne,0-0,PSG
+34,24/04/10,FC Lorient,1-0,Bordeaux
+34,24/04/10,Sochaux,0-3,US Boulogne
+34,24/04/10,Nice,2-1,Grenoble
+34,24/04/10,Le Mans UC 72,1-2,Lille
+34,24/04/10,Nancy,0-0,Montpellier
+34,24/04/10,PSG,1-1,Rennes
+34,25/04/10,Toulouse,0-3,Auxerre
+34,25/04/10,Lens,1-1,Valenciennes
+34,25/04/10,Marseille,1-0,Saint-Étienne
+35,27/04/10,Monaco,1-1,Le Mans UC 72
+35,27/04/10,Grenoble,4-0,PSG
+30,28/04/10,Valenciennes,2-0,Bordeaux
+35,30/04/10,Auxerre,0-0,Marseille
+35,02/05/10,Saint-Étienne,1-4,Lens
+35,02/05/10,Valenciennes,0-0,FC Lorient
+35,02/05/10,Lille,3-1,Nancy
+35,02/05/10,US Boulogne,3-3,Nice
+35,02/05/10,Rennes,1-2,Sochaux
+35,02/05/10,Bordeaux,1-0,Toulouse
+35,02/05/10,Montpellier,0-1,Lyon
+36,05/05/10,Lyon,2-1,Auxerre
+36,05/05/10,Nice,1-1,Bordeaux
+36,05/05/10,Lens,1-1,Grenoble
+36,05/05/10,Nancy,3-2,Le Mans UC 72
+36,05/05/10,Toulouse,0-2,Lille
+36,05/05/10,FC Lorient,2-2,Monaco
+36,05/05/10,Sochaux,0-1,Montpellier
+36,05/05/10,US Boulogne,0-1,Saint-Étienne
+36,05/05/10,PSG,2-2,Valenciennes
+36,05/05/10,Marseille,3-1,Rennes
+37,08/05/10,Grenoble,2-0,US Boulogne
+37,08/05/10,Auxerre,0-0,Lens
+37,08/05/10,Montpellier,2-1,FC Lorient
+37,08/05/10,Valenciennes,2-2,Lyon
+37,08/05/10,Lille,3-2,Marseille
+37,08/05/10,Monaco,2-1,Nancy
+37,08/05/10,Rennes,2-2,Nice
+37,08/05/10,Le Mans UC 72,1-0,PSG
+37,08/05/10,Bordeaux,2-0,Sochaux
+37,08/05/10,Saint-Étienne,0-1,Toulouse
+34,12/05/10,Lyon,3-0,Monaco
+38,15/05/10,Sochaux,1-2,Auxerre
+38,15/05/10,Lens,4-3,Bordeaux
+38,15/05/10,Marseille,2-0,Grenoble
+38,15/05/10,Lyon,2-0,Le Mans UC 72
+38,15/05/10,Toulouse,0-0,Monaco
+38,15/05/10,PSG,1-3,Montpellier
+38,15/05/10,US Boulogne,1-0,Rennes
+38,15/05/10,Nice,1-1,Saint-Étienne
+38,15/05/10,Nancy,1-1,Valenciennes
+38,15/05/10,FC Lorient,2-1,Lille

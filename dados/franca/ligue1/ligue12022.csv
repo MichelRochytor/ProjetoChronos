@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,05/08/22,Lyon,2-1,AC Ajaccio
+1,06/08/22,Strasbourg,1-2,Monaco
+1,06/08/22,Clermont,0-5,PSG
+1,07/08/22,Toulouse,1-1,Nice
+1,07/08/22,Lille,4-1,Auxerre
+1,07/08/22,Angers,0-0,Nantes
+1,07/08/22,Montpellier,3-2,Troyes
+1,07/08/22,Lens,3-2,Brest
+1,07/08/22,Rennes,0-1,FC Lorient
+1,07/08/22,Marseille,4-1,Stade de Reims
+2,12/08/22,Nantes,1-1,Lille
+2,13/08/22,Monaco,1-1,Rennes
+2,13/08/22,PSG,5-2,Montpellier
+2,14/08/22,AC Ajaccio,0-0,Lens
+2,14/08/22,Auxerre,2-2,Angers
+2,14/08/22,Stade de Reims,2-4,Clermont
+2,14/08/22,Troyes,0-3,Toulouse
+2,14/08/22,Nice,1-1,Strasbourg
+2,14/08/22,Brest,1-1,Marseille
+3,19/08/22,Lyon,4-1,Troyes
+3,20/08/22,Monaco,1-4,Lens
+3,20/08/22,Marseille,2-1,Nantes
+3,21/08/22,Strasbourg,1-1,Stade de Reims
+3,21/08/22,Angers,1-3,Brest
+3,21/08/22,Clermont,1-0,Nice
+3,21/08/22,Montpellier,1-2,Auxerre
+3,21/08/22,Toulouse,2-2,FC Lorient
+3,21/08/22,Rennes,2-1,AC Ajaccio
+3,21/08/22,Lille,1-7,PSG
+4,26/08/22,AC Ajaccio,1-3,Lille
+4,27/08/22,Auxerre,1-0,Strasbourg
+4,27/08/22,Lens,2-1,Rennes
+4,28/08/22,Nantes,3-1,Toulouse
+4,28/08/22,FC Lorient,2-1,Clermont
+4,28/08/22,Nice,0-3,Marseille
+4,28/08/22,Brest,0-7,Montpellier
+4,28/08/22,Troyes,3-1,Angers
+4,28/08/22,Stade de Reims,1-1,Lyon
+4,28/08/22,PSG,1-1,Monaco
+5,31/08/22,Monaco,2-4,Troyes
+5,31/08/22,Angers,2-4,Stade de Reims
+5,31/08/22,Montpellier,2-0,AC Ajaccio
+5,31/08/22,Lyon,2-1,Auxerre
+5,31/08/22,Strasbourg,1-1,Nantes
+5,31/08/22,Lille,1-2,Nice
+5,31/08/22,Marseille,1-0,Clermont
+5,31/08/22,Lens,5-2,FC Lorient
+5,31/08/22,Rennes,3-1,Brest
+5,31/08/22,Toulouse,0-3,PSG
+6,03/09/22,Auxerre,0-2,Marseille
+6,03/09/22,Lyon,5-0,Angers
+6,03/09/22,Nantes,0-3,PSG
+6,04/09/22,Montpellier,1-3,Lille
+6,04/09/22,AC Ajaccio,0-1,FC Lorient
+6,04/09/22,Clermont,2-0,Toulouse
+6,04/09/22,Brest,1-1,Strasbourg
+6,04/09/22,Stade de Reims,1-1,Lens
+6,04/09/22,Troyes,1-1,Rennes
+6,04/09/22,Nice,0-1,Monaco
+2,07/09/22,FC Lorient,3-1,Lyon
+7,09/09/22,Lens,1-0,Troyes
+7,10/09/22,PSG,1-0,Brest
+7,10/09/22,Marseille,2-1,Lille
+7,11/09/22,Strasbourg,0-0,Clermont
+7,11/09/22,AC Ajaccio,0-1,Nice
+7,11/09/22,Angers,2-1,Montpellier
+7,11/09/22,FC Lorient,3-2,Nantes
+7,11/09/22,Toulouse,1-0,Stade de Reims
+7,11/09/22,Rennes,5-0,Auxerre
+7,11/09/22,Monaco,2-1,Lyon
+8,16/09/22,Auxerre,1-3,FC Lorient
+8,17/09/22,Montpellier,2-1,Strasbourg
+8,17/09/22,Lille,2-1,Toulouse
+8,18/09/22,Stade de Reims,0-3,Monaco
+8,18/09/22,Clermont,1-3,Troyes
+8,18/09/22,Nice,0-1,Angers
+8,18/09/22,Marseille,1-1,Rennes
+8,18/09/22,Brest,0-1,AC Ajaccio
+8,18/09/22,Nantes,0-0,Lens
+8,18/09/22,Lyon,0-1,PSG
+9,30/09/22,Angers,0-3,Marseille
+9,01/10/22,Strasbourg,1-3,Rennes
+9,01/10/22,PSG,2-1,Nice
+9,02/10/22,FC Lorient,2-1,Lille
+9,02/10/22,AC Ajaccio,1-3,Clermont
+9,02/10/22,Auxerre,1-1,Brest
+9,02/10/22,Toulouse,4-2,Montpellier
+9,02/10/22,Troyes,2-2,Stade de Reims
+9,02/10/22,Monaco,4-1,Nantes
+9,02/10/22,Lens,1-0,Lyon
+10,07/10/22,Lyon,1-1,Toulouse
+10,08/10/22,Marseille,1-2,AC Ajaccio
+10,08/10/22,Stade de Reims,0-0,PSG
+10,09/10/22,Montpellier,0-2,Monaco
+10,09/10/22,Angers,2-3,Strasbourg
+10,09/10/22,Clermont,2-1,Auxerre
+10,09/10/22,Nice,3-2,Troyes
+10,09/10/22,Brest,1-2,FC Lorient
+10,09/10/22,Rennes,3-0,Nantes
+10,09/10/22,Lille,1-0,Lens
+11,14/10/22,Strasbourg,0-3,Lille
+11,15/10/22,FC Lorient,0-0,Stade de Reims
+11,15/10/22,Lens,1-0,Montpellier
+11,16/10/22,Toulouse,3-2,Angers
+11,16/10/22,Auxerre,1-1,Nice
+11,16/10/22,Nantes,4-1,Brest
+11,16/10/22,Rennes,3-2,Lyon
+11,16/10/22,Troyes,1-1,AC Ajaccio
+11,16/10/22,Monaco,1-1,Clermont
+11,16/10/22,PSG,1-0,Marseille
+12,21/10/22,AC Ajaccio,0-3,PSG
+12,22/10/22,Montpellier,1-2,Lyon
+12,22/10/22,Marseille,0-1,Lens
+12,23/10/22,Angers,1-2,Rennes
+12,23/10/22,Clermont,1-3,Brest
+12,23/10/22,Stade de Reims,2-1,Auxerre
+12,23/10/22,Toulouse,2-2,Strasbourg
+12,23/10/22,Troyes,2-2,FC Lorient
+12,23/10/22,Nice,1-1,Nantes
+12,23/10/22,Lille,4-3,Monaco
+13,28/10/22,Lens,3-0,Toulouse
+13,29/10/22,PSG,4-3,Troyes
+13,29/10/22,Strasbourg,2-2,Marseille
+13,30/10/22,Auxerre,1-0,AC Ajaccio
+13,30/10/22,Monaco,2-0,Angers
+13,30/10/22,Nantes,1-1,Clermont
+13,30/10/22,Brest,0-0,Stade de Reims
+13,30/10/22,Rennes,3-0,Montpellier
+13,30/10/22,FC Lorient,1-2,Nice
+13,30/10/22,Lyon,1-0,Lille
+14,04/11/22,Troyes,1-1,Auxerre
+14,05/11/22,AC Ajaccio,4-2,Strasbourg
+14,05/11/22,Angers,1-2,Lens
+14,06/11/22,FC Lorient,1-2,PSG
+14,06/11/22,Clermont,1-1,Montpellier
+14,06/11/22,Nice,1-0,Brest
+14,06/11/22,Stade de Reims,1-0,Nantes
+14,06/11/22,Toulouse,0-2,Monaco
+14,06/11/22,Lille,1-1,Rennes
+14,06/11/22,Marseille,1-0,Lyon
+15,11/11/22,Lyon,1-1,Nice
+15,12/11/22,Lens,2-1,Clermont
+15,12/11/22,Rennes,2-1,Toulouse
+15,13/11/22,PSG,5-0,Auxerre
+15,13/11/22,Nantes,2-2,AC Ajaccio
+15,13/11/22,Lille,1-0,Angers
+15,13/11/22,Montpellier,1-1,Stade de Reims
+15,13/11/22,Brest,2-1,Troyes
+15,13/11/22,Strasbourg,1-1,FC Lorient
+15,13/11/22,Monaco,2-3,Marseille
+16,28/12/22,AC Ajaccio,1-0,Angers
+16,28/12/22,Troyes,0-0,Nantes
+16,28/12/22,Auxerre,2-3,Monaco
+16,28/12/22,Clermont,0-2,Lille
+16,28/12/22,PSG,2-1,Strasbourg
+16,28/12/22,Brest,2-4,Lyon
+16,29/12/22,FC Lorient,0-2,Montpellier
+16,29/12/22,Stade de Reims,3-1,Rennes
+16,29/12/22,Nice,0-0,Lens
+16,29/12/22,Marseille,6-1,Toulouse
+17,01/01/23,Monaco,1-0,Brest
+17,01/01/23,Nantes,1-0,Auxerre
+17,01/01/23,Toulouse,2-0,AC Ajaccio
+17,01/01/23,Angers,1-2,FC Lorient
+17,01/01/23,Lyon,0-1,Clermont
+17,01/01/23,Lens,3-1,PSG
+17,02/01/23,Strasbourg,2-3,Troyes
+17,02/01/23,Lille,1-1,Stade de Reims
+17,02/01/23,Montpellier,1-2,Marseille
+17,02/01/23,Rennes,2-1,Nice
+18,11/01/23,AC Ajaccio,0-1,Stade de Reims
+18,11/01/23,Auxerre,0-5,Toulouse
+18,11/01/23,Clermont,2-1,Rennes
+18,11/01/23,Nantes,0-0,Lyon
+18,11/01/23,Brest,0-0,Lille
+18,11/01/23,FC Lorient,2-2,Monaco
+18,11/01/23,Nice,6-1,Montpellier
+18,11/01/23,PSG,2-0,Angers
+18,11/01/23,Strasbourg,2-2,Lens
+18,11/01/23,Troyes,0-2,Marseille
+19,14/01/23,Lens,1-0,Auxerre
+19,14/01/23,Marseille,3-1,FC Lorient
+19,14/01/23,Lyon,1-2,Strasbourg
+19,15/01/23,Lille,5-1,Troyes
+19,15/01/23,Angers,1-2,Clermont
+19,15/01/23,Montpellier,0-3,Nantes
+19,15/01/23,Stade de Reims,0-0,Nice
+19,15/01/23,Toulouse,1-1,Brest
+19,15/01/23,Monaco,7-1,AC Ajaccio
+19,15/01/23,Rennes,1-0,PSG
+20,27/01/23,FC Lorient,2-1,Rennes
+20,28/01/23,Troyes,1-1,Lens
+20,28/01/23,Marseille,1-1,Monaco
+20,29/01/23,Nice,1-0,Lille
+20,29/01/23,Auxerre,0-2,Montpellier
+20,29/01/23,Clermont,0-0,Nantes
+20,29/01/23,Strasbourg,1-2,Toulouse
+20,29/01/23,Brest,4-0,Angers
+20,29/01/23,AC Ajaccio,0-2,Lyon
+20,29/01/23,PSG,1-1,Stade de Reims
+21,01/02/23,Nantes,0-2,Marseille
+21,01/02/23,Stade de Reims,4-2,FC Lorient
+21,01/02/23,Angers,1-2,AC Ajaccio
+21,01/02/23,Lille,0-0,Clermont
+21,01/02/23,Toulouse,4-1,Troyes
+21,01/02/23,Lyon,0-0,Brest
+21,01/02/23,Monaco,3-2,Auxerre
+21,01/02/23,Montpellier,1-3,PSG
+21,01/02/23,Lens,0-1,Nice
+21,01/02/23,Rennes,3-0,Strasbourg
+22,04/02/23,PSG,2-1,Toulouse
+22,04/02/23,Troyes,1-3,Lyon
+22,04/02/23,Rennes,1-3,Lille
+22,05/02/23,Clermont,0-2,Monaco
+22,05/02/23,AC Ajaccio,0-2,Nantes
+22,05/02/23,Auxerre,0-0,Stade de Reims
+22,05/02/23,FC Lorient,0-0,Angers
+22,05/02/23,Strasbourg,2-0,Montpellier
+22,05/02/23,Brest,1-1,Lens
+22,05/02/23,Marseille,1-3,Nice
+23,10/02/23,Nice,3-0,AC Ajaccio
+23,11/02/23,Monaco,3-1,PSG
+23,11/02/23,Clermont,0-2,Marseille
+23,12/02/23,Toulouse,3-1,Rennes
+23,12/02/23,Angers,1-1,Auxerre
+23,12/02/23,Lille,2-0,Strasbourg
+23,12/02/23,Montpellier,3-0,Brest
+23,12/02/23,Stade de Reims,4-0,Troyes
+23,12/02/23,Nantes,1-0,FC Lorient
+23,12/02/23,Lyon,2-1,Lens
+24,17/02/23,Auxerre,2-1,Lyon
+24,18/02/23,Nice,0-0,Stade de Reims
+24,18/02/23,Strasbourg,2-1,Angers
+24,19/02/23,PSG,4-3,Lille
+24,19/02/23,FC Lorient,3-0,AC Ajaccio
+24,19/02/23,Brest,1-2,Monaco
+24,19/02/23,Rennes,2-0,Clermont
+24,19/02/23,Troyes,0-1,Montpellier
+24,19/02/23,Lens,3-1,Nantes
+24,19/02/23,Toulouse,2-3,Marseille
+25,24/02/23,Lille,2-1,Brest
+25,25/02/23,Angers,1-3,Lyon
+25,25/02/23,Montpellier,1-1,Lens
+25,26/02/23,FC Lorient,0-1,Auxerre
+25,26/02/23,AC Ajaccio,2-1,Troyes
+25,26/02/23,Clermont,1-1,Strasbourg
+25,26/02/23,Nantes,0-1,Rennes
+25,26/02/23,Stade de Reims,3-0,Toulouse
+25,26/02/23,Monaco,0-3,Nice
+25,26/02/23,Marseille,0-3,PSG
+26,03/03/23,Nice,1-1,Auxerre
+26,04/03/23,Lens,1-1,Lille
+26,04/03/23,PSG,4-2,Nantes
+26,05/03/23,Troyes,2-2,Monaco
+26,05/03/23,Montpellier,5-0,Angers
+26,05/03/23,Strasbourg,0-1,Brest
+26,05/03/23,Stade de Reims,1-0,AC Ajaccio
+26,05/03/23,Toulouse,0-1,Clermont
+26,05/03/23,Lyon,0-0,FC Lorient
+26,05/03/23,Rennes,0-1,Marseille
+27,10/03/23,Lille,3-3,Lyon
+27,11/03/23,Auxerre,0-0,Rennes
+27,11/03/23,Brest,1-2,PSG
+27,12/03/23,Clermont,0-4,Lens
+27,12/03/23,AC Ajaccio,0-1,Montpellier
+27,12/03/23,Angers,0-2,Toulouse
+27,12/03/23,FC Lorient,2-0,Troyes
+27,12/03/23,Nantes,2-2,Nice
+27,12/03/23,Monaco,0-1,Stade de Reims
+27,12/03/23,Marseille,2-2,Strasbourg
+28,17/03/23,Lyon,1-1,Nantes
+28,18/03/23,Toulouse,0-2,Lille
+28,18/03/23,Lens,3-0,Angers
+28,19/03/23,AC Ajaccio,0-2,Monaco
+28,19/03/23,Montpellier,2-1,Clermont
+28,19/03/23,Nice,1-1,FC Lorient
+28,19/03/23,Strasbourg,2-0,Auxerre
+28,19/03/23,Troyes,2-2,Brest
+28,19/03/23,PSG,0-2,Rennes
+28,19/03/23,Stade de Reims,1-2,Marseille
+29,31/03/23,Marseille,1-1,Montpellier
+29,01/04/23,Auxerre,1-0,Troyes
+29,01/04/23,Rennes,0-1,Lens
+29,02/04/23,Lille,3-1,FC Lorient
+29,02/04/23,Angers,1-1,Nice
+29,02/04/23,Clermont,2-1,AC Ajaccio
+29,02/04/23,Nantes,0-3,Stade de Reims
+29,02/04/23,Brest,3-1,Toulouse
+29,02/04/23,Monaco,4-3,Strasbourg
+29,02/04/23,PSG,0-1,Lyon
+30,07/04/23,Lens,2-1,Strasbourg
+30,08/04/23,Angers,1-0,Lille
+30,08/04/23,Nice,0-2,PSG
+30,09/04/23,Lyon,3-1,Rennes
+30,09/04/23,AC Ajaccio,0-3,Auxerre
+30,09/04/23,Montpellier,1-2,Toulouse
+30,09/04/23,Stade de Reims,1-1,Brest
+30,09/04/23,Troyes,0-2,Clermont
+30,09/04/23,Nantes,2-2,Monaco
+30,09/04/23,FC Lorient,0-0,Marseille
+31,14/04/23,Toulouse,1-2,Lyon
+31,15/04/23,Rennes,3-0,Stade de Reims
+31,15/04/23,PSG,3-1,Lens
+31,16/04/23,Lille,2-1,Montpellier
+31,16/04/23,Auxerre,2-1,Nantes
+31,16/04/23,Clermont,2-1,Angers
+31,16/04/23,Strasbourg,3-1,AC Ajaccio
+31,16/04/23,Brest,1-0,Nice
+31,16/04/23,Monaco,3-1,FC Lorient
+31,16/04/23,Marseille,3-1,Troyes
+32,21/04/23,Angers,1-2,PSG
+32,22/04/23,Auxerre,1-1,Lille
+32,22/04/23,Lens,3-0,Monaco
+32,23/04/23,Stade de Reims,0-2,Strasbourg
+32,23/04/23,AC Ajaccio,0-0,Brest
+32,23/04/23,FC Lorient,0-1,Toulouse
+32,23/04/23,Nantes,2-2,Troyes
+32,23/04/23,Nice,1-2,Clermont
+32,23/04/23,Montpellier,1-0,Rennes
+32,23/04/23,Lyon,1-2,Marseille
+33,28/04/23,Strasbourg,1-2,Lyon
+33,29/04/23,Lille,3-0,AC Ajaccio
+33,30/04/23,Monaco,0-4,Montpellier
+33,30/04/23,Clermont,1-0,Stade de Reims
+33,30/04/23,Rennes,4-2,Angers
+33,30/04/23,Troyes,0-1,Nice
+33,30/04/23,PSG,1-3,FC Lorient
+33,30/04/23,Marseille,2-1,Auxerre
+33,02/05/23,Toulouse,0-1,Lens
+33,03/05/23,Brest,2-0,Nantes
+34,06/05/23,Nice,2-1,Rennes
+34,06/05/23,Stade de Reims,1-0,Lille
+34,06/05/23,Lens,2-1,Marseille
+34,07/05/23,Angers,1-2,Monaco
+34,07/05/23,AC Ajaccio,0-0,Toulouse
+34,07/05/23,Auxerre,1-1,Clermont
+34,07/05/23,FC Lorient,2-1,Brest
+34,07/05/23,Nantes,0-2,Strasbourg
+34,07/05/23,Lyon,5-4,Montpellier
+34,07/05/23,Troyes,1-3,PSG
+35,12/05/23,Lens,2-1,Stade de Reims
+35,13/05/23,Strasbourg,2-0,Nice
+35,13/05/23,PSG,5-0,AC Ajaccio
+35,14/05/23,Clermont,2-1,Lyon
+35,14/05/23,Montpellier,1-1,FC Lorient
+35,14/05/23,Brest,1-0,Auxerre
+35,14/05/23,Rennes,4-0,Troyes
+35,14/05/23,Toulouse,0-0,Nantes
+35,14/05/23,Monaco,0-0,Lille
+35,14/05/23,Marseille,3-1,Angers
+36,19/05/23,Lyon,3-1,Monaco
+36,20/05/23,Nantes,0-3,Montpellier
+36,20/05/23,Lille,2-1,Marseille
+36,21/05/23,AC Ajaccio,0-5,Rennes
+36,21/05/23,Nice,0-0,Toulouse
+36,21/05/23,Brest,2-1,Clermont
+36,21/05/23,Stade de Reims,2-2,Angers
+36,21/05/23,Troyes,1-1,Strasbourg
+36,21/05/23,FC Lorient,1-3,Lens
+36,21/05/23,Auxerre,1-2,PSG
+37,27/05/23,Angers,2-1,Troyes
+37,27/05/23,Clermont,2-0,FC Lorient
+37,27/05/23,Lille,2-1,Nantes
+37,27/05/23,Montpellier,2-3,Nice
+37,27/05/23,Lyon,3-0,Stade de Reims
+37,27/05/23,Marseille,1-2,Brest
+37,27/05/23,Lens,3-0,AC Ajaccio
+37,27/05/23,Strasbourg,1-1,PSG
+37,27/05/23,Rennes,2-0,Monaco
+37,27/05/23,Toulouse,1-1,Auxerre
+38,03/06/23,AC Ajaccio,1-0,Marseille
+38,03/06/23,Auxerre,1-3,Lens
+38,03/06/23,Monaco,1-2,Toulouse
+38,03/06/23,FC Lorient,2-1,Strasbourg
+38,03/06/23,Nantes,1-0,Angers
+38,03/06/23,Nice,3-1,Lyon
+38,03/06/23,PSG,2-3,Clermont
+38,03/06/23,Brest,1-2,Rennes
+38,03/06/23,Stade de Reims,1-3,Montpellier
+38,03/06/23,Troyes,1-1,Lille

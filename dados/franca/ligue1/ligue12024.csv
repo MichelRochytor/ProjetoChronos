@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,16/08/24,Le Havre,1-4,PSG
+1,17/08/24,Brest,1-5,Marseille
+1,17/08/24,Stade de Reims,0-2,Lille
+1,17/08/24,Monaco,1-0,Saint-Étienne
+1,18/08/24,Auxerre,2-1,Nice
+1,18/08/24,Angers,0-1,Lens
+1,18/08/24,Toulouse,0-0,Nantes
+1,18/08/24,Montpellier,1-1,Strasbourg
+1,18/08/24,Rennes,3-0,Lyon
+2,23/08/24,PSG,6-0,Montpellier
+2,24/08/24,Lyon,0-2,Monaco
+2,24/08/24,Lille,2-0,Angers
+2,24/08/24,Saint-Étienne,0-2,Le Havre
+2,25/08/24,Lens,2-0,Brest
+2,25/08/24,Strasbourg,3-1,Rennes
+2,25/08/24,Nantes,2-0,Auxerre
+2,25/08/24,Nice,1-1,Toulouse
+2,25/08/24,Marseille,2-2,Stade de Reims
+3,30/08/24,Lyon,4-3,Strasbourg
+3,31/08/24,Brest,4-0,Saint-Étienne
+3,31/08/24,Montpellier,1-3,Nantes
+3,31/08/24,Toulouse,1-3,Marseille
+3,01/09/24,Monaco,1-1,Lens
+3,01/09/24,Angers,1-4,Nice
+3,01/09/24,Le Havre,3-1,Auxerre
+3,01/09/24,Stade de Reims,2-1,Rennes
+3,01/09/24,Lille,1-3,PSG
+4,13/09/24,Saint-Étienne,1-0,Lille
+4,14/09/24,Marseille,2-0,Nice
+4,14/09/24,Auxerre,0-3,Monaco
+4,14/09/24,PSG,3-1,Brest
+4,15/09/24,Rennes,3-0,Montpellier
+4,15/09/24,Nantes,1-2,Stade de Reims
+4,15/09/24,Toulouse,2-0,Le Havre
+4,15/09/24,Strasbourg,1-1,Angers
+4,15/09/24,Lens,0-0,Lyon
+5,20/09/24,Nice,8-0,Saint-Étienne
+5,21/09/24,Lille,3-3,Strasbourg
+5,21/09/24,Rennes,1-1,Lens
+5,21/09/24,Stade de Reims,1-1,PSG
+5,22/09/24,Monaco,3-1,Le Havre
+5,22/09/24,Brest,2-0,Toulouse
+5,22/09/24,Angers,1-1,Nantes
+5,22/09/24,Montpellier,3-2,Auxerre
+5,22/09/24,Lyon,2-3,Marseille
+6,27/09/24,Auxerre,3-0,Brest
+6,27/09/24,PSG,3-1,Rennes
+6,28/09/24,Lens,0-0,Nice
+6,28/09/24,Le Havre,0-3,Lille
+6,28/09/24,Monaco,2-1,Montpellier
+6,29/09/24,Toulouse,1-2,Lyon
+6,29/09/24,Nantes,2-2,Saint-Étienne
+6,29/09/24,Angers,1-3,Stade de Reims
+6,29/09/24,Strasbourg,1-0,Marseille
+7,04/10/24,Marseille,1-1,Angers
+7,05/10/24,Saint-Étienne,3-1,Auxerre
+7,05/10/24,Lille,2-1,Toulouse
+7,05/10/24,Rennes,1-2,Monaco
+7,06/10/24,Lyon,2-0,Nantes
+7,06/10/24,Brest,2-0,Le Havre
+7,06/10/24,Strasbourg,2-2,Lens
+7,06/10/24,Stade de Reims,4-2,Montpellier
+7,06/10/24,Nice,1-1,PSG
+8,18/10/24,Monaco,0-0,Lille
+8,19/10/24,Brest,1-1,Rennes
+8,19/10/24,Saint-Étienne,0-2,Lens
+8,19/10/24,PSG,4-2,Strasbourg
+8,20/10/24,Le Havre,0-4,Lyon
+8,20/10/24,Auxerre,2-1,Stade de Reims
+8,20/10/24,Toulouse,1-1,Angers
+8,20/10/24,Nantes,1-1,Nice
+8,20/10/24,Montpellier,0-5,Marseille
+9,25/10/24,Rennes,1-0,Le Havre
+9,26/10/24,Angers,4-2,Saint-Étienne
+9,26/10/24,Stade de Reims,1-2,Brest
+9,26/10/24,Lens,0-2,Lille
+9,27/10/24,Lyon,2-2,Auxerre
+9,27/10/24,Nice,2-1,Monaco
+9,27/10/24,Montpellier,0-3,Toulouse
+9,27/10/24,Strasbourg,3-1,Nantes
+9,27/10/24,Marseille,0-3,PSG
+10,01/11/24,Monaco,0-1,Angers
+10,01/11/24,Lille,1-1,Lyon
+10,02/11/24,PSG,1-0,Lens
+10,02/11/24,Brest,0-1,Nice
+10,02/11/24,Saint-Étienne,2-0,Strasbourg
+10,03/11/24,Toulouse,1-0,Stade de Reims
+10,03/11/24,Auxerre,4-0,Rennes
+10,03/11/24,Le Havre,1-0,Montpellier
+10,03/11/24,Nantes,1-2,Marseille
+11,08/11/24,Marseille,1-3,Auxerre
+11,09/11/24,Strasbourg,1-3,Monaco
+11,09/11/24,Lens,3-2,Nantes
+11,09/11/24,Angers,2-4,PSG
+11,10/11/24,Nice,2-2,Lille
+11,10/11/24,Montpellier,3-1,Brest
+11,10/11/24,Le Havre,0-3,Stade de Reims
+11,10/11/24,Rennes,0-2,Toulouse
+11,10/11/24,Lyon,1-0,Saint-Étienne
+12,22/11/24,Monaco,3-2,Brest
+12,22/11/24,PSG,3-0,Toulouse
+12,23/11/24,Lens,1-3,Marseille
+12,23/11/24,Saint-Étienne,1-0,Montpellier
+12,23/11/24,Stade de Reims,1-1,Lyon
+12,24/11/24,Lille,1-0,Rennes
+12,24/11/24,Nantes,0-2,Le Havre
+12,24/11/24,Auxerre,1-0,Angers
+12,24/11/24,Nice,2-1,Strasbourg
+13,29/11/24,Stade de Reims,0-2,Lens
+13,30/11/24,Rennes,5-0,Saint-Étienne
+13,30/11/24,Brest,3-1,Strasbourg
+13,30/11/24,PSG,1-1,Nantes
+13,01/12/24,Montpellier,2-2,Lille
+13,01/12/24,Le Havre,0-1,Angers
+13,01/12/24,Toulouse,2-0,Auxerre
+13,01/12/24,Lyon,4-1,Nice
+13,01/12/24,Marseille,2-1,Monaco
+14,06/12/24,Lille,3-1,Brest
+14,06/12/24,Auxerre,0-0,PSG
+14,07/12/24,Monaco,2-0,Toulouse
+14,07/12/24,Nice,2-1,Le Havre
+14,07/12/24,Angers,0-3,Lyon
+14,08/12/24,Lens,2-0,Montpellier
+14,08/12/24,Strasbourg,0-0,Stade de Reims
+14,08/12/24,Nantes,1-0,Rennes
+14,08/12/24,Saint-Étienne,0-2,Marseille
+15,13/12/24,Toulouse,2-1,Saint-Étienne
+15,14/12/24,Marseille,1-1,Lille
+15,14/12/24,Auxerre,2-2,Lens
+15,14/12/24,Stade de Reims,0-0,Monaco
+15,15/12/24,Montpellier,2-2,Nice
+15,15/12/24,Rennes,2-0,Angers
+15,15/12/24,Le Havre,0-3,Strasbourg
+15,15/12/24,Brest,4-1,Nantes
+15,15/12/24,PSG,3-1,Lyon
+16,18/12/24,Monaco,2-4,PSG
+16,03/01/25,Nice,3-2,Rennes
+16,04/01/25,Saint-Étienne,3-1,Stade de Reims
+16,04/01/25,Lille,1-1,Nantes
+16,04/01/25,Lyon,1-0,Montpellier
+16,05/01/25,Lens,0-1,Toulouse
+16,05/01/25,Angers,2-0,Brest
+16,05/01/25,Strasbourg,3-1,Auxerre
+16,05/01/25,Marseille,5-1,Le Havre
+17,10/01/25,Nantes,2-2,Monaco
+17,10/01/25,Auxerre,0-0,Lille
+17,11/01/25,Brest,2-1,Lyon
+17,11/01/25,Stade de Reims,2-4,Nice
+17,11/01/25,Rennes,1-2,Marseille
+17,12/01/25,Le Havre,1-2,Lens
+17,12/01/25,Toulouse,1-2,Strasbourg
+17,12/01/25,Montpellier,1-3,Angers
+17,12/01/25,PSG,2-1,Saint-Étienne
+18,17/01/25,Montpellier,2-1,Monaco
+18,17/01/25,Lille,2-1,Nice
+18,18/01/25,Lens,1-2,PSG
+18,18/01/25,Rennes,1-2,Brest
+18,18/01/25,Lyon,0-0,Toulouse
+18,19/01/25,Saint-Étienne,1-1,Nantes
+18,19/01/25,Stade de Reims,1-1,Le Havre
+18,19/01/25,Angers,2-0,Auxerre
+18,19/01/25,Marseille,1-1,Strasbourg
+19,24/01/25,Auxerre,1-1,Saint-Étienne
+19,25/01/25,Monaco,3-2,Rennes
+19,25/01/25,Strasbourg,2-1,Lille
+19,25/01/25,PSG,1-1,Stade de Reims
+19,26/01/25,Le Havre,0-1,Brest
+19,26/01/25,Nantes,1-1,Lyon
+19,26/01/25,Toulouse,1-2,Montpellier
+19,26/01/25,Lens,1-0,Angers
+19,26/01/25,Nice,2-0,Marseille
+20,31/01/25,Montpellier,0-2,Lens
+20,01/02/25,Brest,2-5,PSG
+20,01/02/25,Monaco,4-2,Auxerre
+20,01/02/25,Lille,4-1,Saint-Étienne
+20,02/02/25,Toulouse,1-1,Nice
+20,02/02/25,Stade de Reims,1-2,Nantes
+20,02/02/25,Angers,1-1,Le Havre
+20,02/02/25,Rennes,1-0,Strasbourg
+20,02/02/25,Marseille,3-2,Lyon
+21,07/02/25,Nantes,0-2,Brest
+21,07/02/25,PSG,4-1,Monaco
+21,08/02/25,Nice,2-0,Lens
+21,08/02/25,Lille,1-2,Le Havre
+21,08/02/25,Saint-Étienne,0-2,Rennes
+21,09/02/25,Lyon,4-0,Stade de Reims
+21,09/02/25,Auxerre,2-2,Toulouse
+21,09/02/25,Strasbourg,2-0,Montpellier
+21,09/02/25,Angers,0-2,Marseille
+22,14/02/25,Brest,2-2,Auxerre
+22,15/02/25,Marseille,5-1,Saint-Étienne
+22,15/02/25,Monaco,7-1,Nantes
+22,15/02/25,Toulouse,0-1,PSG
+22,16/02/25,Montpellier,1-4,Lyon
+22,16/02/25,Lens,0-2,Strasbourg
+22,16/02/25,Stade de Reims,0-1,Angers
+22,16/02/25,Le Havre,1-3,Nice
+22,16/02/25,Rennes,0-2,Lille
+23,21/02/25,Rennes,1-0,Stade de Reims
+23,22/02/25,Lille,2-1,Monaco
+23,22/02/25,Saint-Étienne,3-3,Angers
+23,22/02/25,Auxerre,3-0,Marseille
+23,23/02/25,Nantes,3-1,Lens
+23,23/02/25,Le Havre,1-4,Toulouse
+23,23/02/25,Strasbourg,0-0,Brest
+23,23/02/25,Nice,2-0,Montpellier
+23,23/02/25,Lyon,2-3,PSG
+24,28/02/25,Monaco,3-0,Stade de Reims
+24,01/03/25,Saint-Étienne,1-3,Nice
+24,01/03/25,Lens,3-4,Le Havre
+24,01/03/25,PSG,4-1,Lille
+24,02/03/25,Lyon,2-1,Brest
+24,02/03/25,Montpellier,0-4,Rennes
+24,02/03/25,Auxerre,0-1,Strasbourg
+24,02/03/25,Angers,0-4,Toulouse
+24,02/03/25,Marseille,2-0,Nantes
+25,07/03/25,Toulouse,1-1,Monaco
+25,08/03/25,Rennes,1-4,PSG
+25,08/03/25,Lille,1-0,Montpellier
+25,08/03/25,Marseille,0-1,Lens
+25,09/03/25,Brest,2-0,Angers
+25,09/03/25,Le Havre,1-1,Saint-Étienne
+25,09/03/25,Stade de Reims,0-2,Auxerre
+25,09/03/25,Nantes,0-1,Strasbourg
+25,09/03/25,Nice,0-2,Lyon
+26,14/03/25,Nice,1-1,Auxerre
+26,15/03/25,Nantes,1-0,Lille
+26,15/03/25,Angers,0-2,Monaco
+26,15/03/25,Lens,1-0,Rennes
+26,16/03/25,Lyon,4-2,Le Havre
+26,16/03/25,Montpellier,DA,Saint-Étienne
+26,16/03/25,Brest,0-0,Stade de Reims
+26,16/03/25,Strasbourg,2-1,Toulouse
+26,16/03/25,PSG,3-1,Marseille
+27,28/03/25,Strasbourg,4-2,Lyon
+27,29/03/25,Stade de Reims,3-1,Marseille
+27,29/03/25,Saint-Étienne,1-6,PSG
+27,29/03/25,Monaco,2-1,Nice
+27,30/03/25,Toulouse,2-4,Brest
+27,30/03/25,Angers,0-3,Rennes
+27,30/03/25,Auxerre,1-0,Montpellier
+27,30/03/25,Le Havre,3-2,Nantes
+27,30/03/25,Lille,1-0,Lens
+28,04/04/25,Nice,1-2,Nantes
+28,05/04/25,PSG,1-0,Angers
+28,05/04/25,Brest,2-1,Monaco
+28,05/04/25,Lyon,2-1,Lille
+28,06/04/25,Lens,1-0,Saint-Étienne
+28,06/04/25,Montpellier,0-2,Le Havre
+28,06/04/25,Stade de Reims,0-1,Strasbourg
+28,06/04/25,Rennes,0-1,Auxerre
+28,06/04/25,Marseille,3-2,Toulouse
+29,11/04/25,Lens,0-2,Stade de Reims
+29,12/04/25,Monaco,3-0,Marseille
+29,12/04/25,Toulouse,1-2,Lille
+29,12/04/25,Strasbourg,2-2,Nice
+29,13/04/25,Saint-Étienne,3-3,Brest
+29,13/04/25,Le Havre,1-5,Rennes
+29,13/04/25,Angers,2-0,Montpellier
+29,13/04/25,Auxerre,1-3,Lyon
+30,18/04/25,Rennes,2-1,Nantes
+30,19/04/25,PSG,2-1,Le Havre
+30,19/04/25,Monaco,0-0,Strasbourg
+30,19/04/25,Marseille,5-1,Montpellier
+30,20/04/25,Lille,3-1,Auxerre
+30,20/04/25,Nice,2-1,Angers
+30,20/04/25,Brest,1-3,Lens
+30,20/04/25,Stade de Reims,1-0,Toulouse
+30,20/04/25,Saint-Étienne,2-1,Lyon
+29,22/04/25,Nantes,1-1,PSG
+31,25/04/25,PSG,1-3,Nice
+31,26/04/25,Strasbourg,3-1,Saint-Étienne
+31,26/04/25,Le Havre,1-1,Monaco
+31,26/04/25,Lyon,4-1,Rennes
+31,27/04/25,Angers,0-2,Lille
+31,27/04/25,Nantes,0-0,Toulouse
+31,27/04/25,Montpellier,0-0,Stade de Reims
+31,27/04/25,Lens,0-4,Auxerre
+31,27/04/25,Marseille,4-1,Brest
+32,02/05/25,Nice,1-0,Stade de Reims
+32,03/05/25,Strasbourg,2-1,PSG
+32,03/05/25,Toulouse,2-1,Rennes
+32,03/05/25,Saint-Étienne,1-3,Monaco
+32,04/05/25,Nantes,0-1,Angers
+32,04/05/25,Lyon,1-2,Lens
+32,04/05/25,Brest,1-0,Montpellier
+32,04/05/25,Auxerre,1-2,Le Havre
+32,04/05/25,Lille,1-1,Marseille
+33,10/05/25,Stade de Reims,0-2,Saint-Étienne
+33,10/05/25,Auxerre,1-1,Nantes
+33,10/05/25,Angers,2-1,Strasbourg
+33,10/05/25,Le Havre,1-3,Marseille
+33,10/05/25,Rennes,2-0,Nice
+33,10/05/25,Montpellier,1-4,PSG
+33,10/05/25,Toulouse,1-1,Lens
+33,10/05/25,Brest,2-0,Lille
+33,10/05/25,Monaco,2-0,Lyon
+34,17/05/25,Marseille,4-2,Rennes
+34,17/05/25,Lyon,2-0,Angers
+34,17/05/25,Nice,6-0,Brest

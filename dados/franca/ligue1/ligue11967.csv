@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,17/08/67,Marseille,1-0,Nantes
+1,18/08/67,Lyon,2-1,AC Ajaccio
+1,18/08/67,RC Strasbourg,0-1,Saint-Étienne
+1,18/08/67,Lille,2-1,AS Aix
+1,19/08/67,Angers,3-0,FC Rouen
+1,19/08/67,Sochaux,0-2,Nice
+1,19/08/67,Stade Rennais UC,1-0,Lens
+1,19/08/67,RC Paris-Sedan,1-1,US Valenciennes-Anzin
+1,19/08/67,Metz,1-1,Red Star
+1,20/08/67,Monaco,1-2,Bordeaux
+2,24/08/67,Lille,1-1,Lyon
+2,25/08/67,Saint-Étienne,3-0,Lens
+2,25/08/67,Nice,1-0,RC Paris-Sedan
+2,25/08/67,Bordeaux,1-2,Marseille
+2,25/08/67,AS Aix,1-3,Angers
+2,26/08/67,US Valenciennes-Anzin,1-2,Metz
+2,26/08/67,Nantes,3-0,RC Strasbourg
+2,26/08/67,FC Rouen,1-0,Sochaux
+2,27/08/67,AC Ajaccio,2-0,Stade Rennais UC
+2,27/08/67,Red Star,2-0,Monaco
+3,30/08/67,Angers,3-0,AC Ajaccio
+3,30/08/67,Saint-Étienne,1-0,Bordeaux
+3,30/08/67,Marseille,0-2,Nice
+3,30/08/67,Lens,1-3,Nantes
+3,30/08/67,RC Paris-Sedan,1-1,Lille
+3,30/08/67,Metz,1-1,FC Rouen
+3,30/08/67,Stade Rennais UC,1-0,Lyon
+3,30/08/67,RC Strasbourg,2-1,Red Star
+3,30/08/67,Monaco,0-1,US Valenciennes-Anzin
+3,30/08/67,Sochaux,1-1,AS Aix
+4,02/09/67,Nantes,1-1,Saint-Étienne
+4,02/09/67,Lille,2-0,Stade Rennais UC
+4,02/09/67,Lyon,8-0,Angers
+4,02/09/67,Bordeaux,6-1,Lens
+4,02/09/67,US Valenciennes-Anzin,0-1,RC Strasbourg
+4,02/09/67,FC Rouen,0-0,RC Paris-Sedan
+4,02/09/67,AS Aix,0-0,Monaco
+4,03/09/67,Nice,4-1,Metz
+4,03/09/67,Red Star,2-0,Marseille
+4,03/09/67,AC Ajaccio,1-1,Sochaux
+5,08/09/67,Saint-Étienne,1-1,Red Star
+5,08/09/67,Marseille,0-0,Lille
+5,08/09/67,RC Strasbourg,0-1,Bordeaux
+5,09/09/67,Nantes,0-0,FC Rouen
+5,09/09/67,Metz,3-1,AS Aix
+5,09/09/67,Sochaux,3-1,Lyon
+5,09/09/67,RC Paris-Sedan,2-0,AC Ajaccio
+5,10/09/67,Monaco,2-2,Nice
+5,10/09/67,Angers,1-1,Stade Rennais UC
+5,10/09/67,Lens,1-0,US Valenciennes-Anzin
+6,22/09/67,Lille,2-1,Angers
+6,23/09/67,Bordeaux,6-2,Nantes
+6,23/09/67,FC Rouen,1-2,Marseille
+6,23/09/67,Stade Rennais UC,1-1,Sochaux
+6,23/09/67,Lyon,1-2,Monaco
+6,24/09/67,Nice,2-0,RC Strasbourg
+6,24/09/67,US Valenciennes-Anzin,1-2,Saint-Étienne
+6,24/09/67,Red Star,3-2,Lens
+6,24/09/67,AC Ajaccio,2-1,Metz
+6,24/09/67,AS Aix,4-2,RC Paris-Sedan
+7,30/09/67,Lens,0-0,Nice
+7,30/09/67,Saint-Étienne,3-1,AS Aix
+7,30/09/67,Bordeaux,2-1,Lille
+7,30/09/67,Nantes,4-2,Red Star
+7,30/09/67,Metz,3-1,Lyon
+7,30/09/67,RC Paris-Sedan,3-0,Stade Rennais UC
+7,30/09/67,Sochaux,2-0,Angers
+7,30/09/67,Monaco,0-1,AC Ajaccio
+7,01/10/67,Marseille,2-0,US Valenciennes-Anzin
+8,04/10/67,Red Star,1-0,Bordeaux
+8,04/10/67,AC Ajaccio,2-2,Marseille
+8,04/10/67,Lille,0-1,Sochaux
+8,04/10/67,Stade Rennais UC,0-0,Metz
+8,04/10/67,Angers,3-0,Monaco
+8,04/10/67,US Valenciennes-Anzin,2-1,Nantes
+8,04/10/67,AS Aix,0-3,RC Strasbourg
+8,04/10/67,FC Rouen,0-1,Lens
+9,07/10/67,Nantes,0-0,Nice
+9,07/10/67,Marseille,2-1,Lyon
+9,07/10/67,Metz,1-1,Angers
+9,07/10/67,RC Strasbourg,1-1,Stade Rennais UC
+9,08/10/67,Saint-Étienne,3-0,FC Rouen
+9,08/10/67,Red Star,4-1,AC Ajaccio
+9,08/10/67,Bordeaux,0-1,US Valenciennes-Anzin
+9,08/10/67,RC Paris-Sedan,2-0,Sochaux
+9,08/10/67,Monaco,3-1,Lille
+9,08/10/67,Lens,4-1,AS Aix
+10,13/10/67,Lille,0-1,Lens
+10,14/10/67,Sochaux,3-2,Metz
+10,14/10/67,FC Rouen,2-1,Monaco
+10,15/10/67,Lyon,1-1,Saint-Étienne
+10,15/10/67,Nice,1-1,Bordeaux
+10,15/10/67,AS Aix,1-2,Marseille
+10,15/10/67,US Valenciennes-Anzin,1-0,Red Star
+10,15/10/67,Angers,2-3,RC Paris-Sedan
+10,15/10/67,Stade Rennais UC,1-1,Nantes
+10,15/10/67,AC Ajaccio,1-0,RC Strasbourg
+11,21/10/67,FC Rouen,0-2,Red Star
+11,21/10/67,Stade Rennais UC,3-1,Marseille
+11,21/10/67,Sochaux,1-0,Nantes
+11,21/10/67,Lille,0-0,Metz
+11,22/10/67,Nice,2-1,US Valenciennes-Anzin
+11,22/10/67,Angers,1-0,Saint-Étienne
+11,22/10/67,RC Paris-Sedan,3-0,Monaco
+11,22/10/67,AC Ajaccio,2-0,Lens
+11,22/10/67,AS Aix,5-1,Bordeaux
+11,22/10/67,Lyon,0-0,RC Strasbourg
+7,25/10/67,RC Strasbourg,2-1,FC Rouen
+12,01/11/67,Nice,4-0,FC Rouen
+12,01/11/67,Saint-Étienne,3-0,Stade Rennais UC
+12,01/11/67,Red Star,2-1,AS Aix
+12,01/11/67,Marseille,1-0,RC Paris-Sedan
+12,01/11/67,RC Strasbourg,1-4,Sochaux
+12,01/11/67,Bordeaux,3-0,AC Ajaccio
+12,01/11/67,Nantes,1-0,Lyon
+12,01/11/67,Lens,4-2,Angers
+12,01/11/67,US Valenciennes-Anzin,3-0,Lille
+12,01/11/67,Monaco,3-1,Metz
+13,05/11/67,AS Aix,3-1,Nice
+13,05/11/67,RC Paris-Sedan,5-2,Saint-Étienne
+13,05/11/67,Lille,1-1,Red Star
+13,05/11/67,Sochaux,4-1,Lens
+13,05/11/67,Metz,3-0,Marseille
+13,05/11/67,Angers,1-0,RC Strasbourg
+13,05/11/67,AC Ajaccio,5-3,Nantes
+13,05/11/67,Lyon,2-0,Bordeaux
+13,05/11/67,FC Rouen,1-2,US Valenciennes-Anzin
+13,05/11/67,Stade Rennais UC,1-1,Monaco
+8,08/11/67,Lyon,0-2,RC Paris-Sedan
+14,11/11/67,Saint-Étienne,2-0,Sochaux
+14,11/11/67,Marseille,2-1,Monaco
+14,11/11/67,Lens,3-0,RC Paris-Sedan
+14,11/11/67,Nantes,0-1,Angers
+14,11/11/67,RC Strasbourg,0-0,Metz
+14,12/11/67,Nice,3-1,Lille
+14,12/11/67,Red Star,1-1,Lyon
+14,12/11/67,Bordeaux,6-2,Stade Rennais UC
+14,12/11/67,US Valenciennes-Anzin,1-0,AS Aix
+14,12/11/67,FC Rouen,3-1,AC Ajaccio
+15,18/11/67,Sochaux,1-1,Marseille
+15,19/11/67,Monaco,0-3,Saint-Étienne
+15,19/11/67,AC Ajaccio,2-1,Nice
+15,19/11/67,RC Paris-Sedan,3-1,RC Strasbourg
+15,19/11/67,Stade Rennais UC,3-0,Red Star
+15,19/11/67,Angers,0-0,Bordeaux
+15,19/11/67,Metz,2-1,Lens
+15,19/11/67,Lyon,0-0,US Valenciennes-Anzin
+15,19/11/67,Lille,2-0,Nantes
+15,19/11/67,AS Aix,4-1,FC Rouen
+16,25/11/67,Saint-Étienne,4-0,Metz
+16,26/11/67,Nantes,1-1,RC Paris-Sedan
+16,26/11/67,Nice,0-3,Lyon
+16,26/11/67,Red Star,3-3,Angers
+16,26/11/67,RC Strasbourg,1-0,Marseille
+16,26/11/67,Bordeaux,3-0,Sochaux
+16,26/11/67,US Valenciennes-Anzin,0-0,AC Ajaccio
+16,26/11/67,AS Aix,2-3,Stade Rennais UC
+16,26/11/67,FC Rouen,1-0,Lille
+16,26/11/67,Lens,1-3,Monaco
+17,03/12/67,Saint-Étienne,4-0,AC Ajaccio
+17,03/12/67,Metz,1-5,RC Paris-Sedan
+17,03/12/67,Red Star,1-1,Nice
+17,03/12/67,Marseille,3-1,Angers
+17,03/12/67,Bordeaux,1-0,FC Rouen
+17,03/12/67,US Valenciennes-Anzin,2-1,Stade Rennais UC
+17,03/12/67,Monaco,1-0,Sochaux
+17,03/12/67,Nantes,5-1,AS Aix
+17,03/12/67,RC Strasbourg,2-0,Lille
+17,03/12/67,Lens,1-0,Lyon
+18,09/12/67,Sochaux,1-0,Red Star
+18,10/12/67,Lille,2-2,Saint-Étienne
+18,10/12/67,Marseille,2-0,Lens
+18,10/12/67,RC Paris-Sedan,1-2,Bordeaux
+18,10/12/67,Stade Rennais UC,4-0,Nice
+18,10/12/67,AC Ajaccio,8-2,AS Aix
+18,10/12/67,Metz,1-1,Nantes
+18,10/12/67,Lyon,2-1,FC Rouen
+18,10/12/67,Monaco,2-1,RC Strasbourg
+8,13/12/67,Nice,1-2,Saint-Étienne
+19,17/12/67,Saint-Étienne,2-0,Marseille
+19,17/12/67,Bordeaux,1-0,Metz
+19,17/12/67,Nice,2-1,Angers
+19,17/12/67,Red Star,3-0,RC Paris-Sedan
+19,17/12/67,US Valenciennes-Anzin,0-0,Sochaux
+19,17/12/67,AC Ajaccio,2-1,Lille
+19,17/12/67,Nantes,0-0,Monaco
+19,17/12/67,Lens,1-0,RC Strasbourg
+19,17/12/67,AS Aix,2-0,Lyon
+20,07/01/68,Bordeaux,1-2,Saint-Étienne
+20,07/01/68,Nice,1-1,Marseille
+20,07/01/68,AC Ajaccio,4-0,Angers
+20,07/01/68,Lille,2-0,RC Paris-Sedan
+20,07/01/68,Red Star,0-1,RC Strasbourg
+20,07/01/68,AS Aix,0-0,Sochaux
+20,07/01/68,Nantes,1-0,Lens
+20,07/01/68,Lyon,2-1,Stade Rennais UC
+20,07/01/68,FC Rouen,0-0,Metz
+21,21/01/68,Saint-Étienne,1-2,Nantes
+21,21/01/68,Marseille,2-0,Red Star
+21,21/01/68,RC Paris-Sedan,2-0,FC Rouen
+21,21/01/68,Sochaux,3-1,AC Ajaccio
+21,21/01/68,RC Strasbourg,0-1,US Valenciennes-Anzin
+21,21/01/68,Stade Rennais UC,4-1,Lille
+21,21/01/68,Angers,3-1,Lyon
+21,21/01/68,Monaco,1-1,AS Aix
+22,28/01/68,Red Star,1-1,Saint-Étienne
+22,28/01/68,Lille,2-0,Marseille
+22,28/01/68,Lyon,2-2,Sochaux
+22,28/01/68,AC Ajaccio,2-0,RC Paris-Sedan
+22,28/01/68,Bordeaux,1-2,RC Strasbourg
+22,28/01/68,Nice,0-2,Monaco
+22,28/01/68,US Valenciennes-Anzin,1-1,Lens
+22,28/01/68,FC Rouen,1-2,Nantes
+22,28/01/68,Stade Rennais UC,1-1,Angers
+23,03/02/68,Sochaux,1-2,Stade Rennais UC
+23,04/02/68,Saint-Étienne,3-0,US Valenciennes-Anzin
+23,04/02/68,Marseille,2-2,FC Rouen
+23,04/02/68,RC Paris-Sedan,3-0,AS Aix
+23,04/02/68,Nantes,1-1,Bordeaux
+23,04/02/68,Lens,2-4,Red Star
+23,04/02/68,RC Strasbourg,0-0,Nice
+23,04/02/68,Metz,3-0,AC Ajaccio
+23,04/02/68,Monaco,2-1,Lyon
+23,04/02/68,Angers,1-3,Lille
+24,17/02/68,Nice,0-0,Lens
+24,17/02/68,Red Star,0-1,Nantes
+24,18/02/68,AS Aix,1-1,Saint-Étienne
+24,18/02/68,Lille,1-2,Bordeaux
+24,18/02/68,Stade Rennais UC,1-1,RC Paris-Sedan
+24,18/02/68,US Valenciennes-Anzin,1-0,Marseille
+24,18/02/68,Angers,1-1,Sochaux
+24,18/02/68,Lyon,3-1,Metz
+25,24/02/68,Sochaux,2-1,Lille
+25,25/02/68,Saint-Étienne,3-1,Nice
+25,25/02/68,Bordeaux,1-0,Red Star
+25,25/02/68,Marseille,2-0,AC Ajaccio
+25,25/02/68,RC Paris-Sedan,2-3,Lyon
+25,25/02/68,Nantes,0-2,US Valenciennes-Anzin
+25,25/02/68,Metz,6-1,Stade Rennais UC
+25,25/02/68,Monaco,5-0,Angers
+25,25/02/68,RC Strasbourg,1-0,AS Aix
+25,25/02/68,Lens,2-1,FC Rouen
+26,02/03/68,Lyon,3-2,Marseille
+26,03/03/68,FC Rouen,3-0,Saint-Étienne
+26,03/03/68,Sochaux,3-0,RC Paris-Sedan
+26,03/03/68,US Valenciennes-Anzin,2-0,Bordeaux
+26,03/03/68,Nice,5-1,Nantes
+26,03/03/68,AC Ajaccio,0-0,Red Star
+26,03/03/68,Stade Rennais UC,2-1,RC Strasbourg
+26,03/03/68,Lille,0-1,Monaco
+26,03/03/68,Angers,0-0,Metz
+26,03/03/68,AS Aix,2-2,Lens
+24,10/03/68,AC Ajaccio,1-2,Monaco
+27,16/03/68,Metz,2-0,Sochaux
+27,16/03/68,RC Paris-Sedan,3-1,Angers
+27,16/03/68,RC Strasbourg,0-0,AC Ajaccio
+27,16/03/68,Bordeaux,4-0,Nice
+27,17/03/68,Saint-Étienne,1-1,Lyon
+27,17/03/68,Marseille,3-2,AS Aix
+27,17/03/68,Red Star,1-0,US Valenciennes-Anzin
+27,17/03/68,Nantes,2-0,Stade Rennais UC
+27,17/03/68,Monaco,1-3,FC Rouen
+27,17/03/68,Lens,1-1,Lille
+28,22/03/68,Lille,0-0,RC Strasbourg
+28,23/03/68,Angers,2-2,Marseille
+28,23/03/68,FC Rouen,3-0,Bordeaux
+28,23/03/68,RC Paris-Sedan,3-0,Metz
+28,23/03/68,Sochaux,0-0,Monaco
+28,23/03/68,Stade Rennais UC,1-1,US Valenciennes-Anzin
+28,24/03/68,AC Ajaccio,1-1,Saint-Étienne
+28,24/03/68,AS Aix,2-6,Nantes
+28,24/03/68,Nice,2-1,Red Star
+28,24/03/68,Lyon,3-0,Lens
+19,30/03/68,Stade Rennais UC,0-1,FC Rouen
+20,31/03/68,US Valenciennes-Anzin,1-1,Monaco
+29,06/04/68,Metz,1-0,Lille
+29,07/04/68,Lens,1-2,AC Ajaccio
+29,07/04/68,Red Star,0-2,FC Rouen
+29,09/04/68,Saint-Étienne,3-0,Angers
+29,09/04/68,Bordeaux,3-0,AS Aix
+29,09/04/68,Nantes,1-1,Sochaux
+29,09/04/68,US Valenciennes-Anzin,0-1,Nice
+29,09/04/68,Monaco,2-1,RC Paris-Sedan
+29,09/04/68,RC Strasbourg,0-1,Lyon
+30,12/04/68,Stade Rennais UC,0-3,Saint-Étienne
+30,12/04/68,Lyon,0-3,Nantes
+30,12/04/68,Sochaux,1-1,RC Strasbourg
+30,12/04/68,FC Rouen,1-0,Nice
+30,13/04/68,Lille,0-3,US Valenciennes-Anzin
+30,13/04/68,RC Paris-Sedan,1-1,Marseille
+30,13/04/68,Metz,2-0,Monaco
+30,13/04/68,AS Aix,0-0,Red Star
+30,13/04/68,Angers,1-2,Lens
+30,14/04/68,AC Ajaccio,3-0,Bordeaux
+18,20/04/68,Angers,1-0,US Valenciennes-Anzin
+31,26/04/68,Marseille,2-0,Metz
+31,26/04/68,Nice,1-0,AS Aix
+31,26/04/68,RC Strasbourg,5-1,Angers
+31,27/04/68,Saint-Étienne,2-1,RC Paris-Sedan
+31,27/04/68,Nantes,1-0,AC Ajaccio
+31,27/04/68,Lens,0-2,Sochaux
+31,27/04/68,Bordeaux,0-0,Lyon
+31,27/04/68,US Valenciennes-Anzin,0-2,FC Rouen
+31,27/04/68,Monaco,2-1,Stade Rennais UC
+31,28/04/68,Red Star,0-2,Lille
+29,30/04/68,Marseille,3-1,Stade Rennais UC
+22,01/05/68,AS Aix,0-1,Metz
+32,03/05/68,Lille,0-2,Nice
+32,03/05/68,Lyon,0-0,Red Star
+32,04/05/68,Sochaux,0-4,Saint-Étienne
+32,04/05/68,Monaco,1-0,Marseille
+32,04/05/68,Stade Rennais UC,1-0,Bordeaux
+32,04/05/68,RC Paris-Sedan,1-1,Lens
+32,04/05/68,Metz,1-0,RC Strasbourg
+32,05/05/68,Angers,1-3,Nantes
+32,05/05/68,AS Aix,1-1,US Valenciennes-Anzin
+32,05/05/68,AC Ajaccio,5-3,FC Rouen
+21,11/05/68,Metz,1-2,Nice
+24,11/05/68,FC Rouen,3-2,RC Strasbourg
+33,17/05/68,Saint-Étienne,1-0,Monaco
+33,17/05/68,Nice,1-0,AC Ajaccio
+33,17/05/68,RC Strasbourg,0-2,RC Paris-Sedan
+33,17/05/68,Bordeaux,1-2,Angers
+33,17/05/68,FC Rouen,5-0,AS Aix
+33,18/05/68,Nantes,2-1,Lille
+33,18/05/68,Marseille,0-1,Sochaux
+33,18/05/68,US Valenciennes-Anzin,2-0,Lyon
+33,18/05/68,Lens,1-1,Metz
+33,19/05/68,Red Star,3-1,Stade Rennais UC
+34,22/05/68,Metz,1-1,Saint-Étienne
+34,22/05/68,RC Paris-Sedan,1-0,Nantes
+34,22/05/68,Lille,1-0,FC Rouen
+34,12/06/68,Lyon,1-1,Nice
+34,12/06/68,AC Ajaccio,1-4,US Valenciennes-Anzin
+34,12/06/68,Marseille,0-0,RC Strasbourg
+34,12/06/68,Sochaux,0-1,Bordeaux
+34,12/06/68,Monaco,2-3,Lens
+34,12/06/68,Angers,2-2,Red Star
+34,12/06/68,Stade Rennais UC,4-0,AS Aix
+35,14/06/68,Saint-Étienne,3-0,Lille
+35,15/06/68,Nantes,1-1,Metz
+35,15/06/68,US Valenciennes-Anzin,2-1,Angers
+35,15/06/68,Bordeaux,2-0,RC Paris-Sedan
+35,15/06/68,Lens,5-1,Marseille
+35,15/06/68,AS Aix,2-4,AC Ajaccio
+35,15/06/68,RC Strasbourg,2-0,Monaco
+35,15/06/68,FC Rouen,3-1,Lyon
+35,16/06/68,Nice,0-3,Stade Rennais UC
+35,16/06/68,Red Star,1-2,Sochaux
+21,19/06/68,Lens,2-1,Bordeaux
+36,19/06/68,Marseille,2-1,Saint-Étienne
+36,21/06/68,Monaco,3-0,Nantes
+36,21/06/68,Lille,1-2,AC Ajaccio
+36,21/06/68,FC Rouen,2-0,Stade Rennais UC
+36,21/06/68,Lyon,4-3,AS Aix
+36,22/06/68,Angers,1-1,Nice
+36,22/06/68,Metz,2-0,Bordeaux
+36,22/06/68,RC Paris-Sedan,0-0,Red Star
+36,22/06/68,Sochaux,3-1,US Valenciennes-Anzin
+36,23/06/68,RC Strasbourg,1-0,Lens
+37,28/06/68,Saint-Étienne,4-0,RC Strasbourg
+37,28/06/68,Nice,1-0,Sochaux
+37,28/06/68,US Valenciennes-Anzin,3-1,RC Paris-Sedan
+37,28/06/68,Nantes,1-1,Marseille
+37,28/06/68,Bordeaux,3-0,Monaco
+37,28/06/68,Red Star,0-1,Metz
+37,28/06/68,AC Ajaccio,2-2,Lyon
+37,28/06/68,FC Rouen,0-1,Angers
+37,28/06/68,Lens,1-1,Stade Rennais UC
+37,28/06/68,AS Aix,2-1,Lille
+38,03/07/68,RC Paris-Sedan,0-1,Nice
+38,03/07/68,Marseille,2-0,Bordeaux
+38,05/07/68,Lens,1-3,Saint-Étienne
+38,05/07/68,Sochaux,3-0,FC Rouen
+38,05/07/68,Metz,2-0,US Valenciennes-Anzin
+38,05/07/68,RC Strasbourg,3-1,Nantes
+38,05/07/68,Stade Rennais UC,1-0,AC Ajaccio
+38,05/07/68,Monaco,0-1,Red Star
+38,05/07/68,Lyon,1-1,Lille
+38,05/07/68,Angers,9-1,AS Aix

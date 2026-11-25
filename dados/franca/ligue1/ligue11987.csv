@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,18/07/87,Stade Lavallois,4-0,Saint-Étienne
+1,18/07/87,SC Toulon-Var,4-1,Nice
+1,18/07/87,Lille,3-0,Nantes
+1,18/07/87,Toulouse,3-1,Montpellier Paillade SC
+1,18/07/87,Monaco,3-1,Marseille
+1,18/07/87,PSG,2-0,Le Havre
+1,18/07/87,Bordeaux,3-2,Metz
+1,18/07/87,Chamois Niortais,1-1,Lens
+1,18/07/87,Cannes,0-0,Auxerre
+1,18/07/87,Brest,0-0,Matra Racing
+2,25/07/87,Lens,1-3,Monaco
+2,25/07/87,Auxerre,1-3,Bordeaux
+2,25/07/87,Toulouse,1-0,Stade Lavallois
+2,25/07/87,Nice,2-1,Lille
+2,25/07/87,Montpellier Paillade SC,4-1,PSG
+2,25/07/87,Metz,2-0,SC Toulon-Var
+2,25/07/87,Marseille,3-0,Cannes
+2,25/07/87,Le Havre,3-0,Chamois Niortais
+2,25/07/87,Matra Racing,2-2,Saint-Étienne
+2,25/07/87,Nantes,1-0,Brest
+3,01/08/87,Monaco,2-0,Le Havre
+3,01/08/87,Bordeaux,2-0,Marseille
+3,01/08/87,Lille,1-0,Metz
+3,01/08/87,PSG,2-0,Toulouse
+3,01/08/87,Brest,0-1,Nice
+3,01/08/87,Stade Lavallois,1-1,Matra Racing
+3,01/08/87,SC Toulon-Var,0-0,Auxerre
+3,01/08/87,Saint-Étienne,1-1,Nantes
+3,01/08/87,Chamois Niortais,1-0,Montpellier Paillade SC
+3,01/08/87,Cannes,2-1,Lens
+4,08/08/87,Montpellier Paillade SC,2-1,Monaco
+4,08/08/87,Lens,1-0,Bordeaux
+4,08/08/87,Toulouse,1-0,Chamois Niortais
+4,08/08/87,PSG,0-0,Brest
+4,08/08/87,Auxerre,2-1,Lille
+4,08/08/87,Metz,2-1,Stade Lavallois
+4,08/08/87,Marseille,1-1,SC Toulon-Var
+4,08/08/87,Nantes,1-1,Matra Racing
+4,08/08/87,Nice,2-3,Saint-Étienne
+4,08/08/87,Le Havre,2-2,Cannes
+5,15/08/87,Monaco,5-1,Toulouse
+5,15/08/87,Bordeaux,2-2,Le Havre
+5,15/08/87,Chamois Niortais,1-2,PSG
+5,15/08/87,SC Toulon-Var,2-0,Lens
+5,15/08/87,Matra Racing,2-1,Nice
+5,15/08/87,Saint-Étienne,2-0,Metz
+5,15/08/87,Lille,1-1,Marseille
+5,15/08/87,Cannes,0-0,Montpellier Paillade SC
+5,15/08/87,Brest,1-1,Auxerre
+5,15/08/87,Stade Lavallois,1-1,Nantes
+6,18/08/87,Chamois Niortais,2-1,Saint-Étienne
+6,19/08/87,PSG,0-1,Monaco
+6,19/08/87,Montpellier Paillade SC,0-0,Bordeaux
+6,19/08/87,Le Havre,1-1,SC Toulon-Var
+6,19/08/87,Metz,0-0,Matra Racing
+6,19/08/87,Toulouse,0-1,Cannes
+6,19/08/87,Lens,1-1,Lille
+6,19/08/87,Marseille,1-0,Brest
+6,19/08/87,Nice,3-1,Nantes
+6,19/08/87,Auxerre,1-1,Stade Lavallois
+7,22/08/87,Monaco,1-3,Chamois Niortais
+7,22/08/87,Bordeaux,2-2,Toulouse
+7,22/08/87,Cannes,1-3,PSG
+7,22/08/87,SC Toulon-Var,0-0,Montpellier Paillade SC
+7,22/08/87,Matra Racing,0-0,Marseille
+7,22/08/87,Stade Lavallois,1-2,Nice
+7,22/08/87,Saint-Étienne,2-1,Auxerre
+7,22/08/87,Lille,0-0,Le Havre
+7,22/08/87,Nantes,0-0,Metz
+7,22/08/87,Brest,4-1,Lens
+8,28/08/87,Metz,2-0,Nice
+8,29/08/87,Monaco,2-0,Stade Lavallois
+8,29/08/87,PSG,1-0,Bordeaux
+8,29/08/87,Marseille,5-1,Saint-Étienne
+8,29/08/87,Montpellier Paillade SC,3-1,Lille
+8,29/08/87,Chamois Niortais,2-0,Cannes
+8,29/08/87,Toulouse,1-0,SC Toulon-Var
+8,29/08/87,Le Havre,3-2,Brest
+8,29/08/87,Lens,2-1,Matra Racing
+8,29/08/87,Auxerre,1-0,Nantes
+9,01/09/87,Nantes,5-0,Marseille
+9,02/09/87,Cannes,1-1,Monaco
+9,02/09/87,Bordeaux,1-0,Chamois Niortais
+9,02/09/87,SC Toulon-Var,1-0,PSG
+9,02/09/87,Matra Racing,2-0,Le Havre
+9,02/09/87,Nice,1-0,Auxerre
+9,02/09/87,Saint-Étienne,2-1,Lens
+9,02/09/87,Lille,2-0,Toulouse
+9,02/09/87,Stade Lavallois,1-0,Montpellier Paillade SC
+9,02/09/87,Brest,1-0,Metz
+10,12/09/87,Monaco,1-0,Bordeaux
+10,12/09/87,Montpellier Paillade SC,6-1,Matra Racing
+10,12/09/87,PSG,1-3,Lille
+10,12/09/87,Marseille,2-0,Nice
+10,12/09/87,Chamois Niortais,2-1,SC Toulon-Var
+10,12/09/87,Toulouse,2-1,Brest
+10,12/09/87,Le Havre,1-1,Saint-Étienne
+10,12/09/87,Lens,1-2,Nantes
+10,12/09/87,Auxerre,0-1,Metz
+10,12/09/87,Cannes,1-0,Stade Lavallois
+11,19/09/87,SC Toulon-Var,0-0,Monaco
+11,19/09/87,Lille,0-1,Chamois Niortais
+11,19/09/87,Saint-Étienne,2-0,Toulouse
+11,19/09/87,Bordeaux,3-3,Cannes
+11,19/09/87,Nantes,2-0,Le Havre
+11,19/09/87,Metz,3-1,Marseille
+11,19/09/87,Brest,4-0,Montpellier Paillade SC
+11,19/09/87,Stade Lavallois,2-0,PSG
+11,19/09/87,Nice,0-1,Lens
+11,20/09/87,Matra Racing,1-0,Auxerre
+12,26/09/87,Monaco,1-0,Lille
+12,26/09/87,Chamois Niortais,3-0,Brest
+12,26/09/87,Bordeaux,1-0,Stade Lavallois
+12,26/09/87,Montpellier Paillade SC,0-0,Nantes
+12,26/09/87,PSG,3-0,Saint-Étienne
+12,26/09/87,Toulouse,0-0,Matra Racing
+12,26/09/87,Cannes,1-0,SC Toulon-Var
+12,26/09/87,Lens,2-0,Metz
+12,26/09/87,Marseille,0-1,Auxerre
+12,26/09/87,Le Havre,2-1,Nice
+13,02/10/87,Matra Racing,2-1,PSG
+13,03/10/87,Brest,0-2,Monaco
+13,03/10/87,SC Toulon-Var,0-1,Bordeaux
+13,03/10/87,Nantes,3-1,Toulouse
+13,03/10/87,Nice,1-0,Chamois Niortais
+13,03/10/87,Saint-Étienne,2-1,Montpellier Paillade SC
+13,03/10/87,Metz,1-0,Le Havre
+13,03/10/87,Lille,0-0,Cannes
+13,03/10/87,Stade Lavallois,0-2,Marseille
+13,03/10/87,Auxerre,2-0,Lens
+14,06/10/87,Montpellier Paillade SC,1-0,Metz
+14,07/10/87,Monaco,2-1,Saint-Étienne
+14,07/10/87,Bordeaux,1-0,Lille
+14,07/10/87,PSG,0-2,Nantes
+14,07/10/87,Chamois Niortais,2-2,Matra Racing
+14,07/10/87,Cannes,2-1,Brest
+14,07/10/87,Lens,2-4,Marseille
+14,07/10/87,Le Havre,1-2,Auxerre
+14,07/10/87,Toulouse,2-0,Nice
+14,07/10/87,SC Toulon-Var,3-0,Stade Lavallois
+15,17/10/87,Matra Racing,1-0,Monaco
+15,17/10/87,Nantes,2-1,Chamois Niortais
+15,17/10/87,Brest,1-1,Bordeaux
+15,17/10/87,Marseille,3-1,Le Havre
+15,17/10/87,Saint-Étienne,1-0,Cannes
+15,17/10/87,Metz,4-1,Toulouse
+15,17/10/87,Auxerre,1-1,Montpellier Paillade SC
+15,17/10/87,Lille,1-0,SC Toulon-Var
+15,17/10/87,Nice,2-0,PSG
+15,17/10/87,Stade Lavallois,4-0,Lens
+16,24/10/87,Monaco,2-1,Nantes
+16,24/10/87,Bordeaux,1-0,Saint-Étienne
+16,24/10/87,PSG,0-2,Metz
+16,24/10/87,Chamois Niortais,1-0,Marseille
+16,24/10/87,Cannes,3-1,Matra Racing
+16,24/10/87,Montpellier Paillade SC,4-1,Nice
+16,24/10/87,Toulouse,0-0,Auxerre
+16,24/10/87,SC Toulon-Var,3-0,Brest
+16,24/10/87,Lille,0-0,Stade Lavallois
+16,24/10/87,Le Havre,0-1,Lens
+17,31/10/87,Nice,0-0,Monaco
+17,01/11/87,Nantes,2-1,Cannes
+17,01/11/87,Matra Racing,1-0,Bordeaux
+17,01/11/87,Metz,2-0,Chamois Niortais
+17,01/11/87,Marseille,1-0,Toulouse
+17,01/11/87,Auxerre,3-0,PSG
+17,01/11/87,Saint-Étienne,0-0,SC Toulon-Var
+17,01/11/87,Lens,2-1,Montpellier Paillade SC
+17,01/11/87,Brest,2-2,Lille
+17,01/11/87,Stade Lavallois,4-3,Le Havre
+18,07/11/87,Monaco,2-1,Metz
+18,07/11/87,Bordeaux,2-1,Nantes
+18,07/11/87,Lille,1-2,Saint-Étienne
+18,07/11/87,Montpellier Paillade SC,3-1,Le Havre
+18,07/11/87,Chamois Niortais,0-0,Auxerre
+18,07/11/87,Cannes,0-1,Nice
+18,07/11/87,Toulouse,0-1,Lens
+18,08/11/87,PSG,1-1,Marseille
+19,10/11/87,Matra Racing,3-0,Lille
+19,11/11/87,Auxerre,0-0,Monaco
+19,11/11/87,Nice,0-1,Bordeaux
+19,11/11/87,Nantes,1-1,SC Toulon-Var
+19,11/11/87,Saint-Étienne,4-0,Brest
+19,11/11/87,Marseille,1-1,Montpellier Paillade SC
+19,11/11/87,Metz,2-3,Cannes
+19,11/11/87,Stade Lavallois,2-0,Chamois Niortais
+19,11/11/87,Le Havre,0-1,Toulouse
+19,11/11/87,Lens,0-0,PSG
+20,21/11/87,Monaco,3-0,Lens
+20,21/11/87,Bordeaux,0-0,Auxerre
+20,21/11/87,Saint-Étienne,0-2,Matra Racing
+20,21/11/87,Brest,0-0,Nantes
+20,21/11/87,Cannes,1-0,Marseille
+20,21/11/87,PSG,2-1,Montpellier Paillade SC
+20,21/11/87,SC Toulon-Var,1-0,Metz
+20,21/11/87,Chamois Niortais,1-2,Le Havre
+20,21/11/87,Stade Lavallois,1-0,Toulouse
+20,21/11/87,Lille,1-0,Nice
+21,27/11/87,Marseille,1-0,Bordeaux
+21,28/11/87,Le Havre,0-0,Monaco
+21,28/11/87,Matra Racing,1-0,Stade Lavallois
+21,28/11/87,Nantes,2-3,Saint-Étienne
+21,28/11/87,Lens,0-0,Cannes
+21,28/11/87,Montpellier Paillade SC,1-0,Chamois Niortais
+21,28/11/87,Metz,3-1,Lille
+21,28/11/87,Auxerre,0-0,SC Toulon-Var
+21,28/11/87,Nice,2-0,Brest
+21,28/11/87,Toulouse,2-1,PSG
+18,02/12/87,Brest,2-1,Stade Lavallois
+18,02/12/87,SC Toulon-Var,0-0,Matra Racing
+22,05/12/87,Monaco,0-0,Montpellier Paillade SC
+22,05/12/87,Bordeaux,5-2,Lens
+22,05/12/87,Matra Racing,2-2,Nantes
+22,05/12/87,Saint-Étienne,3-2,Nice
+22,05/12/87,SC Toulon-Var,1-2,Marseille
+22,05/12/87,Cannes,3-0,Le Havre
+22,05/12/87,Lille,0-1,Auxerre
+22,05/12/87,Stade Lavallois,3-0,Metz
+22,05/12/87,Chamois Niortais,0-0,Toulouse
+22,05/12/87,Brest,0-0,PSG
+23,12/12/87,Toulouse,1-1,Monaco
+23,12/12/87,Le Havre,0-1,Bordeaux
+23,12/12/87,Nice,1-2,Matra Racing
+23,12/12/87,Auxerre,4-0,Brest
+23,12/12/87,Metz,2-1,Saint-Étienne
+23,12/12/87,Montpellier Paillade SC,4-2,Cannes
+23,12/12/87,Marseille,0-1,Lille
+23,12/12/87,Nantes,1-2,Stade Lavallois
+23,12/12/87,PSG,1-3,Chamois Niortais
+23,12/12/87,Lens,3-1,SC Toulon-Var
+24,18/12/87,Monaco,2-1,PSG
+24,19/12/87,Bordeaux,1-0,Montpellier Paillade SC
+24,19/12/87,Matra Racing,2-0,Metz
+24,19/12/87,Saint-Étienne,2-0,Chamois Niortais
+24,19/12/87,Stade Lavallois,0-0,Auxerre
+24,19/12/87,Cannes,1-1,Toulouse
+24,19/12/87,Brest,2-1,Marseille
+24,19/12/87,Nantes,0-1,Nice
+24,19/12/87,SC Toulon-Var,3-0,Le Havre
+24,19/12/87,Lille,1-1,Lens
+25,19/02/88,Marseille,2-0,Matra Racing
+25,20/02/88,Chamois Niortais,0-0,Monaco
+25,20/02/88,Toulouse,2-1,Bordeaux
+25,20/02/88,Auxerre,0-1,Saint-Étienne
+25,20/02/88,Metz,1-0,Nantes
+25,20/02/88,Montpellier Paillade SC,0-1,SC Toulon-Var
+25,20/02/88,Nice,0-1,Stade Lavallois
+25,20/02/88,Lens,2-1,Brest
+25,20/02/88,Le Havre,0-0,Lille
+25,23/02/88,PSG,1-1,Cannes
+26,26/02/88,Stade Lavallois,0-0,Monaco
+26,27/02/88,Bordeaux,0-0,PSG
+26,27/02/88,Nantes,0-0,Auxerre
+26,27/02/88,Nice,0-0,Metz
+26,27/02/88,Matra Racing,1-0,Lens
+26,27/02/88,Saint-Étienne,0-1,Marseille
+26,27/02/88,Cannes,2-1,Chamois Niortais
+26,27/02/88,SC Toulon-Var,1-0,Toulouse
+26,27/02/88,Lille,3-1,Montpellier Paillade SC
+26,27/02/88,Brest,3-1,Le Havre
+27,04/03/88,Lens,1-0,Saint-Étienne
+27,05/03/88,Monaco,4-1,Cannes
+27,05/03/88,Le Havre,1-1,Matra Racing
+27,05/03/88,Chamois Niortais,0-0,Bordeaux
+27,05/03/88,Marseille,3-0,Nantes
+27,05/03/88,Auxerre,2-0,Nice
+27,05/03/88,Metz,1-1,Brest
+27,05/03/88,PSG,1-0,SC Toulon-Var
+27,05/03/88,Montpellier Paillade SC,2-1,Stade Lavallois
+27,05/03/88,Toulouse,2-1,Lille
+28,19/03/88,Bordeaux,3-1,Monaco
+28,19/03/88,Matra Racing,0-2,Montpellier Paillade SC
+28,19/03/88,Saint-Étienne,2-1,Le Havre
+28,19/03/88,Nice,3-1,Marseille
+28,19/03/88,Metz,1-0,Auxerre
+28,19/03/88,Stade Lavallois,2-1,Cannes
+28,19/03/88,SC Toulon-Var,1-1,Chamois Niortais
+28,19/03/88,Nantes,2-0,Lens
+28,19/03/88,Lille,1-0,PSG
+28,19/03/88,Brest,1-0,Toulouse
+29,26/03/88,Monaco,0-0,SC Toulon-Var
+29,26/03/88,Cannes,1-0,Bordeaux
+29,26/03/88,Auxerre,3-0,Matra Racing
+29,26/03/88,Toulouse,2-3,Saint-Étienne
+29,26/03/88,Marseille,1-0,Metz
+29,26/03/88,Montpellier Paillade SC,6-0,Brest
+29,26/03/88,PSG,0-0,Stade Lavallois
+29,26/03/88,Le Havre,1-0,Nantes
+29,26/03/88,Chamois Niortais,1-0,Lille
+29,26/03/88,Lens,0-1,Nice
+30,02/04/88,Lille,0-1,Monaco
+30,02/04/88,Stade Lavallois,0-0,Bordeaux
+30,02/04/88,Matra Racing,0-0,Toulouse
+30,02/04/88,Auxerre,2-0,Marseille
+30,02/04/88,Saint-Étienne,1-3,PSG
+30,02/04/88,Nantes,0-0,Montpellier Paillade SC
+30,02/04/88,SC Toulon-Var,1-0,Cannes
+30,02/04/88,Metz,2-2,Lens
+30,02/04/88,Brest,1-0,Chamois Niortais
+30,02/04/88,Nice,1-2,Le Havre
+31,08/04/88,PSG,1-1,Matra Racing
+31,09/04/88,Monaco,2-0,Brest
+31,09/04/88,Bordeaux,3-0,SC Toulon-Var
+31,09/04/88,Marseille,2-1,Stade Lavallois
+31,09/04/88,Montpellier Paillade SC,5-0,Saint-Étienne
+31,09/04/88,Lens,2-1,Auxerre
+31,09/04/88,Le Havre,1-1,Metz
+31,09/04/88,Cannes,1-5,Lille
+31,09/04/88,Toulouse,0-1,Nantes
+31,09/04/88,Chamois Niortais,0-0,Nice
+32,15/04/88,Saint-Étienne,3-0,Monaco
+32,16/04/88,Lille,1-0,Bordeaux
+32,16/04/88,Matra Racing,1-1,Chamois Niortais
+32,16/04/88,Marseille,4-1,Lens
+32,16/04/88,Metz,0-1,Montpellier Paillade SC
+32,16/04/88,Auxerre,1-1,Le Havre
+32,16/04/88,Stade Lavallois,0-3,SC Toulon-Var
+32,16/04/88,Nantes,0-0,PSG
+32,16/04/88,Brest,1-0,Cannes
+32,16/04/88,Nice,3-0,Toulouse
+33,30/04/88,Monaco,3-0,Matra Racing
+33,30/04/88,Bordeaux,2-0,Brest
+33,30/04/88,Toulouse,2-0,Metz
+33,30/04/88,SC Toulon-Var,3-0,Lille
+33,30/04/88,Montpellier Paillade SC,2-2,Auxerre
+33,30/04/88,Le Havre,1-0,Marseille
+33,30/04/88,Cannes,1-0,Saint-Étienne
+33,30/04/88,Chamois Niortais,1-3,Nantes
+33,30/04/88,Lens,1-2,Stade Lavallois
+33,30/04/88,PSG,0-4,Nice
+34,06/05/88,Marseille,1-0,Chamois Niortais
+34,07/05/88,Brest,1-0,SC Toulon-Var
+34,07/05/88,Metz,1-0,PSG
+34,07/05/88,Saint-Étienne,1-1,Bordeaux
+34,07/05/88,Matra Racing,0-0,Cannes
+34,07/05/88,Lens,0-0,Le Havre
+34,07/05/88,Nice,2-0,Montpellier Paillade SC
+34,07/05/88,Auxerre,0-2,Toulouse
+34,07/05/88,Stade Lavallois,0-1,Lille
+34,07/05/88,Nantes,1-1,Monaco
+35,13/05/88,Monaco,1-0,Nice
+35,14/05/88,Bordeaux,1-0,Matra Racing
+35,14/05/88,Toulouse,1-0,Marseille
+35,14/05/88,Montpellier Paillade SC,4-0,Lens
+35,14/05/88,SC Toulon-Var,1-1,Saint-Étienne
+35,14/05/88,PSG,1-1,Auxerre
+35,14/05/88,Cannes,1-4,Nantes
+35,14/05/88,Chamois Niortais,1-3,Metz
+35,14/05/88,Lille,2-0,Brest
+35,14/05/88,Le Havre,2-1,Stade Lavallois
+36,20/05/88,Nantes,1-0,Bordeaux
+36,21/05/88,Metz,2-2,Monaco
+36,21/05/88,Le Havre,1-3,Montpellier Paillade SC
+36,21/05/88,Saint-Étienne,4-3,Lille
+36,21/05/88,Matra Racing,0-0,SC Toulon-Var
+36,21/05/88,Marseille,1-2,PSG
+36,21/05/88,Auxerre,1-3,Chamois Niortais
+36,21/05/88,Nice,1-2,Cannes
+36,21/05/88,Stade Lavallois,0-0,Brest
+36,21/05/88,Lens,2-0,Toulouse
+37,27/05/88,Monaco,3-2,Auxerre
+37,27/05/88,Bordeaux,4-2,Nice
+37,27/05/88,Montpellier Paillade SC,4-0,Marseille
+37,27/05/88,Brest,1-0,Saint-Étienne
+37,27/05/88,Lille,5-0,Matra Racing
+37,27/05/88,SC Toulon-Var,5-2,Nantes
+37,27/05/88,Cannes,3-3,Metz
+37,27/05/88,Toulouse,2-1,Le Havre
+37,27/05/88,Chamois Niortais,0-0,Stade Lavallois
+37,27/05/88,PSG,4-1,Lens
+38,04/06/88,Marseille,2-0,Monaco
+38,04/06/88,Metz,2-0,Bordeaux
+38,04/06/88,Montpellier Paillade SC,4-2,Toulouse
+38,04/06/88,Saint-Étienne,2-1,Stade Lavallois
+38,04/06/88,Nice,0-2,SC Toulon-Var
+38,04/06/88,Matra Racing,1-1,Brest
+38,04/06/88,Auxerre,1-0,Cannes
+38,04/06/88,Nantes,1-1,Lille
+38,04/06/88,Le Havre,0-1,PSG
+38,04/06/88,Lens,3-1,Chamois Niortais

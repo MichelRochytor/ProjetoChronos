@@ -42,6 +42,30 @@ data['europaleague'] = {
     "ultima_atualizacao": agora
 }
 
+data['serieA'] = {
+    "nome": "Campeonato Italiano Serie A",
+    "prefixo": "serieA",
+    "categoria": "Internacional",
+    "pasta_destino": "dados/italia",
+    "ano_inicial": 1897,
+    "url_inicial": "https://www.ogol.com.br/edicao/liga-italiana-1897-98/26217/calendario",
+    "url_atual": "https://www.ogol.com.br/edicao/serie-a-2026-27/219486/calendario",
+    "ativo": True,
+    "ultima_atualizacao": agora
+}
+
+data['ligue1'] = {
+    "nome": "Campeonato Francês Ligue 1",
+    "prefixo": "ligue1",
+    "categoria": "Internacional",
+    "pasta_destino": "dados/franca/ligue1",
+    "ano_inicial": 1932,
+    "url_inicial": "https://www.ogol.com.br/edicao/ligue-1-1932-33/23132/calendario",
+    "url_atual": "https://www.ogol.com.br/edicao/ligue-1-mcdonald-s-2026-27/219588/calendario",
+    "ativo": True,
+    "ultima_atualizacao": agora
+}
+
 with open('campeonatos_links.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 

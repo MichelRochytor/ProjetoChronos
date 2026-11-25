@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,27/07/01,Bordeaux,2-0,Nantes
+1,28/07/01,Monaco,0-1,Sochaux
+1,28/07/01,Bastia,1-1,CS Sedan
+1,28/07/01,Lens,2-0,Lyon
+1,28/07/01,Rennes,0-5,Auxerre
+1,28/07/01,Montpellier,1-1,Marseille
+1,28/07/01,Troyes,3-0,Guingamp
+1,28/07/01,FC Lorient,1-0,Metz
+1,28/07/01,PSG,0-0,Lille
+2,03/08/01,Marseille,0-0,Bordeaux
+2,04/08/01,Nantes,1-2,Lens
+2,04/08/01,Guingamp,1-0,Bastia
+2,04/08/01,Sochaux,4-3,Rennes
+2,04/08/01,Lyon,2-0,CS Sedan
+2,04/08/01,Metz,2-1,Troyes
+2,04/08/01,Auxerre,1-1,PSG
+2,04/08/01,Monaco,0-0,Montpellier
+2,04/08/01,Lille,3-1,FC Lorient
+3,11/08/01,Rennes,3-0,Monaco
+3,11/08/01,PSG,1-0,Sochaux
+3,11/08/01,Bordeaux,0-0,Lille
+3,11/08/01,Lens,2-0,Marseille
+3,11/08/01,Montpellier,3-0,Metz
+3,11/08/01,CS Sedan,1-1,Guingamp
+3,11/08/01,Troyes,0-0,Nantes
+3,12/08/01,FC Lorient,0-1,Auxerre
+3,12/08/01,Bastia,1-2,Lyon
+4,18/08/01,Monaco,2-2,PSG
+4,18/08/01,Lille,2-1,Montpellier
+4,18/08/01,Metz,0-1,Lens
+4,18/08/01,Lyon,3-0,Guingamp
+4,18/08/01,Nantes,1-2,Bastia
+4,18/08/01,Marseille,0-1,Troyes
+4,18/08/01,Rennes,1-0,Bordeaux
+4,18/08/01,Sochaux,2-2,FC Lorient
+4,19/08/01,Auxerre,2-1,CS Sedan
+5,25/08/01,Bordeaux,1-1,Auxerre
+5,25/08/01,PSG,3-0,Rennes
+5,25/08/01,Bastia,1-0,Marseille
+5,25/08/01,Montpellier,0-0,Sochaux
+5,25/08/01,CS Sedan,2-0,Metz
+5,25/08/01,Troyes,0-2,Lyon
+5,25/08/01,FC Lorient,2-0,Monaco
+5,25/08/01,Guingamp,1-0,Nantes
+5,26/08/01,Lens,1-1,Lille
+6,08/09/01,Marseille,0-0,Lyon
+6,08/09/01,PSG,2-2,Lens
+6,08/09/01,Monaco,2-0,Troyes
+6,08/09/01,Auxerre,1-0,Montpellier
+6,08/09/01,Metz,0-1,Bastia
+6,08/09/01,Nantes,1-1,CS Sedan
+6,08/09/01,Rennes,1-1,FC Lorient
+6,08/09/01,Lille,1-0,Guingamp
+6,09/09/01,Sochaux,2-0,Bordeaux
+7,15/09/01,Lyon,4-1,Nantes
+7,15/09/01,Bastia,0-1,Auxerre
+7,15/09/01,Lens,3-0,Sochaux
+7,15/09/01,Montpellier,0-0,Rennes
+7,15/09/01,Troyes,0-1,Lille
+7,15/09/01,FC Lorient,1-1,PSG
+7,15/09/01,Guingamp,0-2,Metz
+7,16/09/01,Bordeaux,0-0,Monaco
+7,16/09/01,CS Sedan,1-1,Marseille
+8,21/09/01,PSG,0-0,Montpellier
+8,22/09/01,Monaco,3-0,Lens
+8,22/09/01,Auxerre,2-2,Guingamp
+8,22/09/01,Metz,2-0,Lyon
+8,22/09/01,Marseille,2-0,Nantes
+8,22/09/01,Rennes,0-1,Troyes
+8,22/09/01,Lille,2-1,Bastia
+8,23/09/01,FC Lorient,0-2,Bordeaux
+8,23/09/01,Sochaux,3-0,CS Sedan
+9,29/09/01,Guingamp,1-0,Marseille
+9,29/09/01,Lyon,4-0,Rennes
+9,29/09/01,Bastia,1-0,Monaco
+9,29/09/01,Nantes,0-0,Metz
+9,29/09/01,Lens,1-1,Auxerre
+9,29/09/01,Montpellier,1-3,FC Lorient
+9,30/09/01,CS Sedan,1-1,Lille
+9,30/09/01,Troyes,2-2,Sochaux
+9,30/09/01,Bordeaux,1-0,PSG
+10,13/10/01,Metz,0-2,Marseille
+10,13/10/01,Monaco,2-0,CS Sedan
+10,13/10/01,Auxerre,1-3,Troyes
+10,13/10/01,Rennes,2-1,Guingamp
+10,13/10/01,Montpellier,0-0,Bordeaux
+10,13/10/01,FC Lorient,2-3,Lens
+10,13/10/01,Sochaux,4-1,Bastia
+10,13/10/01,Lille,1-0,Nantes
+10,14/10/01,PSG,2-2,Lyon
+11,20/10/01,Lyon,1-1,Sochaux
+11,20/10/01,Bastia,1-2,Rennes
+11,20/10/01,Nantes,2-2,Auxerre
+11,20/10/01,Marseille,0-0,Lille
+11,20/10/01,Lens,2-0,Montpellier
+11,20/10/01,Guingamp,2-1,Monaco
+11,21/10/01,Bordeaux,1-0,Metz
+11,21/10/01,Troyes,4-2,FC Lorient
+11,21/10/01,CS Sedan,1-2,PSG
+12,26/10/01,Auxerre,2-0,Marseille
+12,27/10/01,Rennes,1-2,Lens
+12,27/10/01,PSG,1-0,Bastia
+12,27/10/01,Monaco,2-1,Lyon
+12,27/10/01,Bordeaux,2-1,CS Sedan
+12,27/10/01,Montpellier,2-0,Troyes
+12,27/10/01,FC Lorient,6-2,Guingamp
+12,27/10/01,Sochaux,0-1,Nantes
+12,27/10/01,Lille,2-0,Metz
+13,03/11/01,Nantes,2-1,Monaco
+13,03/11/01,Bastia,3-1,FC Lorient
+13,03/11/01,Marseille,2-1,Rennes
+13,03/11/01,CS Sedan,2-0,Montpellier
+13,03/11/01,Guingamp,0-0,Sochaux
+13,04/11/01,Metz,2-0,Auxerre
+13,04/11/01,Troyes,1-0,PSG
+13,04/11/01,Lens,0-0,Bordeaux
+13,04/11/01,Lyon,4-2,Lille
+14,16/11/01,Monaco,1-1,Marseille
+14,17/11/01,Rennes,2-0,Nantes
+14,17/11/01,PSG,1-1,Guingamp
+14,17/11/01,Auxerre,2-1,Lille
+14,17/11/01,Bordeaux,2-3,Troyes
+14,17/11/01,Lens,1-0,CS Sedan
+14,17/11/01,Montpellier,2-1,Bastia
+14,17/11/01,FC Lorient,0-3,Lyon
+14,17/11/01,Sochaux,2-0,Metz
+15,24/11/01,Marseille,4-2,Sochaux
+15,24/11/01,Metz,1-0,Monaco
+15,24/11/01,Bastia,1-2,Bordeaux
+15,24/11/01,CS Sedan,5-0,FC Lorient
+15,24/11/01,Troyes,1-1,Lens
+15,24/11/01,Guingamp,2-2,Montpellier
+15,25/11/01,Lyon,3-0,Auxerre
+15,25/11/01,Lille,1-0,Rennes
+15,25/11/01,Nantes,1-2,PSG
+16,28/11/01,Montpellier,3-0,Lyon
+16,28/11/01,Monaco,2-2,Lille
+16,28/11/01,Bordeaux,2-0,Guingamp
+16,28/11/01,Lens,7-0,Bastia
+16,28/11/01,Rennes,0-0,Metz
+16,28/11/01,Troyes,1-1,CS Sedan
+16,28/11/01,FC Lorient,1-2,Nantes
+16,28/11/01,Sochaux,1-2,Auxerre
+16,29/11/01,PSG,0-0,Marseille
+17,08/12/01,Auxerre,2-0,Monaco
+17,08/12/01,Bastia,2-0,Troyes
+17,08/12/01,Nantes,1-2,Montpellier
+17,08/12/01,Marseille,3-2,FC Lorient
+17,08/12/01,CS Sedan,0-0,Rennes
+17,08/12/01,Guingamp,1-0,Lens
+17,09/12/01,Metz,0-2,PSG
+17,09/12/01,Lille,1-2,Sochaux
+17,09/12/01,Lyon,1-0,Bordeaux
+18,18/12/01,Lens,3-0,Nantes
+18,18/12/01,Bordeaux,0-0,Marseille
+18,19/12/01,PSG,0-0,Auxerre
+18,19/12/01,Bastia,3-0,Guingamp
+18,19/12/01,Rennes,1-1,Sochaux
+18,19/12/01,CS Sedan,2-1,Lyon
+18,19/12/01,FC Lorient,2-4,Lille
+19,21/12/01,Marseille,1-2,Lens
+19,22/12/01,Sochaux,0-2,PSG
+19,22/12/01,Monaco,3-1,Rennes
+19,22/12/01,Nantes,1-0,Troyes
+19,22/12/01,Guingamp,1-2,CS Sedan
+20,05/01/02,PSG,1-2,Monaco
+20,05/01/02,Bordeaux,2-1,Rennes
+20,05/01/02,Bastia,0-2,Nantes
+20,05/01/02,Montpellier,2-0,Lille
+20,05/01/02,FC Lorient,1-1,Sochaux
+20,05/01/02,Guingamp,2-4,Lyon
+21,11/01/02,Lille,0-1,Lens
+21,12/01/02,Rennes,1-2,PSG
+21,12/01/02,Monaco,1-0,FC Lorient
+21,12/01/02,Nantes,2-0,Guingamp
+21,12/01/02,Marseille,2-2,Bastia
+21,12/01/02,Sochaux,0-1,Montpellier
+18,16/01/02,Montpellier,1-1,Monaco
+18,16/01/02,Troyes,2-0,Metz
+19,16/01/02,Auxerre,2-2,FC Lorient
+19,16/01/02,Lyon,0-0,Bastia
+19,16/01/02,Lille,2-2,Bordeaux
+22,23/01/02,Bordeaux,0-1,Sochaux
+22,23/01/02,Lyon,4-0,Marseille
+22,23/01/02,Bastia,1-2,Metz
+22,23/01/02,Montpellier,0-0,Auxerre
+22,23/01/02,CS Sedan,0-0,Nantes
+22,23/01/02,Troyes,3-0,Monaco
+22,23/01/02,FC Lorient,2-0,Rennes
+22,23/01/02,Guingamp,0-0,Lille
+22,24/01/02,Lens,1-1,PSG
+20,26/01/02,Troyes,1-0,Marseille
+23,29/01/02,Nantes,3-0,Lyon
+23,30/01/02,Monaco,3-1,Bordeaux
+23,30/01/02,PSG,5-0,FC Lorient
+23,30/01/02,Auxerre,1-0,Bastia
+23,30/01/02,Metz,2-4,Guingamp
+23,30/01/02,Marseille,2-1,CS Sedan
+23,30/01/02,Rennes,2-0,Montpellier
+23,30/01/02,Sochaux,0-2,Lens
+24,02/02/02,Montpellier,0-0,PSG
+24,02/02/02,Bordeaux,2-1,FC Lorient
+24,02/02/02,Lyon,4-1,Metz
+24,02/02/02,Bastia,1-0,Lille
+24,02/02/02,Lens,1-0,Monaco
+24,02/02/02,CS Sedan,2-1,Sochaux
+24,02/02/02,Troyes,1-1,Rennes
+24,02/02/02,Guingamp,0-0,Auxerre
+24,03/02/02,Nantes,3-1,Marseille
+25,06/02/02,Rennes,2-2,Lyon
+25,06/02/02,Monaco,1-1,Bastia
+25,06/02/02,Auxerre,1-0,Lens
+25,06/02/02,Metz,2-0,Nantes
+25,06/02/02,Marseille,2-1,Guingamp
+25,06/02/02,FC Lorient,1-0,Montpellier
+25,06/02/02,Sochaux,2-2,Troyes
+25,06/02/02,Lille,1-1,CS Sedan
+25,07/02/02,PSG,1-0,Bordeaux
+19,09/02/02,Metz,0-0,Montpellier
+21,09/02/02,Lyon,3-1,Troyes
+26,16/02/02,Nantes,0-1,Lille
+26,16/02/02,Bordeaux,3-1,Montpellier
+26,16/02/02,Bastia,3-0,Sochaux
+26,16/02/02,Lens,1-1,FC Lorient
+26,16/02/02,CS Sedan,0-0,Monaco
+26,16/02/02,Troyes,1-2,Auxerre
+26,16/02/02,Guingamp,1-1,Rennes
+26,17/02/02,Marseille,1-0,Metz
+26,17/02/02,Lyon,3-0,PSG
+27,23/02/02,Montpellier,1-2,Lens
+27,23/02/02,PSG,3-0,CS Sedan
+27,23/02/02,Monaco,3-1,Guingamp
+27,23/02/02,Auxerre,2-1,Nantes
+27,23/02/02,Metz,1-2,Bordeaux
+27,23/02/02,Rennes,2-1,Bastia
+27,23/02/02,FC Lorient,1-0,Troyes
+27,24/02/02,Sochaux,2-1,Lyon
+27,24/02/02,Lille,2-0,Marseille
+20,02/03/02,Lens,2-2,Metz
+23,03/03/02,Lille,1-0,Troyes
+28,06/03/02,Bastia,0-1,PSG
+28,06/03/02,Metz,0-1,Lille
+28,06/03/02,Lyon,1-0,Monaco
+28,06/03/02,Nantes,0-0,Sochaux
+28,06/03/02,Lens,2-0,Rennes
+28,06/03/02,CS Sedan,1-0,Bordeaux
+28,06/03/02,Troyes,2-0,Montpellier
+28,06/03/02,Guingamp,4-3,FC Lorient
+21,10/03/02,Auxerre,0-1,Bordeaux
+29,16/03/02,Rennes,2-1,Marseille
+29,16/03/02,PSG,3-1,Troyes
+29,16/03/02,Monaco,1-2,Nantes
+29,16/03/02,Auxerre,3-2,Metz
+29,16/03/02,Montpellier,0-0,CS Sedan
+29,16/03/02,FC Lorient,0-0,Bastia
+29,16/03/02,Sochaux,1-0,Guingamp
+29,16/03/02,Lille,2-0,Lyon
+29,17/03/02,Bordeaux,2-1,Lens
+30,23/03/02,Guingamp,0-1,PSG
+30,23/03/02,Metz,2-0,Sochaux
+30,23/03/02,Lyon,2-0,FC Lorient
+30,23/03/02,Bastia,3-0,Montpellier
+30,23/03/02,Nantes,3-1,Rennes
+30,23/03/02,CS Sedan,1-1,Lens
+30,23/03/02,Troyes,2-0,Bordeaux
+30,23/03/02,Lille,2-3,Auxerre
+30,24/03/02,Marseille,1-1,Monaco
+28,01/04/02,Marseille,3-0,Auxerre
+31,06/04/02,Lens,0-0,Troyes
+31,06/04/02,PSG,1-1,Nantes
+31,06/04/02,Monaco,2-2,Metz
+31,06/04/02,Bordeaux,2-1,Bastia
+31,06/04/02,Rennes,4-0,Lille
+31,06/04/02,Montpellier,2-1,Guingamp
+31,06/04/02,FC Lorient,1-1,CS Sedan
+31,06/04/02,Sochaux,3-0,Marseille
+31,07/04/02,Auxerre,0-1,Lyon
+21,09/04/02,Metz,2-3,CS Sedan
+32,12/04/02,Marseille,1-0,PSG
+32,13/04/02,Auxerre,2-0,Sochaux
+32,13/04/02,Metz,3-1,Rennes
+32,13/04/02,Lyon,0-0,Montpellier
+32,13/04/02,Bastia,3-1,Lens
+32,13/04/02,Nantes,2-0,FC Lorient
+32,13/04/02,CS Sedan,0-0,Troyes
+32,13/04/02,Guingamp,2-1,Bordeaux
+32,13/04/02,Lille,1-1,Monaco
+20,21/04/02,CS Sedan,3-3,Auxerre
+33,27/04/02,PSG,2-0,Metz
+33,27/04/02,Monaco,1-1,Auxerre
+33,27/04/02,Bordeaux,0-1,Lyon
+33,27/04/02,Lens,4-1,Guingamp
+33,27/04/02,Rennes,1-0,CS Sedan
+33,27/04/02,Montpellier,3-0,Nantes
+33,27/04/02,Troyes,3-0,Bastia
+33,27/04/02,FC Lorient,2-2,Marseille
+33,27/04/02,Sochaux,0-0,Lille
+34,04/05/02,Auxerre,2-3,Rennes
+34,04/05/02,Metz,1-1,FC Lorient
+34,04/05/02,Lyon,3-1,Lens

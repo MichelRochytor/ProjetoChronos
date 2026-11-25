@@ -1,0 +1,183 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,01/07/33,Marseille,4-0,Nice
+1,01/07/33,Excelsior AC Roubaix,2-1,Sochaux
+2,01/07/33,FC Sète,6-2,CAP
+2,01/07/33,Stade Rennais UC,2-6,Montpellier
+2,01/07/33,Nice,3-3,Excelsior AC Roubaix
+3,01/07/33,Marseille,3-3,FC Sète
+3,01/07/33,Montpellier,3-2,Sochaux
+4,01/07/33,FC Sète,4-2,Excelsior AC Roubaix
+4,01/07/33,Sochaux,3-5,Olympique Lillois
+4,01/07/33,Nice,1-1,Montpellier
+5,01/07/33,Olympique Lillois,6-2,Montpellier
+5,01/07/33,Stade Rennais UC,5-2,Excelsior AC Roubaix
+5,01/07/33,Sochaux,4-1,Marseille
+5,01/07/33,Nice,5-2,CAP
+6,01/07/33,Marseille,7-1,Stade Rennais UC
+6,01/07/33,CAP,4-6,Sochaux
+7,01/07/33,Olympique Lillois,4-2,Excelsior AC Roubaix
+7,01/07/33,Stade Rennais UC,8-2,CAP
+7,01/07/33,Nice,1-4,FC Sète
+8,01/07/33,FC Sète,3-1,Sochaux
+8,01/07/33,Marseille,1-3,Olympique Lillois
+8,01/07/33,Excelsior AC Roubaix,3-2,Montpellier
+9,01/07/33,Olympique Lillois,4-1,CAP
+9,01/07/33,Stade Rennais UC,4-4,FC Sète
+9,01/07/33,Montpellier,3-3,Marseille
+10,01/07/33,Nice,2-1,Sochaux
+10,01/07/33,CAP,1-4,Montpellier
+11,01/07/33,Excelsior AC Roubaix,4-3,Marseille
+11,01/07/33,Stade Rennais UC,2-1,Nice
+12,01/07/33,FC Sète,1-1,Montpellier
+12,01/07/33,Sochaux,6-2,Stade Rennais UC
+12,01/07/33,CAP,3-6,Excelsior AC Roubaix
+13,01/07/33,Marseille,3-1,CAP
+13,01/07/33,Olympique Lillois,3-0,Nice
+14,01/07/33,Sochaux,1-2,Excelsior AC Roubaix
+14,01/07/33,Nice,0-3,Marseille
+15,01/07/33,Excelsior AC Roubaix,3-1,Nice
+15,01/07/33,Montpellier,1-2,Stade Rennais UC
+15,01/07/33,CAP,2-3,FC Sète
+16,01/07/33,FC Sète,1-0,Marseille
+17,01/07/33,Olympique Lillois,2-2,Sochaux
+17,01/07/33,Montpellier,3-1,Nice
+18,01/07/33,Marseille,4-0,Sochaux
+18,01/07/33,Montpellier,2-1,Olympique Lillois
+18,01/07/33,CAP,6-1,Nice
+19,01/07/33,Stade Rennais UC,1-0,Marseille
+19,01/07/33,Sochaux,2-3,CAP
+20,01/07/33,FC Sète,4-0,Nice
+20,01/07/33,CAP,3-6,Stade Rennais UC
+21,01/07/33,Sochaux,3-2,FC Sète
+22,01/07/33,FC Sète,3-1,Stade Rennais UC
+22,01/07/33,Marseille,3-1,Montpellier
+23,01/07/33,Montpellier,3-2,CAP
+23,01/07/33,Sochaux,3-1,Nice
+24,01/07/33,Nice,4-2,Stade Rennais UC
+25,01/07/33,Montpellier,4-1,FC Sète
+26,01/07/33,Nice,3-2,Olympique Lillois
+26,01/07/33,CAP,3-1,Marseille
+C,01/08/33,SC Fives,0-0,FC Antibes
+C,01/08/33,Olympique Lillois,0-0,Racing Club Paris
+C,01/08/33,Montpellier,0-0,Cannes
+C,01/08/33,Cannes,0-0,SC Fives
+C,01/08/33,Sochaux,0-0,Montpellier
+C,01/08/33,Nice,0-0,SC Fives
+1,03/09/33,SC Fives,4-2,FC Sète
+1,03/09/33,FC Antibes,1-1,Stade Rennais UC
+1,03/09/33,Montpellier,1-0,Racing Club Paris
+1,03/09/33,SC Nimes,3-3,Olympique Lillois
+1,03/09/33,CAP,5-1,Cannes
+2,10/09/33,SC Fives,5-2,SC Nimes
+2,10/09/33,Cannes,1-1,Marseille
+2,10/09/33,Racing Club Paris,1-0,Olympique Lillois
+2,10/09/33,Sochaux,6-4,FC Antibes
+3,17/09/33,Olympique Lillois,5-4,Stade Rennais UC
+3,17/09/33,Excelsior AC Roubaix,3-1,Cannes
+3,17/09/33,FC Antibes,3-2,Nice
+3,17/09/33,SC Nimes,3-1,Racing Club Paris
+3,17/09/33,CAP,0-1,SC Fives
+4,24/09/33,SC Fives,2-3,Marseille
+4,24/09/33,Stade Rennais UC,2-1,Racing Club Paris
+4,24/09/33,Cannes,1-0,FC Antibes
+4,24/09/33,CAP,7-0,SC Nimes
+5,01/10/33,FC Sète,8-2,SC Nimes
+5,01/10/33,Racing Club Paris,5-2,FC Antibes
+6,08/10/33,FC Sète,4-0,Cannes
+6,08/10/33,Excelsior AC Roubaix,3-6,Racing Club Paris
+6,08/10/33,FC Antibes,3-1,Olympique Lillois
+6,08/10/33,SC Nimes,2-0,Montpellier
+7,15/10/33,Montpellier,3-2,FC Antibes
+7,15/10/33,Cannes,1-1,SC Nimes
+7,15/10/33,Racing Club Paris,0-1,Marseille
+7,15/10/33,Sochaux,1-3,SC Fives
+8,22/10/33,SC Fives,5-0,Stade Rennais UC
+8,22/10/33,SC Nimes,5-0,FC Antibes
+8,22/10/33,Cannes,2-2,Nice
+8,22/10/33,CAP,1-4,Racing Club Paris
+9,29/10/33,FC Antibes,2-1,Excelsior AC Roubaix
+9,29/10/33,Sochaux,3-3,Cannes
+9,29/10/33,Nice,1-2,SC Nimes
+10,05/11/33,FC Sète,2-1,Racing Club Paris
+10,05/11/33,SC Fives,3-0,Olympique Lillois
+10,05/11/33,Marseille,3-2,FC Antibes
+10,05/11/33,SC Nimes,3-0,Excelsior AC Roubaix
+10,05/11/33,Cannes,0-2,Stade Rennais UC
+11,11/11/33,FC Antibes,3-1,CAP
+11,11/11/33,Montpellier,4-1,SC Fives
+11,11/11/33,Racing Club Paris,5-1,Cannes
+11,11/11/33,Sochaux,6-3,SC Nimes
+12,26/11/33,SC Nimes,0-2,Marseille
+12,26/11/33,Cannes,2-0,Olympique Lillois
+12,26/11/33,Nice,2-0,Racing Club Paris
+13,03/12/33,Excelsior AC Roubaix,1-1,SC Fives
+13,03/12/33,Stade Rennais UC,6-2,SC Nimes
+13,03/12/33,FC Antibes,3-0,FC Sète
+13,03/12/33,Racing Club Paris,0-2,Sochaux
+14,17/12/33,FC Sète,2-2,SC Fives
+14,17/12/33,Olympique Lillois,3-1,SC Nimes
+14,17/12/33,Stade Rennais UC,2-2,FC Antibes
+14,17/12/33,Cannes,3-1,CAP
+14,17/12/33,Racing Club Paris,3-0,Montpellier
+6,23/12/33,SC Fives,5-2,Nice
+15,24/12/33,FC Antibes,3-1,Sochaux
+15,25/12/33,Marseille,4-0,Cannes
+15,25/12/33,SC Nimes,3-4,SC Fives
+9,30/12/33,Racing Club Paris,1-0,SC Fives
+16,31/12/33,Cannes,1-0,Excelsior AC Roubaix
+16,01/01/34,Stade Rennais UC,1-5,Olympique Lillois
+16,01/01/34,Racing Club Paris,1-1,SC Nimes
+16,01/01/34,Nice,1-1,FC Antibes
+17,14/01/34,Marseille,2-1,SC Fives
+17,14/01/34,Excelsior AC Roubaix,3-3,FC Sète
+17,14/01/34,FC Antibes,4-1,Cannes
+17,14/01/34,SC Nimes,5-1,CAP
+17,14/01/34,Racing Club Paris,2-3,Stade Rennais UC
+11,25/01/34,Olympique Lillois,6-0,FC Sète
+18,28/01/34,SC Fives,1-2,Cannes
+18,28/01/34,Excelsior AC Roubaix,4-2,Stade Rennais UC
+18,28/01/34,FC Antibes,1-0,Racing Club Paris
+18,28/01/34,SC Nimes,0-2,FC Sète
+19,11/02/34,Olympique Lillois,4-0,FC Antibes
+19,11/02/34,Montpellier,2-4,SC Nimes
+19,11/02/34,Cannes,4-1,FC Sète
+19,11/02/34,Racing Club Paris,3-3,Excelsior AC Roubaix
+20,25/02/34,SC Fives,3-0,Sochaux
+20,25/02/34,Marseille,4-1,Racing Club Paris
+20,25/02/34,Excelsior AC Roubaix,2-0,Olympique Lillois
+20,25/02/34,FC Antibes,3-3,Montpellier
+20,25/02/34,SC Nimes,4-1,Cannes
+16,03/03/34,SC Fives,2-0,CAP
+21,04/03/34,FC Antibes,4-2,SC Nimes
+21,18/03/34,Montpellier,2-6,Excelsior AC Roubaix
+21,18/03/34,Racing Club Paris,4-1,CAP
+21,18/03/34,Nice,3-1,Cannes
+23,18/03/34,Olympique Lillois,1-1,SC Fives
+23,31/03/34,Racing Club Paris,1-1,FC Sète
+22,01/04/34,Excelsior AC Roubaix,2-3,FC Antibes
+22,01/04/34,SC Nimes,5-2,Nice
+22,01/04/34,Cannes,4-0,Sochaux
+22,01/04/34,CAP,0-3,Olympique Lillois
+22,02/04/34,SC Fives,3-3,Racing Club Paris
+23,08/04/34,Excelsior AC Roubaix,1-0,SC Nimes
+23,08/04/34,Stade Rennais UC,2-2,Cannes
+23,12/04/34,FC Antibes,1-3,Marseille
+24,15/04/34,FC Sète,1-0,Olympique Lillois
+24,15/04/34,Cannes,6-2,Racing Club Paris
+24,15/04/34,CAP,1-3,FC Antibes
+25,29/04/34,Marseille,7-3,SC Nimes
+25,29/04/34,Olympique Lillois,3-1,Cannes
+25,29/04/34,Excelsior AC Roubaix,3-2,CAP
+25,29/04/34,Stade Rennais UC,2-2,Sochaux
+25,29/04/34,FC Antibes,0-7,SC Fives
+25,29/04/34,Racing Club Paris,4-3,Nice
+26,06/05/34,SC Fives,1-0,Excelsior AC Roubaix
+26,06/05/34,SC Nimes,5-3,Stade Rennais UC
+26,06/05/34,Cannes,3-1,Montpellier
+26,06/05/34,Sochaux,3-2,Racing Club Paris
+21,13/05/34,Olympique Lillois,6-1,Marseille
+21,13/05/34,Stade Rennais UC,1-0,SC Fives
+24,13/05/34,SC Nimes,7-1,Sochaux
+26,13/05/34,FC Sète,4-2,FC Antibes
+24,20/05/34,SC Fives,2-1,Montpellier
+24,20/05/34,Marseille,2-4,Excelsior AC Roubaix

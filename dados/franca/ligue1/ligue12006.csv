@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,04/08/06,Nantes,1-3,Lyon
+1,05/08/06,Rennes,1-2,Lille
+1,05/08/06,Auxerre,1-1,Valenciennes
+1,05/08/06,Bordeaux,2-0,Toulouse
+1,05/08/06,Le Mans UC 72,1-0,Nice
+1,05/08/06,Lens,1-0,Troyes
+1,05/08/06,Nancy,1-0,Monaco
+1,05/08/06,PSG,2-3,FC Lorient
+1,05/08/06,Saint-Étienne,1-2,Sochaux
+1,06/08/06,CS Sedan,0-0,Marseille
+2,12/08/06,FC Lorient,0-1,Bordeaux
+2,12/08/06,Lyon,1-1,Toulouse
+2,12/08/06,Monaco,1-2,Saint-Étienne
+2,12/08/06,Nancy,3-1,CS Sedan
+2,12/08/06,Nice,1-1,Nantes
+2,12/08/06,Sochaux,1-1,Auxerre
+2,12/08/06,Troyes,2-2,Le Mans UC 72
+2,12/08/06,Valenciennes,0-0,PSG
+2,13/08/06,Lille,4-0,Lens
+2,13/08/06,Marseille,2-0,Rennes
+3,19/08/06,Auxerre,0-3,Marseille
+3,19/08/06,Rennes,1-1,Monaco
+3,19/08/06,Saint-Étienne,1-0,Nancy
+3,19/08/06,CS Sedan,1-1,Sochaux
+3,19/08/06,Le Mans UC 72,3-2,Valenciennes
+3,19/08/06,Lens,1-1,FC Lorient
+3,19/08/06,Nantes,1-1,Troyes
+3,19/08/06,PSG,1-0,Lille
+3,20/08/06,Toulouse,1-0,Nice
+3,20/08/06,Bordeaux,1-2,Lyon
+4,26/08/06,Nice,1-4,Lyon
+4,26/08/06,Lille,3-0,Bordeaux
+4,26/08/06,FC Lorient,3-1,Nantes
+4,26/08/06,Sochaux,3-2,PSG
+4,26/08/06,Troyes,1-2,Toulouse
+4,27/08/06,Marseille,2-0,Le Mans UC 72
+4,27/08/06,Monaco,2-1,CS Sedan
+4,27/08/06,Nancy,1-0,Auxerre
+4,27/08/06,Valenciennes,3-1,Rennes
+4,27/08/06,Saint-Étienne,3-2,Lens
+5,09/09/06,Bordeaux,3-2,Nice
+5,09/09/06,Auxerre,2-1,Monaco
+5,09/09/06,Le Mans UC 72,1-1,FC Lorient
+5,09/09/06,Lens,3-0,Valenciennes
+5,09/09/06,Lyon,2-0,Troyes
+5,09/09/06,Nantes,1-1,Lille
+5,09/09/06,Rennes,2-1,Sochaux
+5,09/09/06,CS Sedan,2-2,Saint-Étienne
+5,10/09/06,Toulouse,2-2,Nancy
+5,10/09/06,PSG,1-3,Marseille
+6,16/09/06,CS Sedan,1-2,Le Mans UC 72
+6,16/09/06,Lille,1-3,Toulouse
+6,16/09/06,FC Lorient,1-3,Lyon
+6,16/09/06,Troyes,2-0,Nice
+6,16/09/06,Valenciennes,1-0,Nantes
+6,17/09/06,Monaco,1-2,PSG
+6,17/09/06,Nancy,0-0,Rennes
+6,17/09/06,Saint-Étienne,2-3,Auxerre
+6,17/09/06,Sochaux,0-3,Lens
+6,17/09/06,Marseille,2-1,Bordeaux
+7,23/09/06,Lyon,4-1,Lille
+7,23/09/06,Auxerre,2-2,CS Sedan
+7,23/09/06,Bordeaux,2-1,Troyes
+7,23/09/06,Le Mans UC 72,2-2,Sochaux
+7,23/09/06,Nice,2-0,Valenciennes
+7,23/09/06,PSG,0-0,Nancy
+7,23/09/06,Rennes,0-0,Saint-Étienne
+7,23/09/06,Toulouse,0-0,FC Lorient
+7,24/09/06,Lens,1-0,Monaco
+7,24/09/06,Nantes,2-1,Marseille
+8,30/09/06,Sochaux,0-1,Lyon
+8,30/09/06,Lille,1-0,Nice
+8,30/09/06,FC Lorient,0-0,Troyes
+8,30/09/06,Monaco,2-1,Le Mans UC 72
+8,30/09/06,CS Sedan,1-0,Rennes
+8,30/09/06,Valenciennes,2-0,Bordeaux
+8,01/10/06,Auxerre,1-0,Nantes
+8,01/10/06,Marseille,3-0,Toulouse
+8,01/10/06,Nancy,2-1,Lens
+8,01/10/06,Saint-Étienne,1-0,PSG
+9,14/10/06,Lyon,2-1,Saint-Étienne
+9,14/10/06,Bordeaux,1-0,Monaco
+9,14/10/06,Nantes,0-2,Sochaux
+9,14/10/06,Nice,3-0,FC Lorient
+9,14/10/06,PSG,4-2,CS Sedan
+9,14/10/06,Rennes,3-1,Auxerre
+9,14/10/06,Toulouse,3-0,Valenciennes
+9,14/10/06,Troyes,1-1,Lille
+9,15/10/06,Le Mans UC 72,0-0,Nancy
+9,15/10/06,Lens,1-1,Marseille
+10,21/10/06,Lille,1-0,FC Lorient
+10,21/10/06,Monaco,1-3,Toulouse
+10,21/10/06,Nancy,1-0,Nantes
+10,21/10/06,Rennes,1-0,Nice
+10,21/10/06,Saint-Étienne,2-0,Le Mans UC 72
+10,21/10/06,CS Sedan,2-2,Lens
+10,21/10/06,Sochaux,2-1,Bordeaux
+10,21/10/06,Valenciennes,3-1,Troyes
+10,22/10/06,Auxerre,0-0,PSG
+10,22/10/06,Marseille,1-4,Lyon
+11,28/10/06,Lens,1-0,Auxerre
+11,28/10/06,Bordeaux,3-1,CS Sedan
+11,28/10/06,Le Mans UC 72,1-1,Lille
+11,28/10/06,FC Lorient,1-0,Valenciennes
+11,28/10/06,Nantes,1-0,Monaco
+11,28/10/06,PSG,1-0,Rennes
+11,28/10/06,Toulouse,1-2,Sochaux
+11,28/10/06,Troyes,3-1,Saint-Étienne
+11,29/10/06,Nice,2-1,Marseille
+11,29/10/06,Lyon,1-0,Nancy
+12,04/11/06,Rennes,1-0,Lyon
+12,04/11/06,Auxerre,2-3,Le Mans UC 72
+12,04/11/06,Marseille,0-1,FC Lorient
+12,04/11/06,Monaco,0-0,Nice
+12,04/11/06,Saint-Étienne,3-0,Toulouse
+12,04/11/06,CS Sedan,1-1,Nantes
+12,04/11/06,Sochaux,1-0,Troyes
+12,04/11/06,Valenciennes,0-3,Lille
+12,05/11/06,Nancy,2-1,Bordeaux
+12,05/11/06,PSG,1-3,Lens
+13,10/11/06,Lyon,2-1,Valenciennes
+13,11/11/06,Bordeaux,0-0,Auxerre
+13,11/11/06,Le Mans UC 72,1-1,PSG
+13,11/11/06,Lens,0-0,Rennes
+13,11/11/06,FC Lorient,2-0,Nancy
+13,11/11/06,Nantes,2-2,Saint-Étienne
+13,11/11/06,Nice,0-0,Sochaux
+13,11/11/06,Toulouse,3-1,CS Sedan
+13,12/11/06,Troyes,0-4,Monaco
+13,12/11/06,Lille,1-0,Marseille
+14,18/11/06,Sochaux,0-0,Lille
+14,18/11/06,Lens,2-0,Nantes
+14,18/11/06,Monaco,2-2,FC Lorient
+14,18/11/06,Nancy,1-0,Troyes
+14,18/11/06,PSG,0-2,Bordeaux
+14,18/11/06,Rennes,1-1,Le Mans UC 72
+14,18/11/06,Saint-Étienne,2-1,Nice
+14,18/11/06,CS Sedan,0-1,Lyon
+14,19/11/06,Auxerre,1-0,Toulouse
+14,19/11/06,Marseille,1-0,Valenciennes
+15,25/11/06,Troyes,1-1,Marseille
+15,25/11/06,Bordeaux,1-0,Saint-Étienne
+15,25/11/06,Lille,1-1,Monaco
+15,25/11/06,FC Lorient,1-3,Sochaux
+15,25/11/06,Nice,2-2,CS Sedan
+15,25/11/06,Toulouse,1-0,Rennes
+15,26/11/06,Le Mans UC 72,1-1,Lens
+15,26/11/06,Nantes,1-1,PSG
+15,26/11/06,Valenciennes,1-0,Nancy
+15,26/11/06,Lyon,1-0,Auxerre
+16,02/12/06,Le Mans UC 72,0-1,Lyon
+16,02/12/06,Auxerre,0-0,Nice
+16,02/12/06,Lens,3-0,Bordeaux
+16,02/12/06,Monaco,3-0,Valenciennes
+16,02/12/06,Rennes,2-0,Nantes
+16,02/12/06,Saint-Étienne,2-0,FC Lorient
+16,02/12/06,CS Sedan,1-2,Troyes
+16,03/12/06,Sochaux,1-0,Marseille
+16,03/12/06,Nancy,1-3,Lille
+17,09/12/06,Toulouse,0-1,Lens
+17,09/12/06,Bordeaux,1-2,Rennes
+17,09/12/06,FC Lorient,2-0,CS Sedan
+17,09/12/06,Marseille,2-1,Monaco
+17,09/12/06,Nantes,0-0,Le Mans UC 72
+17,09/12/06,Nice,0-0,Nancy
+17,09/12/06,Troyes,3-3,Auxerre
+17,09/12/06,Valenciennes,0-0,Sochaux
+17,10/12/06,Lille,2-2,Saint-Étienne
+17,10/12/06,Lyon,3-1,PSG
+18,16/12/06,Nancy,2-0,Marseille
+18,16/12/06,Le Mans UC 72,2-0,Toulouse
+18,16/12/06,Monaco,3-0,Sochaux
+18,16/12/06,Nantes,0-0,Bordeaux
+18,16/12/06,Rennes,1-1,Troyes
+18,16/12/06,Saint-Étienne,3-0,Valenciennes
+18,16/12/06,CS Sedan,2-0,Lille
+18,17/12/06,PSG,0-0,Nice
+18,17/12/06,Auxerre,2-1,FC Lorient
+18,17/12/06,Lens,0-4,Lyon
+19,22/12/06,Marseille,2-1,Saint-Étienne
+19,23/12/06,Sochaux,2-1,Nancy
+19,23/12/06,Troyes,1-1,PSG
+19,23/12/06,Lyon,0-0,Monaco
+19,23/12/06,Bordeaux,1-0,Le Mans UC 72
+19,23/12/06,Lille,1-1,Auxerre
+19,23/12/06,FC Lorient,0-0,Rennes
+19,23/12/06,Nice,1-2,Lens
+19,23/12/06,Toulouse,0-4,Nantes
+19,23/12/06,Valenciennes,2-1,CS Sedan
+20,13/01/07,PSG,1-2,Valenciennes
+20,13/01/07,Lens,1-1,Lille
+20,13/01/07,Auxerre,1-0,Sochaux
+20,13/01/07,Bordeaux,1-1,FC Lorient
+20,13/01/07,Le Mans UC 72,2-0,Troyes
+20,13/01/07,Nantes,1-0,Nice
+20,13/01/07,CS Sedan,2-2,Nancy
+20,13/01/07,Toulouse,2-0,Lyon
+20,14/01/07,Saint-Étienne,0-1,Monaco
+20,14/01/07,Rennes,0-2,Marseille
+16,17/01/07,PSG,0-0,Toulouse
+21,24/01/07,Marseille,3-1,Auxerre
+21,24/01/07,Lille,1-0,PSG
+21,24/01/07,FC Lorient,1-0,Lens
+21,24/01/07,Monaco,0-2,Rennes
+21,24/01/07,Nice,0-1,Toulouse
+21,24/01/07,Sochaux,1-1,CS Sedan
+21,24/01/07,Troyes,1-0,Nantes
+21,24/01/07,Valenciennes,1-1,Le Mans UC 72
+21,24/01/07,Lyon,1-2,Bordeaux
+21,25/01/07,Nancy,0-2,Saint-Étienne
+22,27/01/07,Le Mans UC 72,2-0,Marseille
+22,27/01/07,Bordeaux,0-1,Lille
+22,27/01/07,Lyon,1-1,Nice
+22,27/01/07,Nantes,0-2,FC Lorient
+22,27/01/07,PSG,0-0,Sochaux
+22,27/01/07,Rennes,1-0,Valenciennes
+22,27/01/07,CS Sedan,0-1,Monaco
+22,27/01/07,Toulouse,1-1,Troyes
+22,28/01/07,Auxerre,2-0,Nancy
+22,28/01/07,Lens,3-3,Saint-Étienne
+23,03/02/07,Lille,0-0,Nantes
+23,03/02/07,FC Lorient,2-1,Le Mans UC 72
+23,03/02/07,Monaco,2-1,Auxerre
+23,03/02/07,Nancy,2-1,Toulouse
+23,03/02/07,Nice,2-1,Bordeaux
+23,03/02/07,Saint-Étienne,1-2,CS Sedan
+23,03/02/07,Sochaux,0-0,Rennes
+23,03/02/07,Valenciennes,1-3,Lens
+23,04/02/07,Troyes,1-0,Lyon
+23,04/02/07,Marseille,1-1,PSG
+24,10/02/07,PSG,4-2,Monaco
+24,10/02/07,Auxerre,1-1,Saint-Étienne
+24,10/02/07,Le Mans UC 72,3-2,CS Sedan
+24,10/02/07,Lyon,1-0,FC Lorient
+24,10/02/07,Nantes,2-5,Valenciennes
+24,10/02/07,Nice,3-0,Troyes
+24,10/02/07,Rennes,1-1,Nancy
+24,10/02/07,Toulouse,1-0,Lille
+24,11/02/07,Lens,3-1,Sochaux
+24,11/02/07,Bordeaux,1-0,Marseille
+25,16/02/07,Lille,1-2,Lyon
+25,17/02/07,Saint-Étienne,1-3,Rennes
+25,17/02/07,FC Lorient,0-1,Toulouse
+25,17/02/07,Nancy,0-3,PSG
+25,17/02/07,CS Sedan,2-2,Auxerre
+25,17/02/07,Sochaux,2-0,Le Mans UC 72
+25,17/02/07,Troyes,1-0,Bordeaux
+25,17/02/07,Valenciennes,0-1,Nice
+25,18/02/07,Monaco,0-0,Lens
+25,18/02/07,Marseille,0-0,Nantes
+26,24/02/07,Toulouse,3-0,Marseille
+26,24/02/07,Le Mans UC 72,0-2,Monaco
+26,24/02/07,Lyon,3-3,Sochaux
+26,24/02/07,Nantes,1-1,Auxerre
+26,24/02/07,Nice,2-1,Lille
+26,24/02/07,Rennes,0-2,CS Sedan
+26,24/02/07,Troyes,3-0,FC Lorient
+26,25/02/07,Lens,2-2,Nancy
+26,25/02/07,Bordeaux,2-1,Valenciennes
+26,25/02/07,PSG,0-2,Saint-Étienne
+27,03/03/07,Saint-Étienne,1-3,Lyon
+27,03/03/07,Auxerre,1-0,Rennes
+27,03/03/07,Lille,4-0,Troyes
+27,03/03/07,FC Lorient,0-0,Nice
+27,03/03/07,Monaco,0-0,Bordeaux
+27,03/03/07,Nancy,1-1,Le Mans UC 72
+27,03/03/07,CS Sedan,2-0,PSG
+27,03/03/07,Valenciennes,0-0,Toulouse
+27,04/03/07,Sochaux,1-2,Nantes
+27,04/03/07,Marseille,0-1,Lens
+28,10/03/07,Toulouse,1-1,Monaco
+28,10/03/07,Bordeaux,2-0,Sochaux
+28,10/03/07,Le Mans UC 72,2-1,Saint-Étienne
+28,10/03/07,FC Lorient,0-0,Lille
+28,10/03/07,Nantes,2-1,Nancy
+28,10/03/07,Nice,1-1,Rennes
+28,10/03/07,Troyes,1-3,Valenciennes
+28,11/03/07,Lens,1-1,CS Sedan
+28,11/03/07,PSG,0-1,Auxerre
+28,11/03/07,Lyon,1-1,Marseille
+29,17/03/07,Sochaux,4-2,Toulouse
+29,17/03/07,Lille,0-2,Le Mans UC 72
+29,17/03/07,Marseille,3-0,Nice
+29,17/03/07,Monaco,2-1,Nantes
+29,17/03/07,Nancy,0-3,Lyon
+29,17/03/07,Saint-Étienne,3-1,Troyes
+29,17/03/07,CS Sedan,1-1,Bordeaux
+29,17/03/07,Valenciennes,0-0,FC Lorient
+29,18/03/07,Auxerre,1-0,Lens
+29,18/03/07,Rennes,1-0,PSG
+30,31/03/07,FC Lorient,2-1,Marseille
+30,01/04/07,Nantes,0-1,CS Sedan
+30,01/04/07,Le Mans UC 72,2-2,Auxerre
+30,01/04/07,Lille,0-2,Valenciennes
+30,01/04/07,Nice,1-1,Monaco
+30,01/04/07,Toulouse,1-0,Saint-Étienne
+30,01/04/07,Troyes,0-1,Sochaux
+30,01/04/07,Lens,1-2,PSG
+31,07/04/07,Valenciennes,0-0,Lyon
+31,07/04/07,Auxerre,0-0,Bordeaux
+31,07/04/07,Monaco,0-0,Troyes
+31,07/04/07,Nancy,0-1,FC Lorient
+31,07/04/07,PSG,2-1,Le Mans UC 72
+31,07/04/07,Rennes,1-0,Lens
+31,07/04/07,Saint-Étienne,2-1,Nantes
+31,07/04/07,Sochaux,1-1,Nice
+31,08/04/07,CS Sedan,0-2,Toulouse
+31,08/04/07,Marseille,4-1,Lille
+32,14/04/07,Bordeaux,0-0,PSG
+32,14/04/07,Le Mans UC 72,0-0,Rennes
+32,14/04/07,Lille,2-0,Sochaux
+32,14/04/07,FC Lorient,0-0,Monaco
+32,14/04/07,Nantes,0-0,Lens
+32,14/04/07,Toulouse,2-0,Auxerre
+32,14/04/07,Troyes,0-0,Nancy
+32,14/04/07,Valenciennes,0-0,Marseille
+32,15/04/07,Nice,2-1,Saint-Étienne
+32,15/04/07,Lyon,1-0,CS Sedan
+30,18/04/07,Bordeaux,3-0,Nancy
+30,18/04/07,Lyon,0-0,Rennes
+33,21/04/07,PSG,4-0,Nantes
+33,21/04/07,Lens,2-0,Le Mans UC 72
+33,21/04/07,Marseille,2-1,Troyes
+33,21/04/07,Monaco,3-1,Lille
+33,21/04/07,Nancy,1-0,Valenciennes
+33,21/04/07,Rennes,3-2,Toulouse
+33,21/04/07,CS Sedan,1-1,Nice
+33,21/04/07,Sochaux,1-1,FC Lorient
+33,22/04/07,Auxerre,0-0,Lyon
+33,22/04/07,Saint-Étienne,0-2,Bordeaux
+34,28/04/07,Toulouse,1-3,PSG
+34,28/04/07,Lille,0-1,Nancy
+34,28/04/07,FC Lorient,0-0,Saint-Étienne
+34,28/04/07,Lyon,2-1,Le Mans UC 72
+34,28/04/07,Nantes,0-2,Rennes
+34,28/04/07,Nice,0-0,Auxerre
+34,28/04/07,Troyes,3-2,CS Sedan
+34,28/04/07,Valenciennes,2-2,Monaco
+34,29/04/07,Bordeaux,1-0,Lens
+34,29/04/07,Marseille,4-2,Sochaux
+35,05/05/07,PSG,1-1,Lyon
+35,05/05/07,Auxerre,1-0,Troyes
+35,05/05/07,Le Mans UC 72,1-1,Nantes
+35,05/05/07,Lens,2-0,Toulouse
+35,05/05/07,Nancy,3-0,Nice
+35,05/05/07,Rennes,0-0,Bordeaux
+35,05/05/07,CS Sedan,3-1,FC Lorient
+35,05/05/07,Sochaux,1-0,Valenciennes
+35,06/05/07,Saint-Étienne,2-1,Lille
+35,06/05/07,Monaco,1-2,Marseille
+36,09/05/07,Sochaux,2-1,Monaco
+36,09/05/07,Bordeaux,0-1,Nantes
+36,09/05/07,Lille,2-1,CS Sedan
+36,09/05/07,FC Lorient,2-1,Auxerre
+36,09/05/07,Marseille,2-1,Nancy
+36,09/05/07,Nice,1-0,PSG
+36,09/05/07,Troyes,2-2,Rennes
+36,09/05/07,Valenciennes,1-0,Saint-Étienne
+36,09/05/07,Lyon,3-0,Lens
+36,10/05/07,Toulouse,0-1,Le Mans UC 72
+37,19/05/07,Auxerre,2-1,Lille
+37,19/05/07,Le Mans UC 72,1-1,Bordeaux
+37,19/05/07,Lens,0-0,Nice
+37,19/05/07,Monaco,1-0,Lyon
+37,19/05/07,Nancy,5-2,Sochaux
+37,19/05/07,Nantes,WO,Toulouse
+37,19/05/07,PSG,2-1,Troyes
+37,19/05/07,Rennes,4-1,FC Lorient
+37,19/05/07,Saint-Étienne,1-2,Marseille
+37,19/05/07,CS Sedan,1-1,Valenciennes
+38,26/05/07,Lille,1-1,Rennes
+38,26/05/07,FC Lorient,0-1,PSG
+38,26/05/07,Lyon,3-1,Nantes
+38,26/05/07,Marseille,1-0,CS Sedan
+38,26/05/07,Monaco,2-0,Nancy
+38,26/05/07,Nice,3-3,Le Mans UC 72
+38,26/05/07,Sochaux,1-0,Saint-Étienne
+38,26/05/07,Toulouse,3-1,Bordeaux
+38,26/05/07,Troyes,3-0,Lens
+38,26/05/07,Valenciennes,1-3,Auxerre

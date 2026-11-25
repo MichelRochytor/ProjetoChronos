@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,09/08/96,Nantes,1-3,Monaco
+1,10/08/96,Bastia,2-0,Rennes
+1,10/08/96,Nice,0-1,Auxerre
+1,10/08/96,Lille,1-0,Metz
+1,10/08/96,Bordeaux,1-0,Le Havre
+1,10/08/96,RC Strasbourg,0-1,PSG
+1,10/08/96,Caen,0-2,Lens
+1,10/08/96,Guingamp,0-0,Montpellier
+1,10/08/96,Marseille,3-1,Lyon
+1,10/08/96,Nancy,1-2,Cannes
+2,15/08/96,Monaco,1-1,Montpellier
+2,16/08/96,Rennes,3-1,Nice
+2,16/08/96,Auxerre,2-0,Lille
+2,16/08/96,Metz,1-1,Bordeaux
+2,16/08/96,Le Havre,1-1,Marseille
+2,16/08/96,Lyon,2-0,RC Strasbourg
+2,16/08/96,PSG,2-0,Caen
+2,16/08/96,Cannes,1-1,Nantes
+2,16/08/96,Bastia,1-0,Guingamp
+2,16/08/96,Lens,3-1,Nancy
+3,23/08/96,Nancy,0-0,PSG
+3,24/08/96,Nantes,0-1,Lens
+3,24/08/96,Lille,3-1,Rennes
+3,24/08/96,RC Strasbourg,1-0,Le Havre
+3,24/08/96,Montpellier,0-1,Cannes
+3,24/08/96,Guingamp,2-1,Monaco
+3,24/08/96,Caen,1-1,Lyon
+3,24/08/96,Bordeaux,0-0,Auxerre
+3,24/08/96,Nice,1-1,Bastia
+3,24/08/96,Marseille,1-2,Metz
+4,26/08/96,Cannes,0-2,Monaco
+4,26/08/96,Rennes,1-1,Bordeaux
+4,26/08/96,Metz,3-1,RC Strasbourg
+4,26/08/96,Le Havre,1-1,Caen
+4,26/08/96,Lyon,2-0,Nancy
+4,26/08/96,Lens,3-2,Montpellier
+4,26/08/96,Nice,1-2,Guingamp
+4,26/08/96,Bastia,0-0,Lille
+4,26/08/96,PSG,1-0,Nantes
+4,27/08/96,Auxerre,0-0,Marseille
+5,02/09/96,Nantes,2-2,Lyon
+5,03/09/96,Nancy,0-1,Le Havre
+5,03/09/96,RC Strasbourg,2-1,Auxerre
+5,03/09/96,Marseille,3-1,Rennes
+5,03/09/96,Guingamp,0-1,Cannes
+5,03/09/96,Caen,0-0,Metz
+5,03/09/96,Lille,3-2,Nice
+5,03/09/96,Monaco,5-1,Lens
+5,03/09/96,Montpellier,0-3,PSG
+5,03/09/96,Bordeaux,3-1,Bastia
+6,06/09/96,Lyon,1-1,Montpellier
+6,06/09/96,Rennes,2-0,RC Strasbourg
+6,06/09/96,Auxerre,2-0,Caen
+6,06/09/96,Le Havre,3-1,Nantes
+6,06/09/96,PSG,0-0,Monaco
+6,06/09/96,Lens,0-0,Cannes
+6,06/09/96,Lille,1-1,Guingamp
+6,06/09/96,Metz,1-0,Nancy
+6,08/09/96,Bastia,2-0,Marseille
+6,09/09/96,Nice,0-1,Bordeaux
+7,14/09/96,Nantes,0-1,Metz
+7,14/09/96,Caen,0-0,Rennes
+7,14/09/96,Guingamp,1-0,Lens
+7,14/09/96,Nancy,0-0,Auxerre
+7,14/09/96,Marseille,1-0,Nice
+7,14/09/96,Bordeaux,3-0,Lille
+7,14/09/96,Monaco,0-0,Lyon
+7,14/09/96,Montpellier,2-1,Le Havre
+7,14/09/96,RC Strasbourg,1-3,Bastia
+7,15/09/96,Cannes,0-1,PSG
+8,19/09/96,Auxerre,2-2,Nantes
+8,20/09/96,Bordeaux,0-0,Guingamp
+8,20/09/96,Metz,1-1,Montpellier
+8,20/09/96,Le Havre,1-2,Monaco
+8,20/09/96,PSG,4-0,Lens
+8,20/09/96,Rennes,1-0,Nancy
+8,20/09/96,Lille,1-1,Marseille
+8,20/09/96,Nice,1-1,RC Strasbourg
+8,20/09/96,Bastia,4-2,Caen
+8,20/09/96,Lyon,3-1,Cannes
+9,28/09/96,RC Strasbourg,3-0,Lille
+9,28/09/96,Nantes,3-3,Rennes
+9,28/09/96,Nancy,2-2,Bastia
+9,28/09/96,Caen,1-2,Nice
+9,28/09/96,Marseille,0-0,Bordeaux
+9,28/09/96,Lens,0-1,Lyon
+9,28/09/96,Cannes,2-0,Le Havre
+9,28/09/96,Montpellier,0-0,Auxerre
+9,28/09/96,Monaco,1-1,Metz
+9,29/09/96,Guingamp,2-2,PSG
+10,02/10/96,Le Havre,0-0,Lens
+10,02/10/96,Marseille,2-1,Guingamp
+10,02/10/96,Bordeaux,1-2,RC Strasbourg
+10,02/10/96,Rennes,2-0,Montpellier
+10,02/10/96,Auxerre,2-0,Monaco
+10,02/10/96,Metz,0-0,Cannes
+10,02/10/96,Lille,1-0,Caen
+10,02/10/96,Nice,1-0,Nancy
+10,02/10/96,Bastia,0-0,Nantes
+10,02/10/96,Lyon,1-1,PSG
+11,05/10/96,Lens,2-2,Metz
+11,05/10/96,Guingamp,1-0,Lyon
+11,05/10/96,Nantes,7-0,Nice
+11,05/10/96,Nancy,2-2,Lille
+11,05/10/96,PSG,2-0,Le Havre
+11,05/10/96,RC Strasbourg,2-1,Marseille
+11,05/10/96,Cannes,1-1,Auxerre
+11,05/10/96,Monaco,3-1,Rennes
+11,05/10/96,Montpellier,3-1,Bastia
+11,05/10/96,Caen,0-0,Bordeaux
+12,11/10/96,RC Strasbourg,2-1,Guingamp
+12,11/10/96,Auxerre,1-0,Lens
+12,11/10/96,Metz,0-1,PSG
+12,11/10/96,Le Havre,4-1,Lyon
+12,11/10/96,Marseille,0-1,Caen
+12,11/10/96,Bordeaux,0-1,Nancy
+12,11/10/96,Lille,3-3,Nantes
+12,11/10/96,Bastia,0-0,Monaco
+12,11/10/96,Nice,1-1,Montpellier
+12,13/10/96,Rennes,3-0,Cannes
+13,19/10/96,Lyon,0-0,Metz
+13,19/10/96,Guingamp,2-2,Le Havre
+13,19/10/96,Nantes,3-1,Bordeaux
+13,19/10/96,Nancy,0-0,Marseille
+13,19/10/96,Caen,3-0,RC Strasbourg
+13,19/10/96,Lens,2-0,Rennes
+13,19/10/96,Cannes,1-1,Bastia
+13,19/10/96,Montpellier,0-1,Lille
+13,19/10/96,Monaco,4-1,Nice
+13,19/10/96,PSG,1-1,Auxerre
+14,25/10/96,Bordeaux,3-1,Montpellier
+14,26/10/96,Rennes,2-1,PSG
+14,26/10/96,Auxerre,7-0,Lyon
+14,26/10/96,Metz,1-2,Le Havre
+14,26/10/96,RC Strasbourg,3-1,Nancy
+14,26/10/96,Nice,0-0,Cannes
+14,26/10/96,Bastia,0-1,Lens
+14,26/10/96,Caen,0-1,Guingamp
+14,26/10/96,Marseille,0-1,Nantes
+14,26/10/96,Lille,1-4,Monaco
+15,02/11/96,Guingamp,0-1,Metz
+15,02/11/96,Nancy,1-2,Caen
+15,02/11/96,Nantes,3-0,RC Strasbourg
+15,02/11/96,Monaco,3-1,Bordeaux
+15,02/11/96,Lyon,2-0,Rennes
+15,02/11/96,Cannes,0-1,Lille
+15,02/11/96,Le Havre,0-2,Auxerre
+15,02/11/96,Montpellier,2-0,Marseille
+15,02/11/96,Lens,3-2,Nice
+15,03/11/96,PSG,3-0,Bastia
+16,05/11/96,Marseille,3-1,Monaco
+16,06/11/96,Lille,2-1,Lens
+16,06/11/96,Rennes,1-1,Le Havre
+16,06/11/96,Auxerre,2-3,Metz
+16,06/11/96,Nancy,2-0,Guingamp
+16,06/11/96,Caen,0-0,Nantes
+16,06/11/96,Bordeaux,1-0,Cannes
+16,06/11/96,Nice,0-1,PSG
+16,06/11/96,Bastia,3-1,Lyon
+16,06/11/96,RC Strasbourg,2-1,Montpellier
+17,12/11/96,Nantes,2-0,Nancy
+17,13/11/96,PSG,3-1,Lille
+17,13/11/96,Lyon,3-1,Nice
+17,13/11/96,Le Havre,0-1,Bastia
+17,13/11/96,Guingamp,0-0,Auxerre
+17,13/11/96,Cannes,0-0,Marseille
+17,13/11/96,Monaco,2-0,RC Strasbourg
+17,13/11/96,Montpellier,0-0,Caen
+17,13/11/96,Metz,2-0,Rennes
+17,13/11/96,Lens,3-4,Bordeaux
+18,16/11/96,Nancy,0-0,Montpellier
+18,16/11/96,Nantes,1-1,Guingamp
+18,16/11/96,Caen,0-1,Monaco
+18,16/11/96,Marseille,2-1,Lens
+18,16/11/96,Bordeaux,5-3,PSG
+18,16/11/96,Nice,0-3,Le Havre
+18,16/11/96,Bastia,2-1,Metz
+18,16/11/96,RC Strasbourg,2-0,Cannes
+18,16/11/96,Rennes,1-0,Auxerre
+18,17/11/96,Lille,1-1,Lyon
+19,22/11/96,PSG,0-0,Marseille
+19,23/11/96,Montpellier,2-2,Nantes
+19,23/11/96,Lens,1-2,RC Strasbourg
+19,23/11/96,Auxerre,1-2,Bastia
+19,23/11/96,Metz,1-0,Nice
+19,23/11/96,Le Havre,0-0,Lille
+19,23/11/96,Lyon,2-2,Bordeaux
+19,23/11/96,Monaco,2-0,Nancy
+19,23/11/96,Guingamp,1-0,Rennes
+19,23/11/96,Cannes,2-0,Caen
+20,28/11/96,Montpellier,0-1,Monaco
+20,28/11/96,Bordeaux,1-0,Metz
+20,29/11/96,Guingamp,2-1,Bastia
+20,29/11/96,Nantes,5-1,Cannes
+20,29/11/96,Nancy,1-1,Lens
+20,29/11/96,Caen,1-3,PSG
+20,29/11/96,RC Strasbourg,3-0,Lyon
+20,29/11/96,Marseille,0-0,Le Havre
+20,29/11/96,Lille,0-1,Auxerre
+20,29/11/96,Nice,3-1,Rennes
+21,06/12/96,Lens,0-4,Nantes
+21,06/12/96,PSG,1-2,Nancy
+21,07/12/96,Monaco,0-0,Guingamp
+21,07/12/96,Lyon,3-0,Caen
+21,07/12/96,Le Havre,2-0,RC Strasbourg
+21,07/12/96,Metz,1-1,Marseille
+21,07/12/96,Auxerre,2-1,Bordeaux
+21,07/12/96,Rennes,2-0,Lille
+21,07/12/96,Cannes,1-0,Montpellier
+21,07/12/96,Bastia,1-0,Nice
+22,14/12/96,Bordeaux,2-0,Rennes
+22,14/12/96,Caen,4-0,Le Havre
+22,14/12/96,Guingamp,0-1,Nice
+22,14/12/96,RC Strasbourg,0-1,Metz
+22,14/12/96,Nantes,0-0,PSG
+22,14/12/96,Lille,1-2,Bastia
+22,14/12/96,Monaco,1-0,Cannes
+22,14/12/96,Nancy,2-3,Lyon
+22,14/12/96,Montpellier,1-0,Lens
+22,15/12/96,Marseille,3-0,Auxerre
+23,19/12/96,Bastia,3-1,Bordeaux
+23,20/12/96,Nice,1-1,Lille
+23,20/12/96,Cannes,1-0,Guingamp
+23,20/12/96,Lyon,0-1,Nantes
+23,20/12/96,Le Havre,1-3,Nancy
+23,20/12/96,Metz,2-2,Caen
+23,20/12/96,Rennes,4-2,Marseille
+23,20/12/96,Lens,1-3,Monaco
+23,20/12/96,PSG,1-1,Montpellier
+23,20/12/96,Auxerre,0-1,RC Strasbourg
+24,25/01/97,Nancy,2-3,Metz
+24,25/01/97,Nantes,1-1,Le Havre
+24,25/01/97,RC Strasbourg,3-0,Rennes
+24,25/01/97,Cannes,0-0,Lens
+24,25/01/97,Marseille,1-0,Bastia
+24,25/01/97,Guingamp,1-0,Lille
+24,25/01/97,Bordeaux,4-1,Nice
+24,25/01/97,Montpellier,2-1,Lyon
+24,26/01/97,Monaco,2-0,PSG
+24,26/01/97,Caen,2-3,Auxerre
+25,01/02/97,Nice,0-0,Marseille
+25,01/02/97,Lens,2-1,Guingamp
+25,01/02/97,Metz,0-1,Nantes
+25,01/02/97,Rennes,1-1,Caen
+25,01/02/97,Lille,0-0,Bordeaux
+25,01/02/97,PSG,1-1,Cannes
+25,01/02/97,Le Havre,0-0,Montpellier
+25,01/02/97,Auxerre,1-0,Nancy
+25,02/02/97,Bastia,3-1,RC Strasbourg
+25,02/02/97,Lyon,3-3,Monaco
+26,11/02/97,Caen,2-2,Bastia
+26,13/02/97,Lens,1-2,PSG
+26,13/02/97,Nantes,0-0,Auxerre
+26,14/02/97,Cannes,0-1,Lyon
+26,14/02/97,Nancy,1-0,Rennes
+26,14/02/97,Montpellier,1-0,Metz
+26,14/02/97,Monaco,3-0,Le Havre
+26,14/02/97,Marseille,5-1,Lille
+26,14/02/97,RC Strasbourg,3-1,Nice
+26,14/02/97,Guingamp,2-2,Bordeaux
+27,21/02/97,Lyon,0-0,Lens
+27,21/02/97,Rennes,0-1,Nantes
+27,22/02/97,Bordeaux,4-0,Marseille
+27,22/02/97,PSG,1-1,Guingamp
+27,22/02/97,Bastia,2-0,Nancy
+27,22/02/97,Lille,2-4,RC Strasbourg
+27,22/02/97,Le Havre,0-0,Cannes
+27,22/02/97,Metz,2-0,Monaco
+27,22/02/97,Auxerre,0-2,Montpellier
+27,22/02/97,Nice,1-1,Caen
+28,08/03/97,RC Strasbourg,1-1,Bordeaux
+28,08/03/97,Montpellier,0-0,Rennes
+28,08/03/97,Nantes,3-0,Bastia
+28,08/03/97,Cannes,0-0,Metz
+28,08/03/97,Lens,0-1,Le Havre
+28,08/03/97,Guingamp,3-1,Marseille
+28,08/03/97,Nancy,1-0,Nice
+28,08/03/97,Caen,1-0,Lille
+28,09/03/97,Monaco,0-0,Auxerre
+28,09/03/97,PSG,3-1,Lyon
+29,14/03/97,Marseille,0-1,RC Strasbourg
+29,14/03/97,Lille,2-0,Nancy
+29,14/03/97,Nice,1-2,Nantes
+29,14/03/97,Le Havre,1-0,PSG
+29,14/03/97,Auxerre,3-1,Cannes
+29,14/03/97,Rennes,0-3,Monaco
+29,14/03/97,Bastia,2-2,Montpellier
+29,15/03/97,Lyon,2-1,Guingamp
+29,15/03/97,Bordeaux,3-1,Caen
+29,15/03/97,Metz,2-0,Lens
+30,22/03/97,Nancy,1-1,Bordeaux
+30,22/03/97,Guingamp,2-1,RC Strasbourg
+30,22/03/97,Cannes,1-0,Rennes
+30,22/03/97,Lyon,2-1,Le Havre
+30,22/03/97,Nantes,1-0,Lille
+30,22/03/97,Montpellier,2-1,Nice
+30,22/03/97,Monaco,3-1,Bastia
+30,22/03/97,Lens,2-1,Auxerre
+30,23/03/97,Caen,1-0,Marseille
+30,23/03/97,PSG,2-0,Metz
+31,25/03/97,Lille,0-4,Montpellier
+31,25/03/97,Bordeaux,0-0,Nantes
+31,26/03/97,Metz,0-1,Lyon
+31,26/03/97,Le Havre,0-1,Guingamp
+31,26/03/97,Marseille,4-1,Nancy
+31,26/03/97,RC Strasbourg,2-0,Caen
+31,26/03/97,Auxerre,2-1,PSG
+31,26/03/97,Rennes,2-2,Lens
+31,26/03/97,Bastia,1-0,Cannes
+31,26/03/97,Nice,0-2,Monaco
+32,04/04/97,Monaco,2-0,Lille
+32,05/04/97,Lyon,2-0,Auxerre
+32,05/04/97,PSG,1-1,Rennes
+32,05/04/97,Nancy,2-0,RC Strasbourg
+32,05/04/97,Nantes,1-1,Marseille
+32,05/04/97,Cannes,1-1,Nice
+32,05/04/97,Montpellier,2-0,Bordeaux
+32,05/04/97,Le Havre,0-0,Metz
+32,06/04/97,Guingamp,1-1,Caen
+32,06/04/97,Lens,1-1,Bastia
+33,15/04/97,Bastia,1-1,PSG
+33,16/04/97,Rennes,2-1,Lyon
+33,16/04/97,Metz,2-0,Guingamp
+33,16/04/97,RC Strasbourg,0-1,Nantes
+33,16/04/97,Auxerre,2-0,Le Havre
+33,16/04/97,Nice,1-2,Lens
+33,16/04/97,Bordeaux,2-1,Monaco
+33,16/04/97,Marseille,2-2,Montpellier
+33,16/04/97,Caen,1-1,Nancy
+33,17/04/97,Lille,1-2,Cannes
+34,26/04/97,Guingamp,0-1,Nancy
+34,26/04/97,Le Havre,1-1,Rennes
+34,26/04/97,Metz,1-0,Auxerre
+34,26/04/97,Lens,1-0,Lille
+34,26/04/97,Montpellier,1-4,RC Strasbourg
+34,26/04/97,Cannes,1-1,Bordeaux
+34,26/04/97,Nantes,1-1,Caen
+34,26/04/97,Lyon,4-2,Bastia
+34,26/04/97,Monaco,1-1,Marseille
+34,27/04/97,PSG,5-0,Nice
+35,29/04/97,RC Strasbourg,0-2,Monaco
+35,29/04/97,Caen,0-1,Montpellier
+35,30/04/97,Bordeaux,2-1,Lens
+35,30/04/97,Auxerre,1-0,Guingamp
+35,30/04/97,Nancy,1-3,Nantes
+35,30/04/97,Rennes,1-3,Metz
+35,30/04/97,Bastia,1-2,Le Havre
+35,30/04/97,Lille,0-1,PSG
+35,30/04/97,Marseille,3-1,Cannes
+35,30/04/97,Nice,0-1,Lyon
+36,03/05/97,Montpellier,1-1,Nancy
+36,03/05/97,Guingamp,0-0,Nantes
+36,03/05/97,Auxerre,4-1,Rennes
+36,03/05/97,PSG,2-2,Bordeaux
+36,03/05/97,Lyon,0-0,Lille
+36,03/05/97,Le Havre,1-0,Nice
+36,03/05/97,Metz,1-0,Bastia
+36,03/05/97,Lens,2-0,Marseille
+36,04/05/97,Monaco,2-2,Caen
+36,04/05/97,Cannes,2-2,RC Strasbourg
+37,17/05/97,Lille,2-2,Le Havre
+37,17/05/97,Rennes,1-1,Guingamp
+37,17/05/97,Nice,3-0,Metz
+37,17/05/97,Bordeaux,2-2,Lyon
+37,17/05/97,RC Strasbourg,1-0,Lens
+37,17/05/97,Caen,3-0,Cannes
+37,17/05/97,Nancy,1-3,Monaco
+37,17/05/97,Nantes,3-0,Montpellier
+37,17/05/97,Marseille,1-0,PSG
+37,17/05/97,Bastia,2-1,Auxerre
+38,24/05/97,Auxerre,3-1,Nice
+38,24/05/97,Monaco,2-1,Nantes
+38,24/05/97,Cannes,0-1,Nancy
+38,24/05/97,Lens,0-0,Caen
+38,24/05/97,PSG,2-1,RC Strasbourg
+38,24/05/97,Lyon,8-0,Marseille
+38,24/05/97,Metz,1-0,Lille
+38,24/05/97,Rennes,1-3,Bastia
+38,24/05/97,Montpellier,1-0,Guingamp
+38,24/05/97,Le Havre,1-2,Bordeaux

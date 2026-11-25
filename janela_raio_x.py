@@ -37,7 +37,6 @@ class JanelaRaioXJogo(tk.Toplevel):
         self.geometry('1140x830')
         self.minsize(960, 680)
         self.configure(bg=THEME['bg_main'])
-        self.transient(parent)
 
         # Centralizar sobre a janela pai se possível
         self._centralizar_janela(parent)

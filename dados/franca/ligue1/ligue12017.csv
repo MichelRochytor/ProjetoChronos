@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,04/08/17,Monaco,3-2,Toulouse
+1,05/08/17,PSG,2-0,Amiens SC
+1,05/08/17,Saint-Étienne,1-0,Nice
+1,05/08/17,Troyes,1-1,Rennes
+1,05/08/17,Metz,1-3,Guingamp
+1,05/08/17,Montpellier,1-0,Caen
+1,05/08/17,Lyon,4-0,Strasbourg
+1,06/08/17,Lille,3-0,Nantes
+1,06/08/17,Angers,2-2,Bordeaux
+1,06/08/17,Marseille,3-0,Dijon
+2,11/08/17,Nice,1-2,Troyes
+2,11/08/17,Rennes,1-2,Lyon
+2,12/08/17,Nantes,0-1,Marseille
+2,12/08/17,Toulouse,1-0,Montpellier
+2,12/08/17,Bordeaux,2-0,Metz
+2,12/08/17,Amiens SC,0-2,Angers
+2,12/08/17,Caen,0-1,Saint-Étienne
+2,13/08/17,Strasbourg,3-0,Lille
+2,13/08/17,Dijon,1-4,Monaco
+2,13/08/17,Guingamp,0-3,PSG
+3,18/08/17,Metz,0-1,Monaco
+3,19/08/17,Lyon,3-3,Bordeaux
+3,19/08/17,Saint-Étienne,3-0,Amiens SC
+3,19/08/17,Troyes,0-1,Nantes
+3,19/08/17,Montpellier,1-1,Strasbourg
+3,19/08/17,Nice,2-0,Guingamp
+3,19/08/17,Rennes,2-2,Dijon
+3,20/08/17,Lille,0-2,Caen
+3,20/08/17,Marseille,1-1,Angers
+3,20/08/17,PSG,6-2,Toulouse
+4,25/08/17,PSG,3-0,Saint-Étienne
+4,26/08/17,Nantes,0-0,Lyon
+4,26/08/17,Dijon,2-1,Montpellier
+4,26/08/17,Toulouse,3-2,Rennes
+4,26/08/17,Bordeaux,2-1,Troyes
+4,26/08/17,Amiens SC,3-0,Nice
+4,26/08/17,Caen,1-0,Metz
+4,27/08/17,Guingamp,2-0,Strasbourg
+4,27/08/17,Angers,1-1,Lille
+4,27/08/17,Monaco,6-1,Marseille
+5,08/09/17,Lille,0-0,Bordeaux
+5,08/09/17,Metz,1-5,PSG
+5,09/09/17,Nice,4-0,Monaco
+5,09/09/17,Troyes,0-0,Toulouse
+5,09/09/17,Montpellier,0-1,Nantes
+5,09/09/17,Strasbourg,0-1,Amiens SC
+5,09/09/17,Caen,2-1,Dijon
+5,10/09/17,Saint-Étienne,1-1,Angers
+5,10/09/17,Lyon,2-1,Guingamp
+5,10/09/17,Marseille,1-3,Rennes
+6,15/09/17,Toulouse,0-1,Bordeaux
+6,16/09/17,Monaco,3-0,Strasbourg
+6,16/09/17,Dijon,0-1,Saint-Étienne
+6,16/09/17,Guingamp,1-0,Lille
+6,16/09/17,Troyes,0-1,Montpellier
+6,16/09/17,Nantes,1-0,Caen
+6,17/09/17,Amiens SC,0-2,Marseille
+6,17/09/17,Angers,0-1,Metz
+6,17/09/17,Rennes,0-1,Nice
+6,17/09/17,PSG,2-0,Lyon
+7,22/09/17,Nice,2-2,Angers
+7,22/09/17,Lille,0-4,Monaco
+7,23/09/17,Montpellier,0-0,PSG
+7,23/09/17,Metz,0-1,Troyes
+7,23/09/17,Bordeaux,3-1,Guingamp
+7,23/09/17,Lyon,3-3,Dijon
+7,23/09/17,Caen,1-0,Amiens SC
+7,24/09/17,Saint-Étienne,2-2,Rennes
+7,24/09/17,Strasbourg,1-2,Nantes
+7,24/09/17,Marseille,2-0,Toulouse
+8,29/09/17,Monaco,1-1,Montpellier
+8,30/09/17,PSG,6-2,Bordeaux
+8,30/09/17,Dijon,1-1,Strasbourg
+8,30/09/17,Guingamp,1-1,Toulouse
+8,30/09/17,Nantes,1-0,Metz
+8,30/09/17,Rennes,0-1,Caen
+8,01/10/17,Troyes,2-1,Saint-Étienne
+8,01/10/17,Angers,3-3,Lyon
+8,01/10/17,Nice,2-4,Marseille
+9,13/10/17,Lyon,3-2,Monaco
+9,14/10/17,Dijon,1-2,PSG
+9,14/10/17,Saint-Étienne,3-1,Metz
+9,14/10/17,Guingamp,2-0,Rennes
+9,14/10/17,Toulouse,1-0,Amiens SC
+9,14/10/17,Lille,2-2,Troyes
+9,14/10/17,Caen,0-2,Angers
+9,15/10/17,Bordeaux,1-1,Nantes
+9,15/10/17,Montpellier,2-0,Nice
+9,15/10/17,Strasbourg,3-3,Marseille
+10,20/10/17,Saint-Étienne,0-1,Montpellier
+10,21/10/17,Monaco,2-0,Caen
+10,21/10/17,Metz,1-2,Dijon
+10,21/10/17,Nantes,2-1,Guingamp
+10,21/10/17,Amiens SC,1-0,Bordeaux
+10,21/10/17,Angers,0-1,Toulouse
+10,21/10/17,Rennes,1-0,Lille
+10,22/10/17,Nice,1-2,Strasbourg
+10,22/10/17,Troyes,0-5,Lyon
+10,22/10/17,Marseille,2-2,PSG
+11,27/10/17,PSG,3-0,Nice
+11,28/10/17,Bordeaux,0-2,Monaco
+11,28/10/17,Dijon,1-0,Nantes
+11,28/10/17,Guingamp,1-1,Amiens SC
+11,28/10/17,Montpellier,0-1,Rennes
+11,28/10/17,Strasbourg,2-2,Angers
+11,28/10/17,Caen,1-0,Troyes
+11,29/10/17,Lyon,2-0,Metz
+11,29/10/17,Toulouse,0-0,Saint-Étienne
+11,29/10/17,Lille,0-1,Marseille
+12,03/11/17,Rennes,1-0,Bordeaux
+12,04/11/17,Angers,0-5,PSG
+12,04/11/17,Monaco,6-0,Guingamp
+12,04/11/17,Troyes,3-0,Strasbourg
+12,04/11/17,Nantes,2-1,Toulouse
+12,04/11/17,Montpellier,1-1,Amiens SC
+12,05/11/17,Nice,1-0,Dijon
+12,05/11/17,Metz,0-3,Lille
+12,05/11/17,Marseille,5-0,Caen
+12,05/11/17,Saint-Étienne,0-5,Lyon
+13,17/11/17,Lille,3-1,Saint-Étienne
+13,17/11/17,Amiens SC,1-1,Monaco
+13,18/11/17,PSG,4-1,Nantes
+13,18/11/17,Dijon,3-1,Troyes
+13,18/11/17,Guingamp,1-1,Angers
+13,18/11/17,Toulouse,0-0,Metz
+13,18/11/17,Strasbourg,2-1,Rennes
+13,19/11/17,Caen,1-1,Nice
+13,19/11/17,Lyon,0-0,Montpellier
+13,19/11/17,Bordeaux,1-1,Marseille
+8,20/11/17,Amiens SC,3-0,Lille
+14,24/11/17,Saint-Étienne,2-2,Strasbourg
+14,25/11/17,Rennes,2-1,Nantes
+14,25/11/17,Dijon,3-1,Toulouse
+14,25/11/17,Troyes,3-0,Angers
+14,25/11/17,Metz,0-2,Amiens SC
+14,25/11/17,Montpellier,3-0,Lille
+14,25/11/17,Caen,1-0,Bordeaux
+14,26/11/17,Nice,0-5,Lyon
+14,26/11/17,Marseille,1-0,Guingamp
+14,26/11/17,Monaco,1-2,PSG
+15,28/11/17,Strasbourg,0-0,Caen
+15,28/11/17,Amiens SC,2-1,Dijon
+15,28/11/17,Bordeaux,3-0,Saint-Étienne
+15,29/11/17,Guingamp,0-0,Montpellier
+15,29/11/17,Metz,0-3,Marseille
+15,29/11/17,Nantes,1-0,Monaco
+15,29/11/17,Toulouse,1-2,Nice
+15,29/11/17,Lyon,1-2,Lille
+15,29/11/17,Angers,1-2,Rennes
+15,29/11/17,PSG,2-0,Troyes
+16,01/12/17,Dijon,3-2,Bordeaux
+16,02/12/17,Strasbourg,2-1,PSG
+16,02/12/17,Monaco,1-0,Angers
+16,02/12/17,Troyes,0-1,Guingamp
+16,02/12/17,Nice,3-1,Metz
+16,02/12/17,Lille,1-0,Toulouse
+16,02/12/17,Rennes,2-0,Amiens SC
+16,03/12/17,Saint-Étienne,1-1,Nantes
+16,03/12/17,Caen,1-2,Lyon
+16,03/12/17,Montpellier,1-1,Marseille
+17,08/12/17,Bordeaux,0-3,Strasbourg
+17,09/12/17,PSG,3-1,Lille
+17,09/12/17,Monaco,3-2,Troyes
+17,09/12/17,Guingamp,4-0,Dijon
+17,09/12/17,Metz,1-1,Rennes
+17,09/12/17,Toulouse,2-0,Caen
+17,09/12/17,Angers,1-1,Montpellier
+17,10/12/17,Amiens SC,1-2,Lyon
+17,10/12/17,Nantes,1-2,Nice
+17,10/12/17,Marseille,3-0,Saint-Étienne
+18,15/12/17,Saint-Étienne,0-4,Monaco
+18,16/12/17,Rennes,1-4,PSG
+18,16/12/17,Dijon,3-0,Lille
+18,16/12/17,Troyes,1-0,Amiens SC
+18,16/12/17,Montpellier,1-3,Metz
+18,16/12/17,Strasbourg,2-1,Toulouse
+18,16/12/17,Caen,0-0,Guingamp
+18,17/12/17,Nantes,1-0,Angers
+18,17/12/17,Nice,1-0,Bordeaux
+18,17/12/17,Lyon,2-0,Marseille
+19,20/12/17,Monaco,2-1,Rennes
+19,20/12/17,Guingamp,2-1,Saint-Étienne
+19,20/12/17,Metz,3-0,Strasbourg
+19,20/12/17,Toulouse,1-2,Lyon
+19,20/12/17,Bordeaux,0-2,Montpellier
+19,20/12/17,Marseille,3-1,Troyes
+19,20/12/17,Lille,1-1,Nice
+19,20/12/17,PSG,3-1,Caen
+19,20/12/17,Amiens SC,0-1,Nantes
+19,20/12/17,Angers,2-1,Dijon
+20,12/01/18,Strasbourg,0-2,Guingamp
+20,13/01/18,Rennes,0-3,Marseille
+20,13/01/18,Dijon,1-1,Metz
+20,13/01/18,Troyes,0-1,Bordeaux
+20,13/01/18,Montpellier,0-0,Monaco
+20,13/01/18,Nice,1-0,Amiens SC
+20,13/01/18,Caen,0-1,Lille
+20,14/01/18,Saint-Étienne,2-0,Toulouse
+20,14/01/18,Lyon,1-1,Angers
+20,14/01/18,Nantes,0-1,PSG
+21,16/01/18,Bordeaux,0-2,Caen
+21,16/01/18,Marseille,2-0,Strasbourg
+21,16/01/18,Monaco,2-2,Nice
+21,17/01/18,Guingamp,0-2,Lyon
+21,17/01/18,Metz,3-0,Saint-Étienne
+21,17/01/18,Toulouse,1-1,Nantes
+21,17/01/18,Lille,1-2,Rennes
+21,17/01/18,Amiens SC,1-1,Montpellier
+21,17/01/18,Angers,3-1,Troyes
+21,17/01/18,PSG,8-0,Dijon
+22,19/01/18,Caen,0-2,Marseille
+22,20/01/18,Nantes,0-1,Bordeaux
+22,20/01/18,Troyes,1-0,Lille
+22,20/01/18,Montpellier,2-1,Toulouse
+22,20/01/18,Strasbourg,3-2,Dijon
+22,20/01/18,Amiens SC,3-1,Guingamp
+22,20/01/18,Rennes,1-0,Angers
+22,21/01/18,Nice,1-0,Saint-Étienne
+22,21/01/18,Monaco,3-1,Metz
+22,21/01/18,Lyon,2-1,PSG
+23,26/01/18,Dijon,2-1,Rennes
+23,27/01/18,PSG,4-0,Montpellier
+23,27/01/18,Saint-Étienne,2-1,Caen
+23,27/01/18,Guingamp,0-3,Nantes
+23,27/01/18,Metz,2-1,Nice
+23,27/01/18,Toulouse,1-0,Troyes
+23,27/01/18,Angers,1-0,Amiens SC
+23,28/01/18,Lille,2-1,Strasbourg
+23,28/01/18,Bordeaux,3-1,Lyon
+23,28/01/18,Marseille,2-2,Monaco
+24,02/02/18,Marseille,6-3,Metz
+24,03/02/18,Lille,0-3,PSG
+24,03/02/18,Montpellier,2-1,Angers
+24,03/02/18,Nice,0-1,Toulouse
+24,03/02/18,Strasbourg,0-2,Bordeaux
+24,03/02/18,Amiens SC,0-2,Saint-Étienne
+24,04/02/18,Rennes,0-1,Guingamp
+24,04/02/18,Caen,3-2,Nantes
+24,04/02/18,Monaco,3-2,Lyon
+25,09/02/18,Saint-Étienne,2-2,Marseille
+25,10/02/18,Toulouse,0-1,PSG
+25,10/02/18,Dijon,3-2,Nice
+25,10/02/18,Guingamp,0-0,Caen
+25,10/02/18,Metz,0-1,Montpellier
+25,10/02/18,Bordeaux,3-2,Amiens SC
+25,10/02/18,Angers,0-4,Monaco
+25,11/02/18,Strasbourg,2-1,Troyes
+25,11/02/18,Nantes,2-2,Lille
+25,11/02/18,Lyon,0-2,Rennes
+26,16/02/18,Monaco,4-0,Dijon
+26,17/02/18,PSG,5-2,Strasbourg
+26,17/02/18,Troyes,1-0,Metz
+26,17/02/18,Montpellier,1-1,Guingamp
+26,17/02/18,Amiens SC,0-0,Toulouse
+26,17/02/18,Angers,0-1,Saint-Étienne
+26,17/02/18,Caen,2-2,Rennes
+26,18/02/18,Nice,1-1,Nantes
+26,18/02/18,Lille,2-2,Lyon
+26,18/02/18,Marseille,1-0,Bordeaux
+24,20/02/18,Troyes,0-0,Dijon
+27,23/02/18,Strasbourg,0-0,Montpellier
+27,24/02/18,Toulouse,3-3,Monaco
+27,24/02/18,Dijon,2-0,Caen
+27,24/02/18,Guingamp,2-2,Metz
+27,24/02/18,Nantes,0-1,Amiens SC
+27,24/02/18,Lille,1-2,Angers
+27,24/02/18,Rennes,2-0,Troyes
+27,25/02/18,Bordeaux,0-0,Nice
+27,25/02/18,Lyon,1-1,Saint-Étienne
+27,25/02/18,PSG,3-0,Marseille
+28,02/03/18,Nice,2-1,Lille
+28,02/03/18,Monaco,2-1,Bordeaux
+28,03/03/18,Troyes,0-2,PSG
+28,03/03/18,Saint-Étienne,2-2,Dijon
+28,03/03/18,Metz,1-1,Toulouse
+28,03/03/18,Amiens SC,0-2,Rennes
+28,03/03/18,Angers,3-0,Guingamp
+28,04/03/18,Caen,2-0,Strasbourg
+28,04/03/18,Montpellier,1-1,Lyon
+28,04/03/18,Marseille,1-1,Nantes
+29,09/03/18,Strasbourg,1-3,Monaco
+29,10/03/18,PSG,5-0,Metz
+29,10/03/18,Dijon,1-1,Amiens SC
+29,10/03/18,Nantes,1-0,Troyes
+29,10/03/18,Bordeaux,0-0,Angers
+29,10/03/18,Lille,1-1,Montpellier
+29,10/03/18,Rennes,1-1,Saint-Étienne
+29,11/03/18,Guingamp,2-5,Nice
+29,11/03/18,Lyon,1-0,Caen
+29,11/03/18,Toulouse,1-2,Marseille
+31,14/03/18,PSG,2-1,Angers
+30,16/03/18,Monaco,2-1,Lille
+30,17/03/18,Bordeaux,0-2,Rennes
+30,17/03/18,Toulouse,2-2,Strasbourg
+30,17/03/18,Montpellier,2-2,Dijon
+30,17/03/18,Amiens SC,1-1,Troyes
+30,17/03/18,Angers,3-0,Caen
+30,18/03/18,Nice,1-2,PSG
+30,18/03/18,Metz,1-1,Nantes
+30,18/03/18,Saint-Étienne,2-0,Guingamp
+30,18/03/18,Marseille,2-3,Lyon
+31,31/03/18,Dijon,1-3,Marseille
+31,01/04/18,Guingamp,2-1,Bordeaux
+31,01/04/18,Troyes,0-2,Nice
+31,01/04/18,Nantes,0-3,Saint-Étienne
+31,01/04/18,Lille,0-1,Amiens SC
+31,01/04/18,Strasbourg,2-2,Metz
+31,01/04/18,Caen,1-3,Montpellier
+31,01/04/18,Lyon,2-0,Toulouse
+31,04/04/18,Rennes,1-1,Monaco
+32,06/04/18,Saint-Étienne,1-1,PSG
+32,07/04/18,Monaco,2-1,Nantes
+32,07/04/18,Guingamp,4-0,Troyes
+32,07/04/18,Toulouse,0-1,Dijon
+32,07/04/18,Bordeaux,2-1,Lille
+32,07/04/18,Amiens SC,3-0,Caen
+32,07/04/18,Angers,1-1,Strasbourg
+32,08/04/18,Nice,1-1,Rennes
+32,08/04/18,Metz,0-5,Lyon
+32,08/04/18,Marseille,0-0,Montpellier
+33,13/04/18,Angers,1-1,Nice
+33,14/04/18,Lyon,3-0,Amiens SC
+33,14/04/18,Nantes,1-1,Dijon
+33,14/04/18,Lille,2-2,Guingamp
+33,14/04/18,Rennes,1-2,Metz
+33,14/04/18,Strasbourg,0-1,Saint-Étienne
+33,15/04/18,Montpellier,1-3,Bordeaux
+33,15/04/18,Troyes,2-3,Marseille
+33,15/04/18,PSG,7-1,Monaco
+34,20/04/18,Nantes,1-1,Rennes
+34,20/04/18,Dijon,2-5,Lyon
+34,21/04/18,Marseille,5-1,Lille
+34,21/04/18,Guingamp,3-1,Monaco
+34,21/04/18,Metz,1-1,Caen
+34,21/04/18,Toulouse,2-0,Angers
+34,21/04/18,Amiens SC,3-1,Strasbourg
+34,22/04/18,Nice,1-0,Montpellier
+34,22/04/18,Saint-Étienne,2-1,Troyes
+34,22/04/18,Bordeaux,0-1,PSG
+33,25/04/18,Caen,0-0,Toulouse
+35,27/04/18,Montpellier,0-1,Saint-Étienne
+35,28/04/18,Lyon,2-0,Nantes
+35,28/04/18,Monaco,0-0,Amiens SC
+35,28/04/18,Troyes,3-1,Caen
+35,28/04/18,Bordeaux,3-1,Dijon
+35,28/04/18,Lille,3-1,Metz
+35,28/04/18,Strasbourg,1-1,Nice
+35,29/04/18,Rennes,2-1,Toulouse
+35,29/04/18,Angers,1-1,Marseille
+35,29/04/18,PSG,2-2,Guingamp
+36,04/05/18,Amiens SC,2-2,PSG
+36,06/05/18,Saint-Étienne,1-3,Bordeaux
+36,06/05/18,Lyon,3-0,Troyes
+36,06/05/18,Dijon,3-1,Guingamp
+36,06/05/18,Metz,1-2,Angers
+36,06/05/18,Nantes,0-2,Montpellier
+36,06/05/18,Toulouse,2-3,Lille
+36,06/05/18,Caen,1-2,Monaco
+36,06/05/18,Rennes,2-1,Strasbourg
+36,06/05/18,Marseille,2-1,Nice
+37,11/05/18,Guingamp,3-3,Marseille
+37,12/05/18,Monaco,1-0,Saint-Étienne
+37,12/05/18,Bordeaux,4-2,Toulouse
+37,12/05/18,Montpellier,1-1,Troyes
+37,12/05/18,Nice,4-1,Caen
+37,12/05/18,Lille,2-1,Dijon
+37,12/05/18,PSG,0-2,Rennes
+37,12/05/18,Strasbourg,3-2,Lyon
+37,12/05/18,Amiens SC,2-0,Metz
+37,12/05/18,Angers,0-2,Nantes
+38,19/05/18,Saint-Étienne,5-0,Lille
+38,19/05/18,Dijon,2-1,Angers
+38,19/05/18,Troyes,0-3,Monaco
+38,19/05/18,Metz,0-4,Bordeaux
+38,19/05/18,Nantes,1-0,Strasbourg
+38,19/05/18,Toulouse,2-1,Guingamp
+38,19/05/18,Lyon,3-2,Nice
+38,19/05/18,Marseille,2-1,Amiens SC
+38,19/05/18,Caen,0-0,PSG
+38,19/05/18,Rennes,1-1,Montpellier

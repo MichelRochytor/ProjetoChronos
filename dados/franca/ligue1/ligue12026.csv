@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,21/08/26,Marseille,4-0,Strasbourg
+1,22/08/26,Lens,5-2,Auxerre
+1,22/08/26,Troyes,0-0,Paris FC
+1,22/08/26,Le Mans,2-2,Brest
+1,22/08/26,Toulouse,0-2,Lyon
+1,22/08/26,Nice,0-0,FC Lorient
+1,23/08/26,Angers,0-2,Lille
+1,23/08/26,Le Havre,0-1,Monaco
+1,23/08/26,Rennes,2-2,PSG
+2,28/08/26,Lille,2-2,PSG
+2,29/08/26,Strasbourg,2-1,Lens
+2,29/08/26,Lyon,1-1,Le Havre
+2,29/08/26,Brest,2-2,Toulouse
+2,29/08/26,FC Lorient,1-2,Troyes
+2,29/08/26,Auxerre,1-3,Angers
+2,30/08/26,Paris FC,3-0,Nice
+2,30/08/26,Rennes,3-2,Le Mans
+2,30/08/26,Monaco,2-0,Marseille
+3,03/09/26,Toulouse,0-1,Lille
+3,04/09/26,Lyon,3-1,Auxerre
+3,04/09/26,PSG,1-2,Monaco
+3,05/09/26,Lens,0-1,FC Lorient
+3,05/09/26,Nice,1-1,Le Mans
+3,05/09/26,Le Havre,1-2,Brest
+3,06/09/26,Troyes,2-6,Strasbourg
+3,06/09/26,Angers,1-2,Rennes
+3,06/09/26,Marseille,2-3,Paris FC
+4,11/09/26,Rennes,1-0,Marseille
+4,12/09/26,Strasbourg,1-1,Monaco
+4,12/09/26,Paris FC,0-0,Lyon
+4,12/09/26,FC Lorient,2-2,Toulouse
+4,12/09/26,Auxerre,1-0,Nice
+4,12/09/26,Le Havre,0-0,Angers
+4,13/09/26,Lille,2-0,Troyes
+4,13/09/26,Le Mans,2-2,Lens
+4,13/09/26,Brest,0-1,PSG
+5,18/09/26,Monaco,2-1,Lens
+5,19/09/26,Paris FC,2-1,Strasbourg
+5,19/09/26,Le Mans,2-1,FC Lorient
+5,19/09/26,Lyon,4-0,Rennes
+5,19/09/26,Toulouse,3-2,Le Havre
+5,19/09/26,Angers,2-0,Troyes
+5,20/09/26,Auxerre,2-1,Brest
+5,20/09/26,Nice,2-1,Lille
+5,20/09/26,Marseille,1-2,PSG
+6,09/10/26,Lens,2-1,Lyon
+6,10/10/26,Lille,1-0,Le Havre
+6,10/10/26,Monaco,2-2,Toulouse
+6,10/10/26,PSG,3-1,Le Mans
+6,10/10/26,Brest,5-1,Angers
+6,10/10/26,FC Lorient,1-0,Paris FC
+6,11/10/26,Nice,2-1,Strasbourg
+6,11/10/26,Rennes,4-1,Auxerre
+6,11/10/26,Troyes,0-2,Marseille
+7,16/10/26,Le Mans,0-3,Toulouse
+7,17/10/26,Strasbourg,1-3,PSG
+7,17/10/26,Troyes,1-3,Lens
+7,17/10/26,Lille,1-1,Brest
+7,18/10/26,Angers,2-5,Marseille
+7,18/10/26,Le Havre,1-3,Auxerre
+7,18/10/26,Paris FC,4-3,Rennes
+7,18/10/26,FC Lorient,1-0,Monaco
+7,18/10/26,Lyon,2-1,Nice
+8,23/10/26,Brest,1-2,Nice
+8,24/10/26,Lens,2-1,Paris FC
+8,25/10/26,Monaco,1-1,Lille
+8,25/10/26,Angers,0-0,FC Lorient
+8,25/10/26,Marseille,4-3,Le Havre
+8,25/10/26,Auxerre,1-1,Le Mans
+8,25/10/26,Toulouse,0-0,Troyes
+8,25/10/26,Rennes,3-0,Strasbourg
+8,26/10/26,PSG,2-0,Lyon
+9,30/10/26,Le Havre,1-5,PSG
+9,30/10/26,Nice,5-2,Rennes
+9,30/10/26,Lille,1-0,Lens
+9,31/10/26,Troyes,2-0,Le Mans
+9,01/11/26,Strasbourg,5-1,Auxerre
+9,01/11/26,Paris FC,3-1,Monaco
+9,01/11/26,Lyon,2-0,Angers
+9,01/11/26,Marseille,2-0,Toulouse
+9,02/11/26,FC Lorient,0-2,Brest
+10,06/11/26,Toulouse,3-1,Strasbourg
+10,07/11/26,Auxerre,0-1,Paris FC
+10,07/11/26,PSG,1-0,Troyes
+10,08/11/26,Rennes,1-2,Lille
+10,08/11/26,Le Mans,1-1,Monaco
+10,08/11/26,Brest,2-0,Lyon
+10,08/11/26,Le Havre,0-2,FC Lorient
+10,08/11/26,Angers,0-2,Nice
+10,08/11/26,Lens,1-2,Marseille
+11,20/11/26,Troyes,vs,Le Havre
+11,21/11/26,Nice,vs,PSG
+11,21/11/26,Strasbourg,vs,Brest
+11,21/11/26,Monaco,vs,Auxerre
+11,21/11/26,Lens,vs,Toulouse
+11,21/11/26,Lille,vs,Lyon
+11,22/11/26,Paris FC,vs,Angers
+11,22/11/26,FC Lorient,vs,Rennes
+11,22/11/26,Marseille,vs,Le Mans
+12,27/11/26,Brest,vs,Paris FC
+12,28/11/26,Angers,vs,Lens
+12,28/11/26,Nice,vs,Troyes
+12,28/11/26,PSG,vs,FC Lorient
+12,28/11/26,Le Havre,vs,Strasbourg
+12,28/11/26,Le Mans,vs,Lille
+12,29/11/26,Auxerre,vs,Marseille
+12,29/11/26,Toulouse,vs,Rennes
+12,29/11/26,Lyon,vs,Monaco
+13,04/12/26,Toulouse,vs,PSG
+13,05/12/26,Lille,vs,Auxerre
+13,05/12/26,Strasbourg,vs,FC Lorient
+13,05/12/26,Paris FC,vs,Le Mans
+13,05/12/26,Monaco,vs,Angers
+13,05/12/26,Lens,vs,Le Havre
+13,06/12/26,Troyes,vs,Lyon
+13,06/12/26,Rennes,vs,Brest
+13,06/12/26,Marseille,vs,Nice
+14,11/12/26,Auxerre,vs,Toulouse
+14,12/12/26,PSG,vs,Paris FC
+14,12/12/26,Brest,vs,Troyes
+14,12/12/26,Le Havre,vs,Le Mans
+14,12/12/26,Angers,vs,Strasbourg
+14,12/12/26,Nice,vs,Lens
+14,13/12/26,FC Lorient,vs,Lille
+14,13/12/26,Rennes,vs,Monaco
+14,13/12/26,Lyon,vs,Marseille
+15,02/01/27,Brest,vs,Marseille
+15,02/01/27,Monaco,vs,Nice
+15,02/01/27,Troyes,vs,Rennes
+15,02/01/27,Paris FC,vs,Le Havre
+15,02/01/27,FC Lorient,vs,Auxerre
+15,02/01/27,Toulouse,vs,Angers
+15,03/01/27,Le Mans,vs,Lyon
+15,03/01/27,Lille,vs,Strasbourg
+15,03/01/27,Lens,vs,PSG
+16,15/01/27,Marseille,vs,Lille
+16,16/01/27,Angers,vs,PSG
+16,16/01/27,Rennes,vs,Lens
+16,16/01/27,Strasbourg,vs,Le Mans
+16,16/01/27,Auxerre,vs,Troyes
+16,16/01/27,Nice,vs,Le Havre
+16,17/01/27,Paris FC,vs,Toulouse
+16,17/01/27,Monaco,vs,Brest
+16,17/01/27,Lyon,vs,FC Lorient
+17,22/01/27,FC Lorient,vs,Marseille
+17,22/01/27,Toulouse,vs,Nice
+17,22/01/27,PSG,vs,Auxerre
+17,22/01/27,Lens,vs,Brest
+17,22/01/27,Le Havre,vs,Rennes
+17,22/01/27,Strasbourg,vs,Lyon
+17,22/01/27,Troyes,vs,Monaco
+17,22/01/27,Le Mans,vs,Angers
+17,22/01/27,Lille,vs,Paris FC
+18,29/01/27,Rennes,vs,FC Lorient
+18,29/01/27,Toulouse,vs,Lens
+18,29/01/27,Marseille,vs,Troyes
+18,29/01/27,Paris FC,vs,Auxerre
+18,29/01/27,Brest,vs,Strasbourg
+18,29/01/27,Lyon,vs,Lille
+18,29/01/27,Angers,vs,Le Havre
+18,29/01/27,Le Mans,vs,Nice
+18,29/01/27,Monaco,vs,PSG
+19,05/02/27,FC Lorient,vs,Le Mans
+19,05/02/27,Troyes,vs,Lille
+19,05/02/27,Auxerre,vs,Monaco
+19,05/02/27,Le Havre,vs,Toulouse
+19,05/02/27,Lens,vs,Angers
+19,05/02/27,Nice,vs,Brest
+19,05/02/27,Strasbourg,vs,Paris FC
+19,05/02/27,Rennes,vs,Lyon
+19,07/02/27,PSG,vs,Marseille
+20,12/02/27,Toulouse,vs,Monaco
+20,12/02/27,Paris FC,vs,Troyes
+20,12/02/27,Marseille,vs,Angers
+20,12/02/27,Brest,vs,Rennes
+20,12/02/27,Le Mans,vs,PSG
+20,12/02/27,Lyon,vs,Lens
+20,12/02/27,FC Lorient,vs,Le Havre
+20,12/02/27,Auxerre,vs,Strasbourg
+20,12/02/27,Lille,vs,Nice
+21,19/02/27,Rennes,vs,Toulouse
+21,19/02/27,Monaco,vs,Le Mans
+21,19/02/27,Strasbourg,vs,Marseille
+21,19/02/27,Lens,vs,Troyes
+21,19/02/27,Angers,vs,Paris FC
+21,19/02/27,Nice,vs,Auxerre
+21,19/02/27,PSG,vs,Brest
+21,19/02/27,Lille,vs,FC Lorient
+21,19/02/27,Le Havre,vs,Lyon
+22,26/02/27,FC Lorient,vs,Angers
+22,26/02/27,Auxerre,vs,Lille
+22,26/02/27,Marseille,vs,Rennes
+22,26/02/27,Brest,vs,Monaco
+22,26/02/27,Le Mans,vs,Paris FC
+22,26/02/27,Lyon,vs,Toulouse
+22,26/02/27,Troyes,vs,Nice
+22,26/02/27,Strasbourg,vs,Le Havre
+22,28/02/27,PSG,vs,Lens
+23,05/03/27,Toulouse,vs,Le Mans
+23,05/03/27,PSG,vs,Rennes
+23,05/03/27,Troyes,vs,FC Lorient
+23,05/03/27,Angers,vs,Auxerre
+23,05/03/27,Paris FC,vs,Brest
+23,05/03/27,Le Havre,vs,Nice
+23,05/03/27,Monaco,vs,Lyon
+23,05/03/27,Lille,vs,Marseille
+23,05/03/27,Lens,vs,Strasbourg
+24,12/03/27,Paris FC,vs,FC Lorient
+24,12/03/27,Le Havre,vs,Lens
+24,12/03/27,Auxerre,vs,PSG
+24,12/03/27,Nice,vs,Toulouse
+24,12/03/27,Strasbourg,vs,Angers
+24,12/03/27,Lyon,vs,Troyes
+24,12/03/27,Brest,vs,Lille
+24,12/03/27,Marseille,vs,Monaco
+24,12/03/27,Le Mans,vs,Rennes
+25,19/03/27,FC Lorient,vs,Nice
+25,19/03/27,Monaco,vs,Le Havre
+25,19/03/27,Troyes,vs,Auxerre
+25,19/03/27,Lens,vs,Lille
+25,19/03/27,Toulouse,vs,Brest
+25,19/03/27,Rennes,vs,Paris FC
+25,19/03/27,Angers,vs,Le Mans
+25,19/03/27,PSG,vs,Strasbourg
+25,21/03/27,Marseille,vs,Lyon
+26,02/04/27,Le Havre,vs,Troyes
+26,02/04/27,Angers,vs,Monaco
+26,02/04/27,Nice,vs,Lyon
+26,02/04/27,Strasbourg,vs,Toulouse
+26,02/04/27,Brest,vs,FC Lorient
+26,02/04/27,Paris FC,vs,PSG
+26,02/04/27,Le Mans,vs,Marseille
+26,02/04/27,Auxerre,vs,Lens
+26,02/04/27,Lille,vs,Rennes
+27,09/04/27,Monaco,vs,Rennes
+27,09/04/27,PSG,vs,Le Havre
+27,09/04/27,FC Lorient,vs,Lens
+27,09/04/27,Marseille,vs,Brest
+27,09/04/27,Lyon,vs,Strasbourg
+27,09/04/27,Le Mans,vs,Auxerre
+27,09/04/27,Nice,vs,Paris FC
+27,09/04/27,Lille,vs,Toulouse
+27,09/04/27,Troyes,vs,Angers
+28,16/04/27,Angers,vs,Lyon
+28,16/04/27,Brest,vs,Le Mans
+28,16/04/27,Toulouse,vs,Paris FC
+28,16/04/27,Monaco,vs,Strasbourg
+28,16/04/27,Lens,vs,Nice
+28,16/04/27,Rennes,vs,Troyes
+28,16/04/27,Le Havre,vs,Marseille
+28,16/04/27,PSG,vs,Lille
+28,16/04/27,Auxerre,vs,FC Lorient
+29,23/04/27,Marseille,vs,Auxerre
+29,23/04/27,Strasbourg,vs,Rennes
+29,23/04/27,Troyes,vs,Toulouse
+29,23/04/27,Paris FC,vs,Lens
+29,23/04/27,FC Lorient,vs,PSG
+29,23/04/27,Le Mans,vs,Le Havre
+29,23/04/27,Lyon,vs,Brest
+29,23/04/27,Nice,vs,Angers
+29,23/04/27,Lille,vs,Monaco
+30,30/04/27,Troyes,vs,Brest
+30,30/04/27,Lens,vs,Le Mans
+30,30/04/27,Auxerre,vs,Lyon
+30,30/04/27,Monaco,vs,FC Lorient
+30,30/04/27,Le Havre,vs,Paris FC
+30,30/04/27,Toulouse,vs,Marseille
+30,30/04/27,PSG,vs,Angers
+30,30/04/27,Rennes,vs,Nice
+30,30/04/27,Strasbourg,vs,Lille
+31,07/05/27,Rennes,vs,Le Havre
+31,07/05/27,FC Lorient,vs,Strasbourg
+31,07/05/27,Nice,vs,Marseille
+31,07/05/27,Paris FC,vs,Lille
+31,07/05/27,Angers,vs,Toulouse
+31,07/05/27,Le Mans,vs,Troyes
+31,07/05/27,Brest,vs,Auxerre
+31,07/05/27,Lens,vs,Monaco
+31,09/05/27,Lyon,vs,PSG
+32,15/05/27,PSG,vs,Nice
+32,15/05/27,Strasbourg,vs,Troyes
+32,15/05/27,Lyon,vs,Le Mans
+32,15/05/27,Marseille,vs,Lens
+32,15/05/27,Auxerre,vs,Rennes
+32,15/05/27,Monaco,vs,Paris FC
+32,15/05/27,Lille,vs,Angers
+32,15/05/27,Toulouse,vs,FC Lorient
+32,15/05/27,Brest,vs,Le Havre
+33,21/05/27,Troyes,vs,PSG
+33,21/05/27,FC Lorient,vs,Lyon
+33,21/05/27,Angers,vs,Brest
+33,21/05/27,Lens,vs,Rennes
+33,21/05/27,Paris FC,vs,Marseille
+33,21/05/27,Nice,vs,Monaco
+33,21/05/27,Toulouse,vs,Auxerre
+33,21/05/27,Le Havre,vs,Lille
+33,21/05/27,Le Mans,vs,Strasbourg
+34,28/05/27,Marseille,vs,FC Lorient
+34,28/05/27,Rennes,vs,Angers
+34,28/05/27,PSG,vs,Toulouse

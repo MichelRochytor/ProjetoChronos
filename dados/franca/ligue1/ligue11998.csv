@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,07/08/98,Le Havre,0-0,Metz
+1,07/08/98,FC Lorient,1-2,Monaco
+1,08/08/98,Bordeaux,3-1,PSG
+1,08/08/98,Marseille,2-0,Nantes
+1,08/08/98,Rennes,1-0,Auxerre
+1,08/08/98,Toulouse,3-2,Lens
+1,08/08/98,Nancy,1-1,Sochaux
+1,08/08/98,RC Strasbourg,0-0,Lyon
+1,08/08/98,Bastia,2-2,Montpellier
+2,14/08/98,Lyon,6-1,Toulouse
+2,14/08/98,Lens,1-1,FC Lorient
+2,15/08/98,Monaco,4-1,Sochaux
+2,15/08/98,Nantes,1-0,RC Strasbourg
+2,15/08/98,Montpellier,3-1,Rennes
+2,15/08/98,Metz,0-1,Marseille
+2,15/08/98,Le Havre,2-3,Bordeaux
+2,15/08/98,PSG,2-0,Bastia
+2,15/08/98,Auxerre,3-2,Nancy
+3,22/08/98,Marseille,5-4,Montpellier
+3,22/08/98,Rennes,2-1,Le Havre
+3,22/08/98,RC Strasbourg,0-1,PSG
+3,22/08/98,FC Lorient,0-1,Lyon
+3,22/08/98,Toulouse,0-0,Monaco
+3,22/08/98,Bordeaux,1-0,Auxerre
+3,22/08/98,Bastia,3-0,Metz
+3,23/08/98,Sochaux,0-4,Lens
+3,23/08/98,Nancy,1-0,Nantes
+4,29/08/98,Lyon,1-1,Monaco
+4,29/08/98,Lens,2-1,Nancy
+4,29/08/98,Nantes,2-0,Sochaux
+4,29/08/98,Montpellier,3-0,Toulouse
+4,29/08/98,PSG,1-2,FC Lorient
+4,29/08/98,Metz,0-2,Bordeaux
+4,29/08/98,Le Havre,0-0,Marseille
+4,30/08/98,Rennes,1-1,RC Strasbourg
+4,30/08/98,Auxerre,1-0,Bastia
+5,10/09/98,Monaco,2-0,Lens
+5,10/09/98,FC Lorient,1-1,Auxerre
+5,11/09/98,Bordeaux,3-1,Montpellier
+5,11/09/98,Marseille,1-1,Rennes
+5,11/09/98,RC Strasbourg,0-0,Metz
+5,11/09/98,Sochaux,1-2,Lyon
+5,11/09/98,Toulouse,2-3,Nantes
+5,11/09/98,Nancy,0-0,PSG
+5,11/09/98,Bastia,2-0,Le Havre
+6,19/09/98,Lyon,3-1,Lens
+6,19/09/98,Nantes,1-1,FC Lorient
+6,19/09/98,Montpellier,1-1,Nancy
+6,19/09/98,Metz,0-0,Toulouse
+6,19/09/98,Le Havre,0-1,RC Strasbourg
+6,19/09/98,Rennes,2-0,Bastia
+6,19/09/98,Auxerre,3-1,Sochaux
+6,20/09/98,Marseille,2-2,Bordeaux
+6,20/09/98,PSG,1-0,Monaco
+7,24/09/98,Toulouse,0-0,Auxerre
+7,24/09/98,Bastia,0-2,Marseille
+7,25/09/98,Bordeaux,4-0,Rennes
+7,25/09/98,Monaco,3-0,Le Havre
+7,25/09/98,Lens,2-4,Nantes
+7,25/09/98,RC Strasbourg,2-1,Montpellier
+7,25/09/98,FC Lorient,1-1,Metz
+7,25/09/98,Sochaux,1-0,PSG
+7,25/09/98,Nancy,0-0,Lyon
+8,03/10/98,Marseille,2-0,Toulouse
+8,03/10/98,Rennes,2-1,Monaco
+8,03/10/98,Nantes,2-0,Lyon
+8,03/10/98,Le Havre,3-0,Sochaux
+8,03/10/98,Montpellier,5-1,FC Lorient
+8,03/10/98,Bastia,2-0,Bordeaux
+8,03/10/98,Auxerre,3-1,RC Strasbourg
+8,04/10/98,Metz,2-3,Nancy
+8,04/10/98,PSG,0-1,Lens
+9,16/10/98,Bordeaux,2-0,Nantes
+9,16/10/98,Lyon,1-1,PSG
+9,16/10/98,RC Strasbourg,0-2,Marseille
+9,17/10/98,Monaco,2-0,Montpellier
+9,17/10/98,FC Lorient,0-0,Le Havre
+9,17/10/98,Sochaux,1-1,Metz
+9,17/10/98,Lens,2-2,Auxerre
+9,17/10/98,Nancy,0-1,Rennes
+9,18/10/98,Toulouse,2-1,Bastia
+10,24/10/98,Marseille,4-0,Sochaux
+10,24/10/98,Rennes,1-0,FC Lorient
+10,24/10/98,Nantes,0-0,PSG
+10,24/10/98,Metz,1-0,Monaco
+10,24/10/98,Le Havre,0-0,Toulouse
+10,24/10/98,Bastia,0-0,RC Strasbourg
+10,24/10/98,Auxerre,1-0,Lyon
+10,25/10/98,Montpellier,1-0,Lens
+10,25/10/98,Bordeaux,2-0,Nancy
+11,29/10/98,Lyon,0-0,Le Havre
+11,29/10/98,FC Lorient,1-3,Marseille
+11,29/10/98,Monaco,3-1,Nantes
+11,30/10/98,Lens,2-0,Metz
+11,30/10/98,Toulouse,0-1,Rennes
+11,30/10/98,PSG,2-0,Auxerre
+11,30/10/98,Nancy,1-2,Bastia
+11,30/10/98,RC Strasbourg,3-2,Bordeaux
+11,31/10/98,Sochaux,4-0,Montpellier
+12,06/11/98,Marseille,1-0,Monaco
+12,06/11/98,Bastia,2-1,FC Lorient
+12,07/11/98,Bordeaux,3-1,Toulouse
+12,07/11/98,Rennes,4-0,Sochaux
+12,07/11/98,Montpellier,2-1,PSG
+12,07/11/98,Metz,3-2,Lyon
+12,07/11/98,RC Strasbourg,1-2,Nancy
+12,07/11/98,Le Havre,3-1,Lens
+12,07/11/98,Auxerre,1-1,Nantes
+13,10/11/98,Nantes,1-1,Le Havre
+13,10/11/98,Nancy,2-3,Marseille
+13,11/11/98,Lyon,2-0,Montpellier
+13,11/11/98,Lens,3-1,Rennes
+13,11/11/98,PSG,2-2,Metz
+13,11/11/98,FC Lorient,0-2,Bordeaux
+13,11/11/98,Toulouse,0-1,RC Strasbourg
+13,11/11/98,Monaco,3-2,Auxerre
+13,11/11/98,Sochaux,2-1,Bastia
+14,14/11/98,Bordeaux,0-0,Sochaux
+14,14/11/98,Marseille,1-0,Lens
+14,14/11/98,Rennes,0-0,Lyon
+14,14/11/98,Metz,1-0,Nantes
+14,14/11/98,Toulouse,1-1,Nancy
+14,14/11/98,Montpellier,3-0,Auxerre
+14,14/11/98,Bastia,3-1,Monaco
+14,15/11/98,RC Strasbourg,2-0,FC Lorient
+14,15/11/98,Le Havre,0-4,PSG
+15,19/11/98,Monaco,0-2,Bordeaux
+15,19/11/98,Lyon,2-1,Marseille
+15,20/11/98,Nantes,1-1,Montpellier
+15,20/11/98,PSG,2-1,Rennes
+15,20/11/98,FC Lorient,1-0,Toulouse
+15,20/11/98,Sochaux,1-1,RC Strasbourg
+15,20/11/98,Lens,1-0,Bastia
+15,20/11/98,Nancy,1-0,Le Havre
+15,20/11/98,Auxerre,1-0,Metz
+16,28/11/98,Rennes,2-3,Nantes
+16,28/11/98,Metz,3-1,Montpellier
+16,28/11/98,FC Lorient,0-1,Nancy
+16,28/11/98,Toulouse,1-1,Sochaux
+16,28/11/98,RC Strasbourg,1-1,Monaco
+16,28/11/98,Bastia,4-1,Lyon
+16,28/11/98,Le Havre,2-1,Auxerre
+16,29/11/98,Bordeaux,1-0,Lens
+16,29/11/98,Marseille,0-0,PSG
+17,03/12/98,Monaco,3-0,Nancy
+17,03/12/98,Lyon,2-1,Bordeaux
+17,04/12/98,Lens,3-0,RC Strasbourg
+17,04/12/98,PSG,0-0,Toulouse
+17,04/12/98,Metz,0-0,Rennes
+17,04/12/98,Sochaux,0-1,FC Lorient
+17,04/12/98,Nantes,2-0,Bastia
+17,04/12/98,Montpellier,2-0,Le Havre
+17,04/12/98,Auxerre,1-1,Marseille
+18,11/12/98,Rennes,3-2,Montpellier
+18,11/12/98,RC Strasbourg,2-2,Nantes
+18,12/12/98,Bordeaux,3-0,Le Havre
+18,12/12/98,Marseille,3-0,Metz
+18,12/12/98,FC Lorient,1-1,Lens
+18,12/12/98,Toulouse,0-0,Lyon
+18,12/12/98,Nancy,1-1,Auxerre
+18,12/12/98,Bastia,2-0,PSG
+19,15/12/98,Metz,4-0,Bastia
+19,15/12/98,Auxerre,3-1,Bordeaux
+19,16/12/98,Lyon,2-2,FC Lorient
+19,16/12/98,Monaco,1-1,Toulouse
+19,16/12/98,Lens,1-1,Sochaux
+19,16/12/98,Nantes,2-0,Nancy
+19,16/12/98,PSG,0-0,RC Strasbourg
+19,16/12/98,Le Havre,2-0,Rennes
+19,16/12/98,Montpellier,0-1,Marseille
+20,19/12/98,Bordeaux,6-0,Metz
+20,19/12/98,Marseille,2-0,Le Havre
+20,19/12/98,Monaco,0-1,Lyon
+20,19/12/98,FC Lorient,2-0,PSG
+20,19/12/98,Sochaux,1-1,Nantes
+20,19/12/98,Toulouse,2-5,Montpellier
+20,19/12/98,Nancy,0-1,Lens
+20,19/12/98,RC Strasbourg,1-1,Rennes
+20,19/12/98,Bastia,2-0,Auxerre
+21,16/01/99,Rennes,1-1,Marseille
+21,16/01/99,Lens,1-1,Monaco
+21,16/01/99,Nantes,2-0,Toulouse
+21,16/01/99,Montpellier,1-1,Bordeaux
+21,16/01/99,Auxerre,5-0,FC Lorient
+21,16/01/99,Le Havre,1-1,Bastia
+21,17/01/99,Metz,1-0,RC Strasbourg
+21,17/01/99,PSG,1-2,Nancy
+22,29/01/99,Monaco,2-1,PSG
+22,29/01/99,Bordeaux,4-1,Marseille
+22,29/01/99,Bastia,0-1,Rennes
+22,30/01/99,Lens,0-3,Lyon
+22,30/01/99,RC Strasbourg,0-1,Le Havre
+22,30/01/99,FC Lorient,1-1,Nantes
+22,30/01/99,Toulouse,1-0,Metz
+22,30/01/99,Nancy,0-1,Montpellier
+22,30/01/99,Sochaux,1-1,Auxerre
+23,06/02/99,Marseille,3-1,Bastia
+23,06/02/99,Lyon,2-1,Nancy
+23,06/02/99,Rennes,1-1,Bordeaux
+23,06/02/99,Nantes,2-0,Lens
+23,06/02/99,PSG,2-1,Sochaux
+23,06/02/99,Metz,3-0,FC Lorient
+23,06/02/99,Le Havre,1-2,Monaco
+23,07/02/99,Auxerre,1-2,Toulouse
+23,07/02/99,Montpellier,1-1,RC Strasbourg
+24,13/02/99,Lyon,2-1,Nantes
+24,13/02/99,Monaco,4-2,Rennes
+24,13/02/99,Lens,2-1,PSG
+24,13/02/99,FC Lorient,1-1,Montpellier
+24,13/02/99,Bordeaux,2-0,Bastia
+24,14/02/99,Toulouse,1-0,Marseille
+25,25/02/99,Montpellier,2-3,Monaco
+25,25/02/99,Marseille,1-0,RC Strasbourg
+25,25/02/99,Nantes,0-0,Bordeaux
+25,25/02/99,PSG,0-1,Lyon
+25,26/02/99,Rennes,2-1,Nancy
+25,26/02/99,Metz,1-1,Sochaux
+25,26/02/99,Le Havre,0-1,FC Lorient
+25,26/02/99,Bastia,1-1,Toulouse
+25,26/02/99,Auxerre,1-2,Lens
+26,09/03/99,Sochaux,0-0,Marseille
+26,09/03/99,Nancy,2-3,Bordeaux
+26,10/03/99,Monaco,0-0,Metz
+26,10/03/99,Lens,1-0,Montpellier
+26,10/03/99,PSG,0-0,Nantes
+26,10/03/99,FC Lorient,1-1,Rennes
+26,10/03/99,Toulouse,0-0,Le Havre
+26,10/03/99,Lyon,2-1,Auxerre
+26,10/03/99,RC Strasbourg,1-1,Bastia
+18,14/03/99,Sochaux,1-1,Monaco
+24,14/03/99,RC Strasbourg,2-1,Auxerre
+27,19/03/99,Nantes,0-1,Monaco
+27,19/03/99,Bastia,1-2,Nancy
+27,20/03/99,Bordeaux,1-0,RC Strasbourg
+27,20/03/99,Marseille,4-1,FC Lorient
+27,20/03/99,Rennes,1-0,Toulouse
+27,20/03/99,Montpellier,0-0,Sochaux
+27,20/03/99,Metz,0-1,Lens
+27,20/03/99,Le Havre,1-0,Lyon
+27,20/03/99,Auxerre,0-1,PSG
+28,02/04/99,Sochaux,0-3,Rennes
+28,02/04/99,Monaco,1-2,Marseille
+28,03/04/99,Lyon,2-0,Metz
+28,03/04/99,Lens,0-1,Le Havre
+28,03/04/99,PSG,0-1,Montpellier
+28,03/04/99,Toulouse,0-3,Bordeaux
+28,03/04/99,Nantes,2-2,Auxerre
+28,03/04/99,Nancy,1-1,RC Strasbourg
+28,03/04/99,FC Lorient,3-1,Bastia
+21,08/04/99,Lyon,4-1,Sochaux
+24,09/04/99,Nancy,1-0,Metz
+29,13/04/99,Rennes,2-0,Lens
+29,13/04/99,Bastia,1-1,Sochaux
+29,14/04/99,Bordeaux,0-0,FC Lorient
+29,14/04/99,Metz,1-1,PSG
+29,14/04/99,RC Strasbourg,2-0,Toulouse
+29,14/04/99,Le Havre,2-1,Nantes
+29,14/04/99,Montpellier,1-3,Lyon
+29,14/04/99,Auxerre,0-3,Monaco
+29,15/04/99,Marseille,4-0,Nancy
+30,24/04/99,Lens,4-0,Marseille
+30,24/04/99,Nantes,0-0,Metz
+30,24/04/99,FC Lorient,0-1,RC Strasbourg
+30,24/04/99,Sochaux,2-0,Bordeaux
+30,24/04/99,Monaco,1-1,Bastia
+30,24/04/99,Nancy,2-0,Toulouse
+30,24/04/99,Auxerre,2-2,Montpellier
+30,25/04/99,PSG,3-0,Le Havre
+30,25/04/99,Lyon,1-2,Rennes
+31,30/04/99,Bordeaux,0-1,Monaco
+31,30/04/99,Marseille,0-0,Lyon
+31,30/04/99,Toulouse,1-4,FC Lorient
+31,01/05/99,Rennes,2-1,PSG
+31,01/05/99,Montpellier,1-2,Nantes
+31,01/05/99,RC Strasbourg,1-1,Sochaux
+31,01/05/99,Le Havre,1-1,Nancy
+31,01/05/99,Metz,2-0,Auxerre
+31,01/05/99,Bastia,1-1,Lens
+32,04/05/99,Montpellier,1-1,Metz
+32,04/05/99,Lens,2-4,Bordeaux
+32,04/05/99,PSG,2-1,Marseille
+32,05/05/99,Nantes,2-1,Rennes
+32,05/05/99,Sochaux,2-1,Toulouse
+32,05/05/99,Lyon,2-1,Bastia
+32,05/05/99,Monaco,2-1,RC Strasbourg
+32,05/05/99,Nancy,2-0,FC Lorient
+32,05/05/99,Auxerre,0-0,Le Havre
+24,14/05/99,Sochaux,1-0,Le Havre
+33,22/05/99,Bordeaux,1-0,Lyon
+33,22/05/99,Rennes,1-0,Metz
+33,22/05/99,FC Lorient,4-1,Sochaux
+33,22/05/99,Le Havre,1-1,Montpellier
+33,22/05/99,Toulouse,2-1,PSG
+33,22/05/99,Marseille,1-0,Auxerre
+33,22/05/99,Nancy,1-2,Monaco
+33,22/05/99,RC Strasbourg,1-1,Lens
+33,22/05/99,Bastia,1-0,Nantes
+34,29/05/99,Lyon,3-2,RC Strasbourg
+34,29/05/99,Monaco,1-0,FC Lorient
+34,29/05/99,Lens,3-1,Toulouse

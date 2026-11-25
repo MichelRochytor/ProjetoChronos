@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,09/08/72,Angers,4-0,AC Ajaccio
+1,09/08/72,Nice,4-1,Sochaux
+1,09/08/72,RP Strasbourg,4-1,Stade de Reims
+1,09/08/72,Metz,3-0,Red Star
+1,09/08/72,Lyon,3-1,Rennes
+1,09/08/72,Sedan,0-2,Marseille
+1,09/08/72,Paris FC,3-2,Nancy
+1,09/08/72,Bordeaux,1-1,Saint-Étienne
+1,09/08/72,Nimes,1-1,US Valenciennes-Anzin
+1,09/08/72,Bastia,0-0,Nantes
+2,16/08/72,Marseille,5-2,Lyon
+2,16/08/72,Red Star,1-2,Angers
+2,16/08/72,AC Ajaccio,0-2,RP Strasbourg
+2,16/08/72,Stade de Reims,2-3,Nice
+2,16/08/72,Metz,1-1,Bordeaux
+2,16/08/72,Saint-Étienne,3-1,Nimes
+2,16/08/72,Nantes,2-0,Paris FC
+2,16/08/72,US Valenciennes-Anzin,0-1,Nancy
+2,16/08/72,Rennes,2-1,Bastia
+2,16/08/72,Sochaux,1-0,Sedan
+3,23/08/72,Nice,5-3,AC Ajaccio
+3,23/08/72,Angers,3-2,Metz
+3,23/08/72,Bastia,0-0,Marseille
+3,23/08/72,RP Strasbourg,0-0,Saint-Étienne
+3,23/08/72,Nancy,1-1,Nantes
+3,23/08/72,Rennes,2-1,Paris FC
+3,23/08/72,Nimes,3-0,Sochaux
+3,23/08/72,Bordeaux,1-1,Red Star
+3,23/08/72,Lyon,1-1,Stade de Reims
+3,23/08/72,Sedan,3-1,US Valenciennes-Anzin
+4,26/08/72,Red Star,1-1,Nice
+4,26/08/72,Angers,2-2,Sedan
+4,26/08/72,Marseille,1-0,Nantes
+4,26/08/72,Metz,1-1,RP Strasbourg
+4,26/08/72,Saint-Étienne,3-0,Paris FC
+4,26/08/72,Rennes,4-1,Nancy
+4,26/08/72,Stade de Reims,0-1,Nimes
+4,26/08/72,AC Ajaccio,2-2,Bordeaux
+4,26/08/72,Sochaux,3-1,Lyon
+4,26/08/72,US Valenciennes-Anzin,1-0,Bastia
+5,06/09/72,Nice,6-0,Metz
+5,06/09/72,Paris FC,1-3,Marseille
+5,06/09/72,Bordeaux,1-2,Angers
+5,06/09/72,Sedan,1-3,Saint-Étienne
+5,06/09/72,RP Strasbourg,2-2,Red Star
+5,06/09/72,Nimes,2-1,AC Ajaccio
+5,06/09/72,Nantes,1-0,Rennes
+5,06/09/72,Nancy,3-0,Stade de Reims
+5,06/09/72,Lyon,1-0,US Valenciennes-Anzin
+5,06/09/72,Bastia,3-1,Sochaux
+6,15/09/72,Saint-Étienne,0-1,Nice
+6,16/09/72,Marseille,3-0,Rennes
+6,16/09/72,Angers,1-0,RP Strasbourg
+6,16/09/72,Red Star,1-1,Nimes
+6,16/09/72,US Valenciennes-Anzin,1-1,Nantes
+6,16/09/72,Sochaux,2-2,Nancy
+6,16/09/72,Metz,2-2,Lyon
+6,16/09/72,Bordeaux,0-1,Paris FC
+6,16/09/72,Stade de Reims,2-0,Bastia
+6,16/09/72,AC Ajaccio,2-1,Sedan
+7,20/09/72,Nice,2-4,Angers
+7,20/09/72,Nancy,1-0,Marseille
+7,20/09/72,Bastia,3-3,Saint-Étienne
+7,20/09/72,Nimes,0-0,Metz
+7,20/09/72,Nantes,4-3,Sochaux
+7,20/09/72,RP Strasbourg,2-2,Bordeaux
+7,20/09/72,Rennes,1-0,Stade de Reims
+7,20/09/72,Lyon,1-0,AC Ajaccio
+7,20/09/72,Sedan,0-1,Red Star
+7,20/09/72,Paris FC,1-1,US Valenciennes-Anzin
+8,29/09/72,Bordeaux,0-1,Nice
+8,29/09/72,Saint-Étienne,1-0,Nancy
+8,29/09/72,RP Strasbourg,0-4,Bastia
+8,30/09/72,Angers,0-1,Nimes
+8,30/09/72,US Valenciennes-Anzin,1-0,Marseille
+8,30/09/72,AC Ajaccio,1-1,Nantes
+8,30/09/72,Red Star,0-1,Lyon
+8,30/09/72,Sochaux,2-1,Rennes
+8,30/09/72,Metz,4-2,Sedan
+8,30/09/72,Stade de Reims,1-1,Paris FC
+9,04/10/72,Nice,3-0,RP Strasbourg
+9,04/10/72,Lyon,2-1,Angers
+9,04/10/72,Nimes,2-0,Bordeaux
+9,04/10/72,Marseille,1-1,Sochaux
+9,04/10/72,Nantes,1-0,Saint-Étienne
+9,04/10/72,Rennes,2-0,US Valenciennes-Anzin
+9,04/10/72,Nancy,0-2,Metz
+9,04/10/72,Bastia,1-0,AC Ajaccio
+9,04/10/72,Paris FC,3-0,Red Star
+9,04/10/72,Sedan,2-0,Stade de Reims
+10,07/10/72,Nice,3-0,Nantes
+10,07/10/72,Angers,0-2,Rennes
+10,07/10/72,RP Strasbourg,2-1,Nimes
+10,07/10/72,Saint-Étienne,1-1,Lyon
+10,07/10/72,Stade de Reims,2-1,Marseille
+10,07/10/72,Metz,3-2,Bastia
+10,07/10/72,Red Star,0-1,Nancy
+10,07/10/72,Sochaux,3-0,US Valenciennes-Anzin
+10,07/10/72,AC Ajaccio,2-1,Paris FC
+10,07/10/72,Bordeaux,6-1,Sedan
+11,17/10/72,Nimes,0-1,Nice
+11,17/10/72,Marseille,5-0,Metz
+11,17/10/72,Nantes,2-0,Angers
+11,17/10/72,Rennes,2-2,Saint-Étienne
+11,17/10/72,Lyon,0-1,Bordeaux
+11,17/10/72,Paris FC,0-2,Sochaux
+11,17/10/72,Nancy,2-1,AC Ajaccio
+11,17/10/72,Bastia,3-0,Red Star
+11,17/10/72,Sedan,0-0,RP Strasbourg
+11,17/10/72,US Valenciennes-Anzin,1-2,Stade de Reims
+12,20/10/72,RP Strasbourg,0-2,Lyon
+12,20/10/72,Angers,0-0,Nancy
+12,20/10/72,Bordeaux,1-1,Bastia
+12,20/10/72,Stade de Reims,1-0,Sochaux
+12,20/10/72,Nimes,2-1,Sedan
+12,21/10/72,Metz,0-2,Nantes
+12,22/10/72,Nice,3-2,Paris FC
+12,22/10/72,Saint-Étienne,3-2,US Valenciennes-Anzin
+12,22/10/72,AC Ajaccio,1-0,Marseille
+12,22/10/72,Red Star,2-0,Rennes
+13,27/10/72,Lyon,1-0,Nimes
+13,27/10/72,Nancy,2-1,Bordeaux
+13,27/10/72,Paris FC,1-1,RP Strasbourg
+13,28/10/72,Sedan,0-5,Nice
+13,28/10/72,Nantes,0-0,Stade de Reims
+13,28/10/72,Marseille,3-0,Red Star
+13,28/10/72,Sochaux,2-1,Saint-Étienne
+13,28/10/72,Bastia,2-0,Angers
+13,28/10/72,Rennes,1-1,AC Ajaccio
+13,28/10/72,US Valenciennes-Anzin,1-0,Metz
+14,01/11/72,Angers,0-2,Marseille
+14,01/11/72,Bordeaux,2-1,Nantes
+14,01/11/72,Sedan,2-1,Bastia
+14,01/11/72,AC Ajaccio,2-0,Sochaux
+14,04/11/72,Nimes,2-0,Paris FC
+14,04/11/72,RP Strasbourg,1-1,Nancy
+14,05/11/72,Nice,2-2,Lyon
+14,05/11/72,Saint-Étienne,2-1,Stade de Reims
+14,05/11/72,Metz,2-1,Rennes
+14,05/11/72,Red Star,1-0,US Valenciennes-Anzin
+15,18/11/72,Nantes,6-2,RP Strasbourg
+15,19/11/72,Nancy,3-0,Nice
+15,19/11/72,Marseille,3-1,Saint-Étienne
+15,19/11/72,Lyon,1-2,Sedan
+15,19/11/72,Bastia,3-0,Nimes
+15,19/11/72,Rennes,3-0,Bordeaux
+15,19/11/72,Paris FC,1-2,Angers
+15,19/11/72,Sochaux,1-0,Red Star
+15,19/11/72,Stade de Reims,0-0,Metz
+15,19/11/72,US Valenciennes-Anzin,3-2,AC Ajaccio
+16,25/11/72,Lyon,2-4,Nantes
+16,26/11/72,Nice,1-0,Bastia
+16,26/11/72,Bordeaux,2-1,Marseille
+16,26/11/72,Nimes,2-1,Nancy
+16,26/11/72,Angers,5-1,US Valenciennes-Anzin
+16,26/11/72,AC Ajaccio,2-0,Saint-Étienne
+16,26/11/72,Metz,2-1,Sochaux
+16,26/11/72,RP Strasbourg,2-1,Rennes
+16,26/11/72,Red Star,1-2,Stade de Reims
+16,26/11/72,Sedan,3-1,Paris FC
+18,09/12/72,Metz,1-2,Saint-Étienne
+18,10/12/72,Nice,1-1,Marseille
+18,10/12/72,Sedan,0-3,Nantes
+18,10/12/72,Angers,1-1,Stade de Reims
+18,10/12/72,Lyon,2-2,Nancy
+18,10/12/72,Nimes,1-1,Rennes
+18,10/12/72,Bastia,1-0,Paris FC
+18,10/12/72,Bordeaux,1-1,Sochaux
+18,10/12/72,RP Strasbourg,1-1,US Valenciennes-Anzin
+18,10/12/72,Red Star,3-0,AC Ajaccio
+19,16/12/72,Rennes,1-1,Sedan
+19,17/12/72,US Valenciennes-Anzin,1-1,Nice
+19,17/12/72,Nantes,3-1,Red Star
+19,17/12/72,Marseille,1-2,Nimes
+19,17/12/72,Saint-Étienne,5-0,Angers
+19,17/12/72,Nancy,3-2,Bastia
+19,17/12/72,Paris FC,5-1,Lyon
+19,17/12/72,AC Ajaccio,0-0,Metz
+19,17/12/72,Sochaux,1-1,RP Strasbourg
+19,17/12/72,Stade de Reims,3-1,Bordeaux
+20,07/01/73,Nice,2-2,Stade de Reims
+20,07/01/73,Paris FC,1-2,Nantes
+20,07/01/73,Lyon,4-4,Marseille
+20,07/01/73,Nimes,4-0,Saint-Étienne
+20,07/01/73,Nancy,1-1,US Valenciennes-Anzin
+20,07/01/73,Angers,1-0,Red Star
+20,07/01/73,Bastia,4-0,Rennes
+20,07/01/73,Sedan,1-1,Sochaux
+20,07/01/73,Bordeaux,2-0,Metz
+20,07/01/73,RP Strasbourg,6-0,AC Ajaccio
+21,14/01/73,AC Ajaccio,0-3,Nice
+21,14/01/73,Nantes,2-1,Nancy
+21,14/01/73,Marseille,1-0,Bastia
+21,14/01/73,Sochaux,0-0,Nimes
+21,14/01/73,Saint-Étienne,5-1,RP Strasbourg
+21,14/01/73,Metz,2-0,Angers
+21,14/01/73,Stade de Reims,2-1,Lyon
+21,14/01/73,US Valenciennes-Anzin,5-1,Sedan
+21,14/01/73,Red Star,3-1,Bordeaux
+21,17/01/73,Paris FC,2-2,Rennes
+22,21/01/73,Nice,1-1,Red Star
+22,21/01/73,Nantes,1-2,Marseille
+22,21/01/73,Nimes,2-1,Stade de Reims
+22,21/01/73,Paris FC,1-1,Saint-Étienne
+22,21/01/73,RP Strasbourg,0-1,Metz
+22,21/01/73,Bastia,2-0,US Valenciennes-Anzin
+22,21/01/73,Sedan,2-2,Angers
+22,21/01/73,Lyon,2-0,Sochaux
+22,21/01/73,Bordeaux,3-0,AC Ajaccio
+23,04/02/73,Metz,1-0,Nice
+23,04/02/73,Rennes,0-0,Nantes
+23,04/02/73,Marseille,0-0,Paris FC
+23,04/02/73,AC Ajaccio,1-1,Nimes
+23,04/02/73,Saint-Étienne,2-0,Sedan
+23,04/02/73,Stade de Reims,2-3,Nancy
+23,04/02/73,Angers,3-1,Bordeaux
+23,04/02/73,US Valenciennes-Anzin,1-2,Lyon
+23,04/02/73,Sochaux,3-2,Bastia
+23,04/02/73,Red Star,0-0,RP Strasbourg
+24,11/02/73,Nantes,1-0,US Valenciennes-Anzin
+24,11/02/73,Nice,1-1,Saint-Étienne
+24,11/02/73,Rennes,2-3,Marseille
+24,11/02/73,Nimes,1-1,Red Star
+24,11/02/73,Nancy,4-2,Sochaux
+24,11/02/73,Lyon,3-0,Metz
+24,11/02/73,RP Strasbourg,0-0,Angers
+24,11/02/73,Bastia,1-1,Stade de Reims
+24,11/02/73,Paris FC,4-3,Bordeaux
+24,11/02/73,Sedan,5-0,AC Ajaccio
+25,25/02/73,Sochaux,0-1,Nantes
+25,25/02/73,Angers,0-0,Nice
+25,25/02/73,Marseille,0-0,Nancy
+25,25/02/73,Metz,0-1,Nimes
+25,25/02/73,Saint-Étienne,2-1,Bastia
+25,25/02/73,AC Ajaccio,4-3,Lyon
+25,25/02/73,Stade de Reims,1-1,Rennes
+25,25/02/73,Bordeaux,2-1,RP Strasbourg
+25,25/02/73,US Valenciennes-Anzin,1-1,Paris FC
+25,25/02/73,Red Star,1-1,Sedan
+17,09/03/73,Rennes,1-0,Nice
+17,09/03/73,Nancy,1-1,Sedan
+26,17/03/73,Nantes,6-1,AC Ajaccio
+26,17/03/73,Rennes,0-0,Sochaux
+26,17/03/73,Sedan,1-1,Metz
+26,18/03/73,Nice,0-1,Bordeaux
+26,18/03/73,Marseille,1-0,US Valenciennes-Anzin
+26,18/03/73,Nimes,2-2,Angers
+26,18/03/73,Nancy,4-0,Saint-Étienne
+26,18/03/73,Lyon,1-2,Red Star
+26,18/03/73,Bastia,3-0,RP Strasbourg
+26,18/03/73,Paris FC,0-0,Stade de Reims
+27,23/03/73,Saint-Étienne,1-2,Nantes
+27,23/03/73,RP Strasbourg,0-1,Nice
+27,23/03/73,Bordeaux,0-1,Nimes
+27,23/03/73,Red Star,2-3,Paris FC
+27,24/03/73,Sochaux,1-2,Marseille
+27,24/03/73,Metz,1-0,Nancy
+27,24/03/73,Angers,1-0,Lyon
+27,24/03/73,Stade de Reims,5-1,Sedan
+27,24/03/73,US Valenciennes-Anzin,2-0,Rennes
+27,25/03/73,AC Ajaccio,0-1,Bastia
+28,27/03/73,Nimes,3-0,RP Strasbourg
+28,28/03/73,Nantes,2-2,Nice
+28,28/03/73,Marseille,3-1,Stade de Reims
+28,28/03/73,Nancy,2-1,Red Star
+28,28/03/73,Rennes,1-2,Angers
+28,28/03/73,Bastia,4-0,Metz
+28,28/03/73,Lyon,2-0,Saint-Étienne
+28,28/03/73,US Valenciennes-Anzin,0-0,Sochaux
+28,28/03/73,Sedan,1-0,Bordeaux
+28,28/03/73,Paris FC,3-1,AC Ajaccio
+29,31/03/73,Angers,1-0,Nantes
+29,31/03/73,Nice,2-0,Nimes
+29,31/03/73,Metz,2-0,Marseille
+29,31/03/73,Saint-Étienne,2-0,Rennes
+29,31/03/73,Red Star,2-2,Bastia
+29,31/03/73,Bordeaux,1-0,Lyon
+29,31/03/73,Stade de Reims,1-0,US Valenciennes-Anzin
+29,31/03/73,Sochaux,1-1,Paris FC
+29,31/03/73,RP Strasbourg,2-1,Sedan
+29,01/04/73,AC Ajaccio,2-2,Nancy
+17,04/04/73,Nantes,2-1,Nimes
+17,04/04/73,Marseille,3-1,RP Strasbourg
+17,04/04/73,Bastia,1-1,Lyon
+17,04/04/73,Paris FC,1-3,Metz
+17,04/04/73,Saint-Étienne,1-1,Red Star
+30,06/04/73,Nancy,0-0,Angers
+30,07/04/73,Nantes,0-0,Metz
+30,07/04/73,Marseille,3-0,AC Ajaccio
+30,07/04/73,Paris FC,2-0,Nice
+30,07/04/73,Sedan,2-1,Nimes
+30,07/04/73,US Valenciennes-Anzin,0-1,Saint-Étienne
+30,07/04/73,Lyon,4-0,RP Strasbourg
+30,07/04/73,Bastia,1-1,Bordeaux
+30,07/04/73,Sochaux,2-1,Stade de Reims
+30,07/04/73,Rennes,1-1,Red Star
+31,10/04/73,Metz,1-1,US Valenciennes-Anzin
+31,11/04/73,Red Star,1-2,Marseille
+31,11/04/73,Stade de Reims,2-1,Nantes
+31,11/04/73,Nimes,3-1,Lyon
+31,11/04/73,Angers,3-0,Bastia
+31,11/04/73,Bordeaux,3-1,Nancy
+31,11/04/73,AC Ajaccio,2-3,Rennes
+31,11/04/73,RP Strasbourg,2-0,Paris FC
+31,13/04/73,Nice,4-2,Sedan
+17,14/04/73,Stade de Reims,0-0,AC Ajaccio
+17,14/04/73,US Valenciennes-Anzin,3-0,Bordeaux
+17,14/04/73,Sochaux,1-1,Angers
+22,14/04/73,Nancy,4-0,Rennes
+32,20/04/73,Lyon,1-2,Nice
+32,20/04/73,Nancy,2-1,RP Strasbourg
+32,20/04/73,Rennes,1-0,Metz
+32,20/04/73,Sochaux,4-0,AC Ajaccio
+32,21/04/73,Marseille,3-2,Angers
+32,21/04/73,Nantes,3-0,Bordeaux
+32,21/04/73,Paris FC,3-1,Nimes
+32,21/04/73,Bastia,3-0,Sedan
+32,21/04/73,US Valenciennes-Anzin,0-0,Red Star
+32,24/04/73,Stade de Reims,0-0,Saint-Étienne
+33,27/04/73,RP Strasbourg,0-3,Nantes
+33,27/04/73,Nice,1-0,Nancy
+33,27/04/73,Nimes,2-1,Bastia
+33,27/04/73,Bordeaux,1-1,Rennes
+33,28/04/73,Saint-Étienne,2-1,Marseille
+33,28/04/73,Angers,1-1,Paris FC
+33,28/04/73,Metz,1-2,Stade de Reims
+33,28/04/73,Red Star,3-3,Sochaux
+33,28/04/73,AC Ajaccio,3-1,US Valenciennes-Anzin
+33,28/04/73,Sedan,4-1,Lyon
+34,01/05/73,Nantes,3-0,Lyon
+34,02/05/73,Marseille,1-1,Bordeaux
+34,02/05/73,Bastia,3-0,Nice
+34,02/05/73,Saint-Étienne,3-1,AC Ajaccio
+34,02/05/73,US Valenciennes-Anzin,3-0,Angers
+34,02/05/73,Stade de Reims,3-0,Red Star
+34,02/05/73,Sochaux,4-1,Metz
+34,02/05/73,Rennes,1-0,RP Strasbourg
+34,02/05/73,Paris FC,2-1,Sedan
+34,03/05/73,Nancy,2-1,Nimes
+35,05/05/73,Nimes,1-1,Nantes
+35,05/05/73,Nice,2-0,Rennes
+35,05/05/73,RP Strasbourg,1-1,Marseille
+35,05/05/73,Red Star,0-3,Saint-Étienne
+35,05/05/73,Sedan,1-0,Nancy
+35,05/05/73,Angers,1-0,Sochaux
+35,05/05/73,AC Ajaccio,2-3,Stade de Reims
+35,05/05/73,Lyon,2-0,Bastia
+35,05/05/73,Metz,0-1,Paris FC
+35,05/05/73,Bordeaux,2-0,US Valenciennes-Anzin
+31,08/05/73,Saint-Étienne,2-2,Sochaux
+36,11/05/73,Saint-Étienne,1-0,Metz
+36,11/05/73,Nancy,4-1,Lyon
+36,11/05/73,Paris FC,2-0,Bastia
+36,12/05/73,Nantes,1-0,Sedan
+36,12/05/73,Marseille,1-1,Nice
+36,12/05/73,Rennes,1-0,Nimes
+36,12/05/73,Stade de Reims,3-2,Angers
+36,12/05/73,Sochaux,0-0,Bordeaux
+36,12/05/73,US Valenciennes-Anzin,1-2,RP Strasbourg
+36,12/05/73,AC Ajaccio,2-2,Red Star
+37,29/05/73,Red Star,1-3,Nantes
+37,29/05/73,Nice,4-1,US Valenciennes-Anzin
+37,29/05/73,Nimes,1-1,Marseille
+37,29/05/73,Angers,2-0,Saint-Étienne
+37,29/05/73,Bastia,3-1,Nancy
+37,29/05/73,Bordeaux,2-0,Stade de Reims
+37,29/05/73,Sedan,2-3,Rennes
+37,29/05/73,RP Strasbourg,4-2,Sochaux
+37,29/05/73,Lyon,5-2,Paris FC
+37,29/05/73,Metz,7-0,AC Ajaccio
+38,02/06/73,Nantes,1-0,Bastia
+38,02/06/73,Sochaux,5-1,Nice
+38,02/06/73,Marseille,0-1,Sedan
+38,02/06/73,Saint-Étienne,6-2,Bordeaux
+38,02/06/73,AC Ajaccio,1-1,Angers
+38,02/06/73,Nancy,1-2,Paris FC
+38,02/06/73,US Valenciennes-Anzin,1-0,Nimes
+38,02/06/73,Stade de Reims,1-0,RP Strasbourg
+38,02/06/73,Rennes,3-2,Lyon
+38,02/06/73,Red Star,1-0,Metz
