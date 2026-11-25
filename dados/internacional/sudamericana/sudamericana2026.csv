@@ -150,9 +150,9 @@ QF,10/09/26,Cienciano,2-0,Montevideo City
 QF,15/09/26,Vasco,2-0,Santa Fe
 QF,15/09/26,São Paulo,1-1,Boca Juniors
 QF,16/09/26,Atlético Mineiro,4-2(3-1 Pen.),Santos
-QF,17/09/26,Montevideo City,vs,Cienciano
-SF,13/10/26,Atlético Mineiro,vs,S4
-SF,13/10/26,Boca Juniors,vs,Vasco
-SF,20/10/26,Atlético Mineiro,vs,S4
-SF,20/10/26,Vasco,vs,Boca Juniors
-F,21/11/26,F1,vs,F2
+QF,17/09/26,Montevideo City,3-0,Cienciano
+SF,13/10/26,Boca Juniors,0-1,Vasco
+SF,14/10/26,Atlético Mineiro,3-0,Montevideo City
+SF,20/10/26,Vasco,1-3,Boca Juniors
+SF,21/10/26,Montevideo City,2-0,Atlético Mineiro
+F,21/11/26,Atlético Mineiro,0-2,Boca Juniors

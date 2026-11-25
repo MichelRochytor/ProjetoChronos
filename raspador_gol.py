@@ -310,7 +310,103 @@ class RaspadorGol:
             del self.catalogo[chave]
             self.salvar_catalogo()
 
-    # ── 2. DETECÇÃO INTELIGENTE DE JOGOS JÁ ATUALIZADOS ─────────────────────
+    # ── 2. DETECÇÃO INTELIGENTE DE CAMPEONATOS FINALIZADOS E ATUALIZADOS ────
+    def campeonato_finalizado(self, camp_info: dict, ano_alvo: int = 2026) -> bool:
+        """
+        Verifica se a edição `ano_alvo` do campeonato já foi 100% encerrada:
+        - O CSV existe e possui partidas válidas.
+        - Não há nenhuma partida pendente ('vs', '-', 'ADI', 'SUSP') nem jogos em data futura.
+        - A última partida ocorreu há pelo menos 2 dias.
+        - Possui a fase Final ('F' / 'Final') concluída com placar (torneios eliminatórios/mistos como Estaduais,
+          Copas, Série C/D) OU completou todas as rodadas de pontos corridos (>= 30 rodadas e >= 240 jogos).
+        """
+        pasta = _caminho(camp_info.get('pasta_destino', ''))
+        prefixo = camp_info.get('prefixo', '')
+        caminho_csv = os.path.join(pasta, f"{prefixo}{ano_alvo}.csv")
+
+        if not os.path.exists(caminho_csv) or os.path.getsize(caminho_csv) < 150:
+            return False
+
+        hoje = datetime.now()
+        re_placar = re.compile(r'\d+\s*[-xX:]\s*\d+')
+
+        total_jogos = 0
+        tem_final_concluida = False
+        max_rodada_num = 0
+        ultima_data = None
+
+        try:
+            with open(caminho_csv, mode='r', encoding='utf-8', errors='ignore') as f:
+                leitor = csv.reader(f)
+                cabecalho = next(leitor, None)
+                if not cabecalho:
+                    return False
+
+                for row in leitor:
+                    if len(row) < 5:
+                        continue
+                    fase_raw = (row[0] or '').strip()
+                    data_raw = (row[1] or '').strip()
+                    mandante = (row[2] or '').strip()
+                    placar = (row[3] or '').strip()
+                    visitante = (row[4] or '').strip()
+
+                    if not mandante or not visitante:
+                        continue
+
+                    total_jogos += 1
+
+                    # Parse de data dd/mm/yy ou yyyy-mm-dd
+                    dt_jogo = None
+                    for fmt in ('%d/%m/%y', '%d/%m/%Y', '%Y-%m-%d'):
+                        try:
+                            dt_jogo = datetime.strptime(data_raw, fmt)
+                            break
+                        except ValueError:
+                            continue
+
+                    if dt_jogo is not None:
+                        if dt_jogo.date() > hoje.date():
+                            return False
+                        if ultima_data is None or dt_jogo > ultima_data:
+                            ultima_data = dt_jogo
+
+                    tem_placar_num = bool(re_placar.search(placar))
+                    if not tem_placar_num:
+                        pl_up = placar.upper()
+                        # Partidas com W.O. ou canceladas há mais de 30 dias não contam como pendentes
+                        if pl_up in ('WO', 'W.O.', 'CAN', 'ANC', 'DA') and dt_jogo and (hoje - dt_jogo).days > 30:
+                            pass
+                        else:
+                            return False
+
+                    fase_up = fase_raw.upper()
+                    if fase_up in ('F', 'FINAL', 'FINAIS', 'DECISÃO', 'DECISAO'):
+                        if not tem_placar_num:
+                            return False
+                        tem_final_concluida = True
+                    else:
+                        num_str = fase_up.lstrip('R').strip()
+                        if num_str.isdigit():
+                            max_rodada_num = max(max_rodada_num, int(num_str))
+
+            if total_jogos < 15 or ultima_data is None:
+                return False
+
+            if (hoje - ultima_data).days < 2:
+                return False
+
+            if tem_final_concluida:
+                return True
+
+            if total_jogos >= 240 and max_rodada_num >= 30:
+                return True
+
+        except Exception:
+            return False
+
+        return False
+
     def esta_atualizado(
         self,
         camp_info: dict,
@@ -322,11 +418,15 @@ class RaspadorGol:
     ) -> bool:
         """
         Verifica se a importação pode ser ignorada para economizar tempo:
+        - Se o campeonato já estiver 100% finalizado (ex: Estaduais encerrados) no modo rápido e não for forçado, ignora.
         - Se forcar=True, NUNCA ignora (reimportação forçada solicitada pelo usuário).
         - Se o CSV não existir ou for incompleto, NUNCA ignora.
         - Nos modos 'ano_especifico' e 'a_partir_de', verifica os arquivos do(s) ano(s) correspondente(s).
         - Se foi atualizado há menos de max_horas e possui quantidade normal de jogos, ignora.
         """
+        if modo == 'rapido' and not forcar and self.campeonato_finalizado(camp_info, ano_alvo=ano_alvo):
+            return True
+
         if forcar:
             return False
 
@@ -552,6 +652,14 @@ class RaspadorGol:
                     termos_chave.extend(['la liga', 'laliga', 'primera division'])
                 if any(t in ('ingles', 'inglaterra') for t in termos_chave):
                     termos_chave.extend(['premier league', 'first division'])
+                if any(t in ('sudamericana', 'sulamericana') for t in termos_chave):
+                    termos_chave.extend(['sulamericana', 'sul americana'])
+                if any(t in ('champions', 'campeoes') for t in termos_chave):
+                    termos_chave.extend(['liga dos campeoes', 'campeoes'])
+                if any(t in ('europa',) for t in termos_chave):
+                    termos_chave.extend(['liga europa'])
+                if any(t in ('frances', 'franca') for t in termos_chave):
+                    termos_chave.extend(['ligue 1', 'franca'])
                 if termos_chave:
                     pertence = any(t in titulo_norm or t in h1_norm for t in termos_chave)
                     if not pertence and 'competicoes' in titulo_norm:
@@ -1066,6 +1174,14 @@ class RaspadorGol:
                         termos_chave.extend(['la liga', 'laliga', 'primera division'])
                     if any(t in ('ingles', 'inglaterra') for t in termos_chave):
                         termos_chave.extend(['premier league', 'first division'])
+                    if any(t in ('sudamericana', 'sulamericana') for t in termos_chave):
+                        termos_chave.extend(['sulamericana', 'sul americana'])
+                    if any(t in ('champions', 'campeoes') for t in termos_chave):
+                        termos_chave.extend(['liga dos campeoes', 'campeoes'])
+                    if any(t in ('europa',) for t in termos_chave):
+                        termos_chave.extend(['liga europa'])
+                    if any(t in ('frances', 'franca') for t in termos_chave):
+                        termos_chave.extend(['ligue 1', 'franca'])
                     if termos_chave:
                         pertence = any(t in titulo_pag for t in termos_chave)
                         if not pertence and 'ogol' in titulo_pag:
@@ -1162,6 +1278,7 @@ class RaspadorGol:
         forcar: bool = False,
         ano_filtro: int = None,
         usar_tor: bool = None,
+        pular_finalizados: bool = True,
         callback_progresso = None,
         callback_log = None,
         callback_concluido = None,
@@ -1247,6 +1364,18 @@ class RaspadorGol:
                     camp_info = self.catalogo.get(chave, {})
                     nome = camp_info.get('nome', chave)
 
+                    if modo == 'rapido' and pular_finalizados and self.campeonato_finalizado(camp_info):
+                        with lock_contador:
+                            ignorados_por_estarem_atuais += 1
+                            processados += 1
+                            pct = (processados / total_itens) * 100
+                        if callback_log:
+                            callback_log(f"🏁 [Worker {worker_id}] {nome} já está finalizado (encerrado). Pulando atualização!")
+                        if callback_progresso:
+                            callback_progresso(pct, f"Finalizado: {nome}", worker_id)
+                        fila_trabalho.task_done()
+                        continue
+
                     if not forcar and self.esta_atualizado(camp_info, modo=modo, forcar=forcar, ano_filtro=ano_filtro):
                         with lock_contador:
                             ignorados_por_estarem_atuais += 1
@@ -1297,6 +1426,18 @@ class RaspadorGol:
 
                         camp_info = self.catalogo.get(chave, {})
                         nome = camp_info.get('nome', chave)
+
+                        if modo == 'rapido' and pular_finalizados and self.campeonato_finalizado(camp_info):
+                            with lock_contador:
+                                ignorados_por_estarem_atuais += 1
+                                processados += 1
+                                pct = (processados / total_itens) * 100
+                            if callback_log:
+                                callback_log(f"🏁 [Navegador {worker_id}] {nome} já está finalizado (encerrado). Pulando atualização!")
+                            if callback_progresso:
+                                callback_progresso(pct, f"Finalizado: {nome}", worker_id)
+                            fila_trabalho.task_done()
+                            continue
 
                         if not forcar and self.esta_atualizado(camp_info, modo=modo, forcar=forcar, ano_filtro=ano_filtro):
                             with lock_contador:

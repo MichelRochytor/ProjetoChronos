@@ -363,19 +363,23 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 37,06/11/26,Operário Ferroviário,3-2,Sport
 37,07/11/26,Avaí,2-1,São Bernardo
 37,07/11/26,Grêmio Novorizontino,2-1,Fortaleza
-37,07/11/26,Cuiabá,vs,Juventude
-37,07/11/26,Vila Nova,vs,Criciúma
-37,07/11/26,Náutico,vs,CRB
-37,08/11/26,Athletic-MG,vs,Atlético Goianiense
-37,08/11/26,Ceará,vs,América Mineiro
-37,08/11/26,Goiás,vs,Ponte Preta
-38,11/11/26,Londrina,vs,Náutico
-38,14/11/26,Ponte Preta,vs,Operário Ferroviário
-38,14/11/26,São Bernardo,vs,Athletic-MG
-38,14/11/26,América Mineiro,vs,Avaí
-38,14/11/26,Fortaleza,vs,Vila Nova
-38,14/11/26,Atlético Goianiense,vs,Cuiabá
-38,14/11/26,Criciúma,vs,Grêmio Novorizontino
-38,14/11/26,Sport,vs,Goiás
-38,14/11/26,CRB,vs,Ceará
-38,14/11/26,Juventude,vs,Botafogo-SP
+37,07/11/26,Cuiabá,1-2,Juventude
+37,07/11/26,Vila Nova,1-0,Criciúma
+37,07/11/26,Náutico,0-3,CRB
+37,08/11/26,Athletic-MG,2-3,Atlético Goianiense
+37,08/11/26,Ceará,0-1,América Mineiro
+37,08/11/26,Goiás,1-0,Ponte Preta
+38,11/11/26,Londrina,2-1,Náutico
+38,12/11/26,Ponte Preta,0-2,Operário Ferroviário
+38,12/11/26,São Bernardo,2-2,Athletic-MG
+38,14/11/26,América Mineiro,0-2,Avaí
+38,14/11/26,Fortaleza,1-0,Vila Nova
+38,14/11/26,Atlético Goianiense,1-0,Cuiabá
+38,14/11/26,Criciúma,0-1,Grêmio Novorizontino
+38,14/11/26,Sport,3-0,Goiás
+38,14/11/26,CRB,1-1,Ceará
+38,14/11/26,Juventude,2-0,Botafogo-SP
+POff,22/11/26,Criciúma,1-0,Fortaleza
+POff,22/11/26,Atlético Goianiense,1-1,Vila Nova
+POff,27/11/26,Vila Nova,vs,Atlético Goianiense
+POff,28/11/26,Fortaleza,vs,Criciúma

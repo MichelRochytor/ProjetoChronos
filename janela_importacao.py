@@ -457,8 +457,12 @@ class JanelaGerenciadorImportacao(tk.Toplevel):
                 ult_str = "-"
 
             # Status de atualização
-            ja_atualizado = self.raspador.esta_atualizado(camp, modo='rapido')
-            status_str = "🟢 Atualizado Hoje" if ja_atualizado else "🟡 Pendente"
+            if self.raspador.campeonato_finalizado(camp):
+                status_str = "🏁 Finalizado"
+            elif self.raspador.esta_atualizado(camp, modo='rapido'):
+                status_str = "🟢 Atualizado Hoje"
+            else:
+                status_str = "🟡 Pendente"
 
             valores = (
                 ativo_str,

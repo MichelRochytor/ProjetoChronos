@@ -17,69 +17,69 @@ FL,10/09/26,Bayern München,5-0,Bodo/Glimt
 FL,10/09/26,Manchester United,4-0,Sabah
 FL,10/09/26,Como 1907,4-1,RB Leipzig
 FL,10/09/26,Slavia Praha,2-3,Lens
-FL,13/10/26,Lens,vs,Sporting
-FL,13/10/26,Sabah,vs,Slavia Praha
-FL,13/10/26,Internazionale,vs,Club Brugge
-FL,13/10/26,Galatasaray,vs,Barcelona
-FL,13/10/26,Atlético de Madrid,vs,Manchester United
-FL,13/10/26,Arsenal,vs,Lille
-FL,13/10/26,Viking,vs,Bayern München
-FL,13/10/26,RB Leipzig,vs,PSV
-FL,13/10/26,Villarreal CF,vs,Napoli
-FL,14/10/26,LASK Linz,vs,Liverpool
-FL,14/10/26,Feyenoord,vs,Como 1907
-FL,14/10/26,Roma,vs,Real Madrid
-FL,14/10/26,Manchester City,vs,PSG
-FL,14/10/26,Bodo/Glimt,vs,Borussia Dortmund
-FL,14/10/26,Real Betis,vs,FC Porto
-FL,14/10/26,Aston Villa,vs,Fenerbahçe
-FL,14/10/26,Shakhtar Donetsk,vs,AEK
-FL,14/10/26,Slovan Bratislava,vs,Stuttgart
-FL,20/10/26,Sabah,vs,Borussia Dortmund
-FL,20/10/26,Fenerbahçe,vs,Slavia Praha
-FL,20/10/26,Manchester City,vs,AEK
-FL,20/10/26,PSG,vs,Barcelona
-FL,20/10/26,Stuttgart,vs,Atlético de Madrid
-FL,20/10/26,Liverpool,vs,Villarreal CF
-FL,20/10/26,FC Porto,vs,PSV
-FL,20/10/26,Roma,vs,Slovan Bratislava
-FL,20/10/26,Napoli,vs,Bodo/Glimt
-FL,21/10/26,Como 1907,vs,Manchester United
-FL,21/10/26,Lille,vs,Galatasaray
-FL,21/10/26,Real Madrid,vs,RB Leipzig
-FL,21/10/26,Internazionale,vs,Shakhtar Donetsk
-FL,21/10/26,Bayern München,vs,Arsenal
-FL,21/10/26,Club Brugge,vs,Lens
-FL,21/10/26,Aston Villa,vs,Viking
-FL,21/10/26,Real Betis,vs,Feyenoord
-FL,21/10/26,Sporting,vs,LASK Linz
-FL,03/11/26,Shakhtar Donetsk,vs,Sporting
-FL,03/11/26,Galatasaray,vs,Stuttgart
-FL,03/11/26,Feyenoord,vs,Internazionale
-FL,03/11/26,Barcelona,vs,Aston Villa
-FL,03/11/26,Atlético de Madrid,vs,Bayern München
-FL,03/11/26,Villarreal CF,vs,PSG
-FL,03/11/26,Manchester United,vs,Roma
-FL,03/11/26,Bodo/Glimt,vs,Lille
-FL,03/11/26,LASK Linz,vs,Slovan Bratislava
-FL,04/11/26,AEK,vs,Real Madrid
-FL,04/11/26,Fenerbahçe,vs,Liverpool
-FL,04/11/26,RB Leipzig,vs,Manchester City
-FL,04/11/26,Slavia Praha,vs,Arsenal
-FL,04/11/26,PSV,vs,Club Brugge
-FL,04/11/26,Borussia Dortmund,vs,Real Betis
-FL,04/11/26,FC Porto,vs,Napoli
-FL,04/11/26,Lens,vs,Como 1907
-FL,04/11/26,Viking,vs,Sabah
-FL,24/11/26,Galatasaray,vs,Aston Villa
-FL,24/11/26,Bodo/Glimt,vs,LASK Linz
-FL,24/11/26,Real Madrid,vs,PSV
-FL,24/11/26,Manchester City,vs,Napoli
-FL,24/11/26,Arsenal,vs,Borussia Dortmund
-FL,24/11/26,Feyenoord,vs,FC Porto
-FL,24/11/26,Slovan Bratislava,vs,Real Betis
-FL,24/11/26,RB Leipzig,vs,Lens
-FL,24/11/26,Como 1907,vs,AEK
+FL,13/10/26,Lens,0-2,Sporting
+FL,13/10/26,Sabah,2-0,Slavia Praha
+FL,13/10/26,Internazionale,3-4,Club Brugge
+FL,13/10/26,Galatasaray,1-4,Barcelona
+FL,13/10/26,Atlético de Madrid,2-0,Manchester United
+FL,13/10/26,Arsenal,3-0,Lille
+FL,13/10/26,Viking,3-3,Bayern München
+FL,13/10/26,RB Leipzig,1-0,PSV
+FL,13/10/26,Villarreal CF,3-1,Napoli
+FL,14/10/26,LASK Linz,3-6,Liverpool
+FL,14/10/26,Feyenoord,3-2,Como 1907
+FL,14/10/26,Roma,3-4,Real Madrid
+FL,14/10/26,Manchester City,2-4,PSG
+FL,14/10/26,Bodo/Glimt,1-0,Borussia Dortmund
+FL,14/10/26,Real Betis,3-2,FC Porto
+FL,14/10/26,Aston Villa,6-0,Fenerbahçe
+FL,14/10/26,Shakhtar Donetsk,3-1,AEK
+FL,14/10/26,Slovan Bratislava,0-3,Stuttgart
+FL,20/10/26,Sabah,1-2,Borussia Dortmund
+FL,20/10/26,Fenerbahçe,2-2,Slavia Praha
+FL,20/10/26,Manchester City,5-1,AEK
+FL,20/10/26,PSG,4-2,Barcelona
+FL,20/10/26,Stuttgart,1-1,Atlético de Madrid
+FL,20/10/26,Liverpool,4-3,Villarreal CF
+FL,20/10/26,FC Porto,0-1,PSV
+FL,20/10/26,Roma,4-0,Slovan Bratislava
+FL,20/10/26,Napoli,4-3,Bodo/Glimt
+FL,21/10/26,Como 1907,4-1,Manchester United
+FL,21/10/26,Lille,2-4,Galatasaray
+FL,21/10/26,Real Madrid,4-1,RB Leipzig
+FL,21/10/26,Internazionale,1-0,Shakhtar Donetsk
+FL,21/10/26,Bayern München,2-2,Arsenal
+FL,21/10/26,Club Brugge,3-0,Lens
+FL,21/10/26,Aston Villa,3-1,Viking
+FL,21/10/26,Real Betis,1-0,Feyenoord
+FL,21/10/26,Sporting,2-3,LASK Linz
+FL,03/11/26,Shakhtar Donetsk,0-1,Sporting
+FL,03/11/26,Galatasaray,2-0,Stuttgart
+FL,03/11/26,Feyenoord,0-3,Internazionale
+FL,03/11/26,Barcelona,3-0,Aston Villa
+FL,03/11/26,Atlético de Madrid,0-2,Bayern München
+FL,03/11/26,Villarreal CF,0-6,PSG
+FL,03/11/26,Manchester United,3-2,Roma
+FL,03/11/26,Bodo/Glimt,0-0,Lille
+FL,03/11/26,LASK Linz,4-0,Slovan Bratislava
+FL,04/11/26,AEK,2-3,Real Madrid
+FL,04/11/26,Fenerbahçe,3-2,Liverpool
+FL,04/11/26,RB Leipzig,2-3,Manchester City
+FL,04/11/26,Slavia Praha,1-2,Arsenal
+FL,04/11/26,PSV,1-2,Club Brugge
+FL,04/11/26,Borussia Dortmund,2-1,Real Betis
+FL,04/11/26,FC Porto,4-1,Napoli
+FL,04/11/26,Lens,1-9,Como 1907
+FL,04/11/26,Viking,4-1,Sabah
+FL,24/11/26,Galatasaray,1-0,Aston Villa
+FL,24/11/26,Bodo/Glimt,1-0,LASK Linz
+FL,24/11/26,Real Madrid,5-1,PSV
+FL,24/11/26,Manchester City,2-2,Napoli
+FL,24/11/26,Arsenal,1-1,Borussia Dortmund
+FL,24/11/26,Feyenoord,0-1,FC Porto
+FL,24/11/26,Slovan Bratislava,0-2,Real Betis
+FL,24/11/26,RB Leipzig,3-1,Lens
+FL,24/11/26,Como 1907,1-0,AEK
 FL,25/11/26,Sabah,vs,Barcelona
 FL,25/11/26,Slavia Praha,vs,Villarreal CF
 FL,25/11/26,Internazionale,vs,Stuttgart

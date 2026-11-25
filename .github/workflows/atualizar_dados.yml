@@ -44,9 +44,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Executar Raspador O Gol para atualizar dataset (dados/)
+      - name: Executar Raspador O Gol via Tor (somente campeonatos em andamento)
         run: |
-          python atualizar_dataset.py --workers 6
+          python atualizar_dataset.py --workers 5
 
       - name: Salvar e publicar atualizações da pasta dados/
         run: |

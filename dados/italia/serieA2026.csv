@@ -104,21 +104,21 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 11,07/11/26,Torino,1-1,Lecce
 11,07/11/26,Parma,1-2,Bologna
 11,07/11/26,Roma,3-0,Sassuolo
-11,08/11/26,Napoli,vs,Lazio
-11,08/11/26,Genoa,vs,AC Milan
-11,08/11/26,Monza,vs,Atalanta
-11,08/11/26,Internazionale,vs,Como 1907
-11,08/11/26,Fiorentina,vs,Juventus
-12,21/11/26,Lazio,vs,Lecce
-12,21/11/26,Como 1907,vs,Cagliari
-12,21/11/26,Parma,vs,Roma
-12,21/11/26,Napoli,vs,Torino
-12,22/11/26,Juventus,vs,Venezia
-12,22/11/26,Bologna,vs,Udinese
-12,22/11/26,Sassuolo,vs,Genoa
-12,22/11/26,AC Milan,vs,Frosinone
-12,22/11/26,Atalanta,vs,Internazionale
-12,23/11/26,Monza,vs,Fiorentina
+11,08/11/26,Napoli,1-1,Lazio
+11,08/11/26,Genoa,1-2,AC Milan
+11,08/11/26,Monza,0-1,Atalanta
+11,08/11/26,Internazionale,2-0,Como 1907
+11,08/11/26,Fiorentina,2-2,Juventus
+12,21/11/26,Lazio,3-0,Lecce
+12,21/11/26,Como 1907,2-0,Cagliari
+12,21/11/26,Parma,1-5,Roma
+12,21/11/26,Napoli,1-0,Torino
+12,22/11/26,Juventus,4-0,Venezia
+12,22/11/26,Bologna,1-1,Udinese
+12,22/11/26,Sassuolo,0-2,Genoa
+12,22/11/26,AC Milan,5-1,Frosinone
+12,22/11/26,Atalanta,4-4,Internazionale
+12,23/11/26,Monza,3-0,Fiorentina
 13,27/11/26,Venezia,vs,Bologna
 13,28/11/26,Frosinone,vs,Parma
 13,28/11/26,Torino,vs,Lazio
@@ -159,36 +159,36 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 16,20/12/26,Venezia,vs,Monza
 16,20/12/26,Genoa,vs,Udinese
 16,20/12/26,Atalanta,vs,Napoli
-17,02/01/27,Monza,vs,AC Milan
-17,02/01/27,Internazionale,vs,Sassuolo
-17,02/01/27,Fiorentina,vs,Lazio
 17,02/01/27,Cagliari,vs,Genoa
-17,02/01/27,Bologna,vs,Juventus
-17,02/01/27,Parma,vs,Napoli
-17,02/01/27,Udinese,vs,Atalanta
-17,02/01/27,Como 1907,vs,Lecce
+17,02/01/27,Fiorentina,vs,Lazio
 17,02/01/27,Torino,vs,Venezia
 17,02/01/27,Roma,vs,Frosinone
+17,02/01/27,Monza,vs,AC Milan
+17,03/01/27,Internazionale,vs,Sassuolo
+17,03/01/27,Udinese,vs,Atalanta
+17,03/01/27,Como 1907,vs,Lecce
+17,03/01/27,Parma,vs,Napoli
+17,03/01/27,Bologna,vs,Juventus
 18,05/01/27,Venezia,vs,Roma
-18,05/01/27,AC Milan,vs,Fiorentina
-18,05/01/27,Napoli,vs,Cagliari
-18,05/01/27,Frosinone,vs,Bologna
-18,05/01/27,Lecce,vs,Parma
-18,05/01/27,Sassuolo,vs,Udinese
-18,05/01/27,Juventus,vs,Torino
-18,05/01/27,Lazio,vs,Internazionale
 18,05/01/27,Genoa,vs,Monza
-18,05/01/27,Atalanta,vs,Como 1907
-19,09/01/27,Parma,vs,Venezia
+18,05/01/27,AC Milan,vs,Fiorentina
+18,06/01/27,Juventus,vs,Torino
+18,06/01/27,Frosinone,vs,Bologna
+18,06/01/27,Lecce,vs,Parma
+18,06/01/27,Atalanta,vs,Como 1907
+18,06/01/27,Lazio,vs,Internazionale
+18,07/01/27,Sassuolo,vs,Udinese
+18,07/01/27,Napoli,vs,Cagliari
 19,09/01/27,Monza,vs,Frosinone
 19,09/01/27,Roma,vs,AC Milan
-19,09/01/27,Cagliari,vs,Sassuolo
-19,09/01/27,Torino,vs,Atalanta
 19,09/01/27,Bologna,vs,Genoa
-19,09/01/27,Como 1907,vs,Lazio
-19,09/01/27,Fiorentina,vs,Lecce
-19,09/01/27,Udinese,vs,Napoli
-19,09/01/27,Internazionale,vs,Juventus
+19,10/01/27,Como 1907,vs,Lazio
+19,10/01/27,Parma,vs,Venezia
+19,10/01/27,Fiorentina,vs,Lecce
+19,10/01/27,Torino,vs,Atalanta
+19,10/01/27,Internazionale,vs,Juventus
+19,11/01/27,Cagliari,vs,Sassuolo
+19,11/01/27,Udinese,vs,Napoli
 20,16/01/27,Lazio,vs,Bologna
 20,16/01/27,Lecce,vs,Udinese
 20,16/01/27,Venezia,vs,Frosinone

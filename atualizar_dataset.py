@@ -1,7 +1,8 @@
 """
-PROJETO CHRONOS — Atualizador Automático de Dataset (CLI / GitHub Actions)
-Executa o Raspador O Gol (modo headless / sem GUI) para atualizar toda a pasta `dados/`
-nos horários programados (18h e 00h BRT via GitHub Actions).
+PROJETO CHRONOS — Atualizador Automático de Dataset via Tor (CLI / GitHub Actions)
+Executa o Raspador O Gol em modo rápido utilizando a Rede Tor integrada para atualizar
+somente os campeonatos ainda em andamento na pasta `dados/` (ignorando automaticamente
+campeonatos já finalizados, como os Estaduais encerrados).
 """
 
 import argparse
@@ -22,10 +23,11 @@ def executar_lote(
     chaves: list[str],
     motor: str,
     num_workers: int,
-    usar_tor: bool,
+    usar_tor: bool = True,
+    pular_finalizados: bool = True,
     modo: str = 'rapido',
 ) -> tuple[int, int]:
-    """Executa uma rodada completa de raspagem paralela e aguarda o término das threads."""
+    """Executa uma rodada completa de raspagem paralela via Tor e aguarda o término das threads."""
     concluido_evt = threading.Event()
     resultado = {'atualizados': 0, 'poupados': 0}
 
@@ -41,6 +43,7 @@ def executar_lote(
         motor=motor,
         forcar=True,
         usar_tor=usar_tor,
+        pular_finalizados=pular_finalizados,
         callback_log=log_console,
         callback_concluido=_ao_concluir,
     )
@@ -51,13 +54,13 @@ def executar_lote(
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Atualiza todos os campeonatos da pasta dados/ via Raspador O Gol."
+        description="Atualiza os campeonatos em andamento na pasta dados/ via Raspador O Gol com Rede Tor."
     )
     parser.add_argument(
         '--workers',
         type=int,
-        default=6,
-        help="Quantidade de conexões/navegadores simultâneos (padrão: 6).",
+        default=5,
+        help="Quantidade de conexões/navegadores simultâneos (padrão: 5).",
     )
     parser.add_argument(
         '--motor',
@@ -68,14 +71,22 @@ def main() -> int:
     parser.add_argument(
         '--sem-tor',
         action='store_true',
-        help="Desativa o uso da rede Tor durante a execução.",
+        help="Desativa o uso da rede Tor (por padrão, toda a importação rápida roda pelo Tor).",
+    )
+    parser.add_argument(
+        '--incluir-finalizados',
+        action='store_true',
+        help="Força a reimportação também de campeonatos já finalizados (ex: Estaduais encerrados).",
     )
     parser.add_argument(
         '--sem-fallback-selenium',
         action='store_true',
-        help="Desativa a retentativa automática com Chrome Headless caso algum torneio falhe no modo HTTP.",
+        help="Desativa a retentativa automática com Chrome Headless (via Tor) caso algum torneio falhe no modo HTTP.",
     )
     args = parser.parse_args()
+
+    usar_tor = not args.sem_tor
+    pular_finalizados = not args.incluir_finalizados
 
     raspador = RaspadorGol()
     todas_chaves = [k for k, v in raspador.catalogo.items() if not k.startswith('_') and isinstance(v, dict)]
@@ -84,22 +95,50 @@ def main() -> int:
         log_console("⚠️ Nenhum campeonato encontrado em campeonatos_links.json.")
         return 1
 
+    chaves_finalizadas = []
+    chaves_em_andamento = []
+
+    for k in todas_chaves:
+        camp = raspador.catalogo[k]
+        if pular_finalizados and raspador.campeonato_finalizado(camp):
+            chaves_finalizadas.append(k)
+        else:
+            chaves_em_andamento.append(k)
+
+    log_console(
+        f"📊 Diagnóstico do acervo: {len(todas_chaves)} campeonatos no catálogo | "
+        f"🏁 {len(chaves_finalizadas)} já finalizados (poupados) | "
+        f"⚽ {len(chaves_em_andamento)} em andamento para atualizar."
+    )
+
+    if chaves_finalizadas:
+        nomes_fin = ", ".join(raspador.catalogo[k].get('nome', k) for k in chaves_finalizadas)
+        log_console(f"⏩ Ignorando campeonatos encerrados: {nomes_fin}")
+
+    if not chaves_em_andamento:
+        log_console("✅ Todos os campeonatos da temporada já estão 100% encerrados. Nada a atualizar!")
+        return 0
+
     inicio_execucao = datetime.now()
-    log_console(f"🚀 Iniciando atualização agendada O Gol para {len(todas_chaves)} campeonatos...")
+    log_console(
+        f"🧅 Iniciando importação rápida {'via Rede Tor' if usar_tor else 'direta'} "
+        f"para {len(chaves_em_andamento)} campeonatos em andamento..."
+    )
 
     try:
         atualizados, _ = executar_lote(
             raspador=raspador,
-            chaves=todas_chaves,
+            chaves=chaves_em_andamento,
             motor=args.motor,
-            num_workers=args.workers,
-            usar_tor=not args.sem_tor,
+            num_workers=min(args.workers, len(chaves_em_andamento)),
+            usar_tor=usar_tor,
+            pular_finalizados=pular_finalizados,
             modo='rapido',
         )
 
-        # Identifica campeonatos cuja última atualização não avançou nesta execução
+        # Identifica campeonatos em andamento cuja última atualização não avançou nesta execução
         pendentes = []
-        for k in todas_chaves:
+        for k in chaves_em_andamento:
             ult_str = raspador.catalogo.get(k, {}).get('ultima_atualizacao')
             if not ult_str:
                 pendentes.append(k)
@@ -113,14 +152,15 @@ def main() -> int:
         if pendentes and args.motor == 'turbo' and not args.sem_fallback_selenium:
             log_console(
                 f"🔄 {len(pendentes)} campeonato(s) não retornaram via HTTP Turbo. "
-                f"Tentando fallback automático com Chrome Headless..."
+                f"Tentando fallback automático com Chrome Headless via Tor..."
             )
             att_fb, _ = executar_lote(
                 raspador=raspador,
                 chaves=pendentes,
                 motor='selenium',
                 num_workers=min(3, len(pendentes)),
-                usar_tor=False,
+                usar_tor=usar_tor,
+                pular_finalizados=pular_finalizados,
                 modo='rapido',
             )
             atualizados += att_fb
@@ -128,7 +168,8 @@ def main() -> int:
         duracao = (datetime.now() - inicio_execucao).total_seconds()
         log_console(
             f"✅ Atualização finalizada em {duracao:.1f}s! "
-            f"Total de campeonatos atualizados com sucesso: {atualizados}/{len(todas_chaves)}."
+            f"Campeonatos atualizados: {atualizados}/{len(chaves_em_andamento)} "
+            f"(+{len(chaves_finalizadas)} encerrados poupados)."
         )
         return 0
     finally:
