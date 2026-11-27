@@ -310,7 +310,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-nacional-de-clubes-1971/2477/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/brasileirao-serie-a-2026/210277/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-11-26T09:02:12.955233"
+    "ultima_atualizacao": "2026-11-27T00:27:11.260531"
   },
   "brasileiraoB": {
     "nome": "Brasileirão Série B",
@@ -321,7 +321,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/campeonato-nacional-da-primeira-divisao-1971/14183/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/brasileirao-serie-b-2026/210278/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-11-26T09:02:13.341576"
+    "ultima_atualizacao": "2026-11-27T00:27:11.231931"
   },
   "brasileiraoC": {
     "nome": "Brasileirão Série C",
@@ -343,7 +343,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/brasileirao-serie-d-2009/14068/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/brasileirao-serie-d-2026/212952/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-11-26T09:02:13.175648"
+    "ultima_atualizacao": "2026-11-27T00:27:11.394911"
   },
   "copadobrasil": {
     "nome": "Copa do Brasil",
@@ -354,7 +354,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/copa-do-brasil-1989/4374/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/copa-do-brasil-2026/212381/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-11-26T09:02:34.160792"
+    "ultima_atualizacao": "2026-11-27T00:27:32.304791"
   },
   "libertadores": {
     "nome": "Copa Libertadores",
@@ -365,7 +365,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/copa-libertadores-1960/11986/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/copa-libertadores-2026/210893/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-11-26T09:02:34.720272"
+    "ultima_atualizacao": "2026-11-27T00:27:32.543863"
   },
   "sudamericana": {
     "nome": "Copa Sudamericana",
@@ -387,7 +387,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/european-cup-1955-56/660/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/uefa-champions-league-2026-27/219094/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-11-26T09:02:34.775051"
+    "ultima_atualizacao": "2026-11-27T00:27:32.624873"
   },
   "premierleague": {
     "nome": "Premier League",
@@ -398,7 +398,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/division-one-1888-89/813/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/premier-league-2026-27/219695/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-11-26T09:02:55.209259"
+    "ultima_atualizacao": "2026-11-27T00:27:53.607336"
   },
   "laliga": {
     "nome": "Campeonato Espanhol",
@@ -409,7 +409,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/la-liga-1928-1929/2107/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/laliga-ea-sports-2026-27/219487/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-11-26T09:02:55.881625"
+    "ultima_atualizacao": "2026-11-27T00:27:54.532637"
   },
   "europaleague": {
     "nome": "UEFA Europa League",
@@ -420,7 +420,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/uefa-cup-1971-72/1712/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/uefa-europa-league-2026-27/219039/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-11-26T09:02:55.909509"
+    "ultima_atualizacao": "2026-11-27T00:27:54.051572"
   },
   "serieA": {
     "nome": "Campeonato Italiano Serie A",
@@ -431,7 +431,7 @@
     "url_inicial": "https://www.ogol.com.br/edicao/liga-italiana-1897-98/26217/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/serie-a-2026-27/219486/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-11-26T09:03:16.357802"
+    "ultima_atualizacao": "2026-11-27T00:28:15.270743"
   },
   "ligue1": {
     "nome": "Campeonato Francês Ligue 1",
@@ -442,6 +442,6 @@
     "url_inicial": "https://www.ogol.com.br/edicao/ligue-1-1932-33/23132/calendario",
     "url_atual": "https://www.ogol.com.br/edicao/ligue-1-mcdonald-s-2026-27/219588/calendario",
     "ativo": true,
-    "ultima_atualizacao": "2026-11-26T09:03:17.008419"
+    "ultima_atualizacao": "2026-11-27T00:28:15.272494"
   }
 }
